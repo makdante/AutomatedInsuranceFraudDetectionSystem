@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9b7bb8d3-6db6-444b-8b7b-8bbbd4a4f50f",
+  "PolicyID": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+  "EffectiveDates": {
+    "StartDate": "2025-01-27",
+    "EndDate": "2026-01-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "47c5522b-b804-4bac-b21c-da33d60d70fd",
+    "Name": "Richard Conway",
+    "PolicyNumber": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+    "ContactInformation": {
+      "Phone": "581-212-2861x494",
+      "Email": "usimpson@example.com",
+      "Address": "4097 Welch Harbors Apt. 346\nNorth Jacobside, IA 43728"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-31",
+    "Location": "29918 Ryan Spurs\nEast Willieport, CT 24464",
+    "Description": "On firm sister could help. Begin plan next wide serve. Magazine picture cell she."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7010
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13577
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7065
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 68473
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 99461
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 195586,
+    "TotalApproved": 44646
+  },
+  "AdjusterDetails": {
+    "Name": "Benjamin Kelley",
+    "ContactInformation": {
+      "Phone": "973-528-1109x662",
+      "Email": "ustevenson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/c3893937-4cd1-42d1-92be-532ca3bf9a18"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Fletcher-Cooper",
+    "Model": "population",
+    "Year": 2022,
+    "VIN": "fd1166eb-820a-4568-89ee-78da44c7d1f9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Veronica Mcgee",
+      "ContactInformation": {
+        "Phone": "001-486-635-6280x124",
+        "Email": "petersontracy@example.com"
+      },
+      "Statement": "Decision policy summer knowledge food trial list unit. Fall clearly close face music ten. Movie will once."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a01f1d73-417b-489b-9a50-77ee4f3fa48d",
+    "OfficerName": "Brenda Finley",
+    "ReportDetails": "Political glass window particularly purpose expect conference. Lay say however agent likely growth. Agent collection detail easy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 745,
+    "AnnualIncome": 56051,
+    "DebtToIncomeRatio": 0.51
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 0,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

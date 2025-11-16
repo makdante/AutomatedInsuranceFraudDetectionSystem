@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a775bc02-9303-461e-aa86-6ad5944b752a",
+  "PolicyID": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+  "EffectiveDates": {
+    "StartDate": "2025-03-10",
+    "EndDate": "2026-03-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "540679a4-28ef-4808-be74-d01304fb65d7",
+    "Name": "Martha Dorsey",
+    "PolicyNumber": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+    "ContactInformation": {
+      "Phone": "385.561.2218x18763",
+      "Email": "calderondon@example.net",
+      "Address": "22938 Wright Ports\nWest Michael, MA 77489"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-28",
+    "Location": "55294 Theresa Station\nLeahbury, DE 89065",
+    "Description": "Ball role particularly only. Key relationship something bar no."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12277
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 33697
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 61363
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 145578
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1103
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 254018,
+    "TotalApproved": 36751
+  },
+  "AdjusterDetails": {
+    "Name": "Alexander Moyer",
+    "ContactInformation": {
+      "Phone": "609-562-0581",
+      "Email": "whill@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/4fc576e8-4574-44cb-b43e-cd2711a641b1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Shaw-Lowe",
+    "Model": "film",
+    "Year": 2001,
+    "VIN": "e2e80761-d96a-45e7-8b9b-1e9fe475b276"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mark Wolf",
+      "ContactInformation": {
+        "Phone": "+1-797-217-0949",
+        "Email": "vpalmer@example.com"
+      },
+      "Statement": "All build doctor type third everybody along. Maintain enough base response."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "765aee7d-b2cc-4f4e-8104-961d87f176ff",
+    "OfficerName": "Michelle Brewer",
+    "ReportDetails": "Record should collection whole forward skin history quite. Account rise myself face add pressure movie. Animal common compare century."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 562,
+    "AnnualIncome": 59884,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bdfaa8ac-5a72-440a-b96a-9fc15f9608b4",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2024-11-22",
+    "EndDate": "2025-11-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-07",
+    "Location": "2824 Jones Path\nMontgomeryside, AR 03381",
+    "Description": "Lot public item foreign page.\nAsk view option fire list tell case. Wind gas play to although successful free.\nDirection store sound rock sense. Section soon present."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1189
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11891
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 151927
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 91482
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 69142
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 325631,
+    "TotalApproved": 51684
+  },
+  "AdjusterDetails": {
+    "Name": "Stephanie Aguilar",
+    "ContactInformation": {
+      "Phone": "(970)487-5765",
+      "Email": "frostwilliam@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/47cc841e-880d-43ac-9520-9ca83d904c65"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Palmer, Robertson and Clark",
+    "Model": "reduce",
+    "Year": 2017,
+    "VIN": "193ca031-7d62-48e2-8aeb-a399deede0df"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patricia Hernandez",
+      "ContactInformation": {
+        "Phone": "892.246.0111",
+        "Email": "abennett@example.org"
+      },
+      "Statement": "Growth likely month sister visit. More church hope budget. Class trouble room change.\nNew pattern for body."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "45a199c0-7ff1-45d1-a0e3-027678c0bd4f",
+    "OfficerName": "Kyle Turner",
+    "ReportDetails": "Produce data city data sell benefit available. Itself job budget wide."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 826,
+    "AnnualIncome": 127396,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

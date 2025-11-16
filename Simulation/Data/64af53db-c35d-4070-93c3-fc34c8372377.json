@@ -1,0 +1,112 @@
+{
+  "ClaimID": "64af53db-c35d-4070-93c3-fc34c8372377",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-03-09",
+    "EndDate": "2026-03-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-29",
+    "Location": "USS Castillo\nFPO AP 84677",
+    "Description": "Party response memory situation agency. Hair service ability record his fund million later. Character traditional our type most sea leave.\nThose ago leave site.\nSend quite third describe opportunity."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 72864
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2007
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2389
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6580
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2719
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 86559,
+    "TotalApproved": 2219
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Rios",
+    "ContactInformation": {
+      "Phone": "+1-551-652-4498x1523",
+      "Email": "wheelersamuel@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/7e63edb2-f5c5-4ee7-8637-30f4373a0f1f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson Inc",
+    "Model": "hear",
+    "Year": 2022,
+    "VIN": "ec21d7da-4ee2-4925-bcdf-b090cdacc287"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Hodges",
+      "ContactInformation": {
+        "Phone": "546.345.4018",
+        "Email": "michaelgarcia@example.com"
+      },
+      "Statement": "Prevent at method design business. Third case author easy.\nNotice measure model put must crime themselves. Me series about base.\nExpect newspaper seat gas old. It situation state majority."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "267ef9aa-193f-418b-b3e6-79fb27c35439",
+    "OfficerName": "Robert Sandoval",
+    "ReportDetails": "Artist reason nor student the. Theory surface and hospital. Face lawyer population go enter Democrat plant.\nBlood but computer everyone speech those. Join radio above health food stage."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 786,
+    "AnnualIncome": 111866,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

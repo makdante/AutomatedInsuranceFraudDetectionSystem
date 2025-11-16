@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7425d9f3-d1f6-4a63-972c-5050854a9485",
+  "PolicyID": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+  "EffectiveDates": {
+    "StartDate": "2025-07-07",
+    "EndDate": "2026-07-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fa402266-28f6-4a28-9984-042633fec81b",
+    "Name": "Miranda Nelson",
+    "PolicyNumber": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+    "ContactInformation": {
+      "Phone": "871.425.9645x240",
+      "Email": "iflynn@example.com",
+      "Address": "275 Lee Common\nSouth Hectorville, VI 11258"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-24",
+    "Location": "219 Green Parkways\nLake Jessicabury, NV 41700",
+    "Description": "Reduce rather politics father occur prevent. Six smile within seven clear star hour.\nOr chair force recognize. Our finally stock two."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 54828
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7001
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3749
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 124093
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15420
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 205091,
+    "TotalApproved": 193847
+  },
+  "AdjusterDetails": {
+    "Name": "Angela Brown",
+    "ContactInformation": {
+      "Phone": "(655)207-6627",
+      "Email": "vle@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4de9f6de-1c84-4193-a505-499a0167401e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams-Norris",
+    "Model": "think",
+    "Year": 2006,
+    "VIN": "d028ef39-6bad-4e0b-8385-60c059ee517f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Richard Stokes",
+      "ContactInformation": {
+        "Phone": "760-432-5796x9427",
+        "Email": "blakeray@example.net"
+      },
+      "Statement": "General go at edge occur.\nTo born turn rate. Role executive control effect. Clear necessary help as.\nAlready them factor necessary nation free. Cup drive these structure lot group."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "921dcf50-7635-4599-b2e9-e06dfa55c406",
+    "OfficerName": "Andrew Webb",
+    "ReportDetails": "Hear system relate mother small. Tend get pick nice item instead time. Hand mention alone quickly."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 746,
+    "AnnualIncome": 182028,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

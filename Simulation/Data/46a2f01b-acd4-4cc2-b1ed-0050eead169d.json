@@ -1,0 +1,112 @@
+{
+  "ClaimID": "46a2f01b-acd4-4cc2-b1ed-0050eead169d",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-02-10",
+    "EndDate": "2026-02-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-23",
+    "Location": "2241 Nicole Crescent Suite 150\nWest Sarahberg, TX 32464",
+    "Description": "Political help data hotel particularly official.\nStrong time production per agent way. Example author conference its. Goal stand yeah cold wait. Size increase relationship feeling."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4528
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3079
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12013
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3860
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 10489
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 33969,
+    "TotalApproved": 10857
+  },
+  "AdjusterDetails": {
+    "Name": "Jacob Maldonado",
+    "ContactInformation": {
+      "Phone": "+1-356-530-5886x6017",
+      "Email": "brivas@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e852e8c9-13c9-4f55-bbe5-f9a00061725f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Green and Sons",
+    "Model": "consider",
+    "Year": 2008,
+    "VIN": "ede9322c-309e-419a-9c88-d4484103c217"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samuel Holmes",
+      "ContactInformation": {
+        "Phone": "835-984-9312",
+        "Email": "paul78@example.com"
+      },
+      "Statement": "Charge church sometimes heavy outside true fall economy. Law guess community air.\nGround paper military will. Inside kitchen color history identify quality. Trip cultural PM high crime."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9e35bc7a-4d4f-4738-8094-77444cfaf8ae",
+    "OfficerName": "Mr. Andrew Andrews",
+    "ReportDetails": "Deep former character. Can road quite another daughter foot cut.\nDetail democratic less each senior low. Itself soldier military create or."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 527,
+    "AnnualIncome": 55168,
+    "DebtToIncomeRatio": 0.78
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 2,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ce543992-2c95-47ad-b471-551578029db1",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2025-03-13",
+    "EndDate": "2026-03-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-23",
+    "Location": "3398 Darryl Radial\nEast Katrinachester, MA 31227",
+    "Description": "Sense business tend six blue want speak. Political city who service yes. Step theory kid international every little age serve."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4501623
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4072665
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4990143
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4684614
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4634457
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22883502,
+    "TotalApproved": 14371146
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Wilson",
+    "ContactInformation": {
+      "Phone": "444-488-9996",
+      "Email": "mark63@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4117b34f-df6b-422e-8218-820b9d70f84a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-23T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-28T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Pearson, Lawson and Shelton",
+    "Model": "pass",
+    "Year": 2020,
+    "VIN": "5c55275b-7909-4242-bf34-5a6bd89e48c1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anna Pierce",
+      "ContactInformation": {
+        "Phone": "(621)457-4607",
+        "Email": "ryandiaz@example.org"
+      },
+      "Statement": "Thousand election common deep style than. Skin professor ever mean idea arrive.\nCourt level size class pattern coach. Do mission she great yes. National space actually herself nothing line low."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f0e397b4-5222-462d-85c8-f1cffdf93ed0",
+    "OfficerName": "Brooke Barber",
+    "ReportDetails": "Community public describe affect beyond. Discuss act wide piece old.\nSite make entire guy son boy think wind. Show evening fine include."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 334,
+    "AnnualIncome": 116195,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

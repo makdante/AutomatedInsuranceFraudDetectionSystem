@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a4f88fde-3ca0-473d-9a06-9ac34d2f5130",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2025-09-03",
+    "EndDate": "2026-09-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-30",
+    "Location": "PSC 9029, Box 6006\nAPO AP 38623",
+    "Description": "Even different down language market. Goal newspaper nature control soon run recent. Career same until together eight. Left choice apply mission dream."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 36916
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7894
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7015
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6046
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 81211
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 139082,
+    "TotalApproved": 73586
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Miranda",
+    "ContactInformation": {
+      "Phone": "718.300.8081",
+      "Email": "christina26@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/6841e72c-4203-409f-98de-aec72b2ac991"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson and Sons",
+    "Model": "make",
+    "Year": 2010,
+    "VIN": "f2528047-545e-4f0f-af73-2500eb15c937"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kristine Kaiser",
+      "ContactInformation": {
+        "Phone": "(786)764-8197x8056",
+        "Email": "timothymcconnell@example.com"
+      },
+      "Statement": "Morning because interest watch. Happen force friend build return market best girl."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ff44c812-273c-47cb-bc37-d42377d2ab0b",
+    "OfficerName": "Christopher Marshall",
+    "ReportDetails": "Live where production professor. Receive north would culture body of.\nAgo respond difference social site. Break minute not why."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 368,
+    "AnnualIncome": 31659,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "84676547-26ed-461a-af8e-38958cce59da",
+  "PolicyID": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+  "EffectiveDates": {
+    "StartDate": "2025-08-03",
+    "EndDate": "2026-08-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de2fd98f-92b5-4f00-b791-ce9f514afb15",
+    "Name": "Brandon Scott",
+    "PolicyNumber": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+    "ContactInformation": {
+      "Phone": "001-319-262-8310x0650",
+      "Email": "nelsonemily@example.net",
+      "Address": "0592 Patrick Wall\nLeslieport, IA 75247"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-02",
+    "Location": "PSC 0767, Box 2557\nAPO AP 01801",
+    "Description": "Message born drive may finally food order assume. Walk its light determine class power.\nPerson however century site health. Minute part seek left happen pull per part. Sometimes size bag."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 85346
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9692
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 109817
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1970
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39586
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 246411,
+    "TotalApproved": 146358
+  },
+  "AdjusterDetails": {
+    "Name": "John Bradford",
+    "ContactInformation": {
+      "Phone": "299.601.0756x4120",
+      "Email": "katelyn12@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/37d4a2df-ddf1-4cb6-a9ed-3ed20f99ba9b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stevenson, Howell and Wheeler",
+    "Model": "west",
+    "Year": 2001,
+    "VIN": "2691fe61-b54d-4c47-9b93-3c09b856c97e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cody Carroll",
+      "ContactInformation": {
+        "Phone": "931-268-7983",
+        "Email": "ramirezcolton@example.net"
+      },
+      "Statement": "Statement wall worry laugh despite. East tell contain who. Foot compare choice evening strong place. Run visit science turn.\nEntire point agent pay color environment. Safe apply shake kid avoid."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7b8c7c5f-d77d-4637-9233-ac257c5aa7aa",
+    "OfficerName": "Erin Martinez",
+    "ReportDetails": "Truth law production interesting development probably. Last determine ahead investment later food source. Measure responsibility move weight gun manager."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 611,
+    "AnnualIncome": 174747,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 8,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

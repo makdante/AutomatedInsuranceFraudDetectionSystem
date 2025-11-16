@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b7cd4a0e-df97-477e-ad5a-49c3b6a075cb",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-04-04",
+    "EndDate": "2026-04-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-30",
+    "Location": "753 Maxwell Meadows Apt. 969\nSouth Kim, WY 08773",
+    "Description": "Once back third us tonight job region ever. State little language his. Pull news local official."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7297
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 21278
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5788
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 102326
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 88732
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 225421,
+    "TotalApproved": 149230
+  },
+  "AdjusterDetails": {
+    "Name": "Paul King",
+    "ContactInformation": {
+      "Phone": "407.742.8062x1136",
+      "Email": "megan99@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/472630c3-d586-415b-8f14-a031e515df8d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Weber LLC",
+    "Model": "table",
+    "Year": 2021,
+    "VIN": "2a635e85-ff50-462a-92a3-742b0a191809"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Zachary Freeman",
+      "ContactInformation": {
+        "Phone": "840.565.3018",
+        "Email": "wayne35@example.com"
+      },
+      "Statement": "Matter after trade soon sell everyone no. Defense two fact management short cover. Century story control meet."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "30850d9d-0484-436f-b703-c5836173f20a",
+    "OfficerName": "Daniel Shaffer",
+    "ReportDetails": "Upon author hotel fund lawyer. Represent activity act myself near. Simple effort sell protect total maybe one."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 630,
+    "AnnualIncome": 21077,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

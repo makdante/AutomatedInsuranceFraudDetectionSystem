@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1579a233-9f85-4f56-a391-0b997e1153c3",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-07-17",
+    "EndDate": "2026-07-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-27",
+    "Location": "92118 Lowe Vista Apt. 903\nPort Haydenstad, AK 83589",
+    "Description": "Sure certainly seek. Forget worry remember defense. Just suffer role event democratic sell deal within.\nAffect news where not. Operation old suggest the speak."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4742837
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4640516
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4612423
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4179286
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4349512
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22524574,
+    "TotalApproved": 22089129
+  },
+  "AdjusterDetails": {
+    "Name": "Tanya Lowe",
+    "ContactInformation": {
+      "Phone": "526.261.7322",
+      "Email": "ehoward@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/2bc27802-f9a6-4e62-bc15-bb5793afe484"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rodriguez-Oneal",
+    "Model": "admit",
+    "Year": 2005,
+    "VIN": "30d42a05-0498-457c-a770-b864560aa6fa"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher English",
+      "ContactInformation": {
+        "Phone": "(854)809-2515",
+        "Email": "steven76@example.com"
+      },
+      "Statement": "Night newspaper themselves none away go list. He three stage policy local garden gas.\nRule with would others office. Story none power idea at. Guess plant remember real world."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "26a274c0-2f19-4826-9ce9-e71c8afbac18",
+    "OfficerName": "Michelle Flowers",
+    "ReportDetails": "Surface short day environment need coach. Pm music assume PM. Watch always drive page generation process adult debate."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 393,
+    "AnnualIncome": 26081,
+    "DebtToIncomeRatio": 0.29
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 9,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

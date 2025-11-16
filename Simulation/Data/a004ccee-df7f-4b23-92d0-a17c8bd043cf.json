@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a004ccee-df7f-4b23-92d0-a17c8bd043cf",
+  "PolicyID": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+  "EffectiveDates": {
+    "StartDate": "2025-03-08",
+    "EndDate": "2026-03-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc658f34-99aa-4827-9c9c-82ccb20e727e",
+    "Name": "Christopher Smith",
+    "PolicyNumber": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+    "ContactInformation": {
+      "Phone": "519-859-6871x1692",
+      "Email": "fpaul@example.net",
+      "Address": "052 Fletcher Road\nPort Kelsey, SD 74092"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-15",
+    "Location": "050 David Flats\nJeffside, NH 59404",
+    "Description": "Campaign cover author affect sit cultural. Huge hundred first so.\nEffort worker population past. Picture statement stop why son change series. Collection without reason both test common."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2916
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 89685
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7722
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10892
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17027
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 128242,
+    "TotalApproved": 116905
+  },
+  "AdjusterDetails": {
+    "Name": "Kelly Schmitt",
+    "ContactInformation": {
+      "Phone": "001-992-360-3455x836",
+      "Email": "larrytran@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/dd4c0887-05ee-4ebc-9436-1f4eff9f5d51"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Strickland, Evans and Blair",
+    "Model": "drive",
+    "Year": 2013,
+    "VIN": "ba42160b-df20-499b-b7cc-9747803fc9a0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steven Moore",
+      "ContactInformation": {
+        "Phone": "541.463.6164x9322",
+        "Email": "tammyanderson@example.com"
+      },
+      "Statement": "By tough security start change. Bank executive camera.\nFormer unit stand. Campaign reach side large significant need course. To now community outside its."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ec45a79a-dc7c-43fe-91ab-37d2690ea5b3",
+    "OfficerName": "Ross Norman",
+    "ReportDetails": "From one decide red hit. Strategy its cost ever west thank budget. Hundred eight level amount since outside."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 688,
+    "AnnualIncome": 64505,
+    "DebtToIncomeRatio": 0.22
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

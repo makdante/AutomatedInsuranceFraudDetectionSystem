@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6bf5998c-59b7-48b4-945e-a8b8005bc801",
+  "PolicyID": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+  "EffectiveDates": {
+    "StartDate": "2025-04-17",
+    "EndDate": "2026-04-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0aea6355-ec93-4670-9d1f-368e59077bd4",
+    "Name": "Jennifer Smith",
+    "PolicyNumber": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+    "ContactInformation": {
+      "Phone": "(638)899-2687x626",
+      "Email": "barrvanessa@example.com",
+      "Address": "PSC 0173, Box 9250\nAPO AA 43354"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-25",
+    "Location": "0610 Christopher Throughway\nEast Peggy, NJ 09885",
+    "Description": "Since as try defense church interest. Better country four several.\nPage probably partner recognize thought improve. Friend arrive seven line challenge."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4060300
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4323185
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4751919
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4690640
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4196360
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22022404,
+    "TotalApproved": 11050304
+  },
+  "AdjusterDetails": {
+    "Name": "Ronald Morgan",
+    "ContactInformation": {
+      "Phone": "5924354171",
+      "Email": "rebecca80@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/9e6b80c2-838a-4705-97ba-eb1e7c18927c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-04T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Romero-Walker",
+    "Model": "sit",
+    "Year": 2006,
+    "VIN": "d497966b-2f58-4f5b-b1dc-4c6e1990d547"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cynthia Odom",
+      "ContactInformation": {
+        "Phone": "001-978-987-2419",
+        "Email": "dsnyder@example.net"
+      },
+      "Statement": "Group theory painting close base act eye. Site many cup region soldier baby among. Mr near feeling."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fda950a1-9902-464f-9392-8efa96a8f9d6",
+    "OfficerName": "Anthony Benson",
+    "ReportDetails": "Front film offer talk yet. Main like sometimes suffer knowledge. Soon west big she others special.\nEveryone move western itself hospital. Ask example dark sure could."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 497,
+    "AnnualIncome": 195140,
+    "DebtToIncomeRatio": 0.71
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

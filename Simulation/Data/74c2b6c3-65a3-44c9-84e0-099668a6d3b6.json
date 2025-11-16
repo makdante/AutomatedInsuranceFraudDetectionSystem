@@ -1,0 +1,112 @@
+{
+  "ClaimID": "74c2b6c3-65a3-44c9-84e0-099668a6d3b6",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2024-11-19",
+    "EndDate": "2025-11-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-01",
+    "Location": "25845 Daniel Courts\nNew Brianna, MA 42806",
+    "Description": "Billion election similar attention. Me cost fill rock across simple. Discover top property morning. Tax television produce quality."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12956
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4405
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 92608
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 92963
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1717
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 204649,
+    "TotalApproved": 136018
+  },
+  "AdjusterDetails": {
+    "Name": "Paul Bridges",
+    "ContactInformation": {
+      "Phone": "943.318.1240x558",
+      "Email": "fosterjulie@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/16ba3b5e-7e44-4464-b275-bf2a086004c5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Roberts, Velasquez and Brown",
+    "Model": "artist",
+    "Year": 2001,
+    "VIN": "db8608bd-c9c0-49a3-85f4-73af0015f4c8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brittany Allen",
+      "ContactInformation": {
+        "Phone": "724-649-0197x33006",
+        "Email": "banksleslie@example.net"
+      },
+      "Statement": "Learn culture leader positive magazine any step newspaper. Image family campaign grow vote including. Top source ago. Whatever position as resource identify think letter."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "672e896c-045c-46dc-bca7-d4d3bec99ca0",
+    "OfficerName": "Jamie Hawkins",
+    "ReportDetails": "Call report store paper surface responsibility. Institution bag at of school. Their skin later never community start.\nSocial degree capital decade. Society bring be discussion."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 715,
+    "AnnualIncome": 153928,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d7124d75-dba4-4755-bc1f-97723f01efa9",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2024-12-12",
+    "EndDate": "2025-12-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-15",
+    "Location": "2862 Derrick Loaf Suite 193\nAmyburgh, PA 18480",
+    "Description": "Although forward should approach. Certainly center reflect cultural field whatever.\nGoal likely attack according billion. Necessary road herself very better history clear focus."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9190
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 62588
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19206
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 44712
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 46446
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 182142,
+    "TotalApproved": 12798
+  },
+  "AdjusterDetails": {
+    "Name": "Tina Jones",
+    "ContactInformation": {
+      "Phone": "(222)840-5515x942",
+      "Email": "debrarussell@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/99d5fe87-5a43-4f4a-9d69-0bf957669339"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ayers, Carter and Cox",
+    "Model": "side",
+    "Year": 2007,
+    "VIN": "50b140cc-4dbf-4819-9065-fe32ea2737fe"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Daniel Mccarthy",
+      "ContactInformation": {
+        "Phone": "710-814-6163x223",
+        "Email": "dennisestrada@example.net"
+      },
+      "Statement": "Different remain word everybody important or. Anyone ever run book suddenly."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ddc290d3-7f8c-47c8-ac45-4ae40a7edc89",
+    "OfficerName": "Andrea Peterson",
+    "ReportDetails": "Least country less. Employee site play management appear behavior hold many.\nHow bed just special. Position process prove radio yes. Contain seek trade their late."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 597,
+    "AnnualIncome": 25787,
+    "DebtToIncomeRatio": 0.11
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

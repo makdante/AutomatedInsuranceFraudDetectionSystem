@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2df115c5-acf3-4bd0-9ac4-437fe3325efc",
+  "PolicyID": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+  "EffectiveDates": {
+    "StartDate": "2024-12-10",
+    "EndDate": "2025-12-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4034d100-7369-434a-b9ce-6c4944f22306",
+    "Name": "Katherine Chang",
+    "PolicyNumber": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+    "ContactInformation": {
+      "Phone": "001-974-300-4293",
+      "Email": "amyfarley@example.org",
+      "Address": "32411 Michael Station Suite 689\nJeffreymouth, FM 88065"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-02",
+    "Location": "43761 Mills Oval\nJacksonstad, AR 86026",
+    "Description": "Poor back agency tend team seek operation focus. Plant TV drug. News develop lead.\nFollow have network child always send often. Green mention send. Real them PM give."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 31485
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1977
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14665
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 109282
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36731
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 194140,
+    "TotalApproved": 49151
+  },
+  "AdjusterDetails": {
+    "Name": "Connor Schmidt",
+    "ContactInformation": {
+      "Phone": "(608)529-4436",
+      "Email": "james76@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/3cf7d938-6aae-4ddc-95a3-f221133dc988"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson-Mcpherson",
+    "Model": "suffer",
+    "Year": 2021,
+    "VIN": "1d030a08-24f3-4ae0-9761-6693abbd3195"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Oscar Lester",
+      "ContactInformation": {
+        "Phone": "7727278313",
+        "Email": "john74@example.org"
+      },
+      "Statement": "Agree alone the that. Board popular story always million respond. Dog land kid program south their head."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f518d01f-0425-4427-bf9a-94d0208fd7d3",
+    "OfficerName": "Christian Evans",
+    "ReportDetails": "Current debate save ability group. News drop camera south. Suggest vote just up or expert."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 718,
+    "AnnualIncome": 59743,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

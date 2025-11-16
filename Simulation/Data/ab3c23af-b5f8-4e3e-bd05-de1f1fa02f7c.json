@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ab3c23af-b5f8-4e3e-bd05-de1f1fa02f7c",
+  "PolicyID": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+  "EffectiveDates": {
+    "StartDate": "2025-09-09",
+    "EndDate": "2026-09-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "94574ab1-14ef-4d7d-935c-c52f6f907b16",
+    "Name": "Brittany Perkins",
+    "PolicyNumber": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+    "ContactInformation": {
+      "Phone": "877-727-6223x0565",
+      "Email": "richard63@example.net",
+      "Address": "72556 Audrey Lake\nNathanshire, GA 57199"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-20",
+    "Location": "358 Marco Union Apt. 318\nPort Megantown, VT 81119",
+    "Description": "President billion nice study. Street my kind yes soldier.\nGeneral somebody allow public. Stay every rule cover buy interest break."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 31225
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10965
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8553
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 48232
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7607
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 106582,
+    "TotalApproved": 46967
+  },
+  "AdjusterDetails": {
+    "Name": "Paul Charles",
+    "ContactInformation": {
+      "Phone": "(567)798-3383",
+      "Email": "zhayes@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/53f33556-b0ae-496a-a2fe-a887b900268d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lewis Inc",
+    "Model": "administration",
+    "Year": 2003,
+    "VIN": "9aa4ad00-867d-4a4d-9ba5-81a8b6f22c45"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lauren Owens",
+      "ContactInformation": {
+        "Phone": "+1-945-331-2622x0702",
+        "Email": "maxwell18@example.org"
+      },
+      "Statement": "However mission according require turn possible character. Floor require best American reveal. Forward fund dinner citizen technology law economy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5bc4441d-4f21-41b6-92d8-b8367db8e1bc",
+    "OfficerName": "Melanie Lopez",
+    "ReportDetails": "Skill onto line.\nDecade benefit example same most yet knowledge building. Top out nation score option. Science continue party without see admit rather high."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 340,
+    "AnnualIncome": 66252,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

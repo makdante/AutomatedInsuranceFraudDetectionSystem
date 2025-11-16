@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a631a602-7982-4f55-805d-cdcdb981c3dc",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-04-12",
+    "EndDate": "2026-04-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-21",
+    "Location": "USCGC Nguyen\nFPO AE 98682",
+    "Description": "Feeling kid media throughout hear. Five stop machine small turn hope hour.\nBrother day scene parent finally than fact. Its industry and participant side medical pattern."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 45341
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 38165
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3997
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 48282
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 38568
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 174353,
+    "TotalApproved": 59948
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Velazquez",
+    "ContactInformation": {
+      "Phone": "(743)245-1012x216",
+      "Email": "zstewart@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e4e07bc7-c9d4-4889-8d47-2928c757ce7d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Serrano-Howell",
+    "Model": "peace",
+    "Year": 2000,
+    "VIN": "db943112-40fc-4156-bf33-7a8548ca230f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Zachary Jacobs",
+      "ContactInformation": {
+        "Phone": "+1-924-399-8879x418",
+        "Email": "lauren68@example.net"
+      },
+      "Statement": "Commercial election mind where plant cup. Civil parent lose couple war provide cup. School case book quite minute ground."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5556c195-e8a5-4e41-93b9-bda0701c162d",
+    "OfficerName": "Jason Palmer",
+    "ReportDetails": "Require mother anyone hundred available. Difficult remain movement so itself foot information."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 423,
+    "AnnualIncome": 138569,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 1,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

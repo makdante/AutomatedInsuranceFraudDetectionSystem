@@ -1,0 +1,112 @@
+{
+  "ClaimID": "541681f9-19f4-481e-9bc9-9b2afce12175",
+  "PolicyID": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+  "EffectiveDates": {
+    "StartDate": "2025-02-12",
+    "EndDate": "2026-02-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0aea6355-ec93-4670-9d1f-368e59077bd4",
+    "Name": "Jennifer Smith",
+    "PolicyNumber": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+    "ContactInformation": {
+      "Phone": "(638)899-2687x626",
+      "Email": "barrvanessa@example.com",
+      "Address": "PSC 0173, Box 9250\nAPO AA 43354"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-22",
+    "Location": "774 Erica Mall Suite 775\nWest Nancyhaven, UT 03327",
+    "Description": "Dream friend begin space quality plan. You and return project drop. Market value light case analysis issue home. Husband season range set national table."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 49377
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11316
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4146
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 48016
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12005
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 124860,
+    "TotalApproved": 45883
+  },
+  "AdjusterDetails": {
+    "Name": "John Berry",
+    "ContactInformation": {
+      "Phone": "774.418.8912",
+      "Email": "ayoung@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a707a07e-15ce-4e75-adb1-74fa6dd4c3f9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stephens-Glass",
+    "Model": "season",
+    "Year": 2005,
+    "VIN": "e642f795-762d-4d3d-91d8-4c14161a60d1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amy Benson",
+      "ContactInformation": {
+        "Phone": "336-981-6694x306",
+        "Email": "thomas67@example.com"
+      },
+      "Statement": "Reveal almost standard large control blue then. Size save Mr trial the drug. Impact enough other red.\nMessage call sea. Red know skin mean set.\nStage respond inside and first."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "830685ca-abb6-4f94-b70d-16468d327522",
+    "OfficerName": "Lisa Rodriguez",
+    "ReportDetails": "Why indicate however return large property.\nSocial against include eight guess focus begin manager. Decision tell low move serious involve. Future that treat bring certain hospital together activity."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 368,
+    "AnnualIncome": 45966,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

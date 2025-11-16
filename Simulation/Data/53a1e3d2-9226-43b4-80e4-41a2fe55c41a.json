@@ -1,0 +1,112 @@
+{
+  "ClaimID": "53a1e3d2-9226-43b4-80e4-41a2fe55c41a",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-07-04",
+    "EndDate": "2026-07-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-18",
+    "Location": "27434 Li Keys Suite 498\nPort Rubenborough, ND 78944",
+    "Description": "Administration issue instead theory world. Without speak project stay with take stay. Wind natural door ask."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4863
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 73369
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 41978
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16732
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 21186
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 158128,
+    "TotalApproved": 95539
+  },
+  "AdjusterDetails": {
+    "Name": "James Santana",
+    "ContactInformation": {
+      "Phone": "288.297.4411x093",
+      "Email": "rodgerslisa@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c3f28436-78d1-499c-ac96-9b7cd3b92e04"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lin, Young and Cabrera",
+    "Model": "usually",
+    "Year": 2001,
+    "VIN": "b9f5f8a9-beef-4f7e-9f4b-38bf64c9e757"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jeffrey Browning",
+      "ContactInformation": {
+        "Phone": "001-243-830-2837x06580",
+        "Email": "sawyerkimberly@example.net"
+      },
+      "Statement": "Center call education both."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7b0c9657-7dbd-498f-b75f-f8540a1155c9",
+    "OfficerName": "Danny Carroll",
+    "ReportDetails": "Show computer usually end. She against claim left support.\nArticle night act benefit.\nDog inside alone reflect bit summer. Increase summer religious then. Baby recognize despite truth spend."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 729,
+    "AnnualIncome": 156684,
+    "DebtToIncomeRatio": 0.23
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

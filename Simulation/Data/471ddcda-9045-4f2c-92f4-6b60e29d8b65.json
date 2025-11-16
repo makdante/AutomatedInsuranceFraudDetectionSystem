@@ -1,0 +1,112 @@
+{
+  "ClaimID": "471ddcda-9045-4f2c-92f4-6b60e29d8b65",
+  "PolicyID": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+  "EffectiveDates": {
+    "StartDate": "2025-08-02",
+    "EndDate": "2026-08-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "39861407-409e-4253-9f6c-7c0f48258b61",
+    "Name": "Frank Summers",
+    "PolicyNumber": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+    "ContactInformation": {
+      "Phone": "(214)893-1385x492",
+      "Email": "johnsonsherry@example.org",
+      "Address": "630 Phillips Roads Suite 295\nSouth Suzanne, PR 08692"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-31",
+    "Location": "674 Lauren Lane\nPowellchester, MA 85463",
+    "Description": "Meet material month management owner. Worry center type.\nBoth kid wall option street. Treatment add especially first health responsibility."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4328254
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4702785
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4101155
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4625669
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4344553
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22102416,
+    "TotalApproved": 5137492
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Morgan",
+    "ContactInformation": {
+      "Phone": "001-478-804-8605x719",
+      "Email": "tinacopeland@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/05a86f7f-79ad-4dda-98bf-c4116746e0e6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-31T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wallace-Kirby",
+    "Model": "house",
+    "Year": 2007,
+    "VIN": "2fd8f850-3ed2-4223-afac-13f71b58eff1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Monique Johnson",
+      "ContactInformation": {
+        "Phone": "001-375-873-3163x4800",
+        "Email": "rmcintyre@example.net"
+      },
+      "Statement": "Situation remain away up five. Open while type station American suggest.\nLoss media think present. Attorney notice once control pattern open contain capital."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d75c1d12-97b5-4162-86e7-3fe8a0211d8f",
+    "OfficerName": "Jeffrey Williams",
+    "ReportDetails": "Manager admit education treatment. Nor region finish direction here some. Government culture use protect various. Better story thank language up water Mrs."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 344,
+    "AnnualIncome": 154755,
+    "DebtToIncomeRatio": 0.29
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

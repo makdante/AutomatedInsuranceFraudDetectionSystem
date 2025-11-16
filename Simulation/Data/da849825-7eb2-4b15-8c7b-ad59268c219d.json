@@ -1,0 +1,112 @@
+{
+  "ClaimID": "da849825-7eb2-4b15-8c7b-ad59268c219d",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2025-02-13",
+    "EndDate": "2026-02-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-15",
+    "Location": "28160 Vincent Park Apt. 529\nAshleebury, VT 19432",
+    "Description": "Yet never month strategy represent hospital us. Sure kid end people environmental indeed energy.\nRaise until body billion that. Sea good type respond agree. Information stand pass who memory."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 170639
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18663
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10631
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 118927
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10520
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 329380,
+    "TotalApproved": 294099
+  },
+  "AdjusterDetails": {
+    "Name": "Leslie Johnson",
+    "ContactInformation": {
+      "Phone": "001-800-496-9333x1421",
+      "Email": "smithmary@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/7bd128d6-985d-483b-85ce-ceb037760400"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lynn, Cunningham and Hudson",
+    "Model": "spring",
+    "Year": 2004,
+    "VIN": "9d550b64-cffd-4066-906e-8fc67eeea016"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Veronica Herrera",
+      "ContactInformation": {
+        "Phone": "001-279-374-1377x23486",
+        "Email": "bakernicholas@example.net"
+      },
+      "Statement": "Couple think behind hope significant option spring. Discover late break town that pressure work. Until enter worker claim. Believe improve after rate."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cf5e9c63-cec7-495e-8737-58bd2a2f75f1",
+    "OfficerName": "Leslie Soto",
+    "ReportDetails": "Wind war sure south or. Pull leave technology region subject. Most member certain man skill social garden.\nBeyond fight article expert. Late century ability parent decide between. Result black along."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 632,
+    "AnnualIncome": 179304,
+    "DebtToIncomeRatio": 0.36
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 8,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "06c2181c-1085-4fee-afa4-0812494a1d6c",
+  "PolicyID": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+  "EffectiveDates": {
+    "StartDate": "2025-04-28",
+    "EndDate": "2026-04-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de2fd98f-92b5-4f00-b791-ce9f514afb15",
+    "Name": "Brandon Scott",
+    "PolicyNumber": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+    "ContactInformation": {
+      "Phone": "001-319-262-8310x0650",
+      "Email": "nelsonemily@example.net",
+      "Address": "0592 Patrick Wall\nLeslieport, IA 75247"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-04",
+    "Location": "7107 Steven Trail\nEast Codystad, WA 08033",
+    "Description": "Sometimes small degree pick. Wait off student certain ready value small.\nNation throughout fall son. East real best stock three. Even purpose use direction south partner you."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4503809
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4032208
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4730745
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4733532
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4365284
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22365578,
+    "TotalApproved": 6946900
+  },
+  "AdjusterDetails": {
+    "Name": "Rodney Ray",
+    "ContactInformation": {
+      "Phone": "776-507-1518x96278",
+      "Email": "karen13@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/bb0570c5-ed61-4ce4-b7a4-9cda928647ac"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Collins PLC",
+    "Model": "long",
+    "Year": 2000,
+    "VIN": "260054f2-6ca5-4097-b9f6-1566d721ff08"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Frazier",
+      "ContactInformation": {
+        "Phone": "797.468.1051x2680",
+        "Email": "carterkenneth@example.net"
+      },
+      "Statement": "Age animal yet picture. Mr place toward rather step which development.\nUnder however human word. Better energy human simple go. Eat sit left player computer operation."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "015bbc8d-4c36-46b2-9db1-e3c66c067abc",
+    "OfficerName": "Amanda Jackson DVM",
+    "ReportDetails": "Magazine player ago work institution practice course. Mean recent else. Structure kitchen significant view well address. Goal tax artist game.\nMiss too goal. Sport yourself save."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 387,
+    "AnnualIncome": 199763,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

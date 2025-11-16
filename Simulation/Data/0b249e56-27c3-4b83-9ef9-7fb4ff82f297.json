@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0b249e56-27c3-4b83-9ef9-7fb4ff82f297",
+  "PolicyID": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+  "EffectiveDates": {
+    "StartDate": "2025-02-23",
+    "EndDate": "2026-02-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5bc871d2-36ee-4aee-bc7f-b179bb855d6f",
+    "Name": "Eric Fletcher",
+    "PolicyNumber": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+    "ContactInformation": {
+      "Phone": "243.779.0944x7212",
+      "Email": "grantjones@example.com",
+      "Address": "4468 Cunningham Islands Apt. 297\nNorth Greg, SC 48184"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-02",
+    "Location": "Unit 1806 Box 8890\nDPO AP 85451",
+    "Description": "Job financial stand everyone main something. Treat college happy better need outside. Third prepare power. Ok history short hospital center."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1003
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4517
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10006
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9968
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 145257
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 170751,
+    "TotalApproved": 138085
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Washington",
+    "ContactInformation": {
+      "Phone": "324-411-9475x2379",
+      "Email": "lawrenceking@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/6e5c5730-b484-40d1-96cb-0743297e6228"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morgan-Miller",
+    "Model": "day",
+    "Year": 2016,
+    "VIN": "485293d6-3135-4eb5-b7ff-21a865624f1a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dylan Mcfarland",
+      "ContactInformation": {
+        "Phone": "(904)468-1925",
+        "Email": "mollycarr@example.com"
+      },
+      "Statement": "Consumer open bed hope learn even. Address exist many back able action large.\nShake vote color once own husband."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1f9742b4-8f96-41e9-bc39-ec04cf8919fc",
+    "OfficerName": "Nicole Best",
+    "ReportDetails": "How will partner interesting. Event improve statement either. Later media movie take.\nStudy then gas each. Born night lot end.\nPaper foreign Congress help must development. Box involve history."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 385,
+    "AnnualIncome": 169520,
+    "DebtToIncomeRatio": 0.1
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

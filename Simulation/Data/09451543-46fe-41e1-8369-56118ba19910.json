@@ -1,0 +1,112 @@
+{
+  "ClaimID": "09451543-46fe-41e1-8369-56118ba19910",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2024-12-22",
+    "EndDate": "2025-12-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-05",
+    "Location": "Unit 1376 Box 5166\nDPO AP 86379",
+    "Description": "Back us activity voice defense total. Life develop capital there. After condition including commercial project fear across."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 24853
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40926
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 131355
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16201
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9391
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 222726,
+    "TotalApproved": 56866
+  },
+  "AdjusterDetails": {
+    "Name": "Michelle Hernandez",
+    "ContactInformation": {
+      "Phone": "+1-477-227-5515x7077",
+      "Email": "gilbertstevens@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/09bd6feb-f2b0-41bc-916b-7c9d64f35e93"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Werner Inc",
+    "Model": "second",
+    "Year": 2012,
+    "VIN": "d41ea75c-f010-4cf0-bfcd-e46508e76008"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bailey Mcdonald",
+      "ContactInformation": {
+        "Phone": "491.585.6629x54765",
+        "Email": "lindsey24@example.org"
+      },
+      "Statement": "Doctor no benefit data. Water information former history. Appear cut interest chance over main.\nAlready leg short author ahead seem."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a56cc6db-615f-4507-a19e-4d121ed352af",
+    "OfficerName": "Corey Webb",
+    "ReportDetails": "Beyond man before. Hotel question owner almost perform take over foot.\nTerm agreement able nice citizen newspaper. Mother your discuss join area. Despite test president power too."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 556,
+    "AnnualIncome": 171806,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 3,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

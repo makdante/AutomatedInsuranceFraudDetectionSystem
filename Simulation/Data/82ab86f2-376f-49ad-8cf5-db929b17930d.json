@@ -1,0 +1,112 @@
+{
+  "ClaimID": "82ab86f2-376f-49ad-8cf5-db929b17930d",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-09-06",
+    "EndDate": "2026-09-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-14",
+    "Location": "740 Lisa Gardens\nWaltonton, VI 70243",
+    "Description": "Represent anything member middle. Standard involve stuff glass edge agent line.\nLittle sometimes protect live space. Decade protect let wide individual partner soon thousand."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5889
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 67719
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 49588
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7289
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16740
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 147225,
+    "TotalApproved": 117652
+  },
+  "AdjusterDetails": {
+    "Name": "Mackenzie Sanchez",
+    "ContactInformation": {
+      "Phone": "001-965-907-5316x403",
+      "Email": "snyderjoanna@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/444c9c4e-31da-4631-8f93-befb079e960c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Velasquez and Sons",
+    "Model": "gas",
+    "Year": 2006,
+    "VIN": "3fea7650-58ae-4b30-bb6a-9d2c0335dfbb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Palmer",
+      "ContactInformation": {
+        "Phone": "001-224-478-7126",
+        "Email": "edwardsamy@example.org"
+      },
+      "Statement": "Bed every raise four sort vote. Time computer writer improve television gas less. To everybody question unit effort under."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4ffa10bc-ede2-41dc-9add-ad4d57938322",
+    "OfficerName": "Vernon Allen",
+    "ReportDetails": "Never oil next drop. Business step laugh law rule north occur music.\nOfficial recognize area listen maintain but. Interest structure turn sign owner American theory. Yourself paper type."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 570,
+    "AnnualIncome": 193913,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

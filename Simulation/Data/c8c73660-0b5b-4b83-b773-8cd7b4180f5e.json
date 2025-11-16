@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c8c73660-0b5b-4b83-b773-8cd7b4180f5e",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-09-15",
+    "EndDate": "2026-09-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-08",
+    "Location": "54463 Stephens Plaza\nDarryltown, VT 51736",
+    "Description": "Cup all decade husband attorney individual describe. Popular senior record themselves feeling. Next style themselves easy will management relate."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 90797
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14816
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 64239
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 49853
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9627
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 229332,
+    "TotalApproved": 228102
+  },
+  "AdjusterDetails": {
+    "Name": "Ronald Matthews",
+    "ContactInformation": {
+      "Phone": "233-748-0772x9719",
+      "Email": "david82@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/976cf9ba-321f-40be-a4f9-2aa4a05b86fa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hawkins Group",
+    "Model": "summer",
+    "Year": 2013,
+    "VIN": "6e49be2d-d7ae-4827-aee1-7367fd7171e3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Wanda Miller",
+      "ContactInformation": {
+        "Phone": "001-452-321-7622x98942",
+        "Email": "arellanocynthia@example.org"
+      },
+      "Statement": "Child maybe southern would staff although. Police research professor network prove apply. Hair world per painting treat."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8d5b73bc-8007-4411-b1c6-e0cb3b7dc3c5",
+    "OfficerName": "Mr. Gordon Jackson",
+    "ReportDetails": "Carry dark despite range first. Its need matter someone population practice thing.\nItem kid cell yet. Call describe if right air. Nothing what memory home traditional."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 830,
+    "AnnualIncome": 62605,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 2,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

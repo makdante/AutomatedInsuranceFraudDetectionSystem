@@ -1,0 +1,112 @@
+{
+  "ClaimID": "291b74ca-5740-4611-930b-ee7b9c31eded",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-04-24",
+    "EndDate": "2026-04-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-16",
+    "Location": "9379 Kevin Mission Apt. 854\nPort Kimberlyborough, GA 70088",
+    "Description": "Nor name fly deep strong.\nUntil executive Congress go team theory. Building practice piece crime itself agree ago. Finish use leg.\nEntire responsibility drop brother. Religious three win."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1493
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 82869
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12302
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2394
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3500
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 102558,
+    "TotalApproved": 39585
+  },
+  "AdjusterDetails": {
+    "Name": "Brandon West",
+    "ContactInformation": {
+      "Phone": "327.834.4557x59479",
+      "Email": "jacobrussell@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/feddbb2e-6508-4fc3-bd7d-8b5a55e67b8e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-16T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-21T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-26T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Valentine-Walker",
+    "Model": "part",
+    "Year": 2007,
+    "VIN": "6908e3b0-c5b6-4a05-b0fd-54f687c75a93"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Andrew Davis",
+      "ContactInformation": {
+        "Phone": "001-913-648-2809x362",
+        "Email": "angelarodriguez@example.com"
+      },
+      "Statement": "Again win particular nature. Capital go data run push government network. East scientist decision east rest we.\nEnough against camera individual size across tonight. Ready maintain go meet just add."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e86de986-3fc2-4779-895a-69ce7ad70cef",
+    "OfficerName": "Stacy Clark",
+    "ReportDetails": "Factor change anything employee every.\nParticularly agent television well board event. Deal church any our recognize side.\nPolitical customer media course create central."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 416,
+    "AnnualIncome": 180629,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 4,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

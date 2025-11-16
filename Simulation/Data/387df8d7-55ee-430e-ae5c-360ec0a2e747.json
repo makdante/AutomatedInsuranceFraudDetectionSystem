@@ -1,0 +1,112 @@
+{
+  "ClaimID": "387df8d7-55ee-430e-ae5c-360ec0a2e747",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-09-03",
+    "EndDate": "2026-09-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-18",
+    "Location": "2144 Wright Union\nLake Nataliehaven, SD 37661",
+    "Description": "Make once sister class data beat interesting something. Big current quite. Concern body billion trouble.\nCentral light go too last cell own. Last look project service individual. Lot reason yes."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4009856
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4865010
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4620381
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4441311
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4159478
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22096036,
+    "TotalApproved": 2563460
+  },
+  "AdjusterDetails": {
+    "Name": "Jenna Hudson",
+    "ContactInformation": {
+      "Phone": "971.882.7200x569",
+      "Email": "watkinssarah@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/ad77d0f1-90e0-40f6-87bb-2bdaea16ffc9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Young-Wood",
+    "Model": "live",
+    "Year": 2011,
+    "VIN": "fd48eef5-253f-4613-b06c-7e2c6d12421e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sherri Flores",
+      "ContactInformation": {
+        "Phone": "(399)907-8141",
+        "Email": "anna12@example.net"
+      },
+      "Statement": "Picture create and the attack town. Player dog subject cell carry assume. Color job position short sea option shake."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a121144e-ad6e-478e-8f79-a109ac290f60",
+    "OfficerName": "Jenna Morgan",
+    "ReportDetails": "Various although service where. Direction onto morning too there their.\nNever receive time in. Brother measure successful great interview sit."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 496,
+    "AnnualIncome": 106739,
+    "DebtToIncomeRatio": 0.44
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

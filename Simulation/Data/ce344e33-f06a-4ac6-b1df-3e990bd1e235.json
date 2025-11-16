@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ce344e33-f06a-4ac6-b1df-3e990bd1e235",
+  "PolicyID": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+  "EffectiveDates": {
+    "StartDate": "2025-04-05",
+    "EndDate": "2026-04-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fe640aa1-fac6-44c1-b128-0544382d3460",
+    "Name": "Mr. John Curtis DDS",
+    "PolicyNumber": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+    "ContactInformation": {
+      "Phone": "+1-788-856-0912x412",
+      "Email": "greenlorraine@example.com",
+      "Address": "970 Ryan Green\nWest Katherine, GA 40547"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-05",
+    "Location": "01675 Brennan Groves Apt. 096\nSmithtown, WA 35276",
+    "Description": "Either consider service stuff modern. Course result charge skill require during. Actually sea mouth where."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 24093
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 25417
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4297
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 26777
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 22747
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 103331,
+    "TotalApproved": 8379
+  },
+  "AdjusterDetails": {
+    "Name": "Sheena Williams",
+    "ContactInformation": {
+      "Phone": "+1-229-762-1317x9044",
+      "Email": "michelledixon@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/5054a958-f365-49de-bbfc-a2a0ddbc4e9b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gonzales, Williams and Carey",
+    "Model": "conference",
+    "Year": 2007,
+    "VIN": "a83603f1-8ac9-478f-a881-038d147cccce"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robin Williams MD",
+      "ContactInformation": {
+        "Phone": "557.834.5556x973",
+        "Email": "hsmith@example.org"
+      },
+      "Statement": "Hear exactly research coach. Performance character message ever skin apply pick."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "73ccdd17-5b80-4abc-ac5a-479eb8e2928a",
+    "OfficerName": "Marcus Robinson",
+    "ReportDetails": "Sport analysis have mention number bank. Quite fish turn player indeed we.\nSuch buy just loss. Senior activity hot three education leave."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 825,
+    "AnnualIncome": 102214,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 1,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

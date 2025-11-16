@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f6dba7a7-0904-4775-b7cf-1b749919a9fb",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2025-03-24",
+    "EndDate": "2026-03-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-26",
+    "Location": "560 Kyle Meadows Suite 161\nAndrewburgh, NC 97506",
+    "Description": "Name year see general create. Movie rise hear oil produce customer explain. About product involve chance discussion pass."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8011
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5327
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 73009
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6795
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1049
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 94191,
+    "TotalApproved": 61734
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Hernandez",
+    "ContactInformation": {
+      "Phone": "604-978-8537",
+      "Email": "bradsmith@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/40481b0e-f186-4233-88c1-a9995fd30559"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stanley and Sons",
+    "Model": "good",
+    "Year": 2003,
+    "VIN": "dbd26c70-d2f6-4c83-949c-684a7ac4fbea"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Robertson",
+      "ContactInformation": {
+        "Phone": "+1-609-918-8548x8618",
+        "Email": "irichardson@example.net"
+      },
+      "Statement": "Dinner prove spring establish. Can data once tough they floor politics. Agent level around economy technology."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6288d02e-43c6-4daa-bf80-76946956be13",
+    "OfficerName": "Carlos Munoz",
+    "ReportDetails": "Image information of type. Could eye exist treat kitchen month.\nLet truth alone heart smile loss middle. Our report return hear compare. Available trip again beat maybe executive."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 358,
+    "AnnualIncome": 106427,
+    "DebtToIncomeRatio": 0.21
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 3,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

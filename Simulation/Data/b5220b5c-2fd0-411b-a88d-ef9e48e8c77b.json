@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b5220b5c-2fd0-411b-a88d-ef9e48e8c77b",
+  "PolicyID": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+  "EffectiveDates": {
+    "StartDate": "2024-12-06",
+    "EndDate": "2025-12-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5bc871d2-36ee-4aee-bc7f-b179bb855d6f",
+    "Name": "Eric Fletcher",
+    "PolicyNumber": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+    "ContactInformation": {
+      "Phone": "243.779.0944x7212",
+      "Email": "grantjones@example.com",
+      "Address": "4468 Cunningham Islands Apt. 297\nNorth Greg, SC 48184"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-08",
+    "Location": "USS Stein\nFPO AA 25036",
+    "Description": "Me interview risk reduce choose authority long draw. Seem there million choose young hotel its."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 50569
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8673
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 155473
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10100
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2583
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 227398,
+    "TotalApproved": 44682
+  },
+  "AdjusterDetails": {
+    "Name": "Olivia Jones",
+    "ContactInformation": {
+      "Phone": "(725)236-5770",
+      "Email": "hrodriguez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b878184a-bad6-4b72-aeed-958c4b2961f8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Boyer, Bailey and Carlson",
+    "Model": "speak",
+    "Year": 2007,
+    "VIN": "8a0694f0-9052-4314-ab28-1292d5fe2a6e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Paul Perry",
+      "ContactInformation": {
+        "Phone": "565.571.1083",
+        "Email": "brownkimberly@example.org"
+      },
+      "Statement": "Car scientist wrong serve reason. Gun probably want.\nDoctor fight western bar theory. Yet raise us statement could. One participant area medical police. Left down call bring outside."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3ac25f5d-699a-4938-96e2-8d347b01992f",
+    "OfficerName": "Joseph Ramirez",
+    "ReportDetails": "Film large peace school. Middle enjoy over school consider. Rich example everyone most difference sing.\nDrive degree first stock claim quite close event. Light magazine lose inside."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 493,
+    "AnnualIncome": 35240,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

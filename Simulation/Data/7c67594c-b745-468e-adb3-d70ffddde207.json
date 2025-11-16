@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7c67594c-b745-468e-adb3-d70ffddde207",
+  "PolicyID": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+  "EffectiveDates": {
+    "StartDate": "2025-04-24",
+    "EndDate": "2026-04-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d1d74627-ebfa-4be3-b1da-26ed11561b0d",
+    "Name": "Joseph Salazar",
+    "PolicyNumber": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+    "ContactInformation": {
+      "Phone": "001-886-312-3844x48198",
+      "Email": "ugray@example.net",
+      "Address": "293 Jessica Plain\nLake Jillborough, IA 96694"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-25",
+    "Location": "314 Odonnell Dam Apt. 385\nGomezland, MD 56619",
+    "Description": "Certain per agent age lay. Measure maintain night bar value.\nHeavy effort determine walk sit million. Process though their end brother role. Happen card defense up."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5336
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 66460
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16131
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 103467
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 49647
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 241041,
+    "TotalApproved": 143559
+  },
+  "AdjusterDetails": {
+    "Name": "Albert Baker",
+    "ContactInformation": {
+      "Phone": "(610)894-1222x4409",
+      "Email": "kathleen83@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e8aa33b7-2bb1-4829-8607-32038b3ea879"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thomas-Moran",
+    "Model": "wall",
+    "Year": 2022,
+    "VIN": "096c3b25-7ba3-4432-8d3b-5b6635509138"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steven Jacobs",
+      "ContactInformation": {
+        "Phone": "715.597.6928x96605",
+        "Email": "melaniemyers@example.com"
+      },
+      "Statement": "Owner military chair western rich total bed. Hope score north society.\nRepublican remember pressure particular scene. Spring force accept toward big case control. Top argue too understand term."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e49cc7da-8cee-44a8-810b-9a4caaffb1d2",
+    "OfficerName": "Jennifer Cochran",
+    "ReportDetails": "Cell cost set before. Race church audience ahead traditional experience. Focus low later happen themselves bank indeed.\nProcess down citizen trial. Never fact rock region street at effort."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 616,
+    "AnnualIncome": 94534,
+    "DebtToIncomeRatio": 0.29
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

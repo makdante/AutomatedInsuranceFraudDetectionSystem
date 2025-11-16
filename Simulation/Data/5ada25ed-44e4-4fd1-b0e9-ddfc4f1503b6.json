@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5ada25ed-44e4-4fd1-b0e9-ddfc4f1503b6",
+  "PolicyID": "4d006887-ffd3-4707-8940-80e0970ad64f",
+  "EffectiveDates": {
+    "StartDate": "2025-08-01",
+    "EndDate": "2026-08-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "6191ccd1-d3f4-425d-a9cb-5820861f7d97",
+    "Name": "Andrew Wilson",
+    "PolicyNumber": "4d006887-ffd3-4707-8940-80e0970ad64f",
+    "ContactInformation": {
+      "Phone": "001-296-495-4711x47868",
+      "Email": "twilliams@example.org",
+      "Address": "9444 Jonathan Village\nSouth Taratown, AR 12477"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-31",
+    "Location": "84890 Ashley Knolls\nLambertchester, VT 64282",
+    "Description": "For guess husband himself book line make. Very wear there trial.\nCultural officer treatment occur business page. Stock clearly poor simply high. Help old find she."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4625663
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4597857
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4397445
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4732983
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4780275
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 23134223,
+    "TotalApproved": 5162149
+  },
+  "AdjusterDetails": {
+    "Name": "Monica Tran",
+    "ContactInformation": {
+      "Phone": "001-668-775-8416x168",
+      "Email": "rodriguezjennifer@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ac49c161-7d8d-4bda-87ec-162e12c3eca4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-31T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Leon Group",
+    "Model": "live",
+    "Year": 2015,
+    "VIN": "048abeef-92b4-448a-8778-445bf26261bb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patrick Cohen",
+      "ContactInformation": {
+        "Phone": "+1-585-952-3571x91927",
+        "Email": "jessica54@example.org"
+      },
+      "Statement": "Catch newspaper window sense huge.\nIdentify shoulder young especially. Specific stage serious senior any court. East single another believe."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "084a6a15-0dee-4094-884d-32fce59c929a",
+    "OfficerName": "Brittany Knight",
+    "ReportDetails": "Back scientist difficult south image quality.\nResource far nature inside campaign safe scene. Guy entire watch. Argue yeah hold bank."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 411,
+    "AnnualIncome": 125512,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

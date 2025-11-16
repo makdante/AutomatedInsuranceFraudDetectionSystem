@@ -1,0 +1,112 @@
+{
+  "ClaimID": "99ec04de-1c6c-49f9-b21c-49f42e99f82f",
+  "PolicyID": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+  "EffectiveDates": {
+    "StartDate": "2025-04-21",
+    "EndDate": "2026-04-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fa402266-28f6-4a28-9984-042633fec81b",
+    "Name": "Miranda Nelson",
+    "PolicyNumber": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+    "ContactInformation": {
+      "Phone": "871.425.9645x240",
+      "Email": "iflynn@example.com",
+      "Address": "275 Lee Common\nSouth Hectorville, VI 11258"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-17",
+    "Location": "2825 Smith Vista\nCaseyfort, ME 39948",
+    "Description": "Focus appear that trial against source. Evening method dinner serve them civil here."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4473
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10674
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 133925
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3745
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1891
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 154708,
+    "TotalApproved": 95182
+  },
+  "AdjusterDetails": {
+    "Name": "Kristy Beard",
+    "ContactInformation": {
+      "Phone": "627.267.0059",
+      "Email": "dale07@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/3fbec043-2e21-40f9-b0d9-af2227755d3a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hall Inc",
+    "Model": "top",
+    "Year": 2007,
+    "VIN": "f068bd9f-95b2-4761-a204-b6f9aeabb179"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Regina Frank",
+      "ContactInformation": {
+        "Phone": "+1-464-341-2471x6546",
+        "Email": "cody50@example.net"
+      },
+      "Statement": "Ten visit everything difficult organization up thus."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b2737712-e846-4209-b85a-b8c4fce71482",
+    "OfficerName": "David Hernandez",
+    "ReportDetails": "Off hot represent offer. Structure adult protect daughter."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 772,
+    "AnnualIncome": 161625,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 10,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

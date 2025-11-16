@@ -1,0 +1,112 @@
+{
+  "ClaimID": "85274d15-99cd-460a-a7f4-0c8c6749fafb",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-04-09",
+    "EndDate": "2026-04-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-15",
+    "Location": "36657 Daniel Mission\nFranciscostad, PR 15354",
+    "Description": "Space ahead stop factor. Change school much magazine project yourself."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 82309
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 38712
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6728
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15107
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 49593
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 192449,
+    "TotalApproved": 101453
+  },
+  "AdjusterDetails": {
+    "Name": "Margaret Hobbs",
+    "ContactInformation": {
+      "Phone": "856.773.8424x56266",
+      "Email": "susanmoran@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/4eda19a1-ab9c-4aa6-bd38-e5f855dd31be"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Schmidt-Page",
+    "Model": "professor",
+    "Year": 2020,
+    "VIN": "2474f014-08a4-4c49-a9b0-c4fffb9793c3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Duran DDS",
+      "ContactInformation": {
+        "Phone": "987.894.4799x2143",
+        "Email": "natalie62@example.org"
+      },
+      "Statement": "Trade star theory own item keep ever. Mission girl discuss run nor. Board play enter day science single. Baby current she modern since able report.\nSize indeed should ground."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b3c60e8f-99cd-4395-b9fc-dc0b2262b8c8",
+    "OfficerName": "Melissa Payne",
+    "ReportDetails": "Senior senior ground right reveal participant dog. Meet network key day positive success why right.\nLawyer try lose worry near front available. Weight nice begin audience term alone."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 516,
+    "AnnualIncome": 156351,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 4,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

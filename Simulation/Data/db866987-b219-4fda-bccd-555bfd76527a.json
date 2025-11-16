@@ -1,0 +1,112 @@
+{
+  "ClaimID": "db866987-b219-4fda-bccd-555bfd76527a",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2024-12-01",
+    "EndDate": "2025-12-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-11",
+    "Location": "Unit 0172 Box 3315\nDPO AP 84054",
+    "Description": "Also performance account language fear recently three. Society raise which floor after health doctor."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3222
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 88274
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 88287
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 24849
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3141
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 207773,
+    "TotalApproved": 161486
+  },
+  "AdjusterDetails": {
+    "Name": "Parker Stanley",
+    "ContactInformation": {
+      "Phone": "850.343.3514x473",
+      "Email": "ruizjeremy@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/c40c18bb-4e88-473e-84cb-759d34d8cb25"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Duran, Vance and Williams",
+    "Model": "head",
+    "Year": 2004,
+    "VIN": "812d0702-b9b4-4620-873f-23bd43c24dcd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Daniel Kirby",
+      "ContactInformation": {
+        "Phone": "(240)351-5370",
+        "Email": "ndouglas@example.org"
+      },
+      "Statement": "Represent model back player run another pick up. Eye its piece guy listen capital town defense. Interview over public church medical."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "efa9a399-fd91-4d72-97d4-c23f84efa05b",
+    "OfficerName": "Shelby Avila",
+    "ReportDetails": "Bank move television throw deep off. Picture game step involve. Despite summer heart example customer give.\nEnjoy last several interview for remember. Concern law public college represent close."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 698,
+    "AnnualIncome": 137239,
+    "DebtToIncomeRatio": 0.99
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

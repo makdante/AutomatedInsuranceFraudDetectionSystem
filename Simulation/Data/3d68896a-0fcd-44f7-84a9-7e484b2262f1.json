@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3d68896a-0fcd-44f7-84a9-7e484b2262f1",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-08-02",
+    "EndDate": "2026-08-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-22",
+    "Location": "361 Cunningham Village\nStevenfurt, NJ 11423",
+    "Description": "Follow wrong employee. Whose probably it teacher.\nLaw themselves possible beat. Entire free until.\nRole ago operation third total. Network program learn watch play."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16428
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5942
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17779
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 136221
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 21974
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 198344,
+    "TotalApproved": 161486
+  },
+  "AdjusterDetails": {
+    "Name": "Mary Hunt",
+    "ContactInformation": {
+      "Phone": "(662)216-6022x013",
+      "Email": "johnstonkrystal@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/41fba14f-f0ac-47c0-aa51-f16b3f751e99"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sanchez, Robinson and Perez",
+    "Model": "care",
+    "Year": 2008,
+    "VIN": "b79052e2-5160-4068-a33b-7d8c50243fec"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Todd Carroll",
+      "ContactInformation": {
+        "Phone": "001-929-245-9474x1408",
+        "Email": "youngpatrick@example.org"
+      },
+      "Statement": "Teach left program create structure personal enjoy. Professional establish bit authority. Might total bank perhaps painting."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3ae8d331-36b4-47b5-a40d-b5a2b9382755",
+    "OfficerName": "Christina Taylor",
+    "ReportDetails": "Begin gas company piece each list. Team care serious run fish. Option ball beyond herself discuss.\nBeautiful art its break usually become general. Only play not figure into where."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 581,
+    "AnnualIncome": 68264,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

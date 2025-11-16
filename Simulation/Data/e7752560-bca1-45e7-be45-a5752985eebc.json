@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e7752560-bca1-45e7-be45-a5752985eebc",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2024-12-29",
+    "EndDate": "2025-12-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-23",
+    "Location": "995 Jack Course\nBradybury, LA 48141",
+    "Description": "Trip now leg wear east book. Myself weight billion away wall across. Throw wonder heavy.\nGarden threat provide reality life reveal pretty animal. Serve well reality state war individual."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 67774
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8231
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 166816
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 84012
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 85366
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 412199,
+    "TotalApproved": 234464
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Curtis",
+    "ContactInformation": {
+      "Phone": "(320)570-6991x7790",
+      "Email": "lisa59@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/4ee757ec-7061-409c-930e-34958298185d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lopez-Martin",
+    "Model": "thank",
+    "Year": 2020,
+    "VIN": "373cb950-ee0b-42d0-be41-97eb34476316"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samantha Davis",
+      "ContactInformation": {
+        "Phone": "(220)671-0171",
+        "Email": "mark54@example.com"
+      },
+      "Statement": "Story some know ago. Company music customer task young trouble.\nCouple game nice friend test believe generation thing. Feel my where performance need test. Natural source he hair."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d585a9b6-a800-46d6-bda2-285e6af4b30a",
+    "OfficerName": "David Duncan",
+    "ReportDetails": "Buy science me record class. Career yet put song Mrs market according. Military fill throughout and. Attention science central place."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 333,
+    "AnnualIncome": 79098,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

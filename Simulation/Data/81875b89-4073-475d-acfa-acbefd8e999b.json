@@ -1,0 +1,112 @@
+{
+  "ClaimID": "81875b89-4073-475d-acfa-acbefd8e999b",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-01-08",
+    "EndDate": "2026-01-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-23",
+    "Location": "86590 Jessica Pines\nWest Courtneyhaven, OR 52781",
+    "Description": "Although wrong more beat quickly down entire. Occur treat husband however.\nAccept born hair enjoy listen hit. Apply laugh product sit treatment generation station. Expert marriage professor perhaps."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 51882
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14781
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 53075
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 132560
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 27091
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 279389,
+    "TotalApproved": 189844
+  },
+  "AdjusterDetails": {
+    "Name": "Miguel Nichols",
+    "ContactInformation": {
+      "Phone": "(296)674-2234",
+      "Email": "kirbyjames@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/4e98d123-bbd8-4a5d-9497-b053d7176c11"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Collier Ltd",
+    "Model": "generation",
+    "Year": 2022,
+    "VIN": "0bb4983e-693f-4ca3-8f52-1ef828af41ab"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dylan Hardin",
+      "ContactInformation": {
+        "Phone": "884.341.9297",
+        "Email": "ashleymiller@example.net"
+      },
+      "Statement": "May hotel science. Loss I early. Head view positive.\nOpportunity hair sea cover. Line country situation cup difficult care this. Thus too hope big."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8a6aa869-698f-4104-b849-32dfc3cc84e5",
+    "OfficerName": "Samantha Morgan",
+    "ReportDetails": "Anything this receive according site leg.\nPolitical often Mrs themselves democratic. Main free pretty child west believe design."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 700,
+    "AnnualIncome": 190966,
+    "DebtToIncomeRatio": 0.74
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 6,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

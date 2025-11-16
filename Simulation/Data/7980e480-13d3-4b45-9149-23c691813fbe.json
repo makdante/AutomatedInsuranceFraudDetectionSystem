@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7980e480-13d3-4b45-9149-23c691813fbe",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-03-02",
+    "EndDate": "2026-03-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-12",
+    "Location": "4047 Sims Mews Suite 100\nWest Eric, NY 45162",
+    "Description": "Film style others. Position understand single nearly. Time need record vote.\nRun large by. Film statement they price.\nEnergy pressure head first ability. Per artist many wall son work."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 23595
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4010
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8482
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9732
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15883
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 61702,
+    "TotalApproved": 33362
+  },
+  "AdjusterDetails": {
+    "Name": "George Harris",
+    "ContactInformation": {
+      "Phone": "(598)738-3622",
+      "Email": "margaret10@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1985867c-740d-4155-93ec-ebf648e7be3c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Blake-Smith",
+    "Model": "trial",
+    "Year": 2002,
+    "VIN": "18776cf2-d3f5-4725-b447-8166864cf920"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Bradford",
+      "ContactInformation": {
+        "Phone": "368.274.4526",
+        "Email": "reevesamy@example.org"
+      },
+      "Statement": "Agent war actually task else nice organization.\nInto worker short commercial green. Center cost research.\nOption mother may section well it deal. Thousand top institution. Statement have scene ask."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4be114d9-cbc2-490a-9629-f379bb3a792a",
+    "OfficerName": "Brian Burns",
+    "ReportDetails": "Vote event trial old also relationship sound. Fight too year technology. One own every wife receive. Beat tree power kid goal."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 404,
+    "AnnualIncome": 184568,
+    "DebtToIncomeRatio": 0.35
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

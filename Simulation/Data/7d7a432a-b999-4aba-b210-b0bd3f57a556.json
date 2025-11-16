@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7d7a432a-b999-4aba-b210-b0bd3f57a556",
+  "PolicyID": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+  "EffectiveDates": {
+    "StartDate": "2025-08-25",
+    "EndDate": "2026-08-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "45b25f18-08b7-457c-9045-e998b2b74cef",
+    "Name": "Joshua Ryan",
+    "PolicyNumber": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+    "ContactInformation": {
+      "Phone": "(903)440-8271x3107",
+      "Email": "justin94@example.net",
+      "Address": "792 Ann Cliffs\nLake Desireebury, MD 93133"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-21",
+    "Location": "4395 Zhang Circle Suite 149\nFordton, AK 81207",
+    "Description": "Administration book human perhaps arrive or explain. Summer happen arm particularly. Be one character teacher middle rise administration."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3961
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13376
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 51812
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 53307
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8651
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 131107,
+    "TotalApproved": 129571
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Gonzalez",
+    "ContactInformation": {
+      "Phone": "+1-735-439-0295x1078",
+      "Email": "xestrada@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a370e1af-8b65-4150-b6f2-769fdf7ed282"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Serrano Inc",
+    "Model": "message",
+    "Year": 2011,
+    "VIN": "d10c9783-a185-4222-89c2-17fa61aa133d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dana Riggs",
+      "ContactInformation": {
+        "Phone": "574.903.5193",
+        "Email": "garciasheryl@example.com"
+      },
+      "Statement": "Also design hot cell worker cultural. State hair employee.\nSection anyone bill. Behind time once she guess more.\nAlmost particular forward quality use police. Himself bed offer start around."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2791ae06-2e7c-4ed4-a546-7b3b624ea8af",
+    "OfficerName": "James Harris",
+    "ReportDetails": "Throughout investment resource life read party explain. Hold big trip while place offer.\nStep player nearly write catch."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 370,
+    "AnnualIncome": 88931,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "10fdc63f-1364-485d-9b1a-26c1a08e147c",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-02-02",
+    "EndDate": "2026-02-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-16",
+    "Location": "7908 Charles Light\nPort Tracyberg, NV 38984",
+    "Description": "Alone vote benefit life reason.\nLearn within go. Beautiful growth last.\nCause star many ball. Page PM boy agree.\nGreat career service deal. Hold know share nice middle claim."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 69699
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9104
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6812
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5558
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8291
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 99464,
+    "TotalApproved": 94315
+  },
+  "AdjusterDetails": {
+    "Name": "Dylan Gonzalez",
+    "ContactInformation": {
+      "Phone": "(663)507-3132x9574",
+      "Email": "abarrera@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/9017ff24-db3b-4961-83d6-2babb893805c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Colon-Smith",
+    "Model": "everyone",
+    "Year": 2022,
+    "VIN": "8c3961a7-b5f0-4c2b-8f86-a808b465b8d5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Roy Massey MD",
+      "ContactInformation": {
+        "Phone": "001-252-223-0101x0472",
+        "Email": "richardwilliams@example.org"
+      },
+      "Statement": "Enough white scientist already entire eight product. Church attorney blue stop.\nStandard military data. Western care easy beat meeting painting success. Which speak poor."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "12c2f212-2a51-4c2c-8f9c-8da463888b3f",
+    "OfficerName": "Abigail Logan",
+    "ReportDetails": "Page pass night despite thousand number. Hope draw small fine yourself specific. Step site shake three."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 592,
+    "AnnualIncome": 185540,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 1,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

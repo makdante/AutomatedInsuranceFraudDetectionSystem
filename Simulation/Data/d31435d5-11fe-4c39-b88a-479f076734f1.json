@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d31435d5-11fe-4c39-b88a-479f076734f1",
+  "PolicyID": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+  "EffectiveDates": {
+    "StartDate": "2025-06-18",
+    "EndDate": "2026-06-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "99c198b5-d0aa-48d3-94c9-959f2a44263a",
+    "Name": "Bethany Rose",
+    "PolicyNumber": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+    "ContactInformation": {
+      "Phone": "(715)908-5515x619",
+      "Email": "heather19@example.com",
+      "Address": "5993 Snow Manor Suite 784\nCherylton, KY 35335"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-13",
+    "Location": "Unit 4088 Box 5602\nDPO AE 43162",
+    "Description": "Meet simply edge him. Wonder prevent to draw environmental some. Film always those."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9414
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2806
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 44839
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16739
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1605
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 75403,
+    "TotalApproved": 43144
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Raymond",
+    "ContactInformation": {
+      "Phone": "5277730091",
+      "Email": "janet22@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/f5d6da66-cbc3-4d64-891a-6ce2e01241d4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Perkins, Perry and Thomas",
+    "Model": "suggest",
+    "Year": 2000,
+    "VIN": "8b489454-d760-402f-8057-31adfa67c413"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sandra Carney",
+      "ContactInformation": {
+        "Phone": "(231)703-1847x0309",
+        "Email": "philip92@example.com"
+      },
+      "Statement": "Pick their least heart nothing often church. Mission authority candidate born recently whom. Throughout treat book effort laugh poor.\nWife small require use consumer often phone."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f7c5474c-a489-4987-91bd-7f51f5d1c779",
+    "OfficerName": "Natalie Morales",
+    "ReportDetails": "City sport window. Hospital already throughout at.\nCountry month lead start. Different improve together school."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 419,
+    "AnnualIncome": 28082,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

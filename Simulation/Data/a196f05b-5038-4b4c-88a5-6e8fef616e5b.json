@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a196f05b-5038-4b4c-88a5-6e8fef616e5b",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2025-10-18",
+    "EndDate": "2026-10-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-27",
+    "Location": "81759 Simpson Branch\nWest Sarah, AK 87351",
+    "Description": "Hair group could. Five across position writer. Already accept mind federal simple fight beautiful."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 48119
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 102776
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 82775
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17287
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16404
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 267361,
+    "TotalApproved": 257046
+  },
+  "AdjusterDetails": {
+    "Name": "Steven White",
+    "ContactInformation": {
+      "Phone": "(877)423-3636",
+      "Email": "shannonmiller@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/fa872889-bf9f-49c4-bc3e-3d3ee4732321"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Meyers-Wood",
+    "Model": "small",
+    "Year": 2007,
+    "VIN": "f0013a64-b293-43fb-87dc-92e6a605e576"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dennis Munoz",
+      "ContactInformation": {
+        "Phone": "(495)790-3675x46049",
+        "Email": "joy99@example.com"
+      },
+      "Statement": "Team cold maybe allow the six audience year. Life everything a cost.\nToward author himself green summer happy step. Down such off look same full apply."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9127e10f-87fb-46c0-b5a4-03eed49ec457",
+    "OfficerName": "David Howard",
+    "ReportDetails": "Society word leave practice. Art others network phone task.\nMrs note own. Throughout discussion lead place particular huge on. Within true deal score morning happen."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 541,
+    "AnnualIncome": 194363,
+    "DebtToIncomeRatio": 0.36
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 0,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

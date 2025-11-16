@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2c9870b1-0cd3-4bd2-b550-7f191ba8d4e3",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2024-11-03",
+    "EndDate": "2025-11-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-05",
+    "Location": "Unit 4154 Box 6277\nDPO AP 29001",
+    "Description": "Should condition eat table example. Minute let blood send thousand.\nTrip push movement skill. Direction artist enjoy official large share thought."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 92011
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16336
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39607
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 185318
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 163423
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 496695,
+    "TotalApproved": 158253
+  },
+  "AdjusterDetails": {
+    "Name": "Nancy Garcia",
+    "ContactInformation": {
+      "Phone": "+1-707-556-3967",
+      "Email": "dbrown@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1ceba742-ab0b-4038-a0c6-1cd95b032c11"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Alvarado-Bell",
+    "Model": "which",
+    "Year": 2019,
+    "VIN": "54545501-e7f5-43d9-b352-bb7e320bb408"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Thomas Snyder",
+      "ContactInformation": {
+        "Phone": "+1-267-326-0935x9746",
+        "Email": "nklein@example.net"
+      },
+      "Statement": "Successful front before hard think big three. Whom hair occur home.\nGarden eat newspaper low from. Sort use list local rise of former. Type though into where build still."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "aea9b8ac-4148-4dcf-9376-3519e61a739a",
+    "OfficerName": "Mrs. Erin Wright MD",
+    "ReportDetails": "Mission interest off child certainly alone. West onto many quality but probably. Dream let main sign husband day production page."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 472,
+    "AnnualIncome": 135230,
+    "DebtToIncomeRatio": 0.6
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6914184a-be40-4860-b4e9-7faf50eacfb2",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-03-22",
+    "EndDate": "2026-03-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-19",
+    "Location": "086 Brandi Lodge\nMcculloughchester, SC 67824",
+    "Description": "Yes present feeling agreement she author. There foot fund now. Get act identify. Party we water side age talk.\nGive thus teacher feeling newspaper. Sister late child tough month."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4748372
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4249526
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4018952
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4373669
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4427991
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 21818510,
+    "TotalApproved": 19459756
+  },
+  "AdjusterDetails": {
+    "Name": "Janet Ryan",
+    "ContactInformation": {
+      "Phone": "923.943.2604x96885",
+      "Email": "xray@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1a8bc274-ca63-4056-9c0c-da8ea4d88095"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rice, Becker and Jones",
+    "Model": "himself",
+    "Year": 2019,
+    "VIN": "c929ffc5-4717-49c4-92df-19f9244c9e98"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samantha Stone",
+      "ContactInformation": {
+        "Phone": "3103723895",
+        "Email": "lewiskayla@example.com"
+      },
+      "Statement": "Happy decide to thus law. Take professor but above work mother seek involve.\nAvailable fight people leader sit. Individual toward hospital side figure sit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fe7e73a9-9c17-499f-ba32-8ba24ac8ebcc",
+    "OfficerName": "Bradley Evans",
+    "ReportDetails": "Run only grow surface. Agency itself exactly it none important mention.\nCase camera PM particular mother sign. Maintain station feel. Issue be responsibility child central."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 417,
+    "AnnualIncome": 82647,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

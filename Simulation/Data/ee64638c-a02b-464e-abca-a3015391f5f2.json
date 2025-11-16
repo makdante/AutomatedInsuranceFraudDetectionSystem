@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ee64638c-a02b-464e-abca-a3015391f5f2",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2025-08-24",
+    "EndDate": "2026-08-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-19",
+    "Location": "08018 Quinn Haven\nSmithhaven, VA 31124",
+    "Description": "Fire social respond involve when. Challenge energy collection picture her pass. Someone fact catch conference together clearly lose.\nPoint water your various product leader."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 62570
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 80427
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2778
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44620
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4600
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 194995,
+    "TotalApproved": 154220
+  },
+  "AdjusterDetails": {
+    "Name": "Robin Nunez",
+    "ContactInformation": {
+      "Phone": "001-807-651-8003x7882",
+      "Email": "lmassey@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b7fdcc2b-9c61-4b40-a23a-11cf8f4a28bc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Kennedy-Rogers",
+    "Model": "south",
+    "Year": 2002,
+    "VIN": "3b54cbf4-f3fa-475a-9930-d1ab58736862"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dr. Melissa Gill DDS",
+      "ContactInformation": {
+        "Phone": "511-769-1865x513",
+        "Email": "krice@example.org"
+      },
+      "Statement": "Who attack mind field. Step six arrive sure order. Customer time national sign go everyone happy. Far could door safe value."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1c209a69-adf1-40b9-aa52-c959476876e1",
+    "OfficerName": "Daniel Marshall",
+    "ReportDetails": "Usually him spring senior social into source.\nAttack believe less support. Hundred into increase time sense it million. Assume receive air debate identify take student."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 627,
+    "AnnualIncome": 123098,
+    "DebtToIncomeRatio": 0.65
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

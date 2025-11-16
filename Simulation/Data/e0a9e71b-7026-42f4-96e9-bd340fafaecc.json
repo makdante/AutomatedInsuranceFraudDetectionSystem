@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e0a9e71b-7026-42f4-96e9-bd340fafaecc",
+  "PolicyID": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+  "EffectiveDates": {
+    "StartDate": "2025-09-19",
+    "EndDate": "2026-09-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8be26a6-4cb5-4164-b3db-8733f427afd7",
+    "Name": "Courtney Davis",
+    "PolicyNumber": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+    "ContactInformation": {
+      "Phone": "001-379-236-0842x2726",
+      "Email": "nicholas30@example.net",
+      "Address": "670 Lucas Vista Suite 883\nNew Carol, CO 53855"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-15",
+    "Location": "36989 Thompson Pass Suite 185\nRebeccashire, PA 29198",
+    "Description": "Pressure surface from middle education beautiful economic. Career increase from challenge.\nRecord ten fine include exactly sort shake maintain. Of name in produce short note. Explain travel building."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1467
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12205
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11276
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 116733
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9503
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 151184,
+    "TotalApproved": 65957
+  },
+  "AdjusterDetails": {
+    "Name": "David Richards",
+    "ContactInformation": {
+      "Phone": "860.204.3695",
+      "Email": "rangelshane@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/671ad988-db98-4f8a-8fc8-0495b3eb9c03"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis, Miranda and Martin",
+    "Model": "rock",
+    "Year": 2008,
+    "VIN": "2d7995a4-11b8-4785-bb06-ffd6d3af9f52"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Davenport MD",
+      "ContactInformation": {
+        "Phone": "7388761332",
+        "Email": "kimberly38@example.com"
+      },
+      "Statement": "Benefit nearly wear Republican kind defense cost.\nMedical plan student store inside. Produce glass build other. Successful our situation administration he approach boy democratic."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bcfc4ff4-f669-40b7-8bd4-ca8d84d7d1f3",
+    "OfficerName": "Timothy Herrera",
+    "ReportDetails": "Notice middle animal international. Continue deep relationship child.\nBall poor would red into hear dream. Federal ago director where toward. Morning bed mention."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 663,
+    "AnnualIncome": 169359,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

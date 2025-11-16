@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9d2d86c7-45c4-475d-bd26-0743e949145e",
+  "PolicyID": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+  "EffectiveDates": {
+    "StartDate": "2025-10-14",
+    "EndDate": "2026-10-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ac5a31ca-3bdd-4c10-bf6a-ce868133ec66",
+    "Name": "James Gilbert",
+    "PolicyNumber": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+    "ContactInformation": {
+      "Phone": "2675986394",
+      "Email": "lmontes@example.org",
+      "Address": "52161 Young Shoals Suite 547\nStevenberg, MT 96015"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-09",
+    "Location": "344 Alexis Inlet\nJuliefort, AL 40855",
+    "Description": "Special traditional peace some meeting. Drive deal music visit else prove. Machine leader training operation.\nProve maybe nation property price view green."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 23059
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 65437
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4866
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 60736
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5392
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 159490,
+    "TotalApproved": 32125
+  },
+  "AdjusterDetails": {
+    "Name": "Annette Richardson",
+    "ContactInformation": {
+      "Phone": "928-624-2463",
+      "Email": "mary12@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/0e935277-2dbc-4ff5-8a34-78e90161f277"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Osborne Group",
+    "Model": "something",
+    "Year": 2009,
+    "VIN": "61db6848-a38c-4304-a8cf-4f64b25011f4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Leah Thomas",
+      "ContactInformation": {
+        "Phone": "+1-976-877-1765x36133",
+        "Email": "kelly14@example.com"
+      },
+      "Statement": "Present tree letter central suffer soon suddenly. Both fight skin senior. Quite get party same really once."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fcbf41d2-5f9a-408c-af60-6750190334a9",
+    "OfficerName": "Debbie Harris",
+    "ReportDetails": "Situation message social coach responsibility son will. Concern pay series scene western.\nWell inside thing rate. Hear company boy party."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 810,
+    "AnnualIncome": 81015,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

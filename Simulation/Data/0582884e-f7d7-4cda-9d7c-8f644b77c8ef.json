@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0582884e-f7d7-4cda-9d7c-8f644b77c8ef",
+  "PolicyID": "500b8392-3ef4-475f-a0d6-15c142970199",
+  "EffectiveDates": {
+    "StartDate": "2025-02-18",
+    "EndDate": "2026-02-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0e2c98cc-0459-4a1f-b201-c0c324374a25",
+    "Name": "Brittany Watson",
+    "PolicyNumber": "500b8392-3ef4-475f-a0d6-15c142970199",
+    "ContactInformation": {
+      "Phone": "001-690-266-5439",
+      "Email": "jasonjames@example.org",
+      "Address": "66736 Antonio Valley\nWest Kristy, FL 30721"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-23",
+    "Location": "45396 Cameron Vista Apt. 504\nCooperland, SD 30020",
+    "Description": "Bad take win national ten his put most. Attorney half mission put economy something fast.\nCharge successful economic affect. Third truth week simple century manage real clearly."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4758
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 31697
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 52860
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 70014
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 21400
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 180729,
+    "TotalApproved": 163969
+  },
+  "AdjusterDetails": {
+    "Name": "Patricia Frey",
+    "ContactInformation": {
+      "Phone": "001-944-429-5246x187",
+      "Email": "finleyshannon@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/7040fa7a-cf2b-450f-8e06-37168ad1d7e7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson, Hanna and Roberts",
+    "Model": "past",
+    "Year": 2015,
+    "VIN": "475c8dc3-5d3b-4d2b-a8ec-fb559c758dc5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Vicki Smith",
+      "ContactInformation": {
+        "Phone": "349-619-8294",
+        "Email": "tammy31@example.net"
+      },
+      "Statement": "Action sport sea who relate season. Represent four person share third continue common. Power history short."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b45dde3b-d675-4762-bce9-e40b2c23b057",
+    "OfficerName": "Candice King",
+    "ReportDetails": "Night herself between moment plant cover. Either machine force production.\nDevelopment very himself. Specific real police Congress Mrs bad leg.\nReach would out cell."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 803,
+    "AnnualIncome": 140669,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 4,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

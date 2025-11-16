@@ -1,0 +1,112 @@
+{
+  "ClaimID": "81580faa-2475-48b6-a75f-d2a1eb6f2a61",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-05-10",
+    "EndDate": "2026-05-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-02",
+    "Location": "285 Daniel Port\nWest Sabrina, OH 74756",
+    "Description": "Interest or religious however national idea. Sing cause fall. Painting everything hard think cell. Base risk fall wind data full country."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9968
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8119
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 78201
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4961
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 70558
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 171807,
+    "TotalApproved": 70850
+  },
+  "AdjusterDetails": {
+    "Name": "Maria Silva",
+    "ContactInformation": {
+      "Phone": "564.258.1078x4226",
+      "Email": "juliegill@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/9ba28b6d-b30f-473f-8ab1-42e3e560bdaa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moore-Cox",
+    "Model": "discuss",
+    "Year": 2011,
+    "VIN": "44e02477-bdcd-4322-972c-2bdfe584bc78"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jesse Brown",
+      "ContactInformation": {
+        "Phone": "901.675.1421x7895",
+        "Email": "chad18@example.net"
+      },
+      "Statement": "Bit media look produce reduce. Century discussion respond per.\nLevel opportunity happen left. American something he tend. Candidate soon throw team test."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e61d7479-fd0e-497a-8ff3-0a4b7159849e",
+    "OfficerName": "Eric Thomas",
+    "ReportDetails": "Short responsibility skill young make. Task result around everybody moment.\nMay practice she plan step money special. Yet clearly economy discover up entire between size."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 605,
+    "AnnualIncome": 177520,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

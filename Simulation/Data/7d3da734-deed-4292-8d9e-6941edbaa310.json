@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7d3da734-deed-4292-8d9e-6941edbaa310",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-03-22",
+    "EndDate": "2026-03-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-04",
+    "Location": "176 Webb Camp Suite 445\nEast Amandaton, VT 18755",
+    "Description": "Fact everyone half television yes together eight. Anyone defense and cover. Beat talk report. Little send about company.\nLong change own eight list plan. Remember necessary wrong teach."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6194
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6076
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 57192
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 36844
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14547
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 120853,
+    "TotalApproved": 113502
+  },
+  "AdjusterDetails": {
+    "Name": "Bradley Avery DDS",
+    "ContactInformation": {
+      "Phone": "464-784-5501",
+      "Email": "lawrence97@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/852695e2-479c-4d83-8245-df67b9d5a7d7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sanford-Thomas",
+    "Model": "fine",
+    "Year": 2006,
+    "VIN": "9e64e222-3849-4a56-a431-64cd3921fde6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Davis",
+      "ContactInformation": {
+        "Phone": "274.729.7590x3049",
+        "Email": "stephen76@example.net"
+      },
+      "Statement": "Card dark four term live.\nBy road sister. Nearly evening speak sign message. Want avoid shoulder professional less music recent increase."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ef410484-b038-4c7f-ae67-4dac713b0458",
+    "OfficerName": "Tyler Young",
+    "ReportDetails": "Voice reach party like staff be. Best cold away responsibility summer.\nReason oil available take. Around certainly human administration."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 840,
+    "AnnualIncome": 138461,
+    "DebtToIncomeRatio": 0.29
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 0,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

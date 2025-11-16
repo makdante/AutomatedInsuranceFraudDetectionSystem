@@ -1,0 +1,112 @@
+{
+  "ClaimID": "796dec85-e767-4070-a131-f3550406abbf",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2025-07-16",
+    "EndDate": "2026-07-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-08",
+    "Location": "3039 Blake Prairie Apt. 960\nSouth Corey, MH 96356",
+    "Description": "People finish resource seem commercial break. Congress north media role.\nChurch see let loss. Range star kid memory last write. Thought member work significant see city civil beyond."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6028
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 138620
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5512
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 70998
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18060
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 239218,
+    "TotalApproved": 172804
+  },
+  "AdjusterDetails": {
+    "Name": "Andrea Price",
+    "ContactInformation": {
+      "Phone": "(267)501-5361x99801",
+      "Email": "floreslarry@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/241ca0ac-1d11-497c-8ab9-c061dca4c8f1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams-Green",
+    "Model": "attention",
+    "Year": 2017,
+    "VIN": "a60b5f93-e3d8-428c-8d33-58e14f0ed790"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mrs. Mackenzie Johnson",
+      "ContactInformation": {
+        "Phone": "242-258-7565",
+        "Email": "davisshawn@example.net"
+      },
+      "Statement": "Responsibility officer small pay.\nStand across run create better. Ready firm Mr usually too sort.\nChance policy whatever poor. Prevent well cell great ever help. Rock quality popular future."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f232a17f-2c28-42db-83cc-04778b251273",
+    "OfficerName": "Michelle Johnson",
+    "ReportDetails": "Their oil describe including. Hard reach heavy should ten enough bad white. What American risk stand computer heart wall idea."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 699,
+    "AnnualIncome": 73203,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 4,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

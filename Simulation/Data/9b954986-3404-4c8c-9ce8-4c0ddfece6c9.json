@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9b954986-3404-4c8c-9ce8-4c0ddfece6c9",
+  "PolicyID": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+  "EffectiveDates": {
+    "StartDate": "2025-06-29",
+    "EndDate": "2026-06-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "38d2f43b-58cf-49b2-83ed-99824c18c529",
+    "Name": "Vanessa Lam",
+    "PolicyNumber": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+    "ContactInformation": {
+      "Phone": "(659)271-4340x58512",
+      "Email": "kayleethompson@example.org",
+      "Address": "4509 Robert Haven\nNew Curtis, HI 74176"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-29",
+    "Location": "907 Anderson Wall\nPort Josephland, OR 26882",
+    "Description": "Down these else of loss a. Commercial father oil firm. Tell call break culture understand."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 145556
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4309
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3127
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17433
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 21313
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 191738,
+    "TotalApproved": 169725
+  },
+  "AdjusterDetails": {
+    "Name": "Courtney Moreno",
+    "ContactInformation": {
+      "Phone": "+1-965-707-8936x06178",
+      "Email": "randy98@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e2bab689-b605-405b-bbef-41e392270a9b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hansen-Castaneda",
+    "Model": "leg",
+    "Year": 2018,
+    "VIN": "050f8a95-41dd-40b7-a388-c0e15ab922ae"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Diane Harrington",
+      "ContactInformation": {
+        "Phone": "+1-360-226-2140x08383",
+        "Email": "jennifer24@example.org"
+      },
+      "Statement": "Mother remain design ready participant attention clearly. Cause mention example field course mission participant."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "85a5dc80-fe78-400a-a832-80d2d774619e",
+    "OfficerName": "Jeremy Martinez",
+    "ReportDetails": "Citizen personal ten loss. Medical there character customer another many quite.\nCreate reason position fire attack. School trouble ground left management. Look service run anything."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 847,
+    "AnnualIncome": 157121,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 1,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "af5f0334-1137-4a16-8c8b-0448d6e2e9b8",
+  "PolicyID": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+  "EffectiveDates": {
+    "StartDate": "2025-03-04",
+    "EndDate": "2026-03-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "39861407-409e-4253-9f6c-7c0f48258b61",
+    "Name": "Frank Summers",
+    "PolicyNumber": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+    "ContactInformation": {
+      "Phone": "(214)893-1385x492",
+      "Email": "johnsonsherry@example.org",
+      "Address": "630 Phillips Roads Suite 295\nSouth Suzanne, PR 08692"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-18",
+    "Location": "62677 Roberts Drive Apt. 306\nRyanmouth, CO 23199",
+    "Description": "Professional animal event course pull stand few. Ready long something sell key condition hold leave. Choose firm case room drug whole body close.\nChange Republican hold structure pretty."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 45910
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 34429
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7481
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2575
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 81310
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 171705,
+    "TotalApproved": 96583
+  },
+  "AdjusterDetails": {
+    "Name": "Anna Robertson",
+    "ContactInformation": {
+      "Phone": "(825)762-9534",
+      "Email": "suzanne79@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/acf5a693-7c42-4364-99a4-80936c8cba9b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Huber-Barron",
+    "Model": "economic",
+    "Year": 2015,
+    "VIN": "a27c9cb6-9d26-4aa2-814b-227f2b3e9c59"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jonathan Smith",
+      "ContactInformation": {
+        "Phone": "(879)237-0397",
+        "Email": "ywoods@example.net"
+      },
+      "Statement": "Them message situation. Wish though alone recognize. Skin may understand stuff important program.\nMain clear have lay lose. Force nature low.\nQuestion operation again or great significant."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "63bd8e09-f806-469e-8ac8-11f0b4579945",
+    "OfficerName": "Christopher Smith",
+    "ReportDetails": "Five study sell indeed catch style life. Laugh range risk.\nSignificant similar value leave. Plan soldier quality so. Play performance people center serious order."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 456,
+    "AnnualIncome": 177540,
+    "DebtToIncomeRatio": 0.22
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

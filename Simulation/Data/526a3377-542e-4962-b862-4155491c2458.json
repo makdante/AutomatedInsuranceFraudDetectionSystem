@@ -1,0 +1,112 @@
+{
+  "ClaimID": "526a3377-542e-4962-b862-4155491c2458",
+  "PolicyID": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+  "EffectiveDates": {
+    "StartDate": "2025-04-19",
+    "EndDate": "2026-04-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0aea6355-ec93-4670-9d1f-368e59077bd4",
+    "Name": "Jennifer Smith",
+    "PolicyNumber": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+    "ContactInformation": {
+      "Phone": "(638)899-2687x626",
+      "Email": "barrvanessa@example.com",
+      "Address": "PSC 0173, Box 9250\nAPO AA 43354"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-27",
+    "Location": "PSC 4231, Box 8313\nAPO AA 07274",
+    "Description": "Close board cup level husband. If response leg draw after. High religious writer senior political response."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 24013
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 119933
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 72580
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5472
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15121
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 237119,
+    "TotalApproved": 98719
+  },
+  "AdjusterDetails": {
+    "Name": "Patricia White",
+    "ContactInformation": {
+      "Phone": "+1-460-205-9780x476",
+      "Email": "michelegarcia@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/77c45d5b-b859-4c21-a240-aeb2b0ddfd9d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson and Sons",
+    "Model": "agent",
+    "Year": 2008,
+    "VIN": "0f452123-b089-4b2e-8201-a1e89858ed8d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rachel Weiss",
+      "ContactInformation": {
+        "Phone": "+1-427-327-4425x962",
+        "Email": "nicholeparks@example.net"
+      },
+      "Statement": "Son east response sort business attorney include trip. Material film professor realize."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2dc8ad8a-ce02-44b5-82cc-6310dcc7bace",
+    "OfficerName": "Jonathan Martin",
+    "ReportDetails": "Answer throw theory model collection turn TV. Natural side none. Economic organization old serious exist information. Across many half especially it."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 524,
+    "AnnualIncome": 112359,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

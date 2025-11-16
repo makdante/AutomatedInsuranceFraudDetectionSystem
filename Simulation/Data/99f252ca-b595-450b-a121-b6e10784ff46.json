@@ -1,0 +1,112 @@
+{
+  "ClaimID": "99f252ca-b595-450b-a121-b6e10784ff46",
+  "PolicyID": "fa233a67-087f-4a81-aa85-03cb75220f66",
+  "EffectiveDates": {
+    "StartDate": "2025-10-22",
+    "EndDate": "2026-10-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0cc54510-0118-43f1-bb14-decc3fb19e8e",
+    "Name": "Daniel Novak",
+    "PolicyNumber": "fa233a67-087f-4a81-aa85-03cb75220f66",
+    "ContactInformation": {
+      "Phone": "531-516-8947",
+      "Email": "rogerssteven@example.com",
+      "Address": "51262 Davis Knoll\nLake Elizabeth, AZ 16893"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-25",
+    "Location": "996 Simpson Locks Suite 688\nJuanbury, AZ 32647",
+    "Description": "At though food know particularly everybody same. Another traditional special high once. Region same meet billion recently collection goal."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4700581
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4938714
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4351106
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4410560
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4812708
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 23213669,
+    "TotalApproved": 21963524
+  },
+  "AdjusterDetails": {
+    "Name": "Brittany Jensen",
+    "ContactInformation": {
+      "Phone": "+1-654-655-3791x887",
+      "Email": "pperez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c61cbe52-9529-4193-b727-bb0cbf4983ad"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thompson-Ho",
+    "Model": "marriage",
+    "Year": 2007,
+    "VIN": "64f70527-4993-4b8e-ac76-7d9a2da0ba89"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Laura Carter",
+      "ContactInformation": {
+        "Phone": "(757)951-4824",
+        "Email": "bjames@example.org"
+      },
+      "Statement": "Eye study example receive believe form. Speak these start without. Mission choose just yeah too painting stock authority.\nTell soldier government."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e2d090d7-27f9-445c-afa2-1e56f19ec2b5",
+    "OfficerName": "Elizabeth Morrison",
+    "ReportDetails": "Would camera tree night eight. Easy cover every help probably order reflect. Last enjoy your anything accept stand government benefit."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 380,
+    "AnnualIncome": 172485,
+    "DebtToIncomeRatio": 0.36
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9c8fd874-2888-4377-a207-ebe1fed5c854",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-02-04",
+    "EndDate": "2026-02-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-25",
+    "Location": "286 Justin Street Apt. 494\nMichaelbury, MH 67595",
+    "Description": "Travel story he skill guess during do glass. Air point walk interview. Sell focus move admit cup reason decide hold.\nEconomic color big stand. Appear once be perform."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 57294
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 33951
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7488
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9405
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17931
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 126069,
+    "TotalApproved": 2858
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Clark",
+    "ContactInformation": {
+      "Phone": "+1-217-607-5927x611",
+      "Email": "brandywilson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d7e72e46-8df8-4be9-80d2-2df272608e5e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Peterson-Hood",
+    "Model": "kid",
+    "Year": 2002,
+    "VIN": "e47e7c24-073c-4942-b038-0f759bb7b9fa"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kristen Santiago",
+      "ContactInformation": {
+        "Phone": "400-611-4001",
+        "Email": "john85@example.org"
+      },
+      "Statement": "Full power sit almost attorney reflect mind.\nExpect water ask church others check time. That development foot section if fine thought. Break since law television they."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b1dfee98-28e4-43b8-aea3-fa05232fb203",
+    "OfficerName": "Samuel Oliver",
+    "ReportDetails": "Mean environment skill her rule manager. Pay available threat full their by. Agreement health culture mouth look down stay."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 324,
+    "AnnualIncome": 157902,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

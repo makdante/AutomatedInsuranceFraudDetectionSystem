@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c1f027f0-d4cd-42a6-88ae-b0126d4a601f",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2025-04-03",
+    "EndDate": "2026-04-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-26",
+    "Location": "97013 Mills Locks Suite 581\nMcculloughfurt, AK 21853",
+    "Description": "Table exactly idea population theory. Mouth short east challenge travel.\nAnything describe sport director degree coach example. Individual artist throughout lead try finish."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18158
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17187
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3849
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7980
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 74109
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 121283,
+    "TotalApproved": 45983
+  },
+  "AdjusterDetails": {
+    "Name": "Chase Jones",
+    "ContactInformation": {
+      "Phone": "(388)202-3293x671",
+      "Email": "robertdunn@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1c81a99a-8276-45c7-9e64-67878547af20"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Nelson and Sons",
+    "Model": "exactly",
+    "Year": 2009,
+    "VIN": "bc252af5-d04b-491d-af35-2ee232bfe93c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amy Williams",
+      "ContactInformation": {
+        "Phone": "001-418-567-0647x7929",
+        "Email": "claudiawillis@example.org"
+      },
+      "Statement": "Arm daughter hospital save test than. Process role represent network."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "abaae528-8fae-48f8-a4dd-fde3c5e7565b",
+    "OfficerName": "Brittany Martinez",
+    "ReportDetails": "Huge election suddenly. Star still bad ever soldier yet.\nInto fear find body expert. Enough price meet grow street star include from. Inside when pull place smile."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 758,
+    "AnnualIncome": 38634,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

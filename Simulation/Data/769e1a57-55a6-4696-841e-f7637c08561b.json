@@ -1,0 +1,112 @@
+{
+  "ClaimID": "769e1a57-55a6-4696-841e-f7637c08561b",
+  "PolicyID": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+  "EffectiveDates": {
+    "StartDate": "2025-01-20",
+    "EndDate": "2026-01-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "45b25f18-08b7-457c-9045-e998b2b74cef",
+    "Name": "Joshua Ryan",
+    "PolicyNumber": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+    "ContactInformation": {
+      "Phone": "(903)440-8271x3107",
+      "Email": "justin94@example.net",
+      "Address": "792 Ann Cliffs\nLake Desireebury, MD 93133"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-21",
+    "Location": "55869 Stephens Canyon Suite 768\nNew Annaborough, UT 51491",
+    "Description": "Interview foot education tax. Fear main south arm suffer. Onto pass cut no green serious she.\nMonth hair program deep. Instead want card message avoid wish."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14762
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 34379
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 32057
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3132
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3508
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 87838,
+    "TotalApproved": 55719
+  },
+  "AdjusterDetails": {
+    "Name": "Jacob Hughes",
+    "ContactInformation": {
+      "Phone": "+1-691-652-6528x31799",
+      "Email": "ggriffith@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/bb205f9f-1ef7-41d5-8042-61ecfe18eeb1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-31T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ramirez-Gonzales",
+    "Model": "theory",
+    "Year": 2016,
+    "VIN": "a38cec1f-bc39-412e-8192-1af8f5e20223"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jennifer Greer",
+      "ContactInformation": {
+        "Phone": "921.378.6033",
+        "Email": "stevenpatterson@example.net"
+      },
+      "Statement": "My probably mention involve. What story against hospital cause everybody source.\nRange able drop glass coach until. Environmental allow year. Beyond eat level force degree material never our."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2cdc944a-e893-4c71-8ac2-cb2645e79a36",
+    "OfficerName": "Kirsten Flores",
+    "ReportDetails": "Else address movement consider his read. Way task tell garden space. Beat offer possible budget some should daughter.\nKitchen along price can. Imagine necessary seek. Out strategy available along."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 764,
+    "AnnualIncome": 184463,
+    "DebtToIncomeRatio": 0.31
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 0,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

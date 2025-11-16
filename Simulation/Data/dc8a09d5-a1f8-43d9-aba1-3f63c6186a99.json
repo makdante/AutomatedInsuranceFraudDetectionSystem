@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dc8a09d5-a1f8-43d9-aba1-3f63c6186a99",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-06-18",
+    "EndDate": "2026-06-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-08",
+    "Location": "924 Long Pines Suite 270\nKendrashire, IA 95696",
+    "Description": "Cover game wrong customer. Large often while. Direction hair it various window top experience.\nGrow American amount court. Tell occur sign."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 140210
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9258
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17487
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 49222
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7384
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 223561,
+    "TotalApproved": 124876
+  },
+  "AdjusterDetails": {
+    "Name": "Gregory Murray",
+    "ContactInformation": {
+      "Phone": "+1-271-415-9981x71782",
+      "Email": "tiffany54@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/0ac0dab7-16c5-4cfa-a3ff-d467a63c6eb6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Burns Ltd",
+    "Model": "different",
+    "Year": 2014,
+    "VIN": "bb3b1552-06c4-4b3a-864c-79c3c9b8777a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jordan Wilson",
+      "ContactInformation": {
+        "Phone": "+1-518-793-3942x252",
+        "Email": "lisa06@example.net"
+      },
+      "Statement": "Carry cover opportunity.\nContinue sure future sense. Base west lawyer example. Note traditional religious evening play room concern.\nCulture structure step create answer walk."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1ac73a50-19db-4126-a8d7-c190ddc7f28e",
+    "OfficerName": "John Smith",
+    "ReportDetails": "Election culture evidence direction black argue pretty style. Red impact approach coach hope few day. Expert red on sometimes future material."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 673,
+    "AnnualIncome": 147515,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

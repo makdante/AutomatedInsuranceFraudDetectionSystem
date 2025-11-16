@@ -1,0 +1,112 @@
+{
+  "ClaimID": "83caa4cb-bbca-4013-bbc4-58c129eb1b94",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2024-12-26",
+    "EndDate": "2025-12-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-20",
+    "Location": "7263 Mullins Vista Suite 177\nParksville, MI 77264",
+    "Description": "So increase rise tell structure later much clear. Organization follow person art. People to strategy talk like.\nPlace fast reality himself she. Mouth probably also today nothing unit draw."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4298003
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4663981
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4052841
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4572659
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4711345
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22298829,
+    "TotalApproved": 12585507
+  },
+  "AdjusterDetails": {
+    "Name": "Tom Morrison",
+    "ContactInformation": {
+      "Phone": "478-641-3418",
+      "Email": "jasonwalton@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/135710ba-2fea-4bd8-b380-42fb082f0deb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-20T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-25T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-30T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sparks-Richardson",
+    "Model": "health",
+    "Year": 2013,
+    "VIN": "a4e323bb-f80c-4292-861a-505cb3c482e1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Laura Cook",
+      "ContactInformation": {
+        "Phone": "746-582-1772",
+        "Email": "jamesortiz@example.com"
+      },
+      "Statement": "Head street these democratic six.\nAnalysis form may about. Bar experience so peace.\nAgo focus citizen church also certain. Must company low."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "88020ff3-6ec9-4d5c-b779-bc7ef19d5334",
+    "OfficerName": "Laura Watts",
+    "ReportDetails": "Book serious agreement then interesting dark building.\nRequire value spend change order just high foot. Organization already store shoulder rise base future."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 389,
+    "AnnualIncome": 109419,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

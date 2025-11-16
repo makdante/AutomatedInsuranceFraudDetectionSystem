@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b94673f5-447f-4b98-93b0-1b080645b53b",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2024-11-19",
+    "EndDate": "2025-11-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-15",
+    "Location": "32521 Martin Forges\nReneeville, FL 44079",
+    "Description": "Film pass evening street. Happen voice southern growth listen agency treat check. Contain feel probably true top want."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 170851
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 63791
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7522
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16808
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 78101
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 337073,
+    "TotalApproved": 51473
+  },
+  "AdjusterDetails": {
+    "Name": "Jared Day",
+    "ContactInformation": {
+      "Phone": "949.989.3562x094",
+      "Email": "jperry@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/930da573-1c3d-4076-b3b9-34514488e2d9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bell Inc",
+    "Model": "bank",
+    "Year": 2012,
+    "VIN": "2b1b075f-e4dc-4903-a433-069d9f2823a8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kristen Cobb",
+      "ContactInformation": {
+        "Phone": "+1-443-860-4649",
+        "Email": "cindy34@example.com"
+      },
+      "Statement": "Lawyer its hotel remember whose. Room lawyer church couple believe force. Chair past through role whatever.\nEnough large hotel. Skin together kind.\nWait exist and. Red truth teacher name."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1b09ba9a-ad59-4caf-95da-66dbbca70011",
+    "OfficerName": "Edwin Noble",
+    "ReportDetails": "Six trade agent wall discuss walk. Culture week value sell.\nPay three home item much. Here concern improve skin idea choice usually."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 592,
+    "AnnualIncome": 36251,
+    "DebtToIncomeRatio": 0.6
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

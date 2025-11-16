@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f790c7e3-6abb-4895-8d1b-1e39dc34c8c6",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-08-07",
+    "EndDate": "2026-08-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-27",
+    "Location": "26770 Martinez Streets Apt. 134\nWest Thomasbury, CT 73667",
+    "Description": "Knowledge natural each Republican. Participant whom maintain. Growth quite deal.\nHotel executive each color prevent power either. Mind thank guy present bad work."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 83592
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 132543
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5458
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15964
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 98080
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 335637,
+    "TotalApproved": 40811
+  },
+  "AdjusterDetails": {
+    "Name": "Daniel Farmer",
+    "ContactInformation": {
+      "Phone": "713.651.4788",
+      "Email": "waterslauren@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/dbddb7dd-09fa-4c13-979b-68a8bd54b4b9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams-Ho",
+    "Model": "expect",
+    "Year": 2003,
+    "VIN": "56984de2-516f-4901-a502-9dd5ea56b662"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Shaun Jones",
+      "ContactInformation": {
+        "Phone": "770.816.0883x6793",
+        "Email": "murphyalbert@example.com"
+      },
+      "Statement": "Watch my soldier modern yet. Trial girl order guy discover soldier next month.\nKnowledge unit hair drive resource fast official. Center word director learn situation."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ad33ac73-5668-46ee-b493-b50b714389a7",
+    "OfficerName": "Kayla Mccall",
+    "ReportDetails": "Away sit speech boy late. Material current do first challenge dinner have party.\nPerson country interesting choose question. Detail TV administration after card floor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 304,
+    "AnnualIncome": 158428,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

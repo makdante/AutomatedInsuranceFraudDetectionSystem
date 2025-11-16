@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cf152ec8-451e-4945-88a8-17f6159e7fab",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2024-11-30",
+    "EndDate": "2025-11-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-23",
+    "Location": "385 Bell Plains\nMichellefurt, MT 69840",
+    "Description": "Television often body close avoid stop maybe. Cold time free fly central major throw. Full water player finish."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3714
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 87216
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6478
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17857
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9357
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 124622,
+    "TotalApproved": 118977
+  },
+  "AdjusterDetails": {
+    "Name": "Sara Ho",
+    "ContactInformation": {
+      "Phone": "(470)868-7436",
+      "Email": "roger47@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/4a9db289-13ee-4295-94bc-07a924a2be66"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ramos, Caldwell and Hunt",
+    "Model": "newspaper",
+    "Year": 2021,
+    "VIN": "3d02b437-5c66-4d3a-a1b7-eae00c311df1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Todd",
+      "ContactInformation": {
+        "Phone": "8582650207",
+        "Email": "johnlee@example.org"
+      },
+      "Statement": "Traditional significant indicate require bag. Not five drug forget among. Ever wife leave attack question. Song down second must early."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "63294605-9b7f-4baa-836b-a1de321305e2",
+    "OfficerName": "Robert Walsh",
+    "ReportDetails": "Land car shoulder impact senior. Ask onto human spend old.\nApply culture because.\nDifference fine former every drop health charge space. Know inside own whole most everybody."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 717,
+    "AnnualIncome": 42790,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 8,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

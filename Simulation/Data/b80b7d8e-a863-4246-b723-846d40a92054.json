@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b80b7d8e-a863-4246-b723-846d40a92054",
+  "PolicyID": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+  "EffectiveDates": {
+    "StartDate": "2025-05-06",
+    "EndDate": "2026-05-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "342b380f-5b25-4a6f-a462-2fa1c3057fc2",
+    "Name": "Kayla Wilson",
+    "PolicyNumber": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+    "ContactInformation": {
+      "Phone": "432-340-1587",
+      "Email": "jonathan54@example.com",
+      "Address": "25321 Lopez Stream\nPort Amandaside, MT 41311"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-01",
+    "Location": "05737 Whitney Route\nEast Noahchester, FM 31966",
+    "Description": "Amount significant agent together international under. Relate put strategy big benefit understand matter. Action impact push together step."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6936
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 70343
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16234
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 142039
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15121
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 250673,
+    "TotalApproved": 222151
+  },
+  "AdjusterDetails": {
+    "Name": "Kimberly Bowman DDS",
+    "ContactInformation": {
+      "Phone": "602.975.0809x266",
+      "Email": "smithraven@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c699c282-053b-45c4-aea6-ecb078db71d2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Price PLC",
+    "Model": "under",
+    "Year": 2002,
+    "VIN": "c038b92b-31b4-40f1-a643-211c73a03eb2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mathew Schwartz",
+      "ContactInformation": {
+        "Phone": "286-278-6508",
+        "Email": "gonzalezjoanna@example.com"
+      },
+      "Statement": "Approach vote which part environment page model officer. Year analysis light him.\nSource successful force idea your including but company."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c5e718a3-f38b-4a0b-96f8-065bbf60c937",
+    "OfficerName": "Katie Dean",
+    "ReportDetails": "Among billion mention. Until attorney weight peace represent use.\nWife stop reflect power foot leader baby certainly. Whatever here after training method history."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 418,
+    "AnnualIncome": 78908,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

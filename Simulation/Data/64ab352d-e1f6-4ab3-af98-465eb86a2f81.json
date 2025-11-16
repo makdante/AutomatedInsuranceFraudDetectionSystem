@@ -1,0 +1,112 @@
+{
+  "ClaimID": "64ab352d-e1f6-4ab3-af98-465eb86a2f81",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-01-28",
+    "EndDate": "2026-01-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-20",
+    "Location": "6368 Courtney Bridge\nNorth Kellyside, DE 66522",
+    "Description": "Writer score scientist join. Wife safe local author avoid just news actually.\nUs window just dream evening team."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 149406
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 62522
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7871
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 42610
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1716
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 264125,
+    "TotalApproved": 170511
+  },
+  "AdjusterDetails": {
+    "Name": "Krystal Wilson",
+    "ContactInformation": {
+      "Phone": "(370)352-7564x451",
+      "Email": "bturner@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/05ae8918-99e9-4d01-8252-c288eab40579"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Owens LLC",
+    "Model": "carry",
+    "Year": 2008,
+    "VIN": "a135cd81-2a9f-4200-9932-3e9de746b80e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Beck",
+      "ContactInformation": {
+        "Phone": "001-836-585-2442x2106",
+        "Email": "kelseycoleman@example.com"
+      },
+      "Statement": "Hair risk thousand east sister. Appear theory heavy real mention former. Already significant teach major.\nField consider open north page article."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "27ccd35b-4c41-4566-9c10-fb4486384b19",
+    "OfficerName": "Thomas White",
+    "ReportDetails": "Share today from feel sometimes. Certain do seven million someone weight mouth. Example above surface."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 489,
+    "AnnualIncome": 31148,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 6,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c53e37db-88ab-4a98-b432-2ba1b5519b0a",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-10-21",
+    "EndDate": "2026-10-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-13",
+    "Location": "9853 Olson Keys\nAdamsstad, IL 24673",
+    "Description": "End ever himself happy theory. Often view begin argue single. Theory traditional room up lay might.\nOther argue baby coach great. Cover spend according manager stand."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19828
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7192
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 33276
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2268
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 94210
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 156774,
+    "TotalApproved": 124645
+  },
+  "AdjusterDetails": {
+    "Name": "Sarah Wallace",
+    "ContactInformation": {
+      "Phone": "717.216.5771x850",
+      "Email": "isaacrose@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/ce05806d-0a29-403d-82c5-d7eecbc9e4a6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Dyer-Martinez",
+    "Model": "possible",
+    "Year": 2007,
+    "VIN": "08be6d2d-5baf-4520-b218-fd8237104208"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Dunn",
+      "ContactInformation": {
+        "Phone": "241.452.4565x4701",
+        "Email": "gschultz@example.net"
+      },
+      "Statement": "Arm quickly public herself anyone nation true. Bag mission score rise little simply shoulder individual. Record physical hour important. Into force radio wait interview public imagine."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cac482e2-297f-4027-ba5a-3b21207e7953",
+    "OfficerName": "Ryan Edwards",
+    "ReportDetails": "Call recently affect ago bar his. Away maintain he study more begin right detail."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 693,
+    "AnnualIncome": 148709,
+    "DebtToIncomeRatio": 0.53
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

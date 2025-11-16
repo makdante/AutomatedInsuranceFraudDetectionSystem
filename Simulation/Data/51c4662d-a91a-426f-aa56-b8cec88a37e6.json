@@ -1,0 +1,112 @@
+{
+  "ClaimID": "51c4662d-a91a-426f-aa56-b8cec88a37e6",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2024-12-28",
+    "EndDate": "2025-12-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-02",
+    "Location": "4961 Thomas Meadow\nEmilyfort, ME 00968",
+    "Description": "However store grow follow so shake TV. Heavy visit stop stay conference movie capital."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 72440
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9512
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 149219
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 95584
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3228
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 329983,
+    "TotalApproved": 244770
+  },
+  "AdjusterDetails": {
+    "Name": "Jillian Tucker",
+    "ContactInformation": {
+      "Phone": "001-900-713-9043x18748",
+      "Email": "elizabethdavis@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1a1a6c9b-523a-463d-aad3-083eaf1365e5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller Ltd",
+    "Model": "bag",
+    "Year": 2019,
+    "VIN": "15f75945-f0a8-4636-a3c8-d7e76e0d77a4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mitchell Snow",
+      "ContactInformation": {
+        "Phone": "(776)284-9775",
+        "Email": "kimberlyalexander@example.org"
+      },
+      "Statement": "It myself arm. Quite system very make. Skill deal man center."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bc90c940-1e20-45b0-beaa-31bf9360383e",
+    "OfficerName": "Nicholas Johnson",
+    "ReportDetails": "Natural tree say central. Affect she value book.\nTend policy road standard only ability. Clear right development list brother exist throughout."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 748,
+    "AnnualIncome": 60416,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

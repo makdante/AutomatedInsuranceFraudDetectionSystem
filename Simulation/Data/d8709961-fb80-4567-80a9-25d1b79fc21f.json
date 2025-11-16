@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d8709961-fb80-4567-80a9-25d1b79fc21f",
+  "PolicyID": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+  "EffectiveDates": {
+    "StartDate": "2025-07-26",
+    "EndDate": "2026-07-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "94574ab1-14ef-4d7d-935c-c52f6f907b16",
+    "Name": "Brittany Perkins",
+    "PolicyNumber": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+    "ContactInformation": {
+      "Phone": "877-727-6223x0565",
+      "Email": "richard63@example.net",
+      "Address": "72556 Audrey Lake\nNathanshire, GA 57199"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-19",
+    "Location": "404 Daniel Drives Suite 908\nLake Edgar, VI 46877",
+    "Description": "Education others quality story plant. Boy speech the positive popular natural. Save decide assume however significant media condition."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3977
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3418
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3314
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 15449
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 87512
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 113670,
+    "TotalApproved": 88902
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Chen",
+    "ContactInformation": {
+      "Phone": "508.902.7079x051",
+      "Email": "lsmith@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/6214d20d-00e5-4845-a514-1288c6a62b69"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Pierce LLC",
+    "Model": "and",
+    "Year": 2018,
+    "VIN": "24651cbf-a77d-440b-b5ca-5e0cc0f0359f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Carrillo",
+      "ContactInformation": {
+        "Phone": "480-393-3380",
+        "Email": "hjones@example.org"
+      },
+      "Statement": "Second official Mr take ok. Send wear back ago another. Summer system situation against affect."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d985b238-208e-40fa-b9b3-9a8c967dd95e",
+    "OfficerName": "Jacqueline Rowland",
+    "ReportDetails": "Both raise outside ask up reveal. Machine house science. Service area usually stop hospital network say.\nSong reality special. Carry inside only star base. Gun free help."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 664,
+    "AnnualIncome": 51617,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

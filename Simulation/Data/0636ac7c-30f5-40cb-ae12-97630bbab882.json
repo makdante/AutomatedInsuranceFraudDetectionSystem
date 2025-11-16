@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0636ac7c-30f5-40cb-ae12-97630bbab882",
+  "PolicyID": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+  "EffectiveDates": {
+    "StartDate": "2025-01-28",
+    "EndDate": "2026-01-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5bc871d2-36ee-4aee-bc7f-b179bb855d6f",
+    "Name": "Eric Fletcher",
+    "PolicyNumber": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+    "ContactInformation": {
+      "Phone": "243.779.0944x7212",
+      "Email": "grantjones@example.com",
+      "Address": "4468 Cunningham Islands Apt. 297\nNorth Greg, SC 48184"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-13",
+    "Location": "8201 Mccullough Fords Suite 332\nPort Charles, WI 79519",
+    "Description": "Police still business simply our travel. Set man outside mention seat situation. Mouth near able."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6234
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17270
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 114826
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2224
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7870
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 148424,
+    "TotalApproved": 35240
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Robinson",
+    "ContactInformation": {
+      "Phone": "203.387.9019x214",
+      "Email": "heather82@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ed7ab950-7fad-43a7-a23c-e6a3953d925a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-13T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-18T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-23T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith-Martin",
+    "Model": "get",
+    "Year": 2015,
+    "VIN": "e508f376-22ae-4e01-970e-965cde995019"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Morgan Summers",
+      "ContactInformation": {
+        "Phone": "+1-596-790-9858x62214",
+        "Email": "michael17@example.net"
+      },
+      "Statement": "Assume experience offer cost outside. Language score citizen player before black personal scene."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "add1c55a-e441-4f28-96b1-bc6c1237f5bd",
+    "OfficerName": "Joseph Burke",
+    "ReportDetails": "Despite bank today. Tree happen once dream before. Hope sort nice manager leave need enter.\nTraditional role east stop official everything wonder. Member eight opportunity itself."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 559,
+    "AnnualIncome": 146191,
+    "DebtToIncomeRatio": 0.47
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 10,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

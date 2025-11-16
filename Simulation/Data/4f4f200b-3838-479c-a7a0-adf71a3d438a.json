@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4f4f200b-3838-479c-a7a0-adf71a3d438a",
+  "PolicyID": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+  "EffectiveDates": {
+    "StartDate": "2025-04-21",
+    "EndDate": "2026-04-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8be26a6-4cb5-4164-b3db-8733f427afd7",
+    "Name": "Courtney Davis",
+    "PolicyNumber": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+    "ContactInformation": {
+      "Phone": "001-379-236-0842x2726",
+      "Email": "nicholas30@example.net",
+      "Address": "670 Lucas Vista Suite 883\nNew Carol, CO 53855"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-16",
+    "Location": "PSC 0622, Box 9101\nAPO AP 32301",
+    "Description": "Line call avoid participant edge.\nOccur policy board friend.\nFight movement hair perform. Attention push fact.\nOld agree than employee interest season. Recent box find American."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9669
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 79974
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10110
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 37682
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4600
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 142035,
+    "TotalApproved": 21600
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Franklin",
+    "ContactInformation": {
+      "Phone": "001-503-801-6387",
+      "Email": "burnsdavid@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d48314aa-67ea-4e87-ba34-9a0012d178bd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-16T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-21T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-26T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Huff, Williams and Osborne",
+    "Model": "machine",
+    "Year": 2000,
+    "VIN": "727bd0c9-3edf-41f2-af7f-dcf884ee9c80"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brittany Huffman",
+      "ContactInformation": {
+        "Phone": "237.930.9426x1796",
+        "Email": "campbellrobert@example.com"
+      },
+      "Statement": "Guy service boy have less.\nDoctor also speech because third west she. Girl seat person allow edge.\nProcess gas morning involve tough head benefit. Stuff so stay meet clear above."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "359353b3-0951-4092-a4a3-014d2cc250de",
+    "OfficerName": "Walter Long",
+    "ReportDetails": "Drop former knowledge well. Charge thought case war than put oil. Item our can author.\nCompany civil second result line take home factor. Three wait lawyer technology charge simple."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 468,
+    "AnnualIncome": 106066,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 1,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

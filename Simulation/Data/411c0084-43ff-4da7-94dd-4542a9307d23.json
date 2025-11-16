@@ -1,0 +1,112 @@
+{
+  "ClaimID": "411c0084-43ff-4da7-94dd-4542a9307d23",
+  "PolicyID": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+  "EffectiveDates": {
+    "StartDate": "2025-05-24",
+    "EndDate": "2026-05-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5bc871d2-36ee-4aee-bc7f-b179bb855d6f",
+    "Name": "Eric Fletcher",
+    "PolicyNumber": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+    "ContactInformation": {
+      "Phone": "243.779.0944x7212",
+      "Email": "grantjones@example.com",
+      "Address": "4468 Cunningham Islands Apt. 297\nNorth Greg, SC 48184"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-19",
+    "Location": "646 Clifford Squares\nSouth Ann, AR 39043",
+    "Description": "Charge training window paper race what. Alone clearly compare suggest impact region sound moment. During open case car. When town push include."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 33007
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 76031
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4379
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4568
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 114120
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 232105,
+    "TotalApproved": 173772
+  },
+  "AdjusterDetails": {
+    "Name": "Scott Nguyen",
+    "ContactInformation": {
+      "Phone": "(388)768-1312x2625",
+      "Email": "zpeck@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/74e3d20d-737b-4d0a-985a-dcb1721487ae"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ayala-Smith",
+    "Model": "somebody",
+    "Year": 2007,
+    "VIN": "bbf3ada4-d931-4d58-b8ba-09a308bc2679"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jennifer Hebert",
+      "ContactInformation": {
+        "Phone": "001-819-210-4047",
+        "Email": "collinsjames@example.org"
+      },
+      "Statement": "Take style health hundred story large. Foreign draw drop physical north local. By natural know which TV her group lay. Author question manager fall."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "41feb033-f9b8-489b-a754-9c21dd546a93",
+    "OfficerName": "Daniel Colon",
+    "ReportDetails": "You first side consumer. Eat three gun letter money class. Remain evidence baby data why realize."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 323,
+    "AnnualIncome": 166930,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 1,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

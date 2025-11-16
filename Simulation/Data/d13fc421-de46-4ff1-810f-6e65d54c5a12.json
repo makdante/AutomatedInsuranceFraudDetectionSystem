@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d13fc421-de46-4ff1-810f-6e65d54c5a12",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2025-07-29",
+    "EndDate": "2026-07-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-14",
+    "Location": "2066 Carroll Path Apt. 910\nJohnsonberg, KS 86522",
+    "Description": "Visit various first color. Talk politics huge your able."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 72839
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1583
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8185
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8728
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1311
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 92646,
+    "TotalApproved": 16555
+  },
+  "AdjusterDetails": {
+    "Name": "Mr. Michael Wang",
+    "ContactInformation": {
+      "Phone": "(940)859-0727",
+      "Email": "ptorres@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d8b17492-1a3b-429a-b71f-a915d489354b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ashley PLC",
+    "Model": "market",
+    "Year": 2017,
+    "VIN": "78d17b5b-a8ef-4b4c-bb28-b2e19fafcc22"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Adam Fletcher",
+      "ContactInformation": {
+        "Phone": "263-830-8268x282",
+        "Email": "parkermartin@example.org"
+      },
+      "Statement": "Reveal save author stock. Another side glass article order he. Before commercial rate.\nPage try realize. Garden lot thing start meeting."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e657572d-5ecc-4a9b-811d-70677b6bff40",
+    "OfficerName": "Natasha Hernandez",
+    "ReportDetails": "Thing growth field whose structure article fill free. Type soldier miss financial group choice.\nRole miss than nearly key culture. Million PM sing billion school window."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 411,
+    "AnnualIncome": 159423,
+    "DebtToIncomeRatio": 0.26
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6ad40584-ea65-4a24-84cf-3cb36e46604c",
+  "PolicyID": "6c36cc73-e207-48b9-a284-c51cf5663165",
+  "EffectiveDates": {
+    "StartDate": "2025-10-03",
+    "EndDate": "2026-10-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "193b28b0-1277-4ecb-b44b-678f0a8a54ac",
+    "Name": "Aaron Wilson",
+    "PolicyNumber": "6c36cc73-e207-48b9-a284-c51cf5663165",
+    "ContactInformation": {
+      "Phone": "4298804696",
+      "Email": "uford@example.org",
+      "Address": "70180 Jessica Ridges Suite 614\nEast Mindy, IL 04431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-07",
+    "Location": "29312 Daniels Rapid Suite 888\nLake Stevenborough, OH 78827",
+    "Description": "Cup mind while stuff enjoy. Floor officer son name. Improve letter specific street.\nA option name adult without. Party training beautiful. Back process sell."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9940
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 72652
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2155
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 33145
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9322
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 127214,
+    "TotalApproved": 49770
+  },
+  "AdjusterDetails": {
+    "Name": "Mr. Edward Levy",
+    "ContactInformation": {
+      "Phone": "+1-928-215-7539x45313",
+      "Email": "wisejoan@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/159c9317-c7ed-4208-b6e1-358ad21e5cda"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-09-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lang-Cameron",
+    "Model": "recently",
+    "Year": 2014,
+    "VIN": "3a69b863-8c1e-4a2b-b561-49c0829487a7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Paul Jensen",
+      "ContactInformation": {
+        "Phone": "301-538-3478x5305",
+        "Email": "joseph28@example.org"
+      },
+      "Statement": "Cut front Congress. Very thank sit ever I Mr prevent between.\nMany town conference star. Stand organization while water. Treat class quite new determine close behavior."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "be54e535-c176-473e-9e5e-637ec81ee41f",
+    "OfficerName": "Katherine Hill",
+    "ReportDetails": "Data with beat collection. Occur least hospital.\nRepublican participant after hair guess break. Fill sort senior green. Beautiful police send alone."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 578,
+    "AnnualIncome": 123525,
+    "DebtToIncomeRatio": 0.63
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

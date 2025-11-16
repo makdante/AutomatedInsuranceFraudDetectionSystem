@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b4584b93-f6b6-498e-b93d-18ed8121283a",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2025-06-01",
+    "EndDate": "2026-06-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-16",
+    "Location": "186 Michael Squares\nLake David, CT 50686",
+    "Description": "Ask very middle modern story away. Would street record force. Bill spring understand local kid."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 21227
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 48939
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 45760
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 43166
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1423
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 160515,
+    "TotalApproved": 57289
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Gordon",
+    "ContactInformation": {
+      "Phone": "001-942-609-5961x7756",
+      "Email": "matthewsmith@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/3f45eaea-c278-4130-9f83-d1a58ae5b1fb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bates Group",
+    "Model": "maintain",
+    "Year": 2013,
+    "VIN": "40bd1f30-d396-4b8b-bb3f-9d8e66604283"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lindsey Perez",
+      "ContactInformation": {
+        "Phone": "533.775.7582x267",
+        "Email": "benjaminjones@example.net"
+      },
+      "Statement": "Price rise visit. Throughout know cost week Democrat performance. Why act lead we what."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "17fbc11b-7fa9-4f26-a126-9413aa27a6a9",
+    "OfficerName": "David Clark",
+    "ReportDetails": "Suddenly outside modern. Pattern hear we head medical fill.\nAge box positive whether. Natural practice national president collection how out onto. Be bad her civil issue with."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 305,
+    "AnnualIncome": 37362,
+    "DebtToIncomeRatio": 0.71
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

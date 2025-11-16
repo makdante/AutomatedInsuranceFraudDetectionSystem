@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1e84cdcd-fce6-4c8e-b90e-f3472322afcb",
+  "PolicyID": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+  "EffectiveDates": {
+    "StartDate": "2025-03-02",
+    "EndDate": "2026-03-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "33851d0f-ae34-4d84-9979-9c0bb345ff37",
+    "Name": "Emily Richardson",
+    "PolicyNumber": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+    "ContactInformation": {
+      "Phone": "(999)370-8402x9360",
+      "Email": "stephen63@example.com",
+      "Address": "90107 Stephen Well\nAndrewmouth, ND 46797"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-13",
+    "Location": "545 Moody Stream\nPalmerhaven, CA 84419",
+    "Description": "Record magazine become try.\nThus yet appear parent value finally degree. Deep response difference easy point. Fear similar growth beat. These available decade that player."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8961
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1890
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7285
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 22088
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6036
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 46260,
+    "TotalApproved": 8820
+  },
+  "AdjusterDetails": {
+    "Name": "Kenneth Hayes",
+    "ContactInformation": {
+      "Phone": "4598709030",
+      "Email": "lindsayroach@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/84d1baff-2faa-4041-85fa-fa417efa13da"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Archer PLC",
+    "Model": "discover",
+    "Year": 2009,
+    "VIN": "bf7b1451-c7e5-4a2a-93c2-7ee06dc88747"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amanda Holland",
+      "ContactInformation": {
+        "Phone": "291.715.6574x004",
+        "Email": "dixonronald@example.org"
+      },
+      "Statement": "Side before success take. Material national price end follow begin husband field.\nAs head interview. Wear project enter look reach crime. No fill require support myself authority."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0eee9b69-ba56-4009-805b-7adec2fa4e98",
+    "OfficerName": "Monique Christian",
+    "ReportDetails": "Society responsibility identify protect least pull happen. Degree job inside maybe.\nIndustry policy free store town room floor. Give little member six scene. Someone week sell protect ball."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 654,
+    "AnnualIncome": 119169,
+    "DebtToIncomeRatio": 0.47
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

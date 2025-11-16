@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c97b470b-4c50-47b7-ad56-c733d6f7476c",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2025-08-03",
+    "EndDate": "2026-08-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-31",
+    "Location": "37598 Stafford Stravenue Apt. 228\nNorth Stephenborough, MT 81559",
+    "Description": "Ability full again significant. Toward ever material pattern certainly material statement for. Of next tell must through relate.\nMeet article learn audience. Region evening serve own religious."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 28683
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11248
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4310
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14989
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 25389
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 84619,
+    "TotalApproved": 54047
+  },
+  "AdjusterDetails": {
+    "Name": "Miss Julia Williams",
+    "ContactInformation": {
+      "Phone": "877-545-9665x771",
+      "Email": "sross@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c4860bf8-0ca8-4148-a64e-c6330bbec802"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-31T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis-Terrell",
+    "Model": "whatever",
+    "Year": 2009,
+    "VIN": "94a3e32a-5e1e-4e22-89af-f78d6998512c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Mendez",
+      "ContactInformation": {
+        "Phone": "001-948-410-2492x8494",
+        "Email": "elliottmichelle@example.org"
+      },
+      "Statement": "Party wall really particular program. Wall size central decision Republican. List care card investment keep trial surface."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8215c62f-77a9-4259-bdda-2e0c10ebf230",
+    "OfficerName": "Erin Freeman",
+    "ReportDetails": "Son various until collection rest. Finish job each bank. Security sign kind involve food.\nBehind foot tell. Debate impact case church arm last."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 663,
+    "AnnualIncome": 53056,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

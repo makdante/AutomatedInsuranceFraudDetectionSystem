@@ -1,0 +1,112 @@
+{
+  "ClaimID": "471b1298-5703-4448-89bd-dcca4a7d31c8",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2025-06-13",
+    "EndDate": "2026-06-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-01",
+    "Location": "3434 Smith Manor\nEast Manuelchester, MI 63658",
+    "Description": "Walk activity that kid management thank relate hot. Buy color certainly act individual miss PM. State believe also opportunity."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1109
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5595
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 69177
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19577
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 34652
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 130110,
+    "TotalApproved": 125245
+  },
+  "AdjusterDetails": {
+    "Name": "Dustin Medina",
+    "ContactInformation": {
+      "Phone": "(637)318-3364x211",
+      "Email": "michaelbell@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1d7d27a2-54e3-431c-b0a0-13641905796d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Benson Inc",
+    "Model": "spring",
+    "Year": 2009,
+    "VIN": "31091c64-a71f-482f-8e43-5cc2e83cae3e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Julie Pierce",
+      "ContactInformation": {
+        "Phone": "+1-270-922-1140x51465",
+        "Email": "sara99@example.com"
+      },
+      "Statement": "Hot court begin reflect which local body. Nature professional beat range want.\nMore entire believe building eight necessary. Customer present treat two drop from."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "99509c45-3b83-4925-a72e-c9ec337f09b0",
+    "OfficerName": "Susan Kelly",
+    "ReportDetails": "Follow during avoid spend develop white positive. For talk really body dinner quality. Stock exactly have seem after picture kitchen nor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 605,
+    "AnnualIncome": 130882,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

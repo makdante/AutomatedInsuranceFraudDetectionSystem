@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b3ae6863-a008-4354-bc9d-a4ed429e4eb2",
+  "PolicyID": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+  "EffectiveDates": {
+    "StartDate": "2025-04-28",
+    "EndDate": "2026-04-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d5023dd5-3c99-4647-ac91-e9ca560330de",
+    "Name": "Kevin Williams",
+    "PolicyNumber": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+    "ContactInformation": {
+      "Phone": "(620)408-9812x278",
+      "Email": "maxwell13@example.net",
+      "Address": "800 Campbell Streets Apt. 592\nWest Nicole, DE 17286"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-16",
+    "Location": "020 Kenneth Harbor Suite 110\nJoseville, MA 27630",
+    "Description": "Story concern minute still. Manage seem language likely later. Seek politics participant for.\nBit than shoulder alone every people system. But spend case. Culture although level."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15318
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 94893
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1505
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 49382
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6669
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 167767,
+    "TotalApproved": 118529
+  },
+  "AdjusterDetails": {
+    "Name": "Danielle Graham",
+    "ContactInformation": {
+      "Phone": "+1-219-208-9174",
+      "Email": "thomasskinner@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/aeeb1fb2-0668-4d3c-9625-4f8b84fb6676"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-16T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-21T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-26T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brewer-Lowery",
+    "Model": "safe",
+    "Year": 2015,
+    "VIN": "c82333df-9fa7-41f1-94ae-19ab98862b72"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Johnny Newman",
+      "ContactInformation": {
+        "Phone": "382-755-1955",
+        "Email": "lisaperry@example.com"
+      },
+      "Statement": "Let miss out staff adult adult. Collection yet must base some. Social security rich arm energy strong year.\nReligious record on value eat. Around voice entire size."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "784f75dc-0c47-4e42-b9a8-8084b31e8bb2",
+    "OfficerName": "Daniel Martinez",
+    "ReportDetails": "Animal spring site card red trouble. Brother front billion agreement expert. Page section street such whole base term attorney."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 694,
+    "AnnualIncome": 115064,
+    "DebtToIncomeRatio": 0.55
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 1,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

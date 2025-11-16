@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a1dcc66a-39d4-4cb3-a3f7-0694025686ab",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-06-11",
+    "EndDate": "2026-06-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-04",
+    "Location": "2454 Donna Bridge\nWest Adrianview, OR 14179",
+    "Description": "Third Mr order organization image executive president. Star professional compare center Republican what even. Us business court around poor.\nFilm tree hit employee catch crime us later."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10696
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6827
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 30767
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2018
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 20104
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 70412,
+    "TotalApproved": 70179
+  },
+  "AdjusterDetails": {
+    "Name": "Thomas Nguyen",
+    "ContactInformation": {
+      "Phone": "426-802-9332x39881",
+      "Email": "porteralexander@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/71a40741-c713-4107-9995-505c2052cf89"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Espinoza, Ramirez and Bishop",
+    "Model": "share",
+    "Year": 2002,
+    "VIN": "4c04e521-2ca2-4629-be0c-a33974354ce2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ashley Garcia",
+      "ContactInformation": {
+        "Phone": "973-437-1914x96891",
+        "Email": "michaellee@example.com"
+      },
+      "Statement": "Ok opportunity answer present hand case war. Common adult go star before great more ten.\nPoint result Mrs everyone. Approach mean artist have use mention challenge. Wish share enter purpose world."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "38f0a56f-f5aa-4649-9714-c400dd8c97ec",
+    "OfficerName": "Ellen Barber",
+    "ReportDetails": "What decision fact become then doctor town become. Car live wide message green able hold doctor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 317,
+    "AnnualIncome": 71794,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

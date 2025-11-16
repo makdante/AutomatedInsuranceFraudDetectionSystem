@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5cac44d9-f6f1-489d-8c68-038a32f9af11",
+  "PolicyID": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+  "EffectiveDates": {
+    "StartDate": "2025-05-26",
+    "EndDate": "2026-05-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "38d2f43b-58cf-49b2-83ed-99824c18c529",
+    "Name": "Vanessa Lam",
+    "PolicyNumber": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+    "ContactInformation": {
+      "Phone": "(659)271-4340x58512",
+      "Email": "kayleethompson@example.org",
+      "Address": "4509 Robert Haven\nNew Curtis, HI 74176"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-08",
+    "Location": "USS Morris\nFPO AE 83643",
+    "Description": "National cover special. Hour ground drop today everyone. Again wrong maybe arm morning indeed.\nGreen air sort bank talk. Color Republican inside friend truth seek miss."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 54112
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6082
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24952
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 44495
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9330
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 138971,
+    "TotalApproved": 40657
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Brennan",
+    "ContactInformation": {
+      "Phone": "681-209-0890",
+      "Email": "tylerreginald@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d0603bc5-30b3-4108-9a50-ce5544fd1b02"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Scott Ltd",
+    "Model": "may",
+    "Year": 2021,
+    "VIN": "ae50eb7a-a028-4339-8cad-d57dbe0192d6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Diaz",
+      "ContactInformation": {
+        "Phone": "568-936-1195x5720",
+        "Email": "johnmcdaniel@example.net"
+      },
+      "Statement": "Catch election heart everyone road name bed. Blood entire life arm. Behind defense happen whole according agency seven.\nSort across number major east. Series life physical recently."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f270bc87-4f60-4302-80fa-f24bb9e2d6ea",
+    "OfficerName": "Douglas Taylor MD",
+    "ReportDetails": "Water message price offer this same. Star detail arrive certain rock around enter. Fear lawyer which tax final. Court live six likely."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 725,
+    "AnnualIncome": 39890,
+    "DebtToIncomeRatio": 1.0
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

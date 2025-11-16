@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1e8d1308-4515-4347-8b2e-08998facade1",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-03-22",
+    "EndDate": "2026-03-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-12",
+    "Location": "027 Kathleen Views Suite 974\nWhitefurt, WA 68179",
+    "Description": "Say maintain star. Possible phone certain manage. Bag hotel lead about. Protect exactly magazine side plant green.\nIndividual our impact role civil article. Central along option something mention."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5454
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 39852
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3557
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 80155
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 31830
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 160848,
+    "TotalApproved": 69502
+  },
+  "AdjusterDetails": {
+    "Name": "Jaclyn Esparza",
+    "ContactInformation": {
+      "Phone": "(281)931-0413x847",
+      "Email": "lee13@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a58bfdd7-023f-4d44-87c9-661f2aed0b69"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Martin",
+    "Model": "billion",
+    "Year": 2013,
+    "VIN": "6ef930a6-4ecd-4f74-a5c8-cd4950e0282e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Julie Johnson",
+      "ContactInformation": {
+        "Phone": "(659)282-9008x4779",
+        "Email": "goodstephanie@example.com"
+      },
+      "Statement": "Others student support program as thus unit. Among ahead ball issue clearly.\nSoldier floor avoid example try whether. Your water success project. Own teacher scene product job city top culture."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5f1ed019-b548-489f-a9bf-075dc9700892",
+    "OfficerName": "Kiara Chapman",
+    "ReportDetails": "Partner out break anyone million. Source seven if brother.\nSuch fight walk rest green very. Even not assume financial next be follow more. Ask speech call trial middle easy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 725,
+    "AnnualIncome": 50862,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 9,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

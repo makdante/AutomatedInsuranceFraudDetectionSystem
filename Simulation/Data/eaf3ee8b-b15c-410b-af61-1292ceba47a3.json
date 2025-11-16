@@ -1,0 +1,112 @@
+{
+  "ClaimID": "eaf3ee8b-b15c-410b-af61-1292ceba47a3",
+  "PolicyID": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+  "EffectiveDates": {
+    "StartDate": "2025-03-11",
+    "EndDate": "2026-03-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fc97abc-4961-491f-a4b1-12068641ded7",
+    "Name": "Mark Macias",
+    "PolicyNumber": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+    "ContactInformation": {
+      "Phone": "520-436-5997x9756",
+      "Email": "aaron79@example.org",
+      "Address": "537 Scott Unions Suite 245\nBrianfurt, WA 46172"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-02",
+    "Location": "1820 Davis Spring\nWagnerland, CO 13805",
+    "Description": "Child administration foot wrong prove.\nPush director fast property author throughout kid. Usually product deep upon."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9591
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 71718
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30290
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 75953
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8449
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 196001,
+    "TotalApproved": 167510
+  },
+  "AdjusterDetails": {
+    "Name": "Cheryl Shannon",
+    "ContactInformation": {
+      "Phone": "+1-558-620-5793x7132",
+      "Email": "kathysanchez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/4ace0626-f2f9-475e-8ec6-33a9149be1d2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lucas-Knox",
+    "Model": "sister",
+    "Year": 2022,
+    "VIN": "d52b6e7f-7d0f-4726-a969-b61735a55c86"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Stephens",
+      "ContactInformation": {
+        "Phone": "001-676-212-8134x14557",
+        "Email": "staceyobrien@example.com"
+      },
+      "Statement": "Its subject our understand. Southern Congress plant loss commercial former.\nFather accept political community behavior. Against action too decade. Authority account weight same to."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1870cd8b-46c2-4def-a91d-65f91648ff66",
+    "OfficerName": "Kathleen Ashley",
+    "ReportDetails": "Eye join myself task they. With learn occur. Answer also night write. Reduce through charge indeed."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 501,
+    "AnnualIncome": 181272,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 9,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

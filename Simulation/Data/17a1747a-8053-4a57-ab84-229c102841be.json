@@ -1,0 +1,112 @@
+{
+  "ClaimID": "17a1747a-8053-4a57-ab84-229c102841be",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2025-08-20",
+    "EndDate": "2026-08-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-04",
+    "Location": "99258 Rachel Lock\nWest Holly, IN 21834",
+    "Description": "Road economic hot before skin relate I. Up easy us. Budget back from network art skill.\nCoach specific all down less although choose off. Career I meet how trade."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 78215
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1707
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12076
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 96755
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10081
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 198834,
+    "TotalApproved": 172986
+  },
+  "AdjusterDetails": {
+    "Name": "Paul Miller",
+    "ContactInformation": {
+      "Phone": "915-773-8307",
+      "Email": "toddbowers@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/6dd93e7a-2a93-4c28-b4ac-6735fd0d9fa7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Livingston LLC",
+    "Model": "view",
+    "Year": 2009,
+    "VIN": "4e31cc8f-d25f-466a-8169-0887995a90cf"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dana Brown",
+      "ContactInformation": {
+        "Phone": "235-441-3814x37144",
+        "Email": "vknight@example.org"
+      },
+      "Statement": "Stuff name huge drug. Poor region book.\nStand enough offer fly avoid body.\nSide raise day part high bring try. Strong probably put art light economic."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "37a02928-8002-4004-a44e-74dfdf42a3e2",
+    "OfficerName": "Jessica Rodriguez",
+    "ReportDetails": "Or me policy by news. Community law environmental true consider state speech. Especially off others station day support subject attorney.\nOrder eye apply miss. Pay skin those."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 444,
+    "AnnualIncome": 163907,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 10,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ddcfae24-e6a6-4ae1-ac6f-100d6a4ad5ce",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-07-16",
+    "EndDate": "2026-07-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-04",
+    "Location": "153 Dunlap Forge\nWilliamville, WV 16135",
+    "Description": "Affect pass between guess sense else occur month. Stand behavior discover accept energy message probably. By western one student while beat fish. Difficult force structure building field."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4482584
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4767928
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4699427
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4610322
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4382425
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22942686,
+    "TotalApproved": 17269420
+  },
+  "AdjusterDetails": {
+    "Name": "Stacie Martinez",
+    "ContactInformation": {
+      "Phone": "414-312-0288x00113",
+      "Email": "catherine59@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7dd24288-44f8-429e-974c-126cd379a907"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Parks Ltd",
+    "Model": "care",
+    "Year": 2014,
+    "VIN": "2e0878ea-e7b0-4f76-9ac1-3136b8d1b996"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Roger Waller",
+      "ContactInformation": {
+        "Phone": "497.549.2614",
+        "Email": "webbrobert@example.org"
+      },
+      "Statement": "Should source able measure off free drive. Room paper subject impact recently democratic why."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "41695fab-1cc4-4a50-bf8c-f9fd4c0b6eb5",
+    "OfficerName": "Anthony Martinez",
+    "ReportDetails": "Western service month.\nFriend minute remember bar my bar data. Government sort direction move travel.\nIndustry leg light mind little. Part reach catch Congress no."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 462,
+    "AnnualIncome": 51753,
+    "DebtToIncomeRatio": 0.22
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

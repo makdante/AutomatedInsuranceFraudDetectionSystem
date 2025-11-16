@@ -1,0 +1,112 @@
+{
+  "ClaimID": "83a7c3ba-4e96-45a5-8b47-5f6c9672e7df",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-10-31",
+    "EndDate": "2026-10-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-09",
+    "Location": "203 Harris Corners Apt. 992\nLake Brianport, VA 30091",
+    "Description": "Simply against quite four. Suggest billion senior single teach everything road."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 181803
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15026
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 88575
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14474
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 38494
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 338372,
+    "TotalApproved": 40003
+  },
+  "AdjusterDetails": {
+    "Name": "James Harvey",
+    "ContactInformation": {
+      "Phone": "5073464374",
+      "Email": "newmanjeremy@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/5ab6f02c-5c51-4275-b182-6f760bc08ef7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Warner-Brooks",
+    "Model": "garden",
+    "Year": 2018,
+    "VIN": "7da0ec93-9a80-42c4-8d53-2093dd44c2ed"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Bruce",
+      "ContactInformation": {
+        "Phone": "(751)920-9931x122",
+        "Email": "william23@example.net"
+      },
+      "Statement": "Attorney usually to effect. Act mind watch simple.\nBlood two top occur will. Image garden risk. Never whether impact middle main particular."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ed3df91c-e1a8-4c14-8091-17388df32446",
+    "OfficerName": "Joshua Powell",
+    "ReportDetails": "Family section year thus perhaps media.\nAnimal join window traditional road southern push. Morning mother scientist short through though cause."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 731,
+    "AnnualIncome": 145833,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

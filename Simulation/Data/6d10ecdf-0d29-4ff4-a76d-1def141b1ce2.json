@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6d10ecdf-0d29-4ff4-a76d-1def141b1ce2",
+  "PolicyID": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+  "EffectiveDates": {
+    "StartDate": "2025-02-09",
+    "EndDate": "2026-02-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ddabce0f-b86c-49b4-a9b6-4d81be5b5325",
+    "Name": "Helen Williams DDS",
+    "PolicyNumber": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+    "ContactInformation": {
+      "Phone": "(520)524-5958",
+      "Email": "elizabeth72@example.net",
+      "Address": "2431 Karen Tunnel Suite 892\nLisaland, OK 93348"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-22",
+    "Location": "07693 Robert Divide\nCantuborough, ID 75828",
+    "Description": "National able building partner evidence store.\nQuite market race. Image bit often media. Skill financial total little laugh operation argue."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 22123
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1981
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9487
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 46401
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9746
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 89738,
+    "TotalApproved": 81496
+  },
+  "AdjusterDetails": {
+    "Name": "Nancy Coleman",
+    "ContactInformation": {
+      "Phone": "748-492-5279x856",
+      "Email": "karen08@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/d577f7b2-9e99-4f49-ab25-7d3c85ab1e03"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson-Brewer",
+    "Model": "line",
+    "Year": 2018,
+    "VIN": "25c1d845-b81a-4182-a07c-a2c3082c957d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jeffrey Miller",
+      "ContactInformation": {
+        "Phone": "805-813-7844x35284",
+        "Email": "sarahcallahan@example.org"
+      },
+      "Statement": "Like true free. Place decision week heavy court body team certainly.\nRoad parent media phone. Kind education game fast step especially."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "75fe3dde-22e6-4a49-a4bc-4887265d6400",
+    "OfficerName": "Nathan Moore",
+    "ReportDetails": "Situation later nation understand field. Woman focus score instead beat. Enjoy bed billion impact respond black.\nHouse move political."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 720,
+    "AnnualIncome": 132624,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 4,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

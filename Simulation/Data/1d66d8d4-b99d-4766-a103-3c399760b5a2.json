@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1d66d8d4-b99d-4766-a103-3c399760b5a2",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2024-11-08",
+    "EndDate": "2025-11-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-05",
+    "Location": "64274 Amanda Meadow\nCharleschester, NE 11409",
+    "Description": "Hospital gun step Mrs once could sign fund. Score worry happy between edge box friend board. Out bill any wear civil arrive."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 127977
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 108357
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2100
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 22303
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12262
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 272999,
+    "TotalApproved": 249658
+  },
+  "AdjusterDetails": {
+    "Name": "Zachary Foley",
+    "ContactInformation": {
+      "Phone": "+1-338-332-9832x9628",
+      "Email": "jessicamiller@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b49d9eef-7ba1-422c-8a52-266679b8ed33"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-05T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-10T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-15T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morris-Norris",
+    "Model": "structure",
+    "Year": 2014,
+    "VIN": "d0150703-fc93-4b8e-8d80-e06743dca5e0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bryan Eaton",
+      "ContactInformation": {
+        "Phone": "(871)378-1975",
+        "Email": "sbennett@example.com"
+      },
+      "Statement": "Beat suggest fine bill decade. Base bank music behind kind picture.\nRecent rest news model season series. Action why church wear purpose than. Same thought account small."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9849430f-2425-4515-bffe-d4cd314b92df",
+    "OfficerName": "Mitchell Campbell",
+    "ReportDetails": "Us year free good ability.\nIndustry this person why. Heavy us material news focus let control. Travel consumer business wish itself eight best.\nAway conference hot role."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 349,
+    "AnnualIncome": 87720,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

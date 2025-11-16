@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6f5ce04b-a426-4b68-a13f-2f785efa4ac7",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-05-15",
+    "EndDate": "2026-05-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-18",
+    "Location": "69602 Morales Vista Suite 334\nEvelynmouth, OR 76446",
+    "Description": "Front couple public staff.\nReveal animal get research within beautiful second."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6705
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4449
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 55113
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 37573
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2587
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 106427,
+    "TotalApproved": 36336
+  },
+  "AdjusterDetails": {
+    "Name": "Anthony Day",
+    "ContactInformation": {
+      "Phone": "(766)692-8062x555",
+      "Email": "barrydaugherty@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/323687c0-cdd9-447e-9d5e-c1d7dc916829"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Saunders, Mendoza and Jones",
+    "Model": "method",
+    "Year": 2002,
+    "VIN": "8d3bc3b9-c338-4e39-96a6-ef0f17b7921d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Diana Smith",
+      "ContactInformation": {
+        "Phone": "661.798.3331",
+        "Email": "barbara47@example.com"
+      },
+      "Statement": "On civil peace sing spring writer. Also push yeah help outside TV most economic. Trial particularly we animal walk often style himself.\nStart cause will huge travel. Born hear ball."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "749b3f3b-f0c0-4030-a7ca-b85cedaddb68",
+    "OfficerName": "Melissa Clark",
+    "ReportDetails": "Lot music push police seek quickly. Pick later election wear analysis develop unit. Community consider compare throw."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 833,
+    "AnnualIncome": 151986,
+    "DebtToIncomeRatio": 0.11
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 10,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

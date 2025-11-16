@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d15aee85-a595-4600-a8c5-2b081bdbca44",
+  "PolicyID": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+  "EffectiveDates": {
+    "StartDate": "2025-07-01",
+    "EndDate": "2026-07-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "94574ab1-14ef-4d7d-935c-c52f6f907b16",
+    "Name": "Brittany Perkins",
+    "PolicyNumber": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+    "ContactInformation": {
+      "Phone": "877-727-6223x0565",
+      "Email": "richard63@example.net",
+      "Address": "72556 Audrey Lake\nNathanshire, GA 57199"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-26",
+    "Location": "96079 Janet Well\nJoshuaside, SD 53719",
+    "Description": "Different now check try popular rule. College to provide trade.\nBreak beyond include reflect institution economy. Break might together or issue. Certain market suddenly country type."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 26942
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18439
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 120579
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 52636
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4221
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 222817,
+    "TotalApproved": 216760
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Meadows",
+    "ContactInformation": {
+      "Phone": "+1-649-347-9748x0215",
+      "Email": "robertsherman@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/14d824d1-bed1-4ebf-a873-dbcbabd78845"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lewis, Meyer and Adams",
+    "Model": "itself",
+    "Year": 2022,
+    "VIN": "00a6e7a8-8fcc-45ae-a3ae-8f4a68f44eee"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tammy Adams",
+      "ContactInformation": {
+        "Phone": "443-701-5782",
+        "Email": "wkane@example.org"
+      },
+      "Statement": "Buy feel apply why of. Machine challenge dark fall nation. Myself generation require hand usually doctor have."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e8aefd05-0f9a-44b6-8a63-15d44693f5cb",
+    "OfficerName": "Courtney Jones",
+    "ReportDetails": "Every receive certain again represent. Trouble particular outside government employee.\nDifference him sing. He easy why police discover teacher. Often happy community draw hospital also."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 539,
+    "AnnualIncome": 173731,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 1,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

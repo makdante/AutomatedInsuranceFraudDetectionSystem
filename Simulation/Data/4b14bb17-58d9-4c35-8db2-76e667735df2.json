@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4b14bb17-58d9-4c35-8db2-76e667735df2",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2025-03-17",
+    "EndDate": "2026-03-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-05",
+    "Location": "344 Berg Spurs Apt. 115\nNew Aliciaton, PA 17287",
+    "Description": "Industry talk language join wear. Past these while first concern.\nPerformance fast agent. Very teach nature trade share strategy.\nDraw Mr and point reality debate. Movement western such."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4274186
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4216546
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4656765
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4564563
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4490107
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22202167,
+    "TotalApproved": 15486501
+  },
+  "AdjusterDetails": {
+    "Name": "Sarah Tate",
+    "ContactInformation": {
+      "Phone": "+1-341-778-2850x81446",
+      "Email": "leah17@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/5926386f-14eb-4e6e-91f0-aba3eb46a55e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-05T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-10T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-15T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Reynolds LLC",
+    "Model": "guy",
+    "Year": 2017,
+    "VIN": "ed51e686-d032-45a1-b141-4b9a447fd3a4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samantha Edwards",
+      "ContactInformation": {
+        "Phone": "+1-632-280-8569x89760",
+        "Email": "mayopaula@example.net"
+      },
+      "Statement": "Deep soon much poor small. Much shake tax prove growth. Recognize night after accept learn month. Well music mother cost computer."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3f0f4ac7-3061-40bb-b340-cb936959a2b3",
+    "OfficerName": "Christopher Bailey",
+    "ReportDetails": "Partner else scientist where. Yeah share call.\nView yard let oil beyond media. Deep give conference interview."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 400,
+    "AnnualIncome": 20611,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

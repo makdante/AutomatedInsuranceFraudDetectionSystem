@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0bf5e44d-5130-4a20-bd03-e38ed65658ab",
+  "PolicyID": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+  "EffectiveDates": {
+    "StartDate": "2025-10-22",
+    "EndDate": "2026-10-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ddabce0f-b86c-49b4-a9b6-4d81be5b5325",
+    "Name": "Helen Williams DDS",
+    "PolicyNumber": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+    "ContactInformation": {
+      "Phone": "(520)524-5958",
+      "Email": "elizabeth72@example.net",
+      "Address": "2431 Karen Tunnel Suite 892\nLisaland, OK 93348"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-02",
+    "Location": "8332 Silva Rue\nSouth Christopher, ND 44118",
+    "Description": "Say feel small easy industry. Force often friend job area recent.\nPresent walk personal. Herself reality democratic alone. General create speak perhaps prove. Policy yard rest expert drop."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 30498
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 141898
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1452
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15162
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7402
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 196412,
+    "TotalApproved": 120161
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Moore",
+    "ContactInformation": {
+      "Phone": "001-322-587-7133x5662",
+      "Email": "cbarnes@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/0ea03f98-9997-49da-94be-cb02b7505f2d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-09-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thomas and Sons",
+    "Model": "run",
+    "Year": 2020,
+    "VIN": "bd7a3811-8228-4765-a7e6-16ef3d9b0c7f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nathan Romero",
+      "ContactInformation": {
+        "Phone": "742-359-5221x3466",
+        "Email": "ajarvis@example.net"
+      },
+      "Statement": "Under politics season ten one for receive. From hit line ten deep shake help positive. Actually collection despite certainly effort."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8788e01b-7748-41ba-a695-ddc0da33e1fc",
+    "OfficerName": "Shane Castaneda",
+    "ReportDetails": "Catch Republican build soon.\nSomebody month white town. Data yet thus audience organization. Ask us day avoid president treat."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 613,
+    "AnnualIncome": 20483,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ebb240c4-3137-4c7d-b16b-5f1b0a9ced94",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2025-01-30",
+    "EndDate": "2026-01-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-28",
+    "Location": "8065 Coleman Wells Suite 534\nPort Gabriellemouth, AK 66873",
+    "Description": "Family recognize letter often. Listen oil spend customer. He sell draw walk win identify."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7368
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7938
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18569
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36475
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6136
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 76486,
+    "TotalApproved": 39865
+  },
+  "AdjusterDetails": {
+    "Name": "Maria Diaz",
+    "ContactInformation": {
+      "Phone": "681.972.2623x0199",
+      "Email": "johnsonbrandon@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/ad57ba3b-a0e4-435c-b22a-dc8867568909"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ortiz-Schneider",
+    "Model": "public",
+    "Year": 2007,
+    "VIN": "efe07e50-4684-44ba-8524-bb378503cad2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Annette Jones",
+      "ContactInformation": {
+        "Phone": "001-208-436-9657x69091",
+        "Email": "christopherhouston@example.net"
+      },
+      "Statement": "Across lay value summer teach dog. Teach either federal speak none.\nJust offer him world perform law hundred. Sort not remember fund. Analysis decade break leg history check."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0833048d-f3ea-4835-9846-fed4d3135980",
+    "OfficerName": "Connie Patterson",
+    "ReportDetails": "National without exactly perform north long. Do ok entire.\nKeep Mr even field. Indeed strategy east against. Traditional style design piece early very."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 834,
+    "AnnualIncome": 166308,
+    "DebtToIncomeRatio": 0.11
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

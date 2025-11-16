@@ -1,0 +1,112 @@
+{
+  "ClaimID": "497a53a0-adb4-4433-a553-7bf8d571a551",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-09-15",
+    "EndDate": "2026-09-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-30",
+    "Location": "380 Berry Parkway Suite 923\nEast Henryberg, OH 08327",
+    "Description": "Pm point image mind. Actually reduce Republican ability. Church on space human movement.\nOwner concern all property. Professional letter air young. Behavior hard in north peace."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19647
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 66982
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 142172
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10779
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 66661
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 306241,
+    "TotalApproved": 7496
+  },
+  "AdjusterDetails": {
+    "Name": "Kristin Smith",
+    "ContactInformation": {
+      "Phone": "508-258-5980x1510",
+      "Email": "gmcintosh@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/f086a862-23f0-4460-8563-c7aa166de9e2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Shepherd-Long",
+    "Model": "price",
+    "Year": 2010,
+    "VIN": "a97cfd6f-d55a-43fa-bfc4-dd3c66b08302"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samuel Ford",
+      "ContactInformation": {
+        "Phone": "(554)249-4353",
+        "Email": "amycook@example.org"
+      },
+      "Statement": "Federal become good far government imagine program help. Easy business increase actually benefit rather. Join thought over station southern. Cup easy should the have hit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "efa8bc06-d729-4605-9eb2-c6538c81a29a",
+    "OfficerName": "Deborah Rush",
+    "ReportDetails": "Property history attorney letter. Series need kind into.\nTrue news issue now early town. Common operation behavior girl spring.\nMaterial debate because eye main talk smile."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 694,
+    "AnnualIncome": 80059,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 1,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

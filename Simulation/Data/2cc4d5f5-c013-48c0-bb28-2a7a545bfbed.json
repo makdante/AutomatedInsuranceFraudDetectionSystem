@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2cc4d5f5-c013-48c0-bb28-2a7a545bfbed",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-03-27",
+    "EndDate": "2026-03-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-29",
+    "Location": "837 John Bypass\nSabrinaland, MT 64325",
+    "Description": "Half in a myself market answer. Treatment use report rather. Develop dinner kitchen draw always building piece.\nRepublican strong half minute six. Study wife own after dinner build key."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 50056
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 52169
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 33376
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7300
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7213
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 150114,
+    "TotalApproved": 39415
+  },
+  "AdjusterDetails": {
+    "Name": "Daniel Jackson",
+    "ContactInformation": {
+      "Phone": "001-456-449-7095x562",
+      "Email": "steve13@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/4a17125c-ae66-4119-b628-70cfe5a65430"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Crawford, Gibson and Gonzalez",
+    "Model": "science",
+    "Year": 2014,
+    "VIN": "9a0f3d9c-2524-4d37-93e0-f6203ad6872f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amy Allen",
+      "ContactInformation": {
+        "Phone": "+1-247-850-4777x0626",
+        "Email": "jonescameron@example.net"
+      },
+      "Statement": "Call rate performance matter young.\nReceive start ahead garden sing however between. Site force table deep.\nField ask military big. Ask everything difference throw watch say increase."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "de0f3201-bb87-44fa-a639-3fd1b104cca7",
+    "OfficerName": "Amy Jordan",
+    "ReportDetails": "Suffer traditional oil several research else. Run peace fill cover produce. Fill range guy.\nWrite today hold write truth science. Its party realize school baby strong."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 677,
+    "AnnualIncome": 137863,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

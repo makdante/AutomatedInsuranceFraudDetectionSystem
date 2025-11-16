@@ -1,0 +1,112 @@
+{
+  "ClaimID": "426707de-9b59-4558-97d6-b7c7148aa143",
+  "PolicyID": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+  "EffectiveDates": {
+    "StartDate": "2025-08-01",
+    "EndDate": "2026-08-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fc97abc-4961-491f-a4b1-12068641ded7",
+    "Name": "Mark Macias",
+    "PolicyNumber": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+    "ContactInformation": {
+      "Phone": "520-436-5997x9756",
+      "Email": "aaron79@example.org",
+      "Address": "537 Scott Unions Suite 245\nBrianfurt, WA 46172"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-30",
+    "Location": "955 Thomas Lodge Suite 375\nPort Jamesfort, GU 18156",
+    "Description": "First catch camera site mention better quite. Different I difficult. Home outside son look."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 29881
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9083
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11632
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7356
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17204
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 75156,
+    "TotalApproved": 18021
+  },
+  "AdjusterDetails": {
+    "Name": "Scott Davis",
+    "ContactInformation": {
+      "Phone": "001-423-373-3389x43482",
+      "Email": "wilsonerin@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/437ff1d4-d755-4b42-9c76-babe809804d3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-30T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Howard-Lopez",
+    "Model": "research",
+    "Year": 2011,
+    "VIN": "e1619862-e6a3-4a47-aa54-39cfb806c21d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Hines",
+      "ContactInformation": {
+        "Phone": "321-462-8464x124",
+        "Email": "hinesmelissa@example.net"
+      },
+      "Statement": "Money actually certain doctor. Size animal upon direction establish similar style."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "41689b38-65b9-4812-ac87-16da39132455",
+    "OfficerName": "Kelly Gutierrez",
+    "ReportDetails": "Themselves return another see kitchen father.\nEntire prevent evidence often effect front. According animal product never.\nReveal wish could box prevent finally term. Plan data billion simple skin."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 610,
+    "AnnualIncome": 99910,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

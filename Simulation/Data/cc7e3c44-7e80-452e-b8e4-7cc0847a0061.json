@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cc7e3c44-7e80-452e-b8e4-7cc0847a0061",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-05-07",
+    "EndDate": "2026-05-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-12",
+    "Location": "56825 Thomas Motorway Suite 302\nSouth Joshua, PW 26972",
+    "Description": "Number news phone interview. Already sing get range meeting century none really. Door second family town never heart other."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 20584
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 26969
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17840
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 45792
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2419
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 113604,
+    "TotalApproved": 93261
+  },
+  "AdjusterDetails": {
+    "Name": "Curtis Chavez",
+    "ContactInformation": {
+      "Phone": "403.366.7779",
+      "Email": "petersonmark@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/5141f2ff-b5ae-4891-87fd-753006023ce9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Long-Thompson",
+    "Model": "power",
+    "Year": 2011,
+    "VIN": "e90babc2-51a3-4f4c-be79-f52238d290fb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kenneth Smith",
+      "ContactInformation": {
+        "Phone": "001-357-715-6875x1065",
+        "Email": "howemarie@example.org"
+      },
+      "Statement": "Decision specific child ready individual. Evening program popular clear language the.\nTogether feel between grow relate form seat."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "78708219-fdb4-41df-8290-3e58edce4529",
+    "OfficerName": "Cindy Moore",
+    "ReportDetails": "Business executive door believe manage election. Moment source of art customer her plant. Add price after clear allow.\nWould car choose drug threat million. Those bank actually never."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 675,
+    "AnnualIncome": 25681,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "530a02c0-8016-4e4e-b215-f8f2c88a94e4",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-02-09",
+    "EndDate": "2026-02-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-12",
+    "Location": "9360 Brittany Wall Apt. 558\nFullerberg, GA 14506",
+    "Description": "Traditional truth force without individual.\nBill whom position thousand. Interesting mention measure century rule. Statement organization help process."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 62015
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3632
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8753
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8794
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 78838
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 162032,
+    "TotalApproved": 65285
+  },
+  "AdjusterDetails": {
+    "Name": "Kelly Noble",
+    "ContactInformation": {
+      "Phone": "800-806-2094",
+      "Email": "jacksonmichael@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/fb0af2a3-5a56-41f4-a5a4-23366207c922"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Collins-Rose",
+    "Model": "improve",
+    "Year": 2002,
+    "VIN": "b99b19e7-cec8-48d3-9c34-d939a34af90e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Chris Lawson",
+      "ContactInformation": {
+        "Phone": "(980)978-3496x18217",
+        "Email": "odavis@example.net"
+      },
+      "Statement": "Plan ago specific. Tonight same worry size call analysis risk.\nMuch performance such environment game.\nShow board most officer under despite. Without program mouth close."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "72c504f6-a8a7-447c-bd42-8ccd363a56ba",
+    "OfficerName": "Heather Velasquez",
+    "ReportDetails": "View either smile you decision per hour. Base story up enjoy structure man.\nSize window forget foot. Listen carry might management admit claim nor. Similar store produce."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 597,
+    "AnnualIncome": 111109,
+    "DebtToIncomeRatio": 0.55
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 2,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

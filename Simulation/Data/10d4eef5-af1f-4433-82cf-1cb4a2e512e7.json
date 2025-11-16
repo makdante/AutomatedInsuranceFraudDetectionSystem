@@ -1,0 +1,112 @@
+{
+  "ClaimID": "10d4eef5-af1f-4433-82cf-1cb4a2e512e7",
+  "PolicyID": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+  "EffectiveDates": {
+    "StartDate": "2025-07-24",
+    "EndDate": "2026-07-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7aeb67d8-8b5a-402f-b03b-33f51f2939f2",
+    "Name": "Susan Best",
+    "PolicyNumber": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+    "ContactInformation": {
+      "Phone": "272-361-9751",
+      "Email": "adamfigueroa@example.net",
+      "Address": "604 Sims Circle Suite 384\nNorth Anthonystad, WA 82430"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-11",
+    "Location": "USCGC Powell\nFPO AA 39944",
+    "Description": "Sound nature training pull work also. Team industry since account possible. Down your sell point this certain."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8559
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 23554
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44210
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19741
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 28429
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 124493,
+    "TotalApproved": 122221
+  },
+  "AdjusterDetails": {
+    "Name": "Terri Bauer",
+    "ContactInformation": {
+      "Phone": "457-625-3755",
+      "Email": "frank13@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/fa55236b-7ece-4a31-91b4-64de988514de"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cunningham Inc",
+    "Model": "cost",
+    "Year": 2008,
+    "VIN": "6c72b483-adba-4312-91f3-d2a1715b3524"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Connie Manning",
+      "ContactInformation": {
+        "Phone": "001-280-213-0553x317",
+        "Email": "oherman@example.org"
+      },
+      "Statement": "Ahead message central clearly be water. View idea common black mention glass. Same water month camera the.\nAnother growth arrive community media because."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "545730c2-5eaa-4f50-878e-41d18f884d18",
+    "OfficerName": "Michelle Pace",
+    "ReportDetails": "Style focus media answer attorney quite area. Person indicate know hotel. Produce cost plant language which card."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 832,
+    "AnnualIncome": 178142,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

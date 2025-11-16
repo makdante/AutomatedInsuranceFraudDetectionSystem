@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2c44b9f7-33a0-4e03-ba8f-6016cc5b3bb9",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-02-13",
+    "EndDate": "2026-02-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-01",
+    "Location": "USS Carroll\nFPO AE 89564",
+    "Description": "Statement impact time top between ok. Present new build occur finish discussion good. Let offer surface win never body."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1287
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15622
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 46601
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2321
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6679
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 72510,
+    "TotalApproved": 67560
+  },
+  "AdjusterDetails": {
+    "Name": "Brandy Stewart",
+    "ContactInformation": {
+      "Phone": "920-814-3100",
+      "Email": "tbenson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4095516d-3742-4d3d-9948-4790b13b727e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Holmes Ltd",
+    "Model": "gas",
+    "Year": 2017,
+    "VIN": "fccb6dd7-5007-4fd8-b84e-d5fdff24541e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Madison Smith",
+      "ContactInformation": {
+        "Phone": "838.284.8690",
+        "Email": "oscott@example.org"
+      },
+      "Statement": "Sister respond benefit feeling point certain. First report power similar onto mission."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0b5b172b-0d85-4622-b650-39cc20b3e5a2",
+    "OfficerName": "Miguel Cowan",
+    "ReportDetails": "Home service suffer let sort.\nRange science keep service authority. Economic interest surface material pretty with lose. Agreement if event establish where those."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 845,
+    "AnnualIncome": 183694,
+    "DebtToIncomeRatio": 0.53
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

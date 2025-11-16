@@ -1,0 +1,112 @@
+{
+  "ClaimID": "df082bd5-9e57-4900-bf15-cef51a78b31f",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-09-25",
+    "EndDate": "2026-09-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-16",
+    "Location": "661 Hoffman Falls Apt. 693\nGardnerburgh, WY 51588",
+    "Description": "Easy option huge front writer. If especially major plant turn card tonight two.\nEver road heart family along. Under research ahead example those former specific learn."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17464
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17125
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15267
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 34054
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 152616
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 236526,
+    "TotalApproved": 34322
+  },
+  "AdjusterDetails": {
+    "Name": "Nicole King",
+    "ContactInformation": {
+      "Phone": "(868)955-8470",
+      "Email": "shawnjones@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e452351d-038c-4220-bd09-ce3cdafc4e25"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson Ltd",
+    "Model": "time",
+    "Year": 2005,
+    "VIN": "aed93705-27e6-4914-be1e-3d0d69f9cbd3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Regina Pratt",
+      "ContactInformation": {
+        "Phone": "(331)767-7032",
+        "Email": "vgomez@example.org"
+      },
+      "Statement": "Thus serious party effort agent sometimes. Above already throw style coach.\nCondition former newspaper design bill technology. Research huge never. Statement pretty I."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ffed0911-d1ba-4497-952f-da48ceb772cf",
+    "OfficerName": "Peter Henry",
+    "ReportDetails": "Fear society school small.\nMemory police on bar old put. Many market beyond manager air."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 536,
+    "AnnualIncome": 42783,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

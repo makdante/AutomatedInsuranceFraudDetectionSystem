@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5ccef0a5-e217-453e-9145-cb6c5e7b68ec",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-05-29",
+    "EndDate": "2026-05-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-12",
+    "Location": "903 Ortiz Shore\nEast April, GA 37608",
+    "Description": "Player do prevent current paper still local. Specific prove million local."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 38930
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 78768
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11338
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 84908
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22146
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 236090,
+    "TotalApproved": 108085
+  },
+  "AdjusterDetails": {
+    "Name": "Dwayne Pruitt",
+    "ContactInformation": {
+      "Phone": "+1-761-666-1063",
+      "Email": "wrodriguez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/a3b05ead-4cb2-4250-aecd-1bf276c3851e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cox Ltd",
+    "Model": "do",
+    "Year": 2012,
+    "VIN": "f0d43471-5e44-4b15-8eae-4897384d32f8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ronald Perry",
+      "ContactInformation": {
+        "Phone": "774.789.0103x40465",
+        "Email": "michael48@example.com"
+      },
+      "Statement": "Every point nation career clear. Ok step scene by standard.\nDecision support go for evidence performance. Bad past follow decide apply foreign bed. Whom democratic maintain."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ac4c5dfb-851e-4a8b-9a40-f926091584bf",
+    "OfficerName": "Krystal Rodriguez",
+    "ReportDetails": "Good exist kitchen draw. Green black deal stay its shake. Carry write yard age question. Study high increase black travel gun.\nResponsibility sit character as community low our. Ahead hot day firm."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 346,
+    "AnnualIncome": 152812,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

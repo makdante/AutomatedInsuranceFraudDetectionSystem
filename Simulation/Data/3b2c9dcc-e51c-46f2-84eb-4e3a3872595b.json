@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3b2c9dcc-e51c-46f2-84eb-4e3a3872595b",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-02-10",
+    "EndDate": "2026-02-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-09",
+    "Location": "365 Jonathan Flat\nNorth Michellehaven, TX 32677",
+    "Description": "Gas mission job many though perform PM plant. Maintain among up Mr sure member."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 114201
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17601
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 40176
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 35807
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 30612
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 238397,
+    "TotalApproved": 1303
+  },
+  "AdjusterDetails": {
+    "Name": "Sandra Parker",
+    "ContactInformation": {
+      "Phone": "(247)376-6489x1922",
+      "Email": "flemingsandy@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e10f5520-144f-4687-9866-1328c29c11a8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson Ltd",
+    "Model": "nothing",
+    "Year": 2000,
+    "VIN": "a57f3c9f-025b-471a-8c75-0291e67ce132"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sarah Little",
+      "ContactInformation": {
+        "Phone": "630.998.6047",
+        "Email": "kross@example.com"
+      },
+      "Statement": "Soldier professional I staff list down. Difficult himself later nice mention visit measure. Hear other final structure try war science. Husband miss street once spring."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "604694ce-8252-41f1-9d91-6cec31f061a5",
+    "OfficerName": "Amber Woods",
+    "ReportDetails": "Picture operation sort development explain enjoy stock. Least perhaps research house pass husband pattern.\nAnything experience day actually matter behind exactly."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 439,
+    "AnnualIncome": 139343,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

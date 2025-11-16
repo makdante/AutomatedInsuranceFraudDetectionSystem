@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f9045d36-d1c6-4556-bff1-8475986f650f",
+  "PolicyID": "4d006887-ffd3-4707-8940-80e0970ad64f",
+  "EffectiveDates": {
+    "StartDate": "2025-02-15",
+    "EndDate": "2026-02-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "6191ccd1-d3f4-425d-a9cb-5820861f7d97",
+    "Name": "Andrew Wilson",
+    "PolicyNumber": "4d006887-ffd3-4707-8940-80e0970ad64f",
+    "ContactInformation": {
+      "Phone": "001-296-495-4711x47868",
+      "Email": "twilliams@example.org",
+      "Address": "9444 Jonathan Village\nSouth Taratown, AR 12477"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-07",
+    "Location": "7592 Robert Lodge Apt. 455\nLake Brianborough, OH 59810",
+    "Description": "Goal need employee leader student head once.\nFund campaign concern present.\nConcern military someone over. Maintain central race PM official."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 20315
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9716
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 29327
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 79592
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 141552
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 280502,
+    "TotalApproved": 141522
+  },
+  "AdjusterDetails": {
+    "Name": "Charlene Odonnell",
+    "ContactInformation": {
+      "Phone": "(633)519-1260x50146",
+      "Email": "ylittle@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/55b5b47b-846b-4e25-af20-84caf1e574e3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Robinson-Morton",
+    "Model": "market",
+    "Year": 2012,
+    "VIN": "47378d2a-79c7-46bc-b8da-90ddaf765681"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Potts",
+      "ContactInformation": {
+        "Phone": "+1-228-580-0800x83314",
+        "Email": "sydney26@example.org"
+      },
+      "Statement": "Wait degree source page upon during project.\nReport these hold traditional which risk fact. Him book girl return draw thus deal."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c86c1485-2e47-47df-8092-37c484e2b272",
+    "OfficerName": "William Francis",
+    "ReportDetails": "Catch but yeah section it benefit house. Why break four small minute. Wall table find concern."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 331,
+    "AnnualIncome": 159591,
+    "DebtToIncomeRatio": 0.86
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 6,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

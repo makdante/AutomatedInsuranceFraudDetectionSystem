@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7eb60ae8-83a8-4de6-92bb-1f46307c8614",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-01-20",
+    "EndDate": "2026-01-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-30",
+    "Location": "82421 Clayton Flats\nSouth Michelleburgh, MH 94600",
+    "Description": "Ten help instead remain candidate ball. Better trial image company note actually wrong.\nEffect today poor size grow democratic above. Miss high pass but when design Mrs."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1059
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 25063
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1193
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 105262
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 10576
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 143153,
+    "TotalApproved": 82588
+  },
+  "AdjusterDetails": {
+    "Name": "Joseph Austin",
+    "ContactInformation": {
+      "Phone": "956.440.1772",
+      "Email": "andrewstewart@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/e01341e0-93ea-48b7-a0a4-a332684ba39c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Estrada, Neal and Cole",
+    "Model": "great",
+    "Year": 2011,
+    "VIN": "64812104-1c42-4094-b71f-e2c1f1ff6dec"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Chelsea Holden",
+      "ContactInformation": {
+        "Phone": "9642628435",
+        "Email": "nicholas14@example.org"
+      },
+      "Statement": "Than design billion chance seem including less prepare. Resource model such professional become. Pay education five under gun news."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bc6fc7b5-93fd-4afc-a4ce-9b122b337d9f",
+    "OfficerName": "Johnathan Bruce",
+    "ReportDetails": "With voice wrong.\nMore those among. Book cell ability beyond model. Someone so edge amount small with. Lawyer probably relationship arm large ground."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 683,
+    "AnnualIncome": 172334,
+    "DebtToIncomeRatio": 0.22
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 2,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

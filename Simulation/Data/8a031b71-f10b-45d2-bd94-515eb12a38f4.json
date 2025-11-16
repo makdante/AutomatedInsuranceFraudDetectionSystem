@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8a031b71-f10b-45d2-bd94-515eb12a38f4",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2025-07-25",
+    "EndDate": "2026-07-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-14",
+    "Location": "PSC 0596, Box 3637\nAPO AA 67440",
+    "Description": "Color him place experience later often. Hot create indeed difficult source. Place per sure sort.\nInterview level human network election across. Company item and believe ahead near."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9010
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16357
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 129022
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1924
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 161150
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 317463,
+    "TotalApproved": 133311
+  },
+  "AdjusterDetails": {
+    "Name": "Nichole Hall",
+    "ContactInformation": {
+      "Phone": "490.271.4235",
+      "Email": "bairdtimothy@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/fa27de72-9ac9-4f65-9b46-1282b1d8a9ce"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cole-Davis",
+    "Model": "visit",
+    "Year": 2001,
+    "VIN": "e7141110-be4d-4a22-b9e6-1c7c59e428c2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mark Drake",
+      "ContactInformation": {
+        "Phone": "+1-747-257-4244x477",
+        "Email": "stacy69@example.net"
+      },
+      "Statement": "Main camera mother hour see already prove. Anything floor side part window policy. Attack meeting finish drive."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0d9be373-87f3-4ed8-af86-1092c0323671",
+    "OfficerName": "Dylan Edwards",
+    "ReportDetails": "Increase brother least. Several community number carry although.\nPm account produce keep. Walk one owner trip. Culture sister peace section herself popular.\nFill consumer responsibility."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 788,
+    "AnnualIncome": 68873,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 6,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

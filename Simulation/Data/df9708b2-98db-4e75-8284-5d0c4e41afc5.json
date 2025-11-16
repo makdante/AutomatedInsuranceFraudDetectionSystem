@@ -1,0 +1,112 @@
+{
+  "ClaimID": "df9708b2-98db-4e75-8284-5d0c4e41afc5",
+  "PolicyID": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+  "EffectiveDates": {
+    "StartDate": "2025-09-08",
+    "EndDate": "2026-09-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "45b25f18-08b7-457c-9045-e998b2b74cef",
+    "Name": "Joshua Ryan",
+    "PolicyNumber": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+    "ContactInformation": {
+      "Phone": "(903)440-8271x3107",
+      "Email": "justin94@example.net",
+      "Address": "792 Ann Cliffs\nLake Desireebury, MD 93133"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-27",
+    "Location": "5353 John Road Suite 029\nDannyport, ND 51569",
+    "Description": "Source black catch their company property plant.\nLose tough security increase remain. Feel sing space figure station type degree. Purpose day quite writer memory."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4533592
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4662062
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4467773
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4156992
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4687593
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22508012,
+    "TotalApproved": 3377540
+  },
+  "AdjusterDetails": {
+    "Name": "Mary Velasquez",
+    "ContactInformation": {
+      "Phone": "(846)738-9858x758",
+      "Email": "davidcook@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/bba018fe-db06-404e-91e1-08351a319bf6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brooks LLC",
+    "Model": "hit",
+    "Year": 2012,
+    "VIN": "6eaffa50-806f-4526-b328-d2c6c283443a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alec Dixon",
+      "ContactInformation": {
+        "Phone": "615.243.3828x00240",
+        "Email": "zachary23@example.com"
+      },
+      "Statement": "Natural take race herself have course everybody whatever. State they should for nature personal."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9cf3c148-13bb-4c93-9f99-0a2afc50f127",
+    "OfficerName": "Kendra Bright",
+    "ReportDetails": "Able music time believe western. Bill data people few action performance after nation.\nPresident become organization."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 334,
+    "AnnualIncome": 54969,
+    "DebtToIncomeRatio": 0.21
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

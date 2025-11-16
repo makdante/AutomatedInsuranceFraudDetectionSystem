@@ -1,0 +1,112 @@
+{
+  "ClaimID": "afcaa098-1fcf-45ed-bb07-cf39042bccb8",
+  "PolicyID": "4d006887-ffd3-4707-8940-80e0970ad64f",
+  "EffectiveDates": {
+    "StartDate": "2024-12-29",
+    "EndDate": "2025-12-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "6191ccd1-d3f4-425d-a9cb-5820861f7d97",
+    "Name": "Andrew Wilson",
+    "PolicyNumber": "4d006887-ffd3-4707-8940-80e0970ad64f",
+    "ContactInformation": {
+      "Phone": "001-296-495-4711x47868",
+      "Email": "twilliams@example.org",
+      "Address": "9444 Jonathan Village\nSouth Taratown, AR 12477"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-25",
+    "Location": "391 Benjamin Ferry Apt. 324\nCynthiaport, CA 00903",
+    "Description": "Baby relate issue term method since carry magazine. Sell trip happen. Lose condition while worker treat factor order very.\nFar enter she assume. Responsibility those begin wear weight."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4984715
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4713770
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4833831
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4713045
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4609253
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 23854614,
+    "TotalApproved": 2818812
+  },
+  "AdjusterDetails": {
+    "Name": "Richard Lewis",
+    "ContactInformation": {
+      "Phone": "(366)821-7010",
+      "Email": "carolyn83@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/727e9933-bc25-48ba-9242-8079f4b9bd3e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-04T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones Inc",
+    "Model": "finally",
+    "Year": 2001,
+    "VIN": "2f78397c-4cac-46c9-a91b-7c31f44e93e3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kelly Blevins",
+      "ContactInformation": {
+        "Phone": "512.441.8847x442",
+        "Email": "rivasjennifer@example.com"
+      },
+      "Statement": "Raise as carry issue rich. Sit treatment group father service.\nDiscover standard skin style structure. Where lawyer seem fund culture activity."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ecedaef2-190a-4f76-8805-061958e2a997",
+    "OfficerName": "Kathleen Walker",
+    "ReportDetails": "Item member large charge.\nTake including event nor election fish. Federal company partner unit analysis.\nDiscover right wear. Turn speech give hit network above not.\nSkill past Mrs could."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 470,
+    "AnnualIncome": 67327,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

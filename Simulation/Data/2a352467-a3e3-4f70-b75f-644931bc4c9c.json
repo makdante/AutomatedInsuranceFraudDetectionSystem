@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2a352467-a3e3-4f70-b75f-644931bc4c9c",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-07-24",
+    "EndDate": "2026-07-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-24",
+    "Location": "37064 Wesley Crescent Apt. 305\nChristophermouth, NE 07413",
+    "Description": "Option response course help drug. Every short science. On himself loss attorney risk relate."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 70754
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19457
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 48292
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27998
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 33387
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 199888,
+    "TotalApproved": 119399
+  },
+  "AdjusterDetails": {
+    "Name": "Sandra Norman",
+    "ContactInformation": {
+      "Phone": "719.269.6836x810",
+      "Email": "ericclements@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/4fdc8930-3039-4e34-abd5-9286a6cd7bae"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Andrews, Smith and Schroeder",
+    "Model": "behind",
+    "Year": 2022,
+    "VIN": "6a5d3753-18df-4495-b013-93a2e4195787"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jonathon Bell",
+      "ContactInformation": {
+        "Phone": "001-358-636-5017",
+        "Email": "travishall@example.org"
+      },
+      "Statement": "Nation response fund technology bad course size painting. Form fact to rock. Author face consider name writer appear sound."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "73edc66e-7bf9-41d5-97cb-2b561014e239",
+    "OfficerName": "Maria King",
+    "ReportDetails": "Along campaign few him agency especially. Contain six value under.\nAddress public almost."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 499,
+    "AnnualIncome": 154674,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

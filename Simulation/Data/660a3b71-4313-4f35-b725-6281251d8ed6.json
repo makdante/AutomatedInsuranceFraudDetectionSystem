@@ -1,0 +1,112 @@
+{
+  "ClaimID": "660a3b71-4313-4f35-b725-6281251d8ed6",
+  "PolicyID": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+  "EffectiveDates": {
+    "StartDate": "2025-04-26",
+    "EndDate": "2026-04-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de2fd98f-92b5-4f00-b791-ce9f514afb15",
+    "Name": "Brandon Scott",
+    "PolicyNumber": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+    "ContactInformation": {
+      "Phone": "001-319-262-8310x0650",
+      "Email": "nelsonemily@example.net",
+      "Address": "0592 Patrick Wall\nLeslieport, IA 75247"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-20",
+    "Location": "628 Matthews Dam Apt. 026\nWilliamschester, OK 50181",
+    "Description": "Animal first before nearly bad. Trouble sea hour Mr. Husband help never voice goal.\nPresent real several expect sense pay. Enjoy factor his everyone prevent know. Local first opportunity prove."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12716
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19788
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 185627
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 43340
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 23769
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 285240,
+    "TotalApproved": 190834
+  },
+  "AdjusterDetails": {
+    "Name": "Keith Garcia",
+    "ContactInformation": {
+      "Phone": "387-861-8871x251",
+      "Email": "joshuachristian@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/9115bfdc-fd8e-4af2-987f-37cfb26da6e5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gutierrez-Castro",
+    "Model": "debate",
+    "Year": 2002,
+    "VIN": "6e977043-ce4c-499d-9de5-1eb44d4c9ea0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christine Wolfe",
+      "ContactInformation": {
+        "Phone": "+1-938-360-5685x91811",
+        "Email": "adamgoodman@example.net"
+      },
+      "Statement": "Congress return admit. Learn note question brother. Director do modern allow.\nOthers national change operation represent fund would. War discover least school. Only card enter bank foot collection."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "aa4f6aa3-6c7b-4017-ada0-3509889ed886",
+    "OfficerName": "Desiree Powell",
+    "ReportDetails": "Discover enough total. Lose people response direction hit. Body mouth federal approach assume.\nOften industry crime fly almost within whose. Just young goal."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 737,
+    "AnnualIncome": 92140,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

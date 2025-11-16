@@ -1,0 +1,112 @@
+{
+  "ClaimID": "77cda538-f21e-4ddb-92bd-ebbcacf675ca",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2024-12-22",
+    "EndDate": "2025-12-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-10",
+    "Location": "156 Perez Ridges\nCollinsbury, IL 91390",
+    "Description": "High performance activity all. Argue week raise. Feeling long concern season inside two get.\nCard land social image. Case pass debate program likely. Director miss including brother body."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 98772
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15390
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15220
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 179693
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18569
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 327644,
+    "TotalApproved": 30996
+  },
+  "AdjusterDetails": {
+    "Name": "Jeremy Wright",
+    "ContactInformation": {
+      "Phone": "+1-462-901-4609",
+      "Email": "corr@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/9f70cbae-a66e-495e-860b-c37409e941ea"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morris Group",
+    "Model": "fact",
+    "Year": 2022,
+    "VIN": "d3b33890-0a1b-4299-ae4a-3229ccd2afc5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sherri Hamilton",
+      "ContactInformation": {
+        "Phone": "+1-545-397-1089x3271",
+        "Email": "mjimenez@example.org"
+      },
+      "Statement": "Discover popular daughter bill result watch protect. Tonight successful employee travel.\nNorth their ahead though. Study face student actually behavior. Political blood study us cost recently least."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "48518d16-e416-4a90-aadc-e05543671f66",
+    "OfficerName": "Dustin Mccormick",
+    "ReportDetails": "Which pay gas shoulder none. Seek bring address executive offer put their. Attorney evidence they wonder wide."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 683,
+    "AnnualIncome": 86784,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 6,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f1907879-184f-4919-8a8d-c68a277e8cf3",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-08-02",
+    "EndDate": "2026-08-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-20",
+    "Location": "5186 Barbara Plain Apt. 918\nNorth Kelly, TN 42427",
+    "Description": "Medical finish certainly water fish low media. History summer parent this which."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 33052
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 167726
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 189944
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13568
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7920
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 412210,
+    "TotalApproved": 188733
+  },
+  "AdjusterDetails": {
+    "Name": "Kristin Frye",
+    "ContactInformation": {
+      "Phone": "(311)250-9159x648",
+      "Email": "mccalljim@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/b1a0d69d-74e8-4576-aed0-296101358fc6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Butler Group",
+    "Model": "former",
+    "Year": 2006,
+    "VIN": "ea619141-cd95-4a24-9d18-81ad6a38421f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Smith",
+      "ContactInformation": {
+        "Phone": "562.558.1131x610",
+        "Email": "vanderson@example.net"
+      },
+      "Statement": "Specific floor let again officer seat his. Pick my light however.\nFar our lay. Century capital cover wife share reason only."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f3933917-fcd0-469e-b1eb-aa4b4976ce84",
+    "OfficerName": "Amber Figueroa",
+    "ReportDetails": "Sea early research southern. Garden wonder PM thus day other size. Size fund know mention show social sport."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 619,
+    "AnnualIncome": 190084,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 5,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

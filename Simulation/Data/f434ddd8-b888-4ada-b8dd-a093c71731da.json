@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f434ddd8-b888-4ada-b8dd-a093c71731da",
+  "PolicyID": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+  "EffectiveDates": {
+    "StartDate": "2025-03-14",
+    "EndDate": "2026-03-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ac5a31ca-3bdd-4c10-bf6a-ce868133ec66",
+    "Name": "James Gilbert",
+    "PolicyNumber": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+    "ContactInformation": {
+      "Phone": "2675986394",
+      "Email": "lmontes@example.org",
+      "Address": "52161 Young Shoals Suite 547\nStevenberg, MT 96015"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-10",
+    "Location": "662 Smith Flat Apt. 948\nKeithshire, WA 92063",
+    "Description": "List near relate station where walk it back. Safe movement nature tax they system. Film well develop continue."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7890
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 29833
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 108890
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 28608
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 50965
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 226186,
+    "TotalApproved": 16518
+  },
+  "AdjusterDetails": {
+    "Name": "Tammy Nixon",
+    "ContactInformation": {
+      "Phone": "+1-824-929-4757",
+      "Email": "jtaylor@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/fadf9061-bfd5-4b1f-a06d-a377ac1a6b75"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clarke Inc",
+    "Model": "follow",
+    "Year": 2005,
+    "VIN": "b68903c3-aa6f-4309-8d0d-b410b716187d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Byrd",
+      "ContactInformation": {
+        "Phone": "(265)747-6463x069",
+        "Email": "elizabethbeard@example.net"
+      },
+      "Statement": "Coach direction several old. Remember about recognize dinner no.\nTrial Republican capital smile. Race occur same knowledge house manage sister market. Fall line forward program interesting attack."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "94f809b7-7d92-43bb-be80-3c0cad97ca64",
+    "OfficerName": "Jennifer Perez",
+    "ReportDetails": "Daughter almost visit another job night push. Compare exactly charge place. Join expect easy. Green year eat fight personal name Republican."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 495,
+    "AnnualIncome": 117384,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

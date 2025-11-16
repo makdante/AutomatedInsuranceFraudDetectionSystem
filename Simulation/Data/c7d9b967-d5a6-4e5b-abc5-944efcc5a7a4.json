@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c7d9b967-d5a6-4e5b-abc5-944efcc5a7a4",
+  "PolicyID": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+  "EffectiveDates": {
+    "StartDate": "2025-04-18",
+    "EndDate": "2026-04-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "540679a4-28ef-4808-be74-d01304fb65d7",
+    "Name": "Martha Dorsey",
+    "PolicyNumber": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+    "ContactInformation": {
+      "Phone": "385.561.2218x18763",
+      "Email": "calderondon@example.net",
+      "Address": "22938 Wright Ports\nWest Michael, MA 77489"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-10",
+    "Location": "267 Jackson Trail\nErinberg, WY 15601",
+    "Description": "Wait bed indicate. Theory girl fear floor. Significant drug raise support great."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8405
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14089
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 38242
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 87213
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 88081
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 236030,
+    "TotalApproved": 161345
+  },
+  "AdjusterDetails": {
+    "Name": "Paul Gentry",
+    "ContactInformation": {
+      "Phone": "+1-319-591-8895x23376",
+      "Email": "tterrell@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/e0a45393-a794-4fbb-9fb8-3afe608288ad"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mack Ltd",
+    "Model": "finally",
+    "Year": 2018,
+    "VIN": "758cf664-5ab2-4a9a-9b77-adbca8068e5f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Young",
+      "ContactInformation": {
+        "Phone": "+1-910-786-1158x9863",
+        "Email": "bennetthannah@example.net"
+      },
+      "Statement": "Long though board order. Understand home imagine identify protect.\nStrong it bed. Republican produce up arm day. Kid office themselves kid woman town mean."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "21f81bc3-2d28-4d34-939d-627f5ffeee4b",
+    "OfficerName": "Andrew Martinez DVM",
+    "ReportDetails": "Choose career process onto tell. Security now magazine thought rock professor front.\nBoy over teacher them system. Ready family buy claim goal.\nProduct player throw responsibility."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 518,
+    "AnnualIncome": 112696,
+    "DebtToIncomeRatio": 0.86
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

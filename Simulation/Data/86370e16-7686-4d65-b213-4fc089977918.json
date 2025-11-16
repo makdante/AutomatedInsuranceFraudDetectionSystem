@@ -1,0 +1,112 @@
+{
+  "ClaimID": "86370e16-7686-4d65-b213-4fc089977918",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2025-06-20",
+    "EndDate": "2026-06-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-07",
+    "Location": "51338 Wilson Locks Suite 597\nChurchberg, WV 88731",
+    "Description": "Room hot relationship land go.\nArt three turn day few.\nTheir dark method professional off thought.\nOld discuss upon someone always mother."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4812090
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4820614
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4077527
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4165099
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4913201
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22788531,
+    "TotalApproved": 18426618
+  },
+  "AdjusterDetails": {
+    "Name": "Carly Adams DVM",
+    "ContactInformation": {
+      "Phone": "+1-364-693-6001",
+      "Email": "drose@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/96492ecb-97ed-458f-94ac-e58d5e02ae25"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones, White and Smith",
+    "Model": "church",
+    "Year": 2004,
+    "VIN": "0de3be58-4454-48b1-bca0-f8ef0c30f82d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Connie Martin",
+      "ContactInformation": {
+        "Phone": "5577584625",
+        "Email": "daniel56@example.org"
+      },
+      "Statement": "Group social region down beyond. Often home there do reality nature just. Successful federal source customer beat support major PM. Maybe perform tree identify sense."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4089f11b-b772-4297-ab0f-53685c899f36",
+    "OfficerName": "Rebecca Torres",
+    "ReportDetails": "Country blue pass even student. Spring yet play about serious religious lead.\nName however threat. Item child wrong."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 485,
+    "AnnualIncome": 54765,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

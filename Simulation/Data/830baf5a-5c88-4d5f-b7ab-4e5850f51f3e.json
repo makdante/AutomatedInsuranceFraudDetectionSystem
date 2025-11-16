@@ -1,0 +1,112 @@
+{
+  "ClaimID": "830baf5a-5c88-4d5f-b7ab-4e5850f51f3e",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2024-12-22",
+    "EndDate": "2025-12-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-21",
+    "Location": "428 Melissa Brook\nKaylatown, AS 18652",
+    "Description": "Growth nearly form store himself. Responsibility service pull serve know night. Happen bit protect whatever.\nWill tree information cover. Me ago best tree perform. Author item prepare common firm."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4263271
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4047504
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4529325
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4265416
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4503348
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21608864,
+    "TotalApproved": 15973724
+  },
+  "AdjusterDetails": {
+    "Name": "Gabrielle Everett",
+    "ContactInformation": {
+      "Phone": "7446811048",
+      "Email": "pgross@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/03b19de2-2bdf-4f4f-a35c-7dfc578496aa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gilmore, Werner and Cox",
+    "Model": "thus",
+    "Year": 2000,
+    "VIN": "54f4d682-a0c9-45e5-ac92-55be7fc68da7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jerry Alexander",
+      "ContactInformation": {
+        "Phone": "001-969-275-1862x6210",
+        "Email": "nguyenlori@example.com"
+      },
+      "Statement": "Less PM raise our artist here. Rich newspaper table check care war always it.\nFood close marriage area. Discussion back them practice sea. Different hear single. Herself action television through."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "63d2e36c-c6db-49e0-9b9b-e7526f062347",
+    "OfficerName": "James Foster",
+    "ReportDetails": "Here part business suffer program rather girl. Strategy discover stage social many administration once health."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 383,
+    "AnnualIncome": 135733,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

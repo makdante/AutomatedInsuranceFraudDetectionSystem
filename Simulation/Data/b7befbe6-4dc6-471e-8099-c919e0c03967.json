@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b7befbe6-4dc6-471e-8099-c919e0c03967",
+  "PolicyID": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+  "EffectiveDates": {
+    "StartDate": "2025-03-21",
+    "EndDate": "2026-03-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a5e374d7-2a89-4722-82f7-28a28bbdcbf0",
+    "Name": "Evan Fernandez",
+    "PolicyNumber": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+    "ContactInformation": {
+      "Phone": "797-592-5686x43438",
+      "Email": "helen96@example.com",
+      "Address": "70847 Acevedo Path Suite 052\nEast Jason, CO 07830"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-29",
+    "Location": "USNV Hayes\nFPO AP 26622",
+    "Description": "Start away yet risk cultural.\nTalk cold teach entire admit institution occur. Course some live training painting rock tell its. Interesting picture glass."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 75031
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 60117
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17030
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 30531
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2367
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 185076,
+    "TotalApproved": 168536
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Barrett",
+    "ContactInformation": {
+      "Phone": "9578010737",
+      "Email": "qvillanueva@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/ce069e82-8018-423c-bc54-0ad1a4895d81"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Tyler-Garcia",
+    "Model": "may",
+    "Year": 2004,
+    "VIN": "bff63bfe-7418-4ceb-a424-1c69dc2df098"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Johnson",
+      "ContactInformation": {
+        "Phone": "(970)526-7760x699",
+        "Email": "shelly92@example.net"
+      },
+      "Statement": "Her physical end increase. Loss worry and receive public. Education create start.\nHear any guess sure party your government."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a996d4e3-88a8-436a-b5f8-f5034d04d593",
+    "OfficerName": "Lori Frederick",
+    "ReportDetails": "Thought discuss will culture son along near. Off instead left star two experience read. Season no many enough view agent today."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 826,
+    "AnnualIncome": 37209,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

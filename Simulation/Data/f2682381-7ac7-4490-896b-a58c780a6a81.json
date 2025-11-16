@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f2682381-7ac7-4490-896b-a58c780a6a81",
+  "PolicyID": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+  "EffectiveDates": {
+    "StartDate": "2025-04-27",
+    "EndDate": "2026-04-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1ca65977-e36d-46f7-95b8-d03e34c9f672",
+    "Name": "Melissa Charles DVM",
+    "PolicyNumber": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+    "ContactInformation": {
+      "Phone": "871-833-2368x7208",
+      "Email": "scottwagner@example.org",
+      "Address": "006 Torres Neck Apt. 510\nRichardsonshire, NM 15931"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-10",
+    "Location": "6814 Sean Forges\nSilvaville, TX 71317",
+    "Description": "Finish level threat view upon value effort. Art consumer social almost. Why air well very choose.\nBlood that color society participant quickly. Word above reveal collection stock."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6342
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 52996
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19115
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 29790
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4663
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 112906,
+    "TotalApproved": 50778
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Luna",
+    "ContactInformation": {
+      "Phone": "683.275.3374x36442",
+      "Email": "pmontgomery@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/75d70efd-beda-424e-8b2c-6f28531a1560"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown, Shannon and Mccoy",
+    "Model": "believe",
+    "Year": 2007,
+    "VIN": "db3a583a-f060-40d1-a71f-9189a5645725"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nicholas Dunn",
+      "ContactInformation": {
+        "Phone": "869-487-9451",
+        "Email": "zhaney@example.com"
+      },
+      "Statement": "Want rest whether nothing affect skin bring. Why card yard magazine.\nBeat next will we. Let laugh issue democratic tax. Song foreign hear present subject page huge."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "37f33091-d3f5-4b89-905d-f9ba22763984",
+    "OfficerName": "John Woods",
+    "ReportDetails": "Story dinner and any minute. Item machine nature his inside smile. Decision available community front special challenge about.\nConcern company some deal it few power stuff. Successful wall data."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 442,
+    "AnnualIncome": 52370,
+    "DebtToIncomeRatio": 0.22
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 10,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

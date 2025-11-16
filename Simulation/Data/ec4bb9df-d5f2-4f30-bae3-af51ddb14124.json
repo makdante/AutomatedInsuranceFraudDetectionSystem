@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ec4bb9df-d5f2-4f30-bae3-af51ddb14124",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-03-12",
+    "EndDate": "2026-03-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-09",
+    "Location": "62149 Santana Coves\nWallsbury, NM 33647",
+    "Description": "Event stand have become. Ago each task everything meeting. Key long quite top the central election large.\nOver citizen professional up head finally him. Like example picture production."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3288
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36342
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 61820
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 24427
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7922
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 133799,
+    "TotalApproved": 93333
+  },
+  "AdjusterDetails": {
+    "Name": "David Johnson",
+    "ContactInformation": {
+      "Phone": "497.685.4312x52073",
+      "Email": "dnichols@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/4f51fbd3-913d-40d0-aef5-1fb49bac466e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mendez-Meadows",
+    "Model": "her",
+    "Year": 2021,
+    "VIN": "ffa433ed-1b40-499d-9218-6c1874030926"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cory Cross",
+      "ContactInformation": {
+        "Phone": "847.515.5753x47248",
+        "Email": "kathypeterson@example.org"
+      },
+      "Statement": "Cold involve deal whatever. Ahead find skin thank. Per or sure city their exist hold.\nCareer sure pattern trade above great. Agree at late somebody section."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9516a7fe-2c75-40ec-9b0b-567304e2e7b2",
+    "OfficerName": "Ms. Jasmine Bolton",
+    "ReportDetails": "We central state fund score mission. Note region week though camera bill. Everything attention mission most break first.\nAccording structure baby develop. May get of."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 823,
+    "AnnualIncome": 165050,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f7fd3351-76fd-4a71-85cd-904cce6b0fbc",
+  "PolicyID": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+  "EffectiveDates": {
+    "StartDate": "2025-07-11",
+    "EndDate": "2026-07-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a5e374d7-2a89-4722-82f7-28a28bbdcbf0",
+    "Name": "Evan Fernandez",
+    "PolicyNumber": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+    "ContactInformation": {
+      "Phone": "797-592-5686x43438",
+      "Email": "helen96@example.com",
+      "Address": "70847 Acevedo Path Suite 052\nEast Jason, CO 07830"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-11",
+    "Location": "1782 Gilbert Dale\nMichelleland, NJ 69117",
+    "Description": "Politics instead test pretty myself. Fish fall strong beautiful.\nEffort box interview age. Policy senior building girl. Benefit vote author reduce baby mission."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16674
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1909
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 79094
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 112835
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9593
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 220105,
+    "TotalApproved": 170070
+  },
+  "AdjusterDetails": {
+    "Name": "Alexander Myers",
+    "ContactInformation": {
+      "Phone": "(886)947-0186x900",
+      "Email": "adriangood@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/6107a7e1-cb34-451d-a119-20eaad356be0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Trujillo-French",
+    "Model": "just",
+    "Year": 2008,
+    "VIN": "2724c64f-5e2e-41b0-b41b-c6da36cff14f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Carlos Hayes",
+      "ContactInformation": {
+        "Phone": "484-238-9020",
+        "Email": "zunderwood@example.com"
+      },
+      "Statement": "Many people we offer. Point why collection although usually quite. Catch shake sense me college."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0663b810-d2b9-4cc7-b949-70a4521e3b78",
+    "OfficerName": "Seth Smith",
+    "ReportDetails": "Rich feeling special cell drive administration. Situation charge protect behavior. Record list big learn."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 599,
+    "AnnualIncome": 125189,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 1,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

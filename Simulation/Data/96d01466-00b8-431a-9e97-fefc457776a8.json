@@ -1,0 +1,112 @@
+{
+  "ClaimID": "96d01466-00b8-431a-9e97-fefc457776a8",
+  "PolicyID": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+  "EffectiveDates": {
+    "StartDate": "2025-07-11",
+    "EndDate": "2026-07-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "38d2f43b-58cf-49b2-83ed-99824c18c529",
+    "Name": "Vanessa Lam",
+    "PolicyNumber": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+    "ContactInformation": {
+      "Phone": "(659)271-4340x58512",
+      "Email": "kayleethompson@example.org",
+      "Address": "4509 Robert Haven\nNew Curtis, HI 74176"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-24",
+    "Location": "97353 Heather Plain\nSharonville, DE 21429",
+    "Description": "Pull middle every institution still hope including. Officer although notice care."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 41010
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7795
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18272
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5274
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7076
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 79427,
+    "TotalApproved": 51962
+  },
+  "AdjusterDetails": {
+    "Name": "Jamie Davis",
+    "ContactInformation": {
+      "Phone": "+1-634-618-4437x28662",
+      "Email": "kellywolfe@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/21a4f67e-13f0-4a2e-96f3-3643ef5b456d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Walsh PLC",
+    "Model": "mother",
+    "Year": 2013,
+    "VIN": "fd93fb3a-5224-48ec-888a-79ecf334480e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Laura Oliver",
+      "ContactInformation": {
+        "Phone": "695.867.7194x561",
+        "Email": "michael08@example.net"
+      },
+      "Statement": "Under system keep open huge huge. Score style professor upon. Marriage best collection development require herself future. Including responsibility successful own break red relationship."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "66aae768-bd33-4b0f-9aa2-666b928b6f32",
+    "OfficerName": "Mr. Zachary Diaz",
+    "ReportDetails": "New lose door mother economy trip head.\nLater lay alone role around yard. Fear person watch now natural table."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 316,
+    "AnnualIncome": 95441,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 0,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "64f886dc-2047-4226-99fb-b48c37e3090e",
+  "PolicyID": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+  "EffectiveDates": {
+    "StartDate": "2025-08-21",
+    "EndDate": "2026-08-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fa402266-28f6-4a28-9984-042633fec81b",
+    "Name": "Miranda Nelson",
+    "PolicyNumber": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+    "ContactInformation": {
+      "Phone": "871.425.9645x240",
+      "Email": "iflynn@example.com",
+      "Address": "275 Lee Common\nSouth Hectorville, VI 11258"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-04",
+    "Location": "6691 Haley Port Suite 873\nHallside, LA 92226",
+    "Description": "My treatment generation result color wife program course. Style goal shake fill future several."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8743
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4355
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8456
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 71299
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18174
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 111027,
+    "TotalApproved": 77477
+  },
+  "AdjusterDetails": {
+    "Name": "Tyler Moore",
+    "ContactInformation": {
+      "Phone": "+1-621-589-3227x1705",
+      "Email": "daniellesutton@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/88002e50-e011-4a1f-a684-b728ed0ba324"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thomas and Sons",
+    "Model": "term",
+    "Year": 2005,
+    "VIN": "ee76632e-3a33-4975-bc4d-3c33983a14f9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mrs. Theresa Murillo MD",
+      "ContactInformation": {
+        "Phone": "001-905-791-4668x7183",
+        "Email": "heathzachary@example.org"
+      },
+      "Statement": "During sound what across. Including community improve property. Career four look for rich.\nMother seek former four nation. Impact win inside believe. Top current town assume treat she you number."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9838f59a-4cb0-4388-be1d-839c847e14a3",
+    "OfficerName": "Jeremy Arroyo",
+    "ReportDetails": "Safe able gas line across.\nPick always fill yourself page exist floor. More seem already daughter civil option decade.\nCommercial chair than remain. Example through across concern send job stuff."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 614,
+    "AnnualIncome": 93452,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 4,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

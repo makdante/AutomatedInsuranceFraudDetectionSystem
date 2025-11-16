@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d2f55f4d-63ef-4565-8764-5374caeed583",
+  "PolicyID": "6c36cc73-e207-48b9-a284-c51cf5663165",
+  "EffectiveDates": {
+    "StartDate": "2025-02-24",
+    "EndDate": "2026-02-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "193b28b0-1277-4ecb-b44b-678f0a8a54ac",
+    "Name": "Aaron Wilson",
+    "PolicyNumber": "6c36cc73-e207-48b9-a284-c51cf5663165",
+    "ContactInformation": {
+      "Phone": "4298804696",
+      "Email": "uford@example.org",
+      "Address": "70180 Jessica Ridges Suite 614\nEast Mindy, IL 04431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-09",
+    "Location": "800 Peterson Forks Suite 256\nDorothyville, CA 66020",
+    "Description": "Say reason box test. Share similar scene physical matter act coach. Hundred short suggest young risk appear brother religious.\nToday cut too board include. Interest source western bad."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 31607
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3007
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5930
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2582
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 35399
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 78525,
+    "TotalApproved": 53976
+  },
+  "AdjusterDetails": {
+    "Name": "Alison Gray",
+    "ContactInformation": {
+      "Phone": "(577)941-4839x57777",
+      "Email": "johnsonrobert@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e423752e-27fa-49ac-8399-e7405933c689"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cox-Gardner",
+    "Model": "what",
+    "Year": 2006,
+    "VIN": "e73d4067-dfcf-4744-96d4-9bb2c8f3686e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stephanie Small",
+      "ContactInformation": {
+        "Phone": "+1-297-590-0224",
+        "Email": "barbaralittle@example.net"
+      },
+      "Statement": "Hand organization that assume across better could. Attorney method by word late election. Child another individual world need."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "15df5ff6-de12-4866-bef9-5e82a6c338e3",
+    "OfficerName": "Eric Ramirez",
+    "ReportDetails": "Leg affect responsibility next shake goal whose. Mention politics which explain record respond."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 475,
+    "AnnualIncome": 72715,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

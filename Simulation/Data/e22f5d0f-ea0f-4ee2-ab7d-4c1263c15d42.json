@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e22f5d0f-ea0f-4ee2-ab7d-4c1263c15d42",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2025-02-07",
+    "EndDate": "2026-02-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-26",
+    "Location": "661 Erin Flats\nLake Richardfort, VA 82257",
+    "Description": "Rise for main can authority. Often beautiful cell look statement who back. Major watch kind be treat close."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 64388
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 166415
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4057
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15551
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13304
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 263715,
+    "TotalApproved": 255234
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Lee",
+    "ContactInformation": {
+      "Phone": "679-944-6395x234",
+      "Email": "collinsmegan@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/9dda175a-4fed-46e3-8e9c-ed7db058d4c8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Shaw PLC",
+    "Model": "run",
+    "Year": 2001,
+    "VIN": "0161eb8c-525b-403b-97e7-bb5b0f0165f4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Abigail Taylor",
+      "ContactInformation": {
+        "Phone": "649.685.1094",
+        "Email": "jeffreycruz@example.net"
+      },
+      "Statement": "Send street these save. Identify specific media garden author television.\nTreat major move drop management. Travel try image.\nOver around from theory."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0e85e42d-d361-4efb-9394-0f0cc22e977c",
+    "OfficerName": "Christopher Rangel",
+    "ReportDetails": "Almost notice position second majority. Life network myself shoulder candidate. Sure green campaign cover.\nAdmit whole team area. Stock expert tree represent. Tv about full seven memory wall."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 555,
+    "AnnualIncome": 185987,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

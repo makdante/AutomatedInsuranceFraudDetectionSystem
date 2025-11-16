@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b9b4d389-24fd-49e2-b350-0c58826a8224",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-07-06",
+    "EndDate": "2026-07-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-26",
+    "Location": "500 Thomas Pine\nGoodmanchester, NY 92039",
+    "Description": "Wait better arrive against industry. Identify success successful. Lead central carry smile.\nHappen after official image might rule kid itself. Police fact man draw follow today part."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1485
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6157
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11230
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 96212
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4684
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 119768,
+    "TotalApproved": 14718
+  },
+  "AdjusterDetails": {
+    "Name": "Angela Edwards",
+    "ContactInformation": {
+      "Phone": "001-990-311-8575x6891",
+      "Email": "daviddennis@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/613373c1-4af4-418d-ac6c-6fba54579e02"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Adams, Moore and Ruiz",
+    "Model": "mean",
+    "Year": 2015,
+    "VIN": "0e5585c2-f17c-4c4a-b37e-1e9fc5c66d8b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Aaron Wilson",
+      "ContactInformation": {
+        "Phone": "(225)907-6808",
+        "Email": "qhenry@example.net"
+      },
+      "Statement": "Allow hit town development fact enjoy. Space tax all cover always quite.\nStandard marriage born respond. He shoulder tree listen during phone admit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ef9964b8-8f84-49b1-9f5a-983f1ba9fe19",
+    "OfficerName": "Sarah Brown",
+    "ReportDetails": "Great speak movie find.\nInstitution model senior staff move according. Hit through remember way list. Reduce speech choice protect card list impact."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 815,
+    "AnnualIncome": 89037,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

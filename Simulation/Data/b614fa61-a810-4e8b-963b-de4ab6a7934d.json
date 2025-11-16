@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b614fa61-a810-4e8b-963b-de4ab6a7934d",
+  "PolicyID": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+  "EffectiveDates": {
+    "StartDate": "2025-05-21",
+    "EndDate": "2026-05-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e56ba82b-16a1-4c4b-8176-cdb7f4257046",
+    "Name": "Allen Calderon",
+    "PolicyNumber": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+    "ContactInformation": {
+      "Phone": "358.830.4879x08843",
+      "Email": "timothyjones@example.com",
+      "Address": "255 Larry Lights Apt. 555\nNorth Nathanbury, MO 09424"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-23",
+    "Location": "54152 Seth Alley Suite 503\nStephaniebury, NY 59898",
+    "Description": "Though force suffer. Keep your arrive discussion.\nRaise point executive yourself find. Federal prove among each rate. News cup answer under choice girl."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7161
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 184409
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 94171
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1076
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6033
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 292850,
+    "TotalApproved": 191900
+  },
+  "AdjusterDetails": {
+    "Name": "Shelly Gentry",
+    "ContactInformation": {
+      "Phone": "+1-542-970-1710",
+      "Email": "brenda55@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e147b632-eba8-481b-bdcc-981eaf9701c1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-23T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-28T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-02T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mitchell, Berry and Brown",
+    "Model": "event",
+    "Year": 2019,
+    "VIN": "760c502a-cc76-4958-bed5-8f77877018dd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samuel Simmons",
+      "ContactInformation": {
+        "Phone": "(511)834-6633x830",
+        "Email": "robert21@example.com"
+      },
+      "Statement": "Explain serve listen eat.\nCommon speak government. Shake own yourself impact woman example compare. Democrat price guy garden each never still. Range under over party surface."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1220e847-e537-4308-aaa6-f65bcdfc75c5",
+    "OfficerName": "Randall Henderson",
+    "ReportDetails": "Skin name alone remain move risk. Local market believe reality who feel.\nLeft happen kid western. Art law modern protect sense free apply summer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 749,
+    "AnnualIncome": 186127,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

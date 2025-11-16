@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4f61a361-51bf-4cc1-8bf5-227fbff84039",
+  "PolicyID": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+  "EffectiveDates": {
+    "StartDate": "2025-01-07",
+    "EndDate": "2026-01-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e56ba82b-16a1-4c4b-8176-cdb7f4257046",
+    "Name": "Allen Calderon",
+    "PolicyNumber": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+    "ContactInformation": {
+      "Phone": "358.830.4879x08843",
+      "Email": "timothyjones@example.com",
+      "Address": "255 Larry Lights Apt. 555\nNorth Nathanbury, MO 09424"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-10",
+    "Location": "05658 Luna Forges\nNew Angela, AL 62457",
+    "Description": "Occur than establish know the process defense near. Trade reason others note.\nCitizen must sea throw recent born tell middle. Agree five safe bill eye travel outside. Provide wear method business."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 82060
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12149
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11492
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17227
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 133236
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 256164,
+    "TotalApproved": 44277
+  },
+  "AdjusterDetails": {
+    "Name": "Paula Bean",
+    "ContactInformation": {
+      "Phone": "305-649-5986",
+      "Email": "dennishaley@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/046495ce-410c-421f-9b12-e03b09f49009"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Evans, Schroeder and King",
+    "Model": "upon",
+    "Year": 2004,
+    "VIN": "a5ee6123-5270-4b28-8baa-92b7f3864e07"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mark Chung",
+      "ContactInformation": {
+        "Phone": "+1-322-623-0848x5145",
+        "Email": "coopermelissa@example.com"
+      },
+      "Statement": "Up present whose wall over organization start. Reason single professional southern onto government when cut. Involve Mr suggest why bag wind generation."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cd7e644d-ede3-4414-9e65-b31ddbf18a15",
+    "OfficerName": "Patricia Adams",
+    "ReportDetails": "Father free society choose money appear. Amount successful three condition. Science discussion single country three but."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 488,
+    "AnnualIncome": 50659,
+    "DebtToIncomeRatio": 0.96
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 2,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

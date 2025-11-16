@@ -1,0 +1,112 @@
+{
+  "ClaimID": "12b64f19-3c73-4ed3-b4b6-fa96c77f9c02",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2025-09-14",
+    "EndDate": "2026-09-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-06",
+    "Location": "USS Hardin\nFPO AP 98833",
+    "Description": "Color significant east ago step support. Official control window natural nation without three. Talk so hard spring long but thousand wear. Board cold until seat."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 165621
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 85410
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 101687
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 90632
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5731
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 449081,
+    "TotalApproved": 446622
+  },
+  "AdjusterDetails": {
+    "Name": "Catherine Smith",
+    "ContactInformation": {
+      "Phone": "578.867.6315x96413",
+      "Email": "rollinsheather@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/5fbaf2d6-b27e-4492-8b0d-0e141d5c61a9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Dodson-Garcia",
+    "Model": "instead",
+    "Year": 2018,
+    "VIN": "77829089-5324-409c-9b74-a5cce160b0c7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Thomas Madden",
+      "ContactInformation": {
+        "Phone": "001-526-778-6110",
+        "Email": "lawrence39@example.net"
+      },
+      "Statement": "Guy statement prepare act federal particularly.\nChoice enter ago. Pm sea of require staff. Experience media protect into offer. While where free social police individual hospital where."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "dc7aa19e-207d-4414-9dc6-a6a16c38dfc9",
+    "OfficerName": "Tyler Alvarado",
+    "ReportDetails": "Serve executive prove do in identify. Close born oil keep especially individual stop. Another your media full claim its.\nOpportunity catch in suggest own. National power follow describe enjoy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 416,
+    "AnnualIncome": 141160,
+    "DebtToIncomeRatio": 0.51
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 2,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

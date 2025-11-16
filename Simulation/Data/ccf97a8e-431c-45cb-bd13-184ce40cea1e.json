@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ccf97a8e-431c-45cb-bd13-184ce40cea1e",
+  "PolicyID": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+  "EffectiveDates": {
+    "StartDate": "2025-05-30",
+    "EndDate": "2026-05-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba82c3bd-9d46-4b0e-b555-5005238e858f",
+    "Name": "Kimberly Perez",
+    "PolicyNumber": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+    "ContactInformation": {
+      "Phone": "001-609-229-9683x29012",
+      "Email": "nicholsbenjamin@example.com",
+      "Address": "81438 Berry Squares Apt. 214\nSarahtown, CA 13161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-13",
+    "Location": "2037 Carr Road\nPort Linda, NJ 90513",
+    "Description": "One response agency remain back agree we. This television region democratic building look. Alone imagine more.\nSouth citizen onto these treatment dog."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 29659
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13512
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 70885
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 21060
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4368
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 139484,
+    "TotalApproved": 101955
+  },
+  "AdjusterDetails": {
+    "Name": "Shaun Durham",
+    "ContactInformation": {
+      "Phone": "814-655-3161x326",
+      "Email": "aaronmathis@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/5eda9fab-d3d2-49bd-81c7-e7bed0432091"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gonzalez and Sons",
+    "Model": "institution",
+    "Year": 2004,
+    "VIN": "7b277cba-e2c0-481e-a429-87665daf796a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathryn Sawyer",
+      "ContactInformation": {
+        "Phone": "(947)861-9869x189",
+        "Email": "robertthomas@example.org"
+      },
+      "Statement": "Figure wish world Republican. Rather training read leave especially fast defense. Stock each prevent plant type to kitchen."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8dd1826c-f488-4c2b-854e-91221bee987d",
+    "OfficerName": "Sarah Houston",
+    "ReportDetails": "Score author mouth lose often guess little give.\nFind talk federal child discussion level we. Former production arm when."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 369,
+    "AnnualIncome": 140542,
+    "DebtToIncomeRatio": 0.72
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 5,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

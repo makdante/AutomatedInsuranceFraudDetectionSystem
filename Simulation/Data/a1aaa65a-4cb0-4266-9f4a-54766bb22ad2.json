@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a1aaa65a-4cb0-4266-9f4a-54766bb22ad2",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2024-12-01",
+    "EndDate": "2025-12-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-12",
+    "Location": "6672 Mitchell Isle Apt. 964\nPort Christinemouth, UT 50094",
+    "Description": "Authority buy campaign candidate great. Weight trip red different. Change seem find rule.\nHerself situation how most itself single. Agree wait sea arm imagine benefit computer involve."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 195389
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 46766
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 54244
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 120769
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17544
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 434712,
+    "TotalApproved": 100592
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Kramer",
+    "ContactInformation": {
+      "Phone": "3439145288",
+      "Email": "mortonkim@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/9d41a016-ab82-434e-8db7-30b35a7207dd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Walker, Sexton and Leach",
+    "Model": "sing",
+    "Year": 2012,
+    "VIN": "5c118765-8f84-4b4c-aef3-6c10d787d6a8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Shawn Reynolds",
+      "ContactInformation": {
+        "Phone": "001-997-971-2576",
+        "Email": "david44@example.org"
+      },
+      "Statement": "Place turn inside important operation. Else candidate staff ground sport gun arm. Discussion parent choice quickly brother boy.\nWestern age according listen. Into Mrs put."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "065e8379-b4c1-4868-b94a-be272b63ce6d",
+    "OfficerName": "Emily Rodriguez",
+    "ReportDetails": "Operation someone exactly beyond shake how. We accept individual seven light well law.\nTake practice check small coach yet feel. Home industry area fly.\nCampaign attention different system group."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 771,
+    "AnnualIncome": 177831,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 1,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

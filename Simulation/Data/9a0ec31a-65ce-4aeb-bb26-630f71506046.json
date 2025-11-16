@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9a0ec31a-65ce-4aeb-bb26-630f71506046",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2025-03-24",
+    "EndDate": "2026-03-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-23",
+    "Location": "Unit 8650 Box 7467\nDPO AE 70469",
+    "Description": "Necessary build media name data from. Yes by identify sign management hair result.\nInternational significant management door.\nBox game glass finally instead husband tonight. Sister trip nothing."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4572289
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4243665
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4563694
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4987084
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4227071
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22593803,
+    "TotalApproved": 6530900
+  },
+  "AdjusterDetails": {
+    "Name": "Caitlyn Patel",
+    "ContactInformation": {
+      "Phone": "9862711187",
+      "Email": "paigelewis@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/340f2ff2-cfb0-4708-a4ee-eae0ae7b37e3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-23T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-28T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Brown",
+    "Model": "keep",
+    "Year": 2020,
+    "VIN": "4861249c-d3ee-4e29-a53c-804c3cfdea4c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Shannon Hall",
+      "ContactInformation": {
+        "Phone": "001-986-748-4380x01781",
+        "Email": "logankeller@example.net"
+      },
+      "Statement": "Father under piece involve concern. Either up social live quickly. Step risk event."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4e48b884-e601-4f71-8d53-5920cf17de81",
+    "OfficerName": "Connor Taylor",
+    "ReportDetails": "Even trial officer. So wear speak carry ago. Simply computer like resource operation since. Success treat everybody artist less."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 434,
+    "AnnualIncome": 21696,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

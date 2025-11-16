@@ -1,0 +1,112 @@
+{
+  "ClaimID": "72d0ec47-33b9-4d96-829c-d81cd92b879f",
+  "PolicyID": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+  "EffectiveDates": {
+    "StartDate": "2025-09-23",
+    "EndDate": "2026-09-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1ebb1bc-6120-42c4-a87a-be4f808197b1",
+    "Name": "Donald Smith",
+    "PolicyNumber": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+    "ContactInformation": {
+      "Phone": "675.606.3377",
+      "Email": "masonpamela@example.net",
+      "Address": "14432 Richard Vista\nNew Suzanne, TN 31994"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-28",
+    "Location": "190 Faulkner Manor\nBerrymouth, AR 52533",
+    "Description": "Happy important quickly stock trial run prevent. Expect ago each total whole foreign resource involve. Or approach for history interesting.\nFactor west fund fund."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4601
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 39381
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16724
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13839
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9931
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 84476,
+    "TotalApproved": 4891
+  },
+  "AdjusterDetails": {
+    "Name": "David Austin",
+    "ContactInformation": {
+      "Phone": "+1-691-340-0658x6264",
+      "Email": "klarson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/edc10417-9ce4-4c6a-9f25-3fe6be2a788e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Price, Myers and Hansen",
+    "Model": "position",
+    "Year": 2013,
+    "VIN": "fa57f6a3-a6e8-4846-9174-97d41fb9cc3e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Gary Powers",
+      "ContactInformation": {
+        "Phone": "+1-294-742-3951x85919",
+        "Email": "nathan80@example.com"
+      },
+      "Statement": "Total action everyone into class eat money.\nSpecial do finally design some it public. Center garden at free."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "865bf2f7-9529-4fc3-b2b2-f7887ade8312",
+    "OfficerName": "Tammy Gillespie",
+    "ReportDetails": "Win next despite week management. Both throughout environmental well somebody several. Able address scene hope eye president husband."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 544,
+    "AnnualIncome": 91034,
+    "DebtToIncomeRatio": 0.81
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 3,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

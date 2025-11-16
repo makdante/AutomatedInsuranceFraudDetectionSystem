@@ -1,0 +1,112 @@
+{
+  "ClaimID": "83f1349b-db34-4534-897f-17778bcfcfe3",
+  "PolicyID": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+  "EffectiveDates": {
+    "StartDate": "2024-11-23",
+    "EndDate": "2025-11-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "36ef7374-a94b-45c8-8312-6e8562668715",
+    "Name": "Vincent Flynn",
+    "PolicyNumber": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+    "ContactInformation": {
+      "Phone": "950-852-7090",
+      "Email": "harrybryant@example.com",
+      "Address": "476 Reed Landing\nJeanettestad, VT 94361"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-24",
+    "Location": "9262 Daniels Stravenue\nLake Rachelland, IN 44604",
+    "Description": "Black fast coach just third near. Tree space article. Claim body recent fly."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4545473
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4132052
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4802955
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4898962
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4287478
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22666920,
+    "TotalApproved": 9331108
+  },
+  "AdjusterDetails": {
+    "Name": "Christina Coleman",
+    "ContactInformation": {
+      "Phone": "9493346614",
+      "Email": "hsanchez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/09bab81a-46a1-479c-bbfe-b19cc72c9e21"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-24T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-29T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Frank Inc",
+    "Model": "computer",
+    "Year": 2003,
+    "VIN": "fe897edd-af7c-4732-bbb5-c58970e69879"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Keith Garner",
+      "ContactInformation": {
+        "Phone": "(937)816-5484x43693",
+        "Email": "wjohnson@example.org"
+      },
+      "Statement": "Remember live generation every model piece executive.\nPiece range money daughter each. Bad sometimes especially section stop mention. Mother reason name."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3e9c23bd-7600-496f-8d2b-c34d48d6ce77",
+    "OfficerName": "Walter Wiley",
+    "ReportDetails": "Feeling heart role himself. Economy watch good travel well.\nFear also her current make. In around right action. Organization way so final. Develop scientist within amount."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 461,
+    "AnnualIncome": 105462,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

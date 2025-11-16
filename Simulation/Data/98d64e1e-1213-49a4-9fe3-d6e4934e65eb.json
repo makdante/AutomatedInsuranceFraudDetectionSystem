@@ -1,0 +1,112 @@
+{
+  "ClaimID": "98d64e1e-1213-49a4-9fe3-d6e4934e65eb",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-05-03",
+    "EndDate": "2026-05-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-06",
+    "Location": "79523 Jessica Junctions Suite 274\nWatkinsfort, PA 15019",
+    "Description": "Nor fill far. Opportunity where possible. Agreement hope memory form look rock."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5046
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 28762
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4675
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 178473
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 77708
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 294664,
+    "TotalApproved": 28792
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Rivera",
+    "ContactInformation": {
+      "Phone": "(520)216-2160x11194",
+      "Email": "monroekaren@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/9e2b8a82-92d7-4596-b7e8-272f42a0cc5b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams-Evans",
+    "Model": "interest",
+    "Year": 2008,
+    "VIN": "4ce85e4c-cc09-48b0-833a-762fe6181ec0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erika Henry",
+      "ContactInformation": {
+        "Phone": "+1-582-248-7687x19663",
+        "Email": "bellshawn@example.org"
+      },
+      "Statement": "Space good would employee believe pretty drug. Discover never west adult doctor tell occur. Likely everyone animal show bar inside suggest."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7f8a8b51-884c-4219-8b4a-21b23eddc8bd",
+    "OfficerName": "Rhonda Peterson",
+    "ReportDetails": "Center look scene community seem apply because. Different north source commercial still.\nMachine represent total. Recently heart film American meeting hotel about."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 520,
+    "AnnualIncome": 163661,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

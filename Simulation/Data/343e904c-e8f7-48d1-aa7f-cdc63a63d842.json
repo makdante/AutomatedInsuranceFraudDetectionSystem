@@ -1,0 +1,112 @@
+{
+  "ClaimID": "343e904c-e8f7-48d1-aa7f-cdc63a63d842",
+  "PolicyID": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+  "EffectiveDates": {
+    "StartDate": "2025-02-01",
+    "EndDate": "2026-02-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d1d74627-ebfa-4be3-b1da-26ed11561b0d",
+    "Name": "Joseph Salazar",
+    "PolicyNumber": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+    "ContactInformation": {
+      "Phone": "001-886-312-3844x48198",
+      "Email": "ugray@example.net",
+      "Address": "293 Jessica Plain\nLake Jillborough, IA 96694"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-02",
+    "Location": "30195 Lisa Pines Apt. 901\nFoxshire, MI 39718",
+    "Description": "Administration letter specific dark. Administration at author his go.\nAround head page according value resource often. Him store look dog. Fall stand find approach fill.\nYet defense human lose."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40982
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 92868
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4611
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14447
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 45059
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 197967,
+    "TotalApproved": 168042
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Adams",
+    "ContactInformation": {
+      "Phone": "8117052898",
+      "Email": "heather11@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e22b6c18-4467-4d32-b4a3-6c1a02df0dc3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ryan, Rodriguez and Valencia",
+    "Model": "defense",
+    "Year": 2014,
+    "VIN": "7cc8aeec-2e77-4fe9-badd-f077b68c3ca5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebecca Rodriguez",
+      "ContactInformation": {
+        "Phone": "942.339.4806",
+        "Email": "alice71@example.com"
+      },
+      "Statement": "Lose chair stage marriage box clear blue. Laugh traditional table set four. Yes ground room wish."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f9baf8c2-0b2d-476e-b5a9-fcd7a989c53f",
+    "OfficerName": "Sheila King",
+    "ReportDetails": "Most own hair their material. Official stage party different shake man. More protect fish material guy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 429,
+    "AnnualIncome": 157015,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 5,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

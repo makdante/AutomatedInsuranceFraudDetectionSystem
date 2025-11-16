@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b6723cfd-df31-4854-ab87-7042cde6ba99",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-02-08",
+    "EndDate": "2026-02-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-20",
+    "Location": "47835 Miller Inlet\nCalvinport, PA 19402",
+    "Description": "Price Democrat reality. Practice part guess season. Local lot fire. Argue answer very.\nAmong almost week follow heart. Mention media brother but have task."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 87236
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 62597
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 96573
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5655
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8125
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 260186,
+    "TotalApproved": 144282
+  },
+  "AdjusterDetails": {
+    "Name": "Bethany Hall",
+    "ContactInformation": {
+      "Phone": "001-673-541-1954",
+      "Email": "zpetersen@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/605db6b7-a027-45cb-a862-2779c3576bf0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-20T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-25T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-30T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bradley and Sons",
+    "Model": "its",
+    "Year": 2009,
+    "VIN": "13c6120c-b0d2-49ee-8760-ee53baedbaa5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angela Valdez",
+      "ContactInformation": {
+        "Phone": "593.904.0385x2579",
+        "Email": "tscott@example.org"
+      },
+      "Statement": "Beyond about around any create. Again property star travel cold.\nCountry great full collection suffer certain care. Go take argue goal away itself me."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b62c6164-d7c2-4ade-990a-8842652a0be1",
+    "OfficerName": "Philip Martinez",
+    "ReportDetails": "Security responsibility although staff us wish while. Hold boy beautiful official wife player officer.\nCondition make agreement. Candidate daughter before long career east majority because."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 472,
+    "AnnualIncome": 198480,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

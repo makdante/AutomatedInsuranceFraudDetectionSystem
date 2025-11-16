@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a3b30d3c-037a-4b81-8078-6b240b8a4666",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2024-11-05",
+    "EndDate": "2025-11-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-14",
+    "Location": "31603 Denise Isle Apt. 561\nHuntberg, ND 25404",
+    "Description": "Mother member discussion part night employee with determine. Tax responsibility learn more. But staff to PM because dream plant."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 194049
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 69880
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 114179
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 135832
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 32037
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 545977,
+    "TotalApproved": 289522
+  },
+  "AdjusterDetails": {
+    "Name": "Ryan Nichols",
+    "ContactInformation": {
+      "Phone": "379.733.1412x057",
+      "Email": "wellsjames@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/83a95a06-6c55-42c9-975a-bfe90ecf73aa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Kennedy-Cannon",
+    "Model": "power",
+    "Year": 2013,
+    "VIN": "710cd086-6cef-4a0b-89c4-3273249d848d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bonnie Schmitt",
+      "ContactInformation": {
+        "Phone": "221-750-1707x323",
+        "Email": "cooperheather@example.com"
+      },
+      "Statement": "Small long seat music detail. Maybe most toward economy.\nYou forward avoid it statement. Into very crime nor wear. Process decade cold."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "789afde2-b963-4efd-b407-e3c3006fde34",
+    "OfficerName": "Megan Snyder",
+    "ReportDetails": "Seven section yes contain present. Board morning light painting. Morning investment dinner. Particularly opportunity line message head."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 336,
+    "AnnualIncome": 188424,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

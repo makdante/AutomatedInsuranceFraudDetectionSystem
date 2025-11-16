@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fcce9e56-425e-4f20-9fb3-fb3910f6cd68",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-07-26",
+    "EndDate": "2026-07-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-28",
+    "Location": "202 Nelson Lane\nEast Shaun, MD 17934",
+    "Description": "Page company raise describe very wall player strong. Leave quality child response. Including enjoy protect even involve sign skin.\nLeader value write knowledge. Owner later realize reduce."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18459
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1955
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1531
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6644
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 32527
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 61116,
+    "TotalApproved": 2066
+  },
+  "AdjusterDetails": {
+    "Name": "Daniel Cooper",
+    "ContactInformation": {
+      "Phone": "300-394-7344",
+      "Email": "sarah95@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/94f3e4df-f9cb-4627-9f0c-1df9fef962bd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hoffman, Vazquez and Mcbride",
+    "Model": "career",
+    "Year": 2016,
+    "VIN": "1bdd2bb0-3d57-46c4-83fb-ddce464d4bda"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Teresa Terry",
+      "ContactInformation": {
+        "Phone": "261-407-3088x49921",
+        "Email": "qgiles@example.net"
+      },
+      "Statement": "Hold where list bag agent. Material stage computer fund. Drive have lot high lawyer.\nPicture no system return indicate. Yard cut audience parent. Out establish to middle."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d886f840-a1cc-4025-a8e5-289e5a0aefde",
+    "OfficerName": "Mario Frederick",
+    "ReportDetails": "Several foreign country small. Discussion big put until near guy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 529,
+    "AnnualIncome": 186950,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 2,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

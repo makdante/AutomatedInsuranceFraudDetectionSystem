@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e70a605d-ce48-4fc4-b3b0-1784ee059814",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2024-12-26",
+    "EndDate": "2025-12-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-28",
+    "Location": "82075 Matthew Streets Suite 459\nNorth Markborough, WA 39250",
+    "Description": "Throw grow together hour interesting nearly. More box after although. Thus three charge remain health. Eye always old possible risk staff son health."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4438133
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4853202
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4476706
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4804353
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4127806
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22700200,
+    "TotalApproved": 9951591
+  },
+  "AdjusterDetails": {
+    "Name": "Cory Nichols",
+    "ContactInformation": {
+      "Phone": "+1-877-633-7134x6597",
+      "Email": "ufuller@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/991657dc-b78c-44db-9cb0-9bb4b5e43955"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Fox-Alexander",
+    "Model": "mean",
+    "Year": 2010,
+    "VIN": "0f47753e-60e8-440d-9e8f-259bf4c4773b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Walter Marquez",
+      "ContactInformation": {
+        "Phone": "+1-799-214-3742x846",
+        "Email": "jmann@example.com"
+      },
+      "Statement": "Possible energy central foot. Nation factor close. Sense agent actually language history."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c49f13f0-9926-45c2-8ae2-fa2bffa1da2b",
+    "OfficerName": "Stephen Williams",
+    "ReportDetails": "Agent production administration amount travel we somebody. Something senior compare teacher.\nLess training against alone people write moment. Several few first catch or."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 438,
+    "AnnualIncome": 61365,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

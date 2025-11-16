@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2b1e5b41-b32d-41e3-8a48-32f24d00225e",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2024-11-08",
+    "EndDate": "2025-11-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2024-12-19",
+    "Location": "466 Jason Lock Apt. 230\nMaryside, VI 62317",
+    "Description": "Establish across section for imagine four.\nDebate car set shake. Involve fill play. Threat prepare generation.\nLose team spring color economy. Third idea try with east make."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2752
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8972
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 108219
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12059
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 117158
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 249160,
+    "TotalApproved": 179104
+  },
+  "AdjusterDetails": {
+    "Name": "Amanda Moreno",
+    "ContactInformation": {
+      "Phone": "439.626.1461x408",
+      "Email": "zsimon@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/397b822c-32b2-419f-a4f0-237b698f5e84"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2024-12-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2024-12-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2024-12-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lewis PLC",
+    "Model": "yes",
+    "Year": 2004,
+    "VIN": "662dba9e-c086-4460-9011-67a35dd69c9a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mason Simpson",
+      "ContactInformation": {
+        "Phone": "(743)461-4055",
+        "Email": "ycarr@example.org"
+      },
+      "Statement": "Play office old thank. Listen foreign movie model station inside fact choice. Similar various when foot leave animal."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a6b12e1b-7c04-49f1-b9b4-06caf0c2d1b5",
+    "OfficerName": "Ashley Fry",
+    "ReportDetails": "Language rather company. Cold country wind prove join include administration as. Operation standard do run.\nHair list agreement section success send foreign."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 661,
+    "AnnualIncome": 47457,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

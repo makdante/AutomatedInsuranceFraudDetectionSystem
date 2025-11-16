@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f0faa64e-36ee-4b49-b74f-85beb71ba7a6",
+  "PolicyID": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+  "EffectiveDates": {
+    "StartDate": "2025-04-11",
+    "EndDate": "2026-04-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4034d100-7369-434a-b9ce-6c4944f22306",
+    "Name": "Katherine Chang",
+    "PolicyNumber": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+    "ContactInformation": {
+      "Phone": "001-974-300-4293",
+      "Email": "amyfarley@example.org",
+      "Address": "32411 Michael Station Suite 689\nJeffreymouth, FM 88065"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-23",
+    "Location": "6905 Eric Coves\nNew Matthewfort, MP 00804",
+    "Description": "Research season all much firm effort grow practice. Others lose decade.\nWill science TV stage news particularly learn. Recently ever type child with account. Move age remain late likely yourself."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8916
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 95246
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 24333
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 24503
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9065
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 162063,
+    "TotalApproved": 6983
+  },
+  "AdjusterDetails": {
+    "Name": "Andrew Johnston",
+    "ContactInformation": {
+      "Phone": "+1-720-319-9579x65404",
+      "Email": "zgregory@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/563c86a7-f44d-4e89-b810-c5cbccccf8da"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Porter, Wood and Nelson",
+    "Model": "deal",
+    "Year": 2014,
+    "VIN": "9edd2767-7fbc-41a4-b1d4-6258fe9968d6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Chris Miller",
+      "ContactInformation": {
+        "Phone": "6983442140",
+        "Email": "cheryljackson@example.org"
+      },
+      "Statement": "Use whose almost contain sound image authority. Summer specific care arm.\nHalf country majority. Camera responsibility once director story which see."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "efa8d28a-52a9-417e-b24f-216b171eb171",
+    "OfficerName": "Zachary Perez",
+    "ReportDetails": "People any quality safe director. Prevent hand senior reason money true.\nAllow discussion coach life black table police personal. Home cover quality oil."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 776,
+    "AnnualIncome": 100659,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

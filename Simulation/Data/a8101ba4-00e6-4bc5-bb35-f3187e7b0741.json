@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a8101ba4-00e6-4bc5-bb35-f3187e7b0741",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-10-04",
+    "EndDate": "2026-10-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-14",
+    "Location": "211 Watts Drive Suite 367\nEast Christopherton, NV 70482",
+    "Description": "Shake need order administration part. Do course significant music tell. While hit serve behavior thing result view."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4394
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2571
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12210
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15491
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 97613
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 132279,
+    "TotalApproved": 92423
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Small",
+    "ContactInformation": {
+      "Phone": "(950)669-5684x502",
+      "Email": "amber54@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/0e730de1-4326-48a5-9e08-5f68da5ef6b2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Richards LLC",
+    "Model": "red",
+    "Year": 2001,
+    "VIN": "e7059e05-6899-4e9d-abae-cac4fa58d7c7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Greg Johnson",
+      "ContactInformation": {
+        "Phone": "+1-675-887-6726x1255",
+        "Email": "morganbarrett@example.net"
+      },
+      "Statement": "Probably decision capital recently although somebody. Set this business also capital fall since watch. Blue help success.\nConsider left prepare. Bit people moment up road hour notice practice."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9e7bcdf9-f867-4c91-83a5-ff0e70324243",
+    "OfficerName": "Dr. Elizabeth Deleon",
+    "ReportDetails": "Behavior yes reveal whatever place. Respond I painting individual live piece.\nBox dog seek series. Growth paper rich daughter move such. Town reflect show foot something treatment your hospital."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 763,
+    "AnnualIncome": 21578,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

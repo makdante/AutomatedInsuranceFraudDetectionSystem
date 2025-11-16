@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b5f06168-33ed-4aa8-8560-ca4348177b29",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-10-12",
+    "EndDate": "2026-10-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-03",
+    "Location": "4935 Delgado Circle\nGraymouth, SC 94369",
+    "Description": "Open collection program. Phone despite know high could whose understand. Owner city compare chance hard."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8774
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11874
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13880
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3077
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12625
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 50230,
+    "TotalApproved": 19866
+  },
+  "AdjusterDetails": {
+    "Name": "Deborah Simpson",
+    "ContactInformation": {
+      "Phone": "(732)822-1258x8645",
+      "Email": "martinezandrew@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/677f6d87-a849-4911-bfc6-80008b767f95"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith-Thomas",
+    "Model": "four",
+    "Year": 2017,
+    "VIN": "0ced6a21-6497-43b4-9312-30da80a45be5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Leslie Smith",
+      "ContactInformation": {
+        "Phone": "001-929-618-1369x632",
+        "Email": "hendersonstephen@example.org"
+      },
+      "Statement": "Image wide kind sort finish whatever region. Open technology something. Land with couple two professional."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4cd1db0e-aee9-4996-a919-69e5eaefe7a7",
+    "OfficerName": "Kenneth Gonzalez",
+    "ReportDetails": "Process support cost space hotel. Number miss indicate painting.\nWe bring trade before possible look. Already suggest would owner bill oil book billion. Public bit result result specific federal."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 587,
+    "AnnualIncome": 138863,
+    "DebtToIncomeRatio": 0.71
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

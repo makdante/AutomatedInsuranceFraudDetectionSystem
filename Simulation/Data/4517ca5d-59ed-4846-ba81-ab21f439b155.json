@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4517ca5d-59ed-4846-ba81-ab21f439b155",
+  "PolicyID": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+  "EffectiveDates": {
+    "StartDate": "2024-11-15",
+    "EndDate": "2025-11-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "45b25f18-08b7-457c-9045-e998b2b74cef",
+    "Name": "Joshua Ryan",
+    "PolicyNumber": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+    "ContactInformation": {
+      "Phone": "(903)440-8271x3107",
+      "Email": "justin94@example.net",
+      "Address": "792 Ann Cliffs\nLake Desireebury, MD 93133"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-04",
+    "Location": "0641 Adams Ports\nLake Dana, ND 52868",
+    "Description": "Local also occur character office order employee have. Visit interest apply three.\nConference sister finish. Who clearly travel event until right your rate. War various most politics crime."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11918
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 20405
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 46112
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 186144
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 139390
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 403969,
+    "TotalApproved": 22659
+  },
+  "AdjusterDetails": {
+    "Name": "Nicholas Rivera",
+    "ContactInformation": {
+      "Phone": "(445)266-6393",
+      "Email": "thomas19@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/6d5bbf67-ab85-46d9-9d74-46b97cb2ed8e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Barron PLC",
+    "Model": "simple",
+    "Year": 2006,
+    "VIN": "531e68d5-af00-4be3-846b-0e67fade97e9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebecca Diaz",
+      "ContactInformation": {
+        "Phone": "996.761.0916x864",
+        "Email": "isimon@example.org"
+      },
+      "Statement": "Civil test call break particularly occur. Pass structure democratic wait house.\nMission never catch. Husband health information plant toward.\nChoice thus bag morning share. Nice form consumer arm."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "352d3fbc-0640-4207-b85b-d8a861fef9e3",
+    "OfficerName": "Douglas Rose",
+    "ReportDetails": "Free hair son. Exist thus health reveal himself sense law.\nNecessary ago I middle claim. Wife tax administration but myself. Short have first performance key lay."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 573,
+    "AnnualIncome": 69735,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

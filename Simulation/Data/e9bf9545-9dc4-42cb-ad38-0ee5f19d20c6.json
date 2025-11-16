@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e9bf9545-9dc4-42cb-ad38-0ee5f19d20c6",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2024-11-16",
+    "EndDate": "2025-11-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-12",
+    "Location": "626 Kristen Via Suite 319\nLake Brenttown, VI 44887",
+    "Description": "That decision parent. Former you past president. Surface not film.\nStructure back pass social man. Probably matter list cut still manager provide eye."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2526
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17228
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14120
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10281
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10970
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 55125,
+    "TotalApproved": 11275
+  },
+  "AdjusterDetails": {
+    "Name": "Nicholas Hall",
+    "ContactInformation": {
+      "Phone": "001-870-831-8049x9863",
+      "Email": "jennifer13@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ac0dd3ca-3c25-4f8c-86e1-5efe9c918e0c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morrow-Roth",
+    "Model": "rise",
+    "Year": 2017,
+    "VIN": "107e4e93-c251-40a1-a365-71a03188428e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amy Stephens",
+      "ContactInformation": {
+        "Phone": "475.536.9920x53829",
+        "Email": "boydvictoria@example.com"
+      },
+      "Statement": "Administration you market thought. College into alone until. Pressure establish risk life ten.\nPerform writer happen weight officer bad yet peace. Friend seek speak concern. Game claim financial."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "145ced91-7f3a-449f-8e93-3ca1f7b773bf",
+    "OfficerName": "Kaitlin Kirk",
+    "ReportDetails": "Since worry itself work performance country town. Writer interest factor red worker personal city trade. Fact choose little exist."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 561,
+    "AnnualIncome": 61571,
+    "DebtToIncomeRatio": 0.5
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 0,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

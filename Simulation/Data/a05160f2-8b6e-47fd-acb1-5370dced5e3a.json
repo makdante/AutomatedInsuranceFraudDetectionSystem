@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a05160f2-8b6e-47fd-acb1-5370dced5e3a",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-06-21",
+    "EndDate": "2026-06-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-27",
+    "Location": "PSC 7742, Box 9319\nAPO AP 09145",
+    "Description": "Official ability group power bar keep now. It economy Republican speak allow maintain discussion. Lead peace only collection also. Pick set meeting land sense."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 44988
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 86797
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1398
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12178
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17332
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 162693,
+    "TotalApproved": 145461
+  },
+  "AdjusterDetails": {
+    "Name": "Ryan Marquez",
+    "ContactInformation": {
+      "Phone": "2562403377",
+      "Email": "lovetaylor@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b193d6c9-cd65-4123-8987-a26fee6eb197"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson, Moore and Sharp",
+    "Model": "hand",
+    "Year": 2007,
+    "VIN": "8b7d74c9-a1bb-451e-b844-5ba39b9a03cf"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Trevor Todd",
+      "ContactInformation": {
+        "Phone": "(370)282-9238",
+        "Email": "carsonashley@example.net"
+      },
+      "Statement": "See herself bank boy camera spend. Never speak prove behind front develop. Like notice could animal center two add.\nScore reduce job check reason decision amount. Whatever identify probably door."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "017c50bb-4aac-41de-a78e-4e1c5d533c7a",
+    "OfficerName": "Jared Gardner",
+    "ReportDetails": "Finally simply time meet. Between once let cover floor media. Job deal society while scene maybe spend."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 773,
+    "AnnualIncome": 198410,
+    "DebtToIncomeRatio": 0.72
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

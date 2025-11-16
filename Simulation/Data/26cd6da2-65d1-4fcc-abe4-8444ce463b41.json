@@ -1,0 +1,112 @@
+{
+  "ClaimID": "26cd6da2-65d1-4fcc-abe4-8444ce463b41",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-09-21",
+    "EndDate": "2026-09-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-22",
+    "Location": "50247 Cynthia Causeway\nPort Daniel, AS 48338",
+    "Description": "Study court various month. Member identify science throw.\nMuch very water fast issue every kid. Note talk number decade record cost. Look line become memory likely her."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4876
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 23917
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 51964
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4740
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13139
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 98636,
+    "TotalApproved": 46828
+  },
+  "AdjusterDetails": {
+    "Name": "Michaela Stevenson",
+    "ContactInformation": {
+      "Phone": "+1-834-252-3625x01027",
+      "Email": "sara32@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/706c4d9e-bd83-49c0-b465-6f35b877da95"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moses PLC",
+    "Model": "condition",
+    "Year": 2021,
+    "VIN": "f7d7e3c0-641f-480d-b72c-931ffe8e4914"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nancy Oconnell",
+      "ContactInformation": {
+        "Phone": "760-533-4129x0941",
+        "Email": "timgrant@example.net"
+      },
+      "Statement": "So Mrs certainly we. One case skin south.\nStore else price reflect quality argue environment. North exactly must. Until question physical source. Investment step give oil provide act company."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f16a4f18-634b-42fb-b754-98ef6b21e9a4",
+    "OfficerName": "Sheila Martin",
+    "ReportDetails": "Mention bar fire sense in office too likely. Amount painting spend again. Interest especially own sometimes send detail upon. Little front relate kid seat memory."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 797,
+    "AnnualIncome": 123179,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 4,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

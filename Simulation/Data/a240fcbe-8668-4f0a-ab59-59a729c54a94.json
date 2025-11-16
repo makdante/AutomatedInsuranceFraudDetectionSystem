@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a240fcbe-8668-4f0a-ab59-59a729c54a94",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-08-21",
+    "EndDate": "2026-08-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-17",
+    "Location": "305 Barbara Coves Apt. 930\nAmandastad, UT 34141",
+    "Description": "Never spend morning nature. Land each rock film quickly health stay blue. Tax free manage walk action.\nSkin nor rich fear change. Small weight front."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19119
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7831
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 93153
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 167001
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 22315
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 309419,
+    "TotalApproved": 254058
+  },
+  "AdjusterDetails": {
+    "Name": "Alexandra Conner",
+    "ContactInformation": {
+      "Phone": "001-253-973-2731x310",
+      "Email": "christopher15@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1e7dd6e2-8b15-42b8-aedc-b48976b0fb66"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones, Martin and Key",
+    "Model": "section",
+    "Year": 2001,
+    "VIN": "dfc00fad-7b99-4d7c-b8f0-8bd7c92dc9ca"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Curtis Sanchez",
+      "ContactInformation": {
+        "Phone": "(303)202-7144",
+        "Email": "montgomerytyler@example.org"
+      },
+      "Statement": "Fall toward least time. Spend five choose blood.\nRepublican check right necessary difficult.\nMyself American radio television economic do instead feel. Laugh event second big cell step."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "18da25fd-8e83-41dd-9776-8d6556ebacfa",
+    "OfficerName": "Richard Norton",
+    "ReportDetails": "Staff change all firm. Research wish special student. Minute eight recently ability letter.\nGuy someone type chair dark avoid lay. Method training lead phone job in owner pretty."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 347,
+    "AnnualIncome": 60140,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 8,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

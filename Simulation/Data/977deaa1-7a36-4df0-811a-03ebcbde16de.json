@@ -1,0 +1,112 @@
+{
+  "ClaimID": "977deaa1-7a36-4df0-811a-03ebcbde16de",
+  "PolicyID": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+  "EffectiveDates": {
+    "StartDate": "2025-07-22",
+    "EndDate": "2026-07-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba82c3bd-9d46-4b0e-b555-5005238e858f",
+    "Name": "Kimberly Perez",
+    "PolicyNumber": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+    "ContactInformation": {
+      "Phone": "001-609-229-9683x29012",
+      "Email": "nicholsbenjamin@example.com",
+      "Address": "81438 Berry Squares Apt. 214\nSarahtown, CA 13161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-05",
+    "Location": "08017 Edward Station Suite 331\nJuliaside, KS 56592",
+    "Description": "We toward baby yeah improve perform different. Box strategy letter material future share.\nLocal answer economic miss identify table. See safe artist trial computer unit."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3082
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 57704
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 30851
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7633
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 48249
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 147519,
+    "TotalApproved": 78165
+  },
+  "AdjusterDetails": {
+    "Name": "Kathryn White",
+    "ContactInformation": {
+      "Phone": "(797)207-2727",
+      "Email": "jenkinstara@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/7cc40783-aa7a-4bf7-ad69-2e02a83f1559"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Russell-Castillo",
+    "Model": "maintain",
+    "Year": 2006,
+    "VIN": "2b498b7f-53a1-49fa-8a17-92ebb1e14611"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Shannon Schmitt",
+      "ContactInformation": {
+        "Phone": "298.252.8338x3513",
+        "Email": "gsullivan@example.org"
+      },
+      "Statement": "Operation role federal wrong. Choose list because.\nStaff give pattern employee meet arrive. Teacher age word stage but project tell size.\nRule doctor own happen for it simply."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0838951c-12f0-42b8-92c7-502bb96329a5",
+    "OfficerName": "Briana Howard",
+    "ReportDetails": "Base together long look wall enjoy lay. Get southern live serve three religious along book. Dark decade television week opportunity energy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 840,
+    "AnnualIncome": 67313,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

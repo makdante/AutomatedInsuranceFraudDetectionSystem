@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f1138196-220f-4356-9f55-6bc5db914011",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2025-02-04",
+    "EndDate": "2026-02-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-26",
+    "Location": "98316 David Lakes Suite 473\nMichaelport, KS 04478",
+    "Description": "Author movement international between. Deal reveal industry break participant little."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 63331
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19128
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12247
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 42221
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13536
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 150463,
+    "TotalApproved": 20110
+  },
+  "AdjusterDetails": {
+    "Name": "Douglas King",
+    "ContactInformation": {
+      "Phone": "6114181508",
+      "Email": "jacquelinehayes@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/86f7c774-221e-45eb-a57f-4d47143c3b92"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hart, Wilson and Mcbride",
+    "Model": "want",
+    "Year": 2016,
+    "VIN": "d95511c4-6622-4fb2-a7a6-f1b5bfe564c7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Mcgrath",
+      "ContactInformation": {
+        "Phone": "+1-779-443-3201x828",
+        "Email": "erin64@example.net"
+      },
+      "Statement": "Read candidate wind phone out me son. Provide near why four test. At mission air.\nRepublican west force collection thus expect mouth. Scientist capital all break behind."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1598b972-7ff5-4aee-93f4-cb96a13841cf",
+    "OfficerName": "Joseph Brown",
+    "ReportDetails": "Without population ten decision team day. Forward next night sometimes example."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 817,
+    "AnnualIncome": 29782,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 4,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "af51d7f4-2567-4dcd-a461-3042a97e2617",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-09-17",
+    "EndDate": "2026-09-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-06",
+    "Location": "746 Miller Point Suite 839\nSouth Edwardberg, IL 54269",
+    "Description": "Put hit few total forget. Worry fact half hospital give.\nPeople task skill may evening structure method. Price side need prepare."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19165
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 47013
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 138773
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 29925
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36916
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 271792,
+    "TotalApproved": 265839
+  },
+  "AdjusterDetails": {
+    "Name": "Henry Stewart",
+    "ContactInformation": {
+      "Phone": "438-300-5969",
+      "Email": "wilsonkaren@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/61043e9d-4f67-46c9-b75d-3142d63537ae"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Carey-Smith",
+    "Model": "whatever",
+    "Year": 2003,
+    "VIN": "49fb7f72-ee5f-401b-82a1-8f2605e994e2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Payne",
+      "ContactInformation": {
+        "Phone": "(395)870-4599x26573",
+        "Email": "batesedward@example.com"
+      },
+      "Statement": "Ago price production during or. Their hold where form rise rock main.\nSomeone almost nor process. First meeting much head with smile. Government soldier boy series lay movement."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9367a846-0996-4b2c-bcfb-3d1bf82181b0",
+    "OfficerName": "Monica Williams",
+    "ReportDetails": "Great turn who prove. You process leave can. Kind find attorney middle.\nBring forget show. South after market way. Consider lay gun whatever discuss simple determine picture."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 649,
+    "AnnualIncome": 22256,
+    "DebtToIncomeRatio": 0.81
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

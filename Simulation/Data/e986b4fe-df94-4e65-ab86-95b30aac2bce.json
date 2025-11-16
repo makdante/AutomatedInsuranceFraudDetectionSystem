@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e986b4fe-df94-4e65-ab86-95b30aac2bce",
+  "PolicyID": "500b8392-3ef4-475f-a0d6-15c142970199",
+  "EffectiveDates": {
+    "StartDate": "2025-03-10",
+    "EndDate": "2026-03-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0e2c98cc-0459-4a1f-b201-c0c324374a25",
+    "Name": "Brittany Watson",
+    "PolicyNumber": "500b8392-3ef4-475f-a0d6-15c142970199",
+    "ContactInformation": {
+      "Phone": "001-690-266-5439",
+      "Email": "jasonjames@example.org",
+      "Address": "66736 Antonio Valley\nWest Kristy, FL 30721"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-03",
+    "Location": "009 Castro Dam\nLake Timland, NE 34591",
+    "Description": "Need them short security long. On account build much. Herself night value analysis concern community."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3218
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7183
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 47598
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7698
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7160
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 72857,
+    "TotalApproved": 49247
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Robinson",
+    "ContactInformation": {
+      "Phone": "+1-475-748-3589x448",
+      "Email": "jonathancuevas@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/17be42ff-1849-49b4-b0df-2d19acd48855"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Donovan Ltd",
+    "Model": "movie",
+    "Year": 2020,
+    "VIN": "b1b4a77d-c6cb-4ad8-9bc6-8bcae305df45"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kimberly Hall",
+      "ContactInformation": {
+        "Phone": "+1-837-290-1245x043",
+        "Email": "keith89@example.net"
+      },
+      "Statement": "Condition owner general drive all without newspaper show. Son stop indicate leader night.\nHeart series film choose tend money. Open others only control information."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9ee2ead9-76b7-4318-9d51-497bbc4d6e52",
+    "OfficerName": "Briana Nguyen",
+    "ReportDetails": "Onto company loss support establish draw like. Soon expect herself understand big Mr international. Need until enjoy subject protect stuff stuff."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 381,
+    "AnnualIncome": 49449,
+    "DebtToIncomeRatio": 0.62
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 8,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4c692fb8-14e7-443e-b0be-46fe9dcf0fbf",
+  "PolicyID": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+  "EffectiveDates": {
+    "StartDate": "2025-10-27",
+    "EndDate": "2026-10-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a5e374d7-2a89-4722-82f7-28a28bbdcbf0",
+    "Name": "Evan Fernandez",
+    "PolicyNumber": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+    "ContactInformation": {
+      "Phone": "797-592-5686x43438",
+      "Email": "helen96@example.com",
+      "Address": "70847 Acevedo Path Suite 052\nEast Jason, CO 07830"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-20",
+    "Location": "7535 Gaines Shoal\nNorth Jamiemouth, SD 72059",
+    "Description": "Give than write Mr here against summer. Must especially anyone city.\nPublic stage who campaign. Floor ten program glass else beat one nature."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 64169
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11314
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 50296
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 46787
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 43096
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 215662,
+    "TotalApproved": 127152
+  },
+  "AdjusterDetails": {
+    "Name": "Kimberly Dean",
+    "ContactInformation": {
+      "Phone": "(460)667-4655x13123",
+      "Email": "amanda55@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/808100b5-8600-4468-8131-72ee6fbd454a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Richard PLC",
+    "Model": "certainly",
+    "Year": 2009,
+    "VIN": "c852977a-abae-48ce-ac41-008a02935a51"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Ruiz",
+      "ContactInformation": {
+        "Phone": "(595)906-1612x454",
+        "Email": "manningbrandi@example.com"
+      },
+      "Statement": "Although until free site nature choose. Indeed allow west country phone. Continue run feeling trade run."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2beb5e54-7313-43fc-a4b4-4b72623433de",
+    "OfficerName": "Matthew Dixon",
+    "ReportDetails": "Change nothing personal visit they. Laugh treat budget may. Bag usually east rest learn.\nNew fall field start let."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 760,
+    "AnnualIncome": 170615,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 1,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

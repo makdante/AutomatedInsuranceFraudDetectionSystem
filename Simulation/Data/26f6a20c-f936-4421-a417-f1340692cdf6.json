@@ -1,0 +1,112 @@
+{
+  "ClaimID": "26f6a20c-f936-4421-a417-f1340692cdf6",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-07-26",
+    "EndDate": "2026-07-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-24",
+    "Location": "8083 Dale Hollow Suite 867\nMillsfurt, NC 11842",
+    "Description": "Trade check race public tell attention. New office sea similar. Star behavior defense field.\nPlay catch way low. Weight audience lot soldier series have everyone."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 54624
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 23144
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2981
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 174491
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1873
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 257113,
+    "TotalApproved": 102598
+  },
+  "AdjusterDetails": {
+    "Name": "Randy Collins",
+    "ContactInformation": {
+      "Phone": "+1-285-274-0155",
+      "Email": "joel07@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7c33154c-d2dc-47cf-8d9b-cad38f85a03a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Juarez, Franklin and Kaiser",
+    "Model": "specific",
+    "Year": 2020,
+    "VIN": "6d84bc8a-8971-48ef-a0fe-a614825b4445"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erika Martinez",
+      "ContactInformation": {
+        "Phone": "512.612.6628x752",
+        "Email": "shawn72@example.org"
+      },
+      "Statement": "Society kid painting purpose over.\nOffice culture everyone still education we."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ad4e9d62-5ff1-49d0-a30e-683d5ea535ea",
+    "OfficerName": "Scott Cox",
+    "ReportDetails": "Major baby political offer front. Sing admit federal factor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 745,
+    "AnnualIncome": 150241,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "25416ddf-9197-4a8e-90d5-856363daed3e",
+  "PolicyID": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+  "EffectiveDates": {
+    "StartDate": "2024-12-17",
+    "EndDate": "2025-12-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "69dff2d4-fe41-48b6-84f8-fbada01a13cc",
+    "Name": "Gerald Lynn",
+    "PolicyNumber": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+    "ContactInformation": {
+      "Phone": "804.824.4218",
+      "Email": "mark32@example.com",
+      "Address": "76834 William Key\nLake Heather, SC 99643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-13",
+    "Location": "41029 Winters Extensions Apt. 208\nNew Angelafort, AL 18780",
+    "Description": "Perform authority message whose.\nPopular dark catch always affect.\nCover thank include across fight do."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2286
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 103872
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19731
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17434
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7839
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 151162,
+    "TotalApproved": 44286
+  },
+  "AdjusterDetails": {
+    "Name": "Amy Burton",
+    "ContactInformation": {
+      "Phone": "001-873-600-3428",
+      "Email": "aallen@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/6393735e-c573-48e3-985d-3708e964633d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stone LLC",
+    "Model": "like",
+    "Year": 2006,
+    "VIN": "fd4aa027-206f-48b8-b247-8efa2d1ca04f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dr. Ashley Davis",
+      "ContactInformation": {
+        "Phone": "770.976.0280",
+        "Email": "jonescheryl@example.com"
+      },
+      "Statement": "Until author energy itself. Positive school nation various detail none ask.\nWestern recent important agency one hot benefit. Force bar short argue already line rule."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0418476d-b7a9-4c15-aecf-062a6d854db1",
+    "OfficerName": "Randall French",
+    "ReportDetails": "Congress ground consider black. Yard use you image keep goal together.\nTurn across opportunity major. Home personal final think cause star happy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 647,
+    "AnnualIncome": 183157,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

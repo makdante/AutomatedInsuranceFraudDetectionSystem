@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d4694625-7748-4cc4-a74a-769244d7ef1b",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-01-16",
+    "EndDate": "2026-01-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-27",
+    "Location": "009 Cassandra Trail Apt. 571\nNew Angela, NE 50268",
+    "Description": "Nearly along college hold million father. Son employee lawyer run goal develop decision. Everyone foreign what could according.\nStop herself four. Plan woman teach."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7346
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 28690
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13611
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 151178
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9620
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 210445,
+    "TotalApproved": 151386
+  },
+  "AdjusterDetails": {
+    "Name": "Sheila Rodriguez",
+    "ContactInformation": {
+      "Phone": "001-962-814-1581",
+      "Email": "kevingreene@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ae3fb551-ac48-40b4-a519-cdeab9673087"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sanders, Jones and Hansen",
+    "Model": "set",
+    "Year": 2000,
+    "VIN": "be13c25c-5b0e-43b9-936b-fd0777cc5f8b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Diana Wood",
+      "ContactInformation": {
+        "Phone": "4254977349",
+        "Email": "hvelasquez@example.com"
+      },
+      "Statement": "Less professor visit great effect physical. Begin decision especially but surface help. Sit around into human seek college."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d8745002-aeb1-41e1-bd73-6f4e6023d6f9",
+    "OfficerName": "James Richardson",
+    "ReportDetails": "They collection reduce learn suggest trip policy. Generation whole southern. General second tree onto some after.\nDark yet expert anyone. Life travel store. Early paper store good personal."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 814,
+    "AnnualIncome": 62709,
+    "DebtToIncomeRatio": 0.1
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 6,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

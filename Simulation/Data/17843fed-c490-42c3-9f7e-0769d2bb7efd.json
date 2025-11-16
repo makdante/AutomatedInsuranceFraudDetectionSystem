@@ -1,0 +1,112 @@
+{
+  "ClaimID": "17843fed-c490-42c3-9f7e-0769d2bb7efd",
+  "PolicyID": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+  "EffectiveDates": {
+    "StartDate": "2025-02-12",
+    "EndDate": "2026-02-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fc97abc-4961-491f-a4b1-12068641ded7",
+    "Name": "Mark Macias",
+    "PolicyNumber": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+    "ContactInformation": {
+      "Phone": "520-436-5997x9756",
+      "Email": "aaron79@example.org",
+      "Address": "537 Scott Unions Suite 245\nBrianfurt, WA 46172"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-31",
+    "Location": "USCGC Brown\nFPO AA 10081",
+    "Description": "Cup and structure.\nBecause she put vote nearly. Indeed stuff up report country past. Although effect perhaps step.\nInvestment describe reduce talk should standard. Maybe senior they become world."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 35865
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6618
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6938
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 95051
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 31984
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 176456,
+    "TotalApproved": 36499
+  },
+  "AdjusterDetails": {
+    "Name": "Bridget Daniel",
+    "ContactInformation": {
+      "Phone": "9439958823",
+      "Email": "mark98@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a52b6e18-f177-49b7-92da-8ff4b3ba7258"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bennett Group",
+    "Model": "top",
+    "Year": 2016,
+    "VIN": "60fff699-95f8-4b7c-907c-d14adf9b32b1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Rowland",
+      "ContactInformation": {
+        "Phone": "+1-250-531-4802x57986",
+        "Email": "mark16@example.com"
+      },
+      "Statement": "Staff heart Mrs notice story business family. Particular security knowledge item very.\nConsider return official risk both. Both difficult business age. Radio whole though consumer expert."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ec095a40-1ba1-4bca-8b0e-29329dd12fd1",
+    "OfficerName": "Robert Ferguson",
+    "ReportDetails": "Others ball population former plan. Successful treat figure PM another woman participant. Woman question best north throughout six."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 714,
+    "AnnualIncome": 130419,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

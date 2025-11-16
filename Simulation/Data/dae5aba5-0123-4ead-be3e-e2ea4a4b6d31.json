@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dae5aba5-0123-4ead-be3e-e2ea4a4b6d31",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-09-05",
+    "EndDate": "2026-09-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-12",
+    "Location": "0428 Rebecca Points Apt. 138\nDestinyborough, UT 66186",
+    "Description": "Growth at art writer as. Night event police goal. Answer decision magazine wish mention chair better."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 29097
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2467
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5343
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6158
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7394
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 50459,
+    "TotalApproved": 19248
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Thomas",
+    "ContactInformation": {
+      "Phone": "+1-908-442-9394x932",
+      "Email": "bradley76@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/18d4f059-c309-431d-aef0-7f4bf2e85dff"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson-Greene",
+    "Model": "fund",
+    "Year": 2016,
+    "VIN": "b674c306-2f5d-467c-800c-f91c56c86715"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joshua Oconnor",
+      "ContactInformation": {
+        "Phone": "001-835-383-6341x0498",
+        "Email": "tyrone73@example.org"
+      },
+      "Statement": "Mind ten community source society study. The catch color heavy left thus.\nMeeting involve employee list. Someone same entire nice less get approach.\nCustomer usually my art deep. Enjoy boy bar."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f5f8ce2c-1cae-4bc3-bfdb-29c179070079",
+    "OfficerName": "Stephanie Townsend",
+    "ReportDetails": "Wrong learn natural something magazine new year hand. Significant discover either final mention job. In stuff bill design.\nDay believe push break trip off. Participant itself better you."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 749,
+    "AnnualIncome": 194587,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 2,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

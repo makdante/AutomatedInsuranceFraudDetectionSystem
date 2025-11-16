@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f13ff91f-8ff7-466e-aec8-3248bc33fb2e",
+  "PolicyID": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+  "EffectiveDates": {
+    "StartDate": "2025-01-22",
+    "EndDate": "2026-01-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fc97abc-4961-491f-a4b1-12068641ded7",
+    "Name": "Mark Macias",
+    "PolicyNumber": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+    "ContactInformation": {
+      "Phone": "520-436-5997x9756",
+      "Email": "aaron79@example.org",
+      "Address": "537 Scott Unions Suite 245\nBrianfurt, WA 46172"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-10",
+    "Location": "53347 Christina Parkway Suite 825\nMonroefurt, LA 19041",
+    "Description": "Race lead west ok.\nReligious beyond go across space life part use.\nFew establish affect name. Perform clear drug expert. Push when assume because scene hope."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 27751
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 129306
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 133039
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9713
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9205
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 309014,
+    "TotalApproved": 306346
+  },
+  "AdjusterDetails": {
+    "Name": "Keith Robertson",
+    "ContactInformation": {
+      "Phone": "(810)698-1316x462",
+      "Email": "kenneth56@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/975272e0-79f7-4bc3-b889-579da0b42f29"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson Group",
+    "Model": "value",
+    "Year": 2016,
+    "VIN": "e1a208ca-ef81-437b-8ab9-098c91230c6e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "April Rich",
+      "ContactInformation": {
+        "Phone": "(923)986-2765x976",
+        "Email": "tmendez@example.com"
+      },
+      "Statement": "Person hotel summer visit son find build. Difficult fact plant."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fbf0c0a3-0e14-473c-b565-3d72b4b4af99",
+    "OfficerName": "Travis Soto",
+    "ReportDetails": "Marriage time peace group light hear.\nForeign career present simple. Money character push me."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 493,
+    "AnnualIncome": 67529,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 1,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

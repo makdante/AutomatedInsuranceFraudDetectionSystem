@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4c2e5d57-751d-43e0-86da-7ada83a3220e",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-05-23",
+    "EndDate": "2026-05-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-07",
+    "Location": "5070 Schneider Street Suite 961\nMartinezview, NH 15190",
+    "Description": "Yeah development improve hold. Himself its capital factor letter move natural. Great military sell kitchen forward.\nAcross building necessary success term when."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4204
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 100810
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9516
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17919
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6741
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 139190,
+    "TotalApproved": 5830
+  },
+  "AdjusterDetails": {
+    "Name": "Todd Dean",
+    "ContactInformation": {
+      "Phone": "+1-210-861-9211x9054",
+      "Email": "manningjeffrey@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e228e70a-72ac-4a23-9fca-661b2d408d9c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wood, Thompson and Blanchard",
+    "Model": "improve",
+    "Year": 2015,
+    "VIN": "e8e4568c-f35c-4922-bfe5-6e441fad1555"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Timothy Rogers",
+      "ContactInformation": {
+        "Phone": "001-240-619-3255",
+        "Email": "ewang@example.com"
+      },
+      "Statement": "Your unit design remember exist arrive. Issue late property suddenly race each list.\nThis language land significant material assume player suddenly. Court perform moment class international."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "202ef206-9c6d-406c-9bfb-734f48eb1660",
+    "OfficerName": "Emily Hurst",
+    "ReportDetails": "Word us east kind last remain husband. Yard bill more full bed safe.\nTo have paper game nothing article receive. Part view Mr material. Reveal degree claim minute financial do month."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 568,
+    "AnnualIncome": 110588,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 6,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

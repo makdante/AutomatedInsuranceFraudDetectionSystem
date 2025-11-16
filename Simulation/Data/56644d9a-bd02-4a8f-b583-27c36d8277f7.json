@@ -1,0 +1,112 @@
+{
+  "ClaimID": "56644d9a-bd02-4a8f-b583-27c36d8277f7",
+  "PolicyID": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+  "EffectiveDates": {
+    "StartDate": "2025-01-06",
+    "EndDate": "2026-01-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "39861407-409e-4253-9f6c-7c0f48258b61",
+    "Name": "Frank Summers",
+    "PolicyNumber": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+    "ContactInformation": {
+      "Phone": "(214)893-1385x492",
+      "Email": "johnsonsherry@example.org",
+      "Address": "630 Phillips Roads Suite 295\nSouth Suzanne, PR 08692"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-02",
+    "Location": "2037 Angela Unions Apt. 050\nJillberg, MS 28884",
+    "Description": "Week agent cultural agree her. Ask defense candidate find. Chair letter then green fall voice.\nEvery entire hour no community fine him. Reason home grow them we spring police."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8106
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10797
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7211
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 88676
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8233
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 123023,
+    "TotalApproved": 114155
+  },
+  "AdjusterDetails": {
+    "Name": "Justin Barker",
+    "ContactInformation": {
+      "Phone": "865-588-5188x870",
+      "Email": "fpotter@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b950c78b-d9f5-4406-ab7c-371a60b564ad"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Campos-Duncan",
+    "Model": "catch",
+    "Year": 2012,
+    "VIN": "5200fe20-f624-41bb-b58e-48d809636a31"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sergio Browning",
+      "ContactInformation": {
+        "Phone": "5955678844",
+        "Email": "audrey28@example.net"
+      },
+      "Statement": "Condition form deal hard painting able. Policy see deep company language service.\nRaise do southern pattern argue draw human. Room him central no. Number health little ball require future be."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "90da063c-3b96-497d-9704-4c8bf7a5c036",
+    "OfficerName": "Patrick Young",
+    "ReportDetails": "Method cup voice yourself. Stock you floor amount.\nShoulder another town wide. War interview financial score action. Wide Mr themselves."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 527,
+    "AnnualIncome": 164302,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 9,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

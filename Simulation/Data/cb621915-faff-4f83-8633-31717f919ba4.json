@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cb621915-faff-4f83-8633-31717f919ba4",
+  "PolicyID": "433b7880-f7af-4e36-9012-5c5e793028d5",
+  "EffectiveDates": {
+    "StartDate": "2025-04-22",
+    "EndDate": "2026-04-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3906d06d-d7b8-494f-879b-a72d5db680f8",
+    "Name": "William West",
+    "PolicyNumber": "433b7880-f7af-4e36-9012-5c5e793028d5",
+    "ContactInformation": {
+      "Phone": "5878895828",
+      "Email": "johnmorris@example.net",
+      "Address": "1914 Lyons Green\nDavisbury, NY 54164"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-18",
+    "Location": "6874 William Curve Suite 166\nJenniferberg, CA 27994",
+    "Description": "Note both course thus increase. Maybe develop best.\nResponsibility everything popular medical left place picture capital. Develop road better memory feel. Organization major green spring."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4229614
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4387889
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4851538
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4181288
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4370467
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22020796,
+    "TotalApproved": 8170707
+  },
+  "AdjusterDetails": {
+    "Name": "Dominique Branch",
+    "ContactInformation": {
+      "Phone": "4235505622",
+      "Email": "xryan@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b17b6461-465c-4815-8606-be30fbc97f73"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rose-Vega",
+    "Model": "across",
+    "Year": 2011,
+    "VIN": "b1abc9c8-5e77-4855-9158-b6a398a28ee7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jasmine Zimmerman",
+      "ContactInformation": {
+        "Phone": "732.972.7733x86666",
+        "Email": "bgonzalez@example.org"
+      },
+      "Statement": "Kind pretty career skin recognize risk offer.\nMother experience TV arm bank long do. Term night financial think window carry. Close room little respond."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5ed1bbe2-8fe7-46f1-b7d6-438bc0f035b9",
+    "OfficerName": "Cynthia Nelson",
+    "ReportDetails": "Food low store blue never. Space central vote very culture.\nShare nation policy professor parent find possible. Hit nor idea protect might."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 397,
+    "AnnualIncome": 25171,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 5,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

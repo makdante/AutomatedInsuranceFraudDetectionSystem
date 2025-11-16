@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e921dc92-4f36-4d25-86f5-b398281471ee",
+  "PolicyID": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+  "EffectiveDates": {
+    "StartDate": "2025-07-10",
+    "EndDate": "2026-07-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e56ba82b-16a1-4c4b-8176-cdb7f4257046",
+    "Name": "Allen Calderon",
+    "PolicyNumber": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+    "ContactInformation": {
+      "Phone": "358.830.4879x08843",
+      "Email": "timothyjones@example.com",
+      "Address": "255 Larry Lights Apt. 555\nNorth Nathanbury, MO 09424"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-04",
+    "Location": "4910 Matthew Terrace Apt. 526\nMargaretberg, OK 68637",
+    "Description": "Determine indeed blood decision expect here wish. Without democratic big government. Today deal girl.\nNewspaper enjoy between bill can mean."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 74652
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11515
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 25029
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2400
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 88943
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 202539,
+    "TotalApproved": 144644
+  },
+  "AdjusterDetails": {
+    "Name": "Thomas Hunt",
+    "ContactInformation": {
+      "Phone": "660-387-5186x8719",
+      "Email": "coxanthony@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/000f9d48-1dbd-4a2a-9edd-77643ab2b8d3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cooper-Brown",
+    "Model": "improve",
+    "Year": 2021,
+    "VIN": "6b972dde-f364-4d20-bd05-eb2ae9b00afb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Laura Watson",
+      "ContactInformation": {
+        "Phone": "+1-713-981-4933",
+        "Email": "andrew30@example.com"
+      },
+      "Statement": "Run feeling now mission. Position cultural later number. Admit imagine perhaps various difference."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "53732a20-8a18-4fa8-95d3-3f57627cc7c6",
+    "OfficerName": "Christina Jones",
+    "ReportDetails": "Admit myself front buy partner. Better opportunity pattern bring simple center training.\nEstablish market teach wide behavior standard. Soldier no church radio very too mention way."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 442,
+    "AnnualIncome": 39981,
+    "DebtToIncomeRatio": 0.22
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 5,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

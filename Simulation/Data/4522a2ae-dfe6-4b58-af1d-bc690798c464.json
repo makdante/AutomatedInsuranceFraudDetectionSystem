@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4522a2ae-dfe6-4b58-af1d-bc690798c464",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-05-31",
+    "EndDate": "2026-05-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-28",
+    "Location": "4528 Jones Glen\nLake Sarah, WV 88347",
+    "Description": "Hard Mr arrive between these. System success sport list. College positive decade arrive."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5160
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 42337
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 28417
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 35682
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4560
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 116156,
+    "TotalApproved": 92612
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Olson",
+    "ContactInformation": {
+      "Phone": "+1-285-368-5683x39834",
+      "Email": "juliejohnson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/271d9e7f-bbfc-4ec5-92e0-a351bf523e5b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lozano PLC",
+    "Model": "call",
+    "Year": 2020,
+    "VIN": "1321c428-2d96-4c95-8f77-f4d37e101fa9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sherry Ferguson",
+      "ContactInformation": {
+        "Phone": "329-614-8610x0242",
+        "Email": "laura89@example.org"
+      },
+      "Statement": "Girl tell former stay build east again. Really tough design yet.\nMeasure wall build recognize. Listen development fine kid."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "166fd63c-cbaa-4642-a3e2-f27821b6a80f",
+    "OfficerName": "Michael Burton",
+    "ReportDetails": "Away medical past. Now oil claim although. Such truth her specific.\nFinal TV site it since. Field threat defense again think another he treat. Worker none most. Couple manage improve majority."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 772,
+    "AnnualIncome": 187932,
+    "DebtToIncomeRatio": 0.96
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 2,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

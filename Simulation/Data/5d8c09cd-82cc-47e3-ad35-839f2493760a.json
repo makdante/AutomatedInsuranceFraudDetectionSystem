@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5d8c09cd-82cc-47e3-ad35-839f2493760a",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2024-11-14",
+    "EndDate": "2025-11-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-13",
+    "Location": "3748 Brown Crest Suite 302\nTinaburgh, PA 42531",
+    "Description": "Recognize large area center east reality matter. Congress itself indeed. Computer action today."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2257
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 23315
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 92298
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3661
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9117
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 130648,
+    "TotalApproved": 7525
+  },
+  "AdjusterDetails": {
+    "Name": "Amanda Williams",
+    "ContactInformation": {
+      "Phone": "294.681.9268",
+      "Email": "marypace@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/9b09ab67-8cdb-411e-8f76-aec94fce16fd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Scott Inc",
+    "Model": "prevent",
+    "Year": 2007,
+    "VIN": "1d843242-10ad-4095-892a-0a8537669a32"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Becky Lowery",
+      "ContactInformation": {
+        "Phone": "880.850.6574x74722",
+        "Email": "hernandezricardo@example.com"
+      },
+      "Statement": "Eye western report car. Be family without how alone.\nCase reduce news. Eat sing citizen boy not among mind senior. Create perform music since question religious large number."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "dd77f3d1-07b9-4d7e-b917-b89bfb32299a",
+    "OfficerName": "David Stewart",
+    "ReportDetails": "Station throughout employee say develop car. We sort herself risk over positive floor idea. Two nearly hope fear agree."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 567,
+    "AnnualIncome": 69255,
+    "DebtToIncomeRatio": 0.2
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

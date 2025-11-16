@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3d094dab-860c-4db3-8501-213df81fc939",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2024-11-16",
+    "EndDate": "2025-11-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-27",
+    "Location": "50356 Nguyen Station\nLake Phillipchester, OR 11129",
+    "Description": "Know among green. View own matter body agent inside race.\nAir stock thought have to approach. Base let serious certain sit woman also."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18045
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11977
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14652
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4354
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18145
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 67173,
+    "TotalApproved": 40690
+  },
+  "AdjusterDetails": {
+    "Name": "Mrs. Renee Charles DDS",
+    "ContactInformation": {
+      "Phone": "950-801-2283",
+      "Email": "mlawrence@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/854b5786-ebaa-4a96-b52a-1bb2020fc060"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moore-Davis",
+    "Model": "paper",
+    "Year": 2013,
+    "VIN": "fdb61b32-0cce-4237-a4bb-3cc9a7bc9f71"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Frances King",
+      "ContactInformation": {
+        "Phone": "957.365.7281",
+        "Email": "laurenwalker@example.net"
+      },
+      "Statement": "Own government write. Right result image white.\nServe difficult during decision cup. Yard child hold begin hotel huge ok two. Difference light say whether sure relate cut."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c603df5d-b0cc-4b92-8eaa-123aa63655f9",
+    "OfficerName": "Ariana Ruiz MD",
+    "ReportDetails": "Instead side natural short office. Difference color move. Perhaps per material could ago friend.\nProgram threat Democrat relate coach must near."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 356,
+    "AnnualIncome": 153915,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 0,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

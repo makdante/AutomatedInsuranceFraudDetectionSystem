@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cc87d6b0-3fb4-4aec-8b63-de1e3729f80e",
+  "PolicyID": "433b7880-f7af-4e36-9012-5c5e793028d5",
+  "EffectiveDates": {
+    "StartDate": "2025-02-27",
+    "EndDate": "2026-02-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3906d06d-d7b8-494f-879b-a72d5db680f8",
+    "Name": "William West",
+    "PolicyNumber": "433b7880-f7af-4e36-9012-5c5e793028d5",
+    "ContactInformation": {
+      "Phone": "5878895828",
+      "Email": "johnmorris@example.net",
+      "Address": "1914 Lyons Green\nDavisbury, NY 54164"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-26",
+    "Location": "951 Jesse Canyon\nLopezland, GU 33978",
+    "Description": "Box partner describe thus stuff speech Republican war. Economy local although.\nAssume why general recognize buy evidence. Daughter article value ground. Because check respond ok father in cost."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7155
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17184
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18116
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8194
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1822
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 52471,
+    "TotalApproved": 40664
+  },
+  "AdjusterDetails": {
+    "Name": "Roy Garcia",
+    "ContactInformation": {
+      "Phone": "541.706.5198x77507",
+      "Email": "qhicks@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/0303451b-f6e7-4902-9239-242e6cdcdae1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mason LLC",
+    "Model": "leader",
+    "Year": 2021,
+    "VIN": "24066ee4-a720-431b-bde0-fad2006959f6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Leslie Ramirez",
+      "ContactInformation": {
+        "Phone": "001-798-400-9337x39668",
+        "Email": "jacqueline69@example.net"
+      },
+      "Statement": "Then tend require board. Yeah radio career system. Job particular people race have than student."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "da22ddf4-30f5-4d1e-bee3-5933d9bf72a4",
+    "OfficerName": "Antonio Bailey",
+    "ReportDetails": "Much where pay help support billion work. City moment various much down read close time.\nTry along must Mr establish. Building represent history south break great."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 532,
+    "AnnualIncome": 27394,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 1,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

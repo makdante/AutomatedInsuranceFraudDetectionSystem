@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2eb5c890-1e96-4e04-9a5c-eb9881d310a7",
+  "PolicyID": "433b7880-f7af-4e36-9012-5c5e793028d5",
+  "EffectiveDates": {
+    "StartDate": "2025-03-22",
+    "EndDate": "2026-03-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3906d06d-d7b8-494f-879b-a72d5db680f8",
+    "Name": "William West",
+    "PolicyNumber": "433b7880-f7af-4e36-9012-5c5e793028d5",
+    "ContactInformation": {
+      "Phone": "5878895828",
+      "Email": "johnmorris@example.net",
+      "Address": "1914 Lyons Green\nDavisbury, NY 54164"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-17",
+    "Location": "3245 Ashley Isle\nLake Joseph, FL 67896",
+    "Description": "Brother raise certain third. Wife meet current change opportunity. Institution fight station throughout particularly something."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1695
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 86269
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 166276
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 43567
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3042
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 300849,
+    "TotalApproved": 174122
+  },
+  "AdjusterDetails": {
+    "Name": "Jeremy Gordon",
+    "ContactInformation": {
+      "Phone": "811.215.2429",
+      "Email": "jennifersmith@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a4fbfc7b-7d1e-4a3b-a424-03e56d7ae27e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thompson, Merritt and Schmidt",
+    "Model": "pull",
+    "Year": 2019,
+    "VIN": "cdf1a933-fb52-4351-8bd4-3bec0a63516d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tonya Chung",
+      "ContactInformation": {
+        "Phone": "(601)389-0206x75263",
+        "Email": "denisehendricks@example.com"
+      },
+      "Statement": "What eye model close civil carry edge. Throw glass against organization meeting teach within. Face travel return quality together. Free sell necessary eight."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "50a3b242-16d0-423f-bcde-2c80c3f669c3",
+    "OfficerName": "Howard Cantrell",
+    "ReportDetails": "Design itself husband bit thing reveal three. Detail together into wife figure.\nUse act hard begin play must. Choice hair across poor however sure history. Player other nor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 786,
+    "AnnualIncome": 118379,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

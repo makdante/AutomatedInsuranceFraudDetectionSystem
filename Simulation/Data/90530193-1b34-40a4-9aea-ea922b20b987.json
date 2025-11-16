@@ -1,0 +1,112 @@
+{
+  "ClaimID": "90530193-1b34-40a4-9aea-ea922b20b987",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2025-03-24",
+    "EndDate": "2026-03-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-14",
+    "Location": "50199 Patrick Island\nJamesfurt, MS 10377",
+    "Description": "President child listen bill possible sea if. Choice free week rise second education.\nNatural certainly street through five course."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4469475
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4797128
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4770602
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4364053
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4392808
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22794066,
+    "TotalApproved": 4191493
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Smith",
+    "ContactInformation": {
+      "Phone": "8152822262",
+      "Email": "dianataylor@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d92749eb-732c-4559-b26d-001e9f50cebe"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rice, Garner and Moreno",
+    "Model": "cold",
+    "Year": 2003,
+    "VIN": "852447f0-d062-4fe6-9650-1a0b6b6a18e6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Danny Pierce",
+      "ContactInformation": {
+        "Phone": "513.375.9239x98439",
+        "Email": "lindsayking@example.net"
+      },
+      "Statement": "Bill key wind adult happen east. Half approach foreign natural range whom design.\nWestern mean author. Among book sport."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "444d7c81-b4ad-42ef-9ac3-785034ad07ab",
+    "OfficerName": "Stephanie Blake",
+    "ReportDetails": "Analysis rule plan religious personal.\nPressure few site early adult item crime. Determine be son impact. Hope long much seat cover community. Hospital argue school democratic sell memory."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 326,
+    "AnnualIncome": 76420,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

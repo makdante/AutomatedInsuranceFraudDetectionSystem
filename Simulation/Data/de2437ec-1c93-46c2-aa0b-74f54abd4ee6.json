@@ -1,0 +1,112 @@
+{
+  "ClaimID": "de2437ec-1c93-46c2-aa0b-74f54abd4ee6",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2024-12-27",
+    "EndDate": "2025-12-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-24",
+    "Location": "3805 Karen Lakes\nLake Edward, IN 35918",
+    "Description": "Financial if make fire Mr ready federal. Reach smile necessary effect success six.\nIn forward sport term poor consumer per. Pay by develop. Site power receive even."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8488
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4363
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1466
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1639
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 55666
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 71622,
+    "TotalApproved": 22046
+  },
+  "AdjusterDetails": {
+    "Name": "Jordan Hamilton",
+    "ContactInformation": {
+      "Phone": "760.254.4075",
+      "Email": "robinsoneric@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c46e8c11-fc42-46f7-9b9b-efd28c722a78"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sandoval PLC",
+    "Model": "might",
+    "Year": 2003,
+    "VIN": "1fa3abcb-922b-49a8-ae99-53e0ff54f02d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Susan Holland",
+      "ContactInformation": {
+        "Phone": "+1-721-263-4949",
+        "Email": "dennis25@example.net"
+      },
+      "Statement": "Shoulder they energy baby operation country. Son benefit wide newspaper place chance. Include believe however system agent issue magazine."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "52376b93-d021-4437-bbfa-88cc18271564",
+    "OfficerName": "Robert Crawford",
+    "ReportDetails": "Far or person high seek break. Organization painting religious culture would little establish study. Write little wonder inside run.\nSpeech measure guess economic. Decide various loss."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 582,
+    "AnnualIncome": 171049,
+    "DebtToIncomeRatio": 0.37
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ca966de3-4893-4130-8d57-9199059a977c",
+  "PolicyID": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+  "EffectiveDates": {
+    "StartDate": "2025-04-03",
+    "EndDate": "2026-04-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fa402266-28f6-4a28-9984-042633fec81b",
+    "Name": "Miranda Nelson",
+    "PolicyNumber": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+    "ContactInformation": {
+      "Phone": "871.425.9645x240",
+      "Email": "iflynn@example.com",
+      "Address": "275 Lee Common\nSouth Hectorville, VI 11258"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-14",
+    "Location": "4169 Martin Mills Suite 863\nAnneside, WA 91233",
+    "Description": "Crime economic man voice white hear.\nPaper protect fine. Offer country enough. Person art expert.\nMeet scene medical long. Back form prepare professor."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 33320
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 34252
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 35813
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 120047
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 26939
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 250371,
+    "TotalApproved": 34687
+  },
+  "AdjusterDetails": {
+    "Name": "Laura Taylor",
+    "ContactInformation": {
+      "Phone": "(701)827-2397x5742",
+      "Email": "palmerdaniel@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/8670e56c-6b49-484c-b539-ce32df07a806"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gray-Johnson",
+    "Model": "study",
+    "Year": 2018,
+    "VIN": "6eed3365-bb39-4414-bb94-1db67771e201"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dr. Jeffrey Lewis",
+      "ContactInformation": {
+        "Phone": "(231)824-5590x692",
+        "Email": "crystal24@example.com"
+      },
+      "Statement": "Way positive who just physical blue. Like level imagine try industry. Result send democratic series road today development soon."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9b3030fc-dfa7-404e-80e4-9c204fcad8e3",
+    "OfficerName": "Vincent Sloan",
+    "ReportDetails": "Sport agree stay she. Something support build air pressure event whom. Around visit any issue significant near traditional so.\nAlone cover certainly take price north join yeah. Rest long sign."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 850,
+    "AnnualIncome": 38016,
+    "DebtToIncomeRatio": 0.56
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 2,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

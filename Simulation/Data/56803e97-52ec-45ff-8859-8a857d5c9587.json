@@ -1,0 +1,112 @@
+{
+  "ClaimID": "56803e97-52ec-45ff-8859-8a857d5c9587",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-06-16",
+    "EndDate": "2026-06-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-08",
+    "Location": "726 Megan Field\nEast Nicole, GU 65105",
+    "Description": "Minute learn agreement more upon whose have.\nRespond region eat. Voice necessary break card. Door memory item agency."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 53279
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17776
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 10715
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5801
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 26385
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 113956,
+    "TotalApproved": 21083
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Woods",
+    "ContactInformation": {
+      "Phone": "(640)589-0950",
+      "Email": "charles29@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/de74ce05-a4c3-4701-bd26-bbe92702ce9d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller-Butler",
+    "Model": "late",
+    "Year": 2000,
+    "VIN": "5be8ba03-ab0a-4fa3-824b-82e76bfe7c19"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joshua Gonzalez",
+      "ContactInformation": {
+        "Phone": "964.945.4968x8291",
+        "Email": "todd00@example.org"
+      },
+      "Statement": "Describe design ball through news food process wind. Something tell book call rather no beautiful tax. Man total truth notice evening safe authority."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "916d10c0-4e17-4594-9b22-b3193a2ec6b0",
+    "OfficerName": "Teresa Stephenson",
+    "ReportDetails": "President method grow create religious sea. Reality design get economic throughout head.\nCulture late whom help no. Score tell woman leader effort star."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 584,
+    "AnnualIncome": 92368,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

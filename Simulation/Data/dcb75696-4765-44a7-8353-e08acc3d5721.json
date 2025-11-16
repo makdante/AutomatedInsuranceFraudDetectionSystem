@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dcb75696-4765-44a7-8353-e08acc3d5721",
+  "PolicyID": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+  "EffectiveDates": {
+    "StartDate": "2025-04-15",
+    "EndDate": "2026-04-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a5e374d7-2a89-4722-82f7-28a28bbdcbf0",
+    "Name": "Evan Fernandez",
+    "PolicyNumber": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+    "ContactInformation": {
+      "Phone": "797-592-5686x43438",
+      "Email": "helen96@example.com",
+      "Address": "70847 Acevedo Path Suite 052\nEast Jason, CO 07830"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-19",
+    "Location": "2016 Dustin Isle Suite 162\nSouth Cristinahaven, CT 55685",
+    "Description": "Onto whom eye business. Ten practice statement first all during think. Manager few them enjoy do truth."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 67444
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13871
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 155412
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 138502
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 32685
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 407914,
+    "TotalApproved": 145206
+  },
+  "AdjusterDetails": {
+    "Name": "Madison Maldonado",
+    "ContactInformation": {
+      "Phone": "(217)676-6757x56408",
+      "Email": "sarah25@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/89cb0442-ef0a-423b-ac31-bc8aecf2f4cc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Holmes Inc",
+    "Model": "food",
+    "Year": 2022,
+    "VIN": "3f45f685-de5c-46fa-ba27-0a9fa9d9d1f6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christie Roberts",
+      "ContactInformation": {
+        "Phone": "+1-611-244-1302x6182",
+        "Email": "christinaandrews@example.org"
+      },
+      "Statement": "Senior natural large they audience weight box southern. Certainly cost skill particularly investment first. Today specific discussion training."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a63996b5-fec0-4169-8c68-a7b9eb4c5254",
+    "OfficerName": "Kathryn Barber",
+    "ReportDetails": "Interview fear child again example professional. Statement may effect prevent. Condition safe street such dinner civil. Commercial consumer system claim adult operation."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 439,
+    "AnnualIncome": 47909,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

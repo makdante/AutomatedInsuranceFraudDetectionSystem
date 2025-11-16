@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3d91d125-ca50-4f82-95fb-790882a92a62",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-01-01",
+    "EndDate": "2026-01-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-12",
+    "Location": "6853 Robert Greens\nMichelleview, PR 71736",
+    "Description": "Write it style become into second center. Attorney baby activity few protect. Garden hot stand evidence produce with.\nAlmost community politics reduce course nice. Along data we window open."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 36123
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 46032
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 70971
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2024
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 34421
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 189571,
+    "TotalApproved": 158163
+  },
+  "AdjusterDetails": {
+    "Name": "Rodney Carney",
+    "ContactInformation": {
+      "Phone": "001-666-250-2284",
+      "Email": "johnsoncarrie@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/0fb908ed-0671-4470-88ec-85166139bd1d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bradley-Mitchell",
+    "Model": "staff",
+    "Year": 2016,
+    "VIN": "52262f9e-890d-496d-9981-51e10f9a9a1b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nathaniel Case",
+      "ContactInformation": {
+        "Phone": "(975)838-2271x884",
+        "Email": "crosschristopher@example.com"
+      },
+      "Statement": "More million candidate maintain real skin. Daughter cell moment campaign short. Him huge society modern."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "16076604-76a2-4aa0-a049-f80a3b29af81",
+    "OfficerName": "Mia Dunn",
+    "ReportDetails": "Significant arm specific collection religious number image. Including radio thought two win despite these war. Market government share open. Hundred none administration building."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 528,
+    "AnnualIncome": 72358,
+    "DebtToIncomeRatio": 0.23
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

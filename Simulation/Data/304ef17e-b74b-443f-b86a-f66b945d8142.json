@@ -1,0 +1,112 @@
+{
+  "ClaimID": "304ef17e-b74b-443f-b86a-f66b945d8142",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-05-09",
+    "EndDate": "2026-05-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-17",
+    "Location": "4156 Chelsea Unions\nHollandchester, DC 39198",
+    "Description": "Mr difficult fish bill toward eight outside. Camera two everyone cost. Eight behavior back during long baby west mean."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6429
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9907
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36506
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 92122
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 46765
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 191729,
+    "TotalApproved": 34970
+  },
+  "AdjusterDetails": {
+    "Name": "Deborah Edwards",
+    "ContactInformation": {
+      "Phone": "8564756130",
+      "Email": "davidbrown@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/6c3cbed1-73ca-45e5-bf2c-e4469d7b35ac"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Adams LLC",
+    "Model": "Mr",
+    "Year": 2004,
+    "VIN": "cdf307b6-26ec-4061-bff6-244f68034fdd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mr. Zachary Sloan",
+      "ContactInformation": {
+        "Phone": "4103771837",
+        "Email": "leebarry@example.org"
+      },
+      "Statement": "Laugh beat job station key. Certain management final.\nDoor by protect mouth president respond. Thing significant just increase pick evening. Real indeed professional."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "da3ee52a-ff53-42e0-9a3a-2abc71e9a340",
+    "OfficerName": "Brian Walker",
+    "ReportDetails": "Two music forward Republican six step whom today."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 559,
+    "AnnualIncome": 160733,
+    "DebtToIncomeRatio": 0.12
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 0,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "72687cdc-b30c-4e22-8b59-d0fbfca09b31",
+  "PolicyID": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+  "EffectiveDates": {
+    "StartDate": "2025-07-10",
+    "EndDate": "2026-07-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a5e374d7-2a89-4722-82f7-28a28bbdcbf0",
+    "Name": "Evan Fernandez",
+    "PolicyNumber": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+    "ContactInformation": {
+      "Phone": "797-592-5686x43438",
+      "Email": "helen96@example.com",
+      "Address": "70847 Acevedo Path Suite 052\nEast Jason, CO 07830"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-14",
+    "Location": "Unit 0242 Box 4968\nDPO AE 10768",
+    "Description": "Care understand affect. Sit happen improve drop middle. Front send campaign reason.\nTerm share thus run already. Measure finish himself second nice catch. Rest pretty crime fund sea lot."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 160783
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 187833
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 33794
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 28186
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 41941
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 452537,
+    "TotalApproved": 164741
+  },
+  "AdjusterDetails": {
+    "Name": "Ryan Savage",
+    "ContactInformation": {
+      "Phone": "+1-590-744-2812x1055",
+      "Email": "riverakevin@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/cb028bb0-365e-4151-8308-dff8bd542787"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lewis PLC",
+    "Model": "professor",
+    "Year": 2014,
+    "VIN": "346db52e-58a9-4288-ae50-ff57537d2706"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patricia Simpson",
+      "ContactInformation": {
+        "Phone": "(234)737-5230",
+        "Email": "grace10@example.org"
+      },
+      "Statement": "Drug shake whether eat technology that. Realize figure opportunity throughout analysis.\nWall guy city base player trip look recognize. Growth listen ahead buy. System common pick nor."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e4ca3af4-bf7e-46b6-bddf-aefc24e30e4c",
+    "OfficerName": "Michael Murray",
+    "ReportDetails": "Throw star walk enjoy less change several attorney. Road look look theory consider who child strategy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 763,
+    "AnnualIncome": 54368,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

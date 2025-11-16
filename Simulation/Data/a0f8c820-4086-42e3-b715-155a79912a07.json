@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a0f8c820-4086-42e3-b715-155a79912a07",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2025-10-05",
+    "EndDate": "2026-10-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-11",
+    "Location": "916 Tracy Manor Suite 728\nMatthewborough, DC 62346",
+    "Description": "Him short even behavior change boy ability. General management attention through the.\nSince to special material most military. Book field structure. Cold audience reality partner stuff yes."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 21772
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24410
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8223
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 34300
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7662
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 96367,
+    "TotalApproved": 84412
+  },
+  "AdjusterDetails": {
+    "Name": "Albert Dominguez",
+    "ContactInformation": {
+      "Phone": "321-747-5083",
+      "Email": "hlang@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/8ad1d2b5-751e-4a79-9063-26930bfa5c2b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lambert, Sanchez and Greene",
+    "Model": "check",
+    "Year": 2001,
+    "VIN": "8c51c25f-f1df-46a5-b1c1-824ef61aea5e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Carrie Munoz",
+      "ContactInformation": {
+        "Phone": "001-820-388-7746x5449",
+        "Email": "cgomez@example.com"
+      },
+      "Statement": "Night choose system. Significant land represent yet security mouth wrong.\nGo head station car remember. Really ahead one citizen drop."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2e7febd9-37a1-41ec-bbf5-4a11dc6d6f05",
+    "OfficerName": "Keith Hensley",
+    "ReportDetails": "Red space particularly huge accept health me. Official customer likely or part area.\nAmerican way program memory.\nTeam there best sport question shoulder responsibility."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 844,
+    "AnnualIncome": 40206,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 9,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

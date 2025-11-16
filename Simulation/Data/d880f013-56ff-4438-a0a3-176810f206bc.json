@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d880f013-56ff-4438-a0a3-176810f206bc",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-01-04",
+    "EndDate": "2026-01-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-30",
+    "Location": "449 Gibbs Mill\nHollandstad, LA 39295",
+    "Description": "Partner morning political race next. Dream hour program much capital former. Mention phone management place.\nStage left same large. Whose market much car."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 54576
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 65797
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 168234
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13358
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7854
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 309819,
+    "TotalApproved": 255385
+  },
+  "AdjusterDetails": {
+    "Name": "Stacie Lopez",
+    "ContactInformation": {
+      "Phone": "+1-894-643-3112x733",
+      "Email": "murraysydney@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/9c4c1887-1db7-4261-aefb-2826509d4112"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rodriguez, Brown and Sampson",
+    "Model": "his",
+    "Year": 2016,
+    "VIN": "efa803f0-929d-4d1e-9ac5-5657c45df9a8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lauren Perez",
+      "ContactInformation": {
+        "Phone": "859.254.5153",
+        "Email": "meghan09@example.net"
+      },
+      "Statement": "Congress often benefit sound. Receive budget lot traditional stuff run she perform. Respond deal pull decide time before truth."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "80e0a3c2-a284-4e01-86e3-db6bb407f15d",
+    "OfficerName": "Daniel Lee",
+    "ReportDetails": "Capital each they. Newspaper point item imagine. Across already country perhaps.\nScene individual either grow much drug. On reason quickly size west purpose. Travel person arm need ever."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 323,
+    "AnnualIncome": 152425,
+    "DebtToIncomeRatio": 0.74
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

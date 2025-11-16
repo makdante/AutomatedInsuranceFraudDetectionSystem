@@ -1,0 +1,112 @@
+{
+  "ClaimID": "06ac46f9-4bbb-4ba0-a873-129d6b036d9c",
+  "PolicyID": "4d006887-ffd3-4707-8940-80e0970ad64f",
+  "EffectiveDates": {
+    "StartDate": "2025-05-17",
+    "EndDate": "2026-05-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "6191ccd1-d3f4-425d-a9cb-5820861f7d97",
+    "Name": "Andrew Wilson",
+    "PolicyNumber": "4d006887-ffd3-4707-8940-80e0970ad64f",
+    "ContactInformation": {
+      "Phone": "001-296-495-4711x47868",
+      "Email": "twilliams@example.org",
+      "Address": "9444 Jonathan Village\nSouth Taratown, AR 12477"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-19",
+    "Location": "5984 Garza Drives Suite 437\nNew Davidview, MD 31248",
+    "Description": "Street indicate next wrong somebody. Hair condition technology card player few past. Behind nearly establish phone lot Congress.\nWant face group enjoy."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 29967
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 33222
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2318
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 84424
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 157883
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 307814,
+    "TotalApproved": 37293
+  },
+  "AdjusterDetails": {
+    "Name": "Laura Roy",
+    "ContactInformation": {
+      "Phone": "722.597.0660x1595",
+      "Email": "fred86@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/893557c8-0968-4ea6-abf8-542bc7013589"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "King, Melton and Romero",
+    "Model": "guy",
+    "Year": 2005,
+    "VIN": "986d6a06-6089-4225-9e59-156e25f0102d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Young",
+      "ContactInformation": {
+        "Phone": "669-273-8706x503",
+        "Email": "xmiller@example.net"
+      },
+      "Statement": "History take sort PM. Player particularly window business study yet gun. Push threat case phone.\nThat pull film happen place. Cultural once accept design common certainly."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "764f3787-b7c4-4cf5-8547-75bc280d164e",
+    "OfficerName": "Justin Bailey",
+    "ReportDetails": "Brother we contain laugh decision according because single. Society any girl score movie commercial network. Challenge pressure student first."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 636,
+    "AnnualIncome": 199372,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

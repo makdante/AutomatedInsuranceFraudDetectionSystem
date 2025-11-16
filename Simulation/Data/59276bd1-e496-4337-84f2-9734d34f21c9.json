@@ -1,0 +1,112 @@
+{
+  "ClaimID": "59276bd1-e496-4337-84f2-9734d34f21c9",
+  "PolicyID": "615dd311-61f1-4d66-9081-93d8b1a30832",
+  "EffectiveDates": {
+    "StartDate": "2025-07-11",
+    "EndDate": "2026-07-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "413855ef-2e2d-4b8e-b2fc-330be891114b",
+    "Name": "Amy Barnes",
+    "PolicyNumber": "615dd311-61f1-4d66-9081-93d8b1a30832",
+    "ContactInformation": {
+      "Phone": "(281)531-1709x697",
+      "Email": "monicacarroll@example.org",
+      "Address": "2310 Leslie Drive Suite 947\nSimsbury, VI 28289"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-28",
+    "Location": "5732 Nelson Mills\nSouth Roberttown, SC 87153",
+    "Description": "Much just exactly next try cause help age.\nEconomic young throw big. We buy what give.\nWalk watch blue of play tree. Mind report maintain."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 42545
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 141102
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 21304
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 91444
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9011
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 305406,
+    "TotalApproved": 94480
+  },
+  "AdjusterDetails": {
+    "Name": "Teresa Dickerson",
+    "ContactInformation": {
+      "Phone": "758.665.6510",
+      "Email": "greyes@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b9551935-e267-421f-ae1f-331b0cf3b68b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Collins PLC",
+    "Model": "campaign",
+    "Year": 2020,
+    "VIN": "7c2b9a70-c67a-45df-bd54-e7cdc5693b96"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Gregory Garcia",
+      "ContactInformation": {
+        "Phone": "9599906926",
+        "Email": "destiny54@example.com"
+      },
+      "Statement": "Minute affect our defense eye participant. Provide mouth marriage they better writer. Federal top money them it."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2d0b1e59-d149-407d-a69c-91c40236628a",
+    "OfficerName": "Monique Walker",
+    "ReportDetails": "Set every at. Audience phone when figure. Look increase other. Final threat debate whose fill page rock bed.\nKeep town song ago opportunity example yard television. Town theory speak enjoy young."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 496,
+    "AnnualIncome": 140024,
+    "DebtToIncomeRatio": 0.86
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 3,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

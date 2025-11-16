@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2cf7341c-f28f-4327-b1bd-010a796f920b",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-01-30",
+    "EndDate": "2026-01-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-08",
+    "Location": "6149 Moore Parkways\nEmilyshire, AL 85370",
+    "Description": "Defense recognize bag become what group would. Television yeah back result establish. Successful skin recent heart anyone people recognize."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 23110
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 83449
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4177
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39412
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 40756
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 190904,
+    "TotalApproved": 147628
+  },
+  "AdjusterDetails": {
+    "Name": "Zoe Wilson",
+    "ContactInformation": {
+      "Phone": "292-366-9250",
+      "Email": "wcasey@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/329973f6-2a0b-473d-90e1-b0366e7c45f1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "King-Perez",
+    "Model": "key",
+    "Year": 2001,
+    "VIN": "06dcae5d-6e16-4396-8e02-507e74b90ca7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alexis Hopkins",
+      "ContactInformation": {
+        "Phone": "(713)799-9539",
+        "Email": "williamsonjoyce@example.org"
+      },
+      "Statement": "You there challenge should paper. They garden high modern white. Tree hand rate example boy accept."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2d995c49-75c8-41ef-b9ad-a2e3ececb6a7",
+    "OfficerName": "Katherine Williams",
+    "ReportDetails": "Several sign image teacher cause those miss. Them research capital task.\nFine father wrong wide myself daughter. Speech surface likely child. Person entire rest indicate kind stage."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 370,
+    "AnnualIncome": 171539,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 2,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

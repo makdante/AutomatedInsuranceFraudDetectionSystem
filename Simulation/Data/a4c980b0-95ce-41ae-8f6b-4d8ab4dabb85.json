@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a4c980b0-95ce-41ae-8f6b-4d8ab4dabb85",
+  "PolicyID": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+  "EffectiveDates": {
+    "StartDate": "2025-07-16",
+    "EndDate": "2026-07-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "69dff2d4-fe41-48b6-84f8-fbada01a13cc",
+    "Name": "Gerald Lynn",
+    "PolicyNumber": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+    "ContactInformation": {
+      "Phone": "804.824.4218",
+      "Email": "mark32@example.com",
+      "Address": "76834 William Key\nLake Heather, SC 99643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-22",
+    "Location": "4374 Smith Point\nScottchester, ME 46769",
+    "Description": "With perform window year. Hear reduce hit small while level nature better. Away must himself stock fill decade billion imagine."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17598
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 156384
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 167838
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 25639
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18628
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 386087,
+    "TotalApproved": 294014
+  },
+  "AdjusterDetails": {
+    "Name": "Tristan Kennedy",
+    "ContactInformation": {
+      "Phone": "(285)356-0286x136",
+      "Email": "matthew91@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/800168fa-998a-4856-92f4-28f83853514f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cruz-Sutton",
+    "Model": "country",
+    "Year": 2008,
+    "VIN": "4e790de0-31fc-4203-9289-8115c9582c14"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Manuel Branch",
+      "ContactInformation": {
+        "Phone": "6695792676",
+        "Email": "hillkeith@example.net"
+      },
+      "Statement": "Worry process also model.\nWater bring feeling. Far each option stay.\nEconomy whom party among seven tonight heavy mention. Difficult cut blue. Though sure speak size."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3069eeff-dedf-423f-bcca-945d4e2bb4a9",
+    "OfficerName": "Ann Williams",
+    "ReportDetails": "Method media ten group degree. Try significant simple simple poor cold.\nFeel wonder bar building. Should professor future.\nNotice project cold center south stand upon. Tv west reach do."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 579,
+    "AnnualIncome": 90003,
+    "DebtToIncomeRatio": 0.37
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 0,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

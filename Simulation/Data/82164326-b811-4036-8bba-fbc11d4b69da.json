@@ -1,0 +1,112 @@
+{
+  "ClaimID": "82164326-b811-4036-8bba-fbc11d4b69da",
+  "PolicyID": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+  "EffectiveDates": {
+    "StartDate": "2024-11-15",
+    "EndDate": "2025-11-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "49ce8efb-716c-47d5-8d7f-00c686bd480a",
+    "Name": "Evan Russell",
+    "PolicyNumber": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+    "ContactInformation": {
+      "Phone": "546.466.7522",
+      "Email": "shawn53@example.net",
+      "Address": "6476 Holland Causeway Suite 490\nSouth Reginaborough, WV 81664"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-04",
+    "Location": "241 Christy Landing\nBushland, ID 86076",
+    "Description": "Hair hundred not. Population reach who recognize. Anyone really product mean young young.\nCarry think respond use. Defense air color north.\nReflect strategy share much itself above."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2780
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 34457
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8227
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19091
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 20985
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 85540,
+    "TotalApproved": 26954
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Murphy",
+    "ContactInformation": {
+      "Phone": "(641)414-9973x82017",
+      "Email": "williamsjohn@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d2dab96b-84a7-47bc-a093-2076848c1a45"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mcbride and Sons",
+    "Model": "single",
+    "Year": 2021,
+    "VIN": "5d0a7b82-af3e-4ab1-8c0c-17268256a4b2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Carolyn Harrison",
+      "ContactInformation": {
+        "Phone": "+1-502-419-8377",
+        "Email": "jodom@example.net"
+      },
+      "Statement": "Show short record weight nation home real. Foreign occur stuff. Young likely perhaps almost.\nWrite level man door small here. Nice guy perform care speak. Kitchen into start risk."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ec7964cd-d342-40b6-a597-a7481189ff5d",
+    "OfficerName": "Lisa Williams",
+    "ReportDetails": "Attorney energy measure difficult meet truth low. Plant around sing anyone design behind crime plan."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 472,
+    "AnnualIncome": 41264,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 7,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

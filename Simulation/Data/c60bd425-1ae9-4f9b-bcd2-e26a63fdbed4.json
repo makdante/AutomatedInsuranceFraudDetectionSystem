@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c60bd425-1ae9-4f9b-bcd2-e26a63fdbed4",
+  "PolicyID": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+  "EffectiveDates": {
+    "StartDate": "2025-05-21",
+    "EndDate": "2026-05-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "8bf8aa8f-31d8-4904-928a-c411bab56c37",
+    "Name": "Kathleen Wilson",
+    "PolicyNumber": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+    "ContactInformation": {
+      "Phone": "3889435835",
+      "Email": "angie46@example.net",
+      "Address": "24489 Brady Mews Suite 377\nNew Susanmouth, NM 88090"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-08",
+    "Location": "4354 Johnson Ferry Suite 909\nNorth Annbury, PA 05422",
+    "Description": "Dog support meeting your perform not. Discuss left system middle. Quickly home particularly.\nConference power young town reality issue finally fear. Detail store strategy professor so."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 187554
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 68175
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10066
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13172
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 191704
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 470671,
+    "TotalApproved": 218270
+  },
+  "AdjusterDetails": {
+    "Name": "Andrea Wu",
+    "ContactInformation": {
+      "Phone": "+1-662-610-5736x312",
+      "Email": "ashleehinton@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/243f25a1-cfb8-47ae-98ab-d17a6dc6eeb2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chavez, Baird and Fox",
+    "Model": "matter",
+    "Year": 2010,
+    "VIN": "a0616fde-aaff-44fc-a510-bcc2bf8c31b8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathleen Wise",
+      "ContactInformation": {
+        "Phone": "663.390.0291x3737",
+        "Email": "justin71@example.net"
+      },
+      "Statement": "Especially company attention return. Executive myself card raise. Interest and down cell campaign strong."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "33b35754-b89c-482f-b1bf-b99aa1abb2e5",
+    "OfficerName": "Jennifer Petersen",
+    "ReportDetails": "Remember detail case recent conference. Ability past worry four project allow. These to pull dark much real.\nSeek really big cover. Under throw too campaign. New measure phone put."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 431,
+    "AnnualIncome": 86769,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 1,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

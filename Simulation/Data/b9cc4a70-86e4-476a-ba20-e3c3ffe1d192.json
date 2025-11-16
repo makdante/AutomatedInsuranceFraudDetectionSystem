@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b9cc4a70-86e4-476a-ba20-e3c3ffe1d192",
+  "PolicyID": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+  "EffectiveDates": {
+    "StartDate": "2025-02-02",
+    "EndDate": "2026-02-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "709ee9bc-7606-4bdf-b79d-eda726a7c4fa",
+    "Name": "Heather Hall",
+    "PolicyNumber": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+    "ContactInformation": {
+      "Phone": "492.558.8377x933",
+      "Email": "ckemp@example.org",
+      "Address": "587 Elaine Underpass Suite 792\nRaymondshire, CO 15518"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-28",
+    "Location": "5057 Ayala Stravenue Suite 256\nSalasstad, KS 44441",
+    "Description": "Administration couple board evening one cultural. Hand rise will.\nWorld girl single prove painting source. Region never guy fall everything crime north. Speech sing very remain once great."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 85211
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7669
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12990
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14562
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 40990
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 161422,
+    "TotalApproved": 156753
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Baker",
+    "ContactInformation": {
+      "Phone": "+1-643-709-0270x439",
+      "Email": "annhess@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/0aed71ed-45e2-4bed-96f4-73f1828bcb6c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ward-Esparza",
+    "Model": "point",
+    "Year": 2001,
+    "VIN": "f0696094-3dde-4835-95ac-227215f7991b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rachael Hernandez",
+      "ContactInformation": {
+        "Phone": "867-908-8272x4029",
+        "Email": "jessica67@example.com"
+      },
+      "Statement": "Think performance student develop cup. Free still own space region. Tonight total either ability create leave assume. East today worker your also."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b61f5730-9e37-4432-847b-97aac972d599",
+    "OfficerName": "Anthony Smith",
+    "ReportDetails": "Probably color market ago describe buy raise. Soldier history with free pressure fish police.\nThose back see practice. Day yes sing add accept choose send."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 440,
+    "AnnualIncome": 137731,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

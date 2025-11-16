@@ -1,0 +1,112 @@
+{
+  "ClaimID": "da7b9896-26d2-46d3-9d4e-2b2c9ffd0b00",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-10-15",
+    "EndDate": "2026-10-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-18",
+    "Location": "4402 Felicia Bridge\nEast Kristen, KY 68528",
+    "Description": "Avoid billion owner local work. Goal they knowledge growth their land easy. Level only movie drive which research."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 134694
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 67818
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 24666
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18588
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2198
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 247964,
+    "TotalApproved": 240238
+  },
+  "AdjusterDetails": {
+    "Name": "Stephanie Edwards",
+    "ContactInformation": {
+      "Phone": "(385)393-5576x212",
+      "Email": "baldwinchristopher@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/4f4dbae3-1d5e-42d0-b7a4-9289b3081cce"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson, Jones and Riley",
+    "Model": "once",
+    "Year": 2007,
+    "VIN": "392f4363-8ca8-44a3-a696-a84913708dc2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Carl Olson",
+      "ContactInformation": {
+        "Phone": "2014310883",
+        "Email": "trasmussen@example.com"
+      },
+      "Statement": "Hair including box fall current responsibility. Lay major positive opportunity three country fine.\nDuring song own speak ago ahead. Age most write."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "be1c43b3-3845-4628-aa9c-92597d97a778",
+    "OfficerName": "Patricia Bruce",
+    "ReportDetails": "Real popular short phone mention. Choose kid card visit. Stay degree trial court property."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 528,
+    "AnnualIncome": 29554,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 2,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

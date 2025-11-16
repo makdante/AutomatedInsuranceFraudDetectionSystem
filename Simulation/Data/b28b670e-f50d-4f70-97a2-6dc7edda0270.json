@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b28b670e-f50d-4f70-97a2-6dc7edda0270",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2024-12-06",
+    "EndDate": "2025-12-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-12",
+    "Location": "390 English Place Suite 086\nSouth Walter, PW 34343",
+    "Description": "Cost attorney walk which accept begin. Four artist list world. Election data song town sound serious."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 25278
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 152513
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6558
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 32290
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 188828
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 405467,
+    "TotalApproved": 382665
+  },
+  "AdjusterDetails": {
+    "Name": "Robert Freeman",
+    "ContactInformation": {
+      "Phone": "(654)729-3467x46252",
+      "Email": "sarathomas@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4f47633d-8c0a-45c3-89b8-ea120c9122f0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gilbert LLC",
+    "Model": "whom",
+    "Year": 2019,
+    "VIN": "c1579588-1f4e-4665-b034-41c5ed2be346"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jesus Frost",
+      "ContactInformation": {
+        "Phone": "+1-214-667-5986x2930",
+        "Email": "allison71@example.org"
+      },
+      "Statement": "Accept be drive reach check. Entire left brother focus. Class close beat sign store attack world."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4f485c30-44f1-4c73-aefb-cf8a7ea7f9f3",
+    "OfficerName": "Shannon Alvarez",
+    "ReportDetails": "Voice want matter participant.\nBox expert manager evidence begin. Five suggest sometimes defense happen eight responsibility. South style whose according different support food."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 482,
+    "AnnualIncome": 130716,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

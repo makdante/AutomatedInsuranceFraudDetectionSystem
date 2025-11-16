@@ -1,0 +1,112 @@
+{
+  "ClaimID": "41b6a403-e6f2-4f64-af5d-51759a05cc02",
+  "PolicyID": "7d680817-86fa-4f0f-b6fd-b5de84557ffd",
+  "EffectiveDates": {
+    "StartDate": "2025-06-14",
+    "EndDate": "2026-06-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c39beaf0-066a-4334-9809-0cc9be5199f3",
+    "Name": "Shirley Jenkins",
+    "PolicyNumber": "7d680817-86fa-4f0f-b6fd-b5de84557ffd",
+    "ContactInformation": {
+      "Phone": "760-945-4034",
+      "Email": "zachary07@example.org",
+      "Address": "PSC 5790, Box 4989\nAPO AE 66229"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-17",
+    "Location": "20682 Tanner Divide\nBradleyshire, DE 65206",
+    "Description": "Seek their half good show recognize. Book star affect weight.\nIncluding beyond whose social toward. Firm expert worker herself to start eye. Open next eat just."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14668
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9456
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7014
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5631
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 22995
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 59764,
+    "TotalApproved": 47803
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Price",
+    "ContactInformation": {
+      "Phone": "+1-832-956-4236x53974",
+      "Email": "kathrynsingleton@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/55bb69df-ec8f-436f-b258-f0ddfedf353f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Browning, Shaw and Schwartz",
+    "Model": "baby",
+    "Year": 2015,
+    "VIN": "259680fd-06cf-4a88-8912-5f9a38264f12"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tara Dorsey DDS",
+      "ContactInformation": {
+        "Phone": "001-964-536-0319x39957",
+        "Email": "marshjade@example.net"
+      },
+      "Statement": "Really debate imagine owner soldier help loss manager. Brother pick suddenly total if."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a1851209-6105-4de9-834f-d23dbf4fe886",
+    "OfficerName": "Catherine Johnson",
+    "ReportDetails": "Age and by evening. Help scene upon why side bar.\nFederal marriage such song surface month start. Happen appear them director sound oil general serious."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 612,
+    "AnnualIncome": 175550,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 2,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

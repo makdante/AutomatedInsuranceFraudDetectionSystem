@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fb865182-576e-4bfd-9ef4-be4417683a39",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-08-29",
+    "EndDate": "2026-08-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-28",
+    "Location": "1915 Kidd Turnpike\nCatherinemouth, TN 31088",
+    "Description": "Common create green least still. Hope address sometimes letter represent money into. Change site forget stay."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8287
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 48883
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 53312
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4872
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 52993
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 168347,
+    "TotalApproved": 157247
+  },
+  "AdjusterDetails": {
+    "Name": "Matthew Nash",
+    "ContactInformation": {
+      "Phone": "(721)569-7696x376",
+      "Email": "emilylyons@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/274732a4-9e3d-4818-99a3-2b62413d98cc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith-Payne",
+    "Model": "enjoy",
+    "Year": 2000,
+    "VIN": "babcae44-3608-42fe-b395-c54df5517fad"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Katherine Miller",
+      "ContactInformation": {
+        "Phone": "(374)640-0156",
+        "Email": "upowell@example.org"
+      },
+      "Statement": "System recognize condition take red somebody. Old win add add.\nMr per hundred point animal top. I fly science quality."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8ffa8213-260d-4f72-9ba6-e091e4470488",
+    "OfficerName": "Sarah Rodriguez",
+    "ReportDetails": "Edge board even world. Condition pay several edge military while when adult. Nice size anyone else there responsibility south."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 430,
+    "AnnualIncome": 47297,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 4,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

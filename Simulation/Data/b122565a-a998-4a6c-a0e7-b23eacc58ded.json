@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b122565a-a998-4a6c-a0e7-b23eacc58ded",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-09-29",
+    "EndDate": "2026-09-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-24",
+    "Location": "5062 Angela Land Apt. 685\nGabrielhaven, AK 37303",
+    "Description": "Every successful study food establish turn voice bad. Day stop alone wear ever. Fight best option direction several. Reach tree two measure draw."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16109
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5191
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14073
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9305
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 174454
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 219132,
+    "TotalApproved": 198600
+  },
+  "AdjusterDetails": {
+    "Name": "Steven Oneill",
+    "ContactInformation": {
+      "Phone": "(622)840-3410x0210",
+      "Email": "aprilbishop@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/17bf550d-35d7-4d89-863a-790857bb9337"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lee-Wright",
+    "Model": "effort",
+    "Year": 2009,
+    "VIN": "c648e390-2b19-4b18-b79e-363bd26750e8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bridget Smith",
+      "ContactInformation": {
+        "Phone": "353.508.5431",
+        "Email": "awhite@example.com"
+      },
+      "Statement": "Style local various food. Wind none relate nature.\nThing strong political along organization nature picture. Laugh this might evening get learn. Matter national care along."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "80fc5626-ed7c-456c-bd51-3f562eaa7738",
+    "OfficerName": "Nancy Mendoza",
+    "ReportDetails": "None general low. Majority after within loss billion the. Close want perhaps pattern.\nCapital buy same program result. Mean modern small begin audience trial."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 333,
+    "AnnualIncome": 144684,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 1,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

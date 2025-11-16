@@ -1,0 +1,112 @@
+{
+  "ClaimID": "94538ff6-71ba-487a-8bea-69a12ab54ed5",
+  "PolicyID": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+  "EffectiveDates": {
+    "StartDate": "2024-11-30",
+    "EndDate": "2025-11-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "8bf8aa8f-31d8-4904-928a-c411bab56c37",
+    "Name": "Kathleen Wilson",
+    "PolicyNumber": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+    "ContactInformation": {
+      "Phone": "3889435835",
+      "Email": "angie46@example.net",
+      "Address": "24489 Brady Mews Suite 377\nNew Susanmouth, NM 88090"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-17",
+    "Location": "243 Emily Springs\nEast Rachaelbury, CT 89665",
+    "Description": "Throughout above method all art that whose. Space cost live.\nStand above show again walk. Father himself answer many reach decide. Hot turn benefit.\nLaw kind than arrive."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 99365
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22129
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6312
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 99368
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 30171
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 257345,
+    "TotalApproved": 193814
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Parsons",
+    "ContactInformation": {
+      "Phone": "495-482-4101",
+      "Email": "allisonmary@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1c770296-9c63-46b3-904a-ee5d32d55174"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Blankenship, Frazier and Schneider",
+    "Model": "I",
+    "Year": 2000,
+    "VIN": "0f25cb04-af3c-4a0e-b60f-047ddbc209e3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Chelsea Hayden",
+      "ContactInformation": {
+        "Phone": "(448)282-0877",
+        "Email": "brownedwin@example.com"
+      },
+      "Statement": "National want avoid. Land project present entire. Night name my road bed fill doctor perhaps.\nRock black positive present life. Market act you chance black study onto develop."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "defbe736-490f-4eb3-9a70-dda1ab3b2fdf",
+    "OfficerName": "Laura Buck",
+    "ReportDetails": "Fact simply value edge source. Once example various history continue perform magazine."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 473,
+    "AnnualIncome": 95442,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

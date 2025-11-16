@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4d3219c2-9e60-4cca-984c-523ce3928a2d",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-06-10",
+    "EndDate": "2026-06-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-10",
+    "Location": "9015 Banks Trafficway\nEast Jessicaville, DC 43481",
+    "Description": "Century whether add no out military. Unit relate local newspaper kind.\nDecade security continue management including mother must. Pick less build for pretty difficult."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 75099
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19363
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18378
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 97559
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37688
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 248087,
+    "TotalApproved": 213977
+  },
+  "AdjusterDetails": {
+    "Name": "James Nelson",
+    "ContactInformation": {
+      "Phone": "(649)706-8353x3426",
+      "Email": "dbrown@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/1a332c9e-c0de-4546-a49c-fa673cac3159"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Valentine-Alvarez",
+    "Model": "improve",
+    "Year": 2019,
+    "VIN": "9cbc3fe9-0309-4ac7-be60-5d2e0d3915ac"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Wilson",
+      "ContactInformation": {
+        "Phone": "+1-625-555-2287x129",
+        "Email": "yolandahenry@example.net"
+      },
+      "Statement": "Decade animal threat maybe bed career station. Degree see cut mouth couple.\nOccur blood light resource Democrat third."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3b2beb3c-5e42-4f38-aea5-6b8d87afe964",
+    "OfficerName": "Christopher Burgess",
+    "ReportDetails": "Go born nice Mrs common. Management who majority board yes role. Level not blood level bring senior question civil."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 771,
+    "AnnualIncome": 182363,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

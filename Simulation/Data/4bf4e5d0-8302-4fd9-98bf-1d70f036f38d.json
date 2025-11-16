@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4bf4e5d0-8302-4fd9-98bf-1d70f036f38d",
+  "PolicyID": "d67278aa-bec7-4840-bfff-77f2736e2d75",
+  "EffectiveDates": {
+    "StartDate": "2025-08-24",
+    "EndDate": "2026-08-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de87a79d-3530-44de-a42d-0905617f9485",
+    "Name": "Caitlyn Sosa",
+    "PolicyNumber": "d67278aa-bec7-4840-bfff-77f2736e2d75",
+    "ContactInformation": {
+      "Phone": "904-716-2217x5949",
+      "Email": "angela15@example.net",
+      "Address": "661 Hill Heights Suite 117\nCampbellmouth, ID 00775"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-05",
+    "Location": "016 Jill Inlet\nCharleston, MD 49416",
+    "Description": "Table wide experience level capital. Beautiful challenge administration debate much. Then by former truth."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 59490
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 187797
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 67398
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8476
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17820
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 340981,
+    "TotalApproved": 11843
+  },
+  "AdjusterDetails": {
+    "Name": "Amber Johnson",
+    "ContactInformation": {
+      "Phone": "9178922419",
+      "Email": "fhernandez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/619a4dd3-f74d-4439-aa77-171d72ee14bc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilkins, Ryan and Wong",
+    "Model": "purpose",
+    "Year": 2000,
+    "VIN": "775ed426-5776-48ca-a4dd-8e2e8cb47d4f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Carlos Collins",
+      "ContactInformation": {
+        "Phone": "+1-209-732-4448x3567",
+        "Email": "parkerbrian@example.net"
+      },
+      "Statement": "Laugh right it approach road. Sit dog sense third. Establish near able although.\nHusband wait series traditional federal success. More second song turn. Themselves hear experience picture country."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3f5362d5-9857-4779-8ed6-c9678cb04573",
+    "OfficerName": "Kenneth Beck",
+    "ReportDetails": "Concern try amount however radio want one. Campaign bill take. How south all sound instead. Interview look seat herself environment stop."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 406,
+    "AnnualIncome": 108726,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

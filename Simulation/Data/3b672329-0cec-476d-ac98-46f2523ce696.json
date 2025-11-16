@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3b672329-0cec-476d-ac98-46f2523ce696",
+  "PolicyID": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+  "EffectiveDates": {
+    "StartDate": "2025-11-01",
+    "EndDate": "2026-11-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1ca65977-e36d-46f7-95b8-d03e34c9f672",
+    "Name": "Melissa Charles DVM",
+    "PolicyNumber": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+    "ContactInformation": {
+      "Phone": "871-833-2368x7208",
+      "Email": "scottwagner@example.org",
+      "Address": "006 Torres Neck Apt. 510\nRichardsonshire, NM 15931"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-07",
+    "Location": "590 Sparks Club\nCourtneyville, WA 75730",
+    "Description": "Skin play certain rate anything write find. Large turn might challenge serious. School low various central only sort him."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17858
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 63421
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9014
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 25808
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7978
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 124079,
+    "TotalApproved": 121462
+  },
+  "AdjusterDetails": {
+    "Name": "Miranda Norton",
+    "ContactInformation": {
+      "Phone": "778-594-2896x1976",
+      "Email": "ortizdennis@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/5f680640-7f23-438e-b768-126de5947c7a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gonzalez Group",
+    "Model": "decision",
+    "Year": 2017,
+    "VIN": "a95c5502-32a2-4f04-972a-71e3c9843ad7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathleen Perkins DDS",
+      "ContactInformation": {
+        "Phone": "268-640-3574x946",
+        "Email": "charles26@example.org"
+      },
+      "Statement": "Bring this though school left.\nOffer worker vote general television buy apply. Station feel by develop house should health. Because structure month collection soon community study."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e37b1dc5-01e1-4f2c-9705-192ec08b338d",
+    "OfficerName": "Martha Leon",
+    "ReportDetails": "Follow method writer thank note movie natural. Against let sort upon. Free former pick today.\nPay sea toward better quite. Fine everybody manage. Business gun game raise serious wind street."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 358,
+    "AnnualIncome": 107190,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7f8b437e-ef5d-4f5e-9bd7-acb04aebd430",
+  "PolicyID": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+  "EffectiveDates": {
+    "StartDate": "2025-08-18",
+    "EndDate": "2026-08-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fa402266-28f6-4a28-9984-042633fec81b",
+    "Name": "Miranda Nelson",
+    "PolicyNumber": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+    "ContactInformation": {
+      "Phone": "871.425.9645x240",
+      "Email": "iflynn@example.com",
+      "Address": "275 Lee Common\nSouth Hectorville, VI 11258"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-04",
+    "Location": "19643 Wolf Dam Apt. 399\nSouth Janetborough, AS 12402",
+    "Description": "Should also treat have test defense. Later morning Republican available list stage.\nBefore picture political half environment."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 34389
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14714
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 74925
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 90225
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3129
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 217382,
+    "TotalApproved": 163537
+  },
+  "AdjusterDetails": {
+    "Name": "Steven Montgomery",
+    "ContactInformation": {
+      "Phone": "+1-618-651-9911",
+      "Email": "castrotara@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7b6eee4a-2e93-472c-ae44-d822112eb764"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rodriguez PLC",
+    "Model": "choice",
+    "Year": 2006,
+    "VIN": "f7aa8c28-58f5-4b38-989b-66595cd409ca"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Eduardo Bentley",
+      "ContactInformation": {
+        "Phone": "377.627.1204x92820",
+        "Email": "johnpeterson@example.com"
+      },
+      "Statement": "Author then fill. Water Congress ground evening author represent message. Near citizen during. Onto training sound feeling soldier art price."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1aad6625-e3aa-401b-be07-40df78a412b7",
+    "OfficerName": "Leah Chen",
+    "ReportDetails": "Board father forget reach manager already case. Decade determine enjoy. Research risk pattern view type sort have challenge."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 636,
+    "AnnualIncome": 184918,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

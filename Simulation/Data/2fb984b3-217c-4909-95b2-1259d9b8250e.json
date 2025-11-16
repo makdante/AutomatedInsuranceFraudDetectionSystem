@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2fb984b3-217c-4909-95b2-1259d9b8250e",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-09-27",
+    "EndDate": "2026-09-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-14",
+    "Location": "USCGC Hines\nFPO AA 64920",
+    "Description": "Meeting bad act lead mother. Heavy appear figure money traditional. Hear performance position imagine policy total detail population."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1844
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18404
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4562
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1104
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 31945
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 57859,
+    "TotalApproved": 1523
+  },
+  "AdjusterDetails": {
+    "Name": "Amber Parsons",
+    "ContactInformation": {
+      "Phone": "260-454-7363",
+      "Email": "nataliegonzalez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/e21656d6-cb4a-420c-8444-edbd981a930f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lawrence Inc",
+    "Model": "bad",
+    "Year": 2016,
+    "VIN": "bae6bdad-3dd0-43cf-bc2d-3ac05614acd4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Howe",
+      "ContactInformation": {
+        "Phone": "5179250211",
+        "Email": "connie61@example.net"
+      },
+      "Statement": "Class store teacher music forward herself. Front clearly name little.\nTravel by pass red course. Too pass image blood.\nReach reach ahead customer loss film page. Authority should effort car."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8b5e6862-ed4c-41c9-b15e-3b3f8fc13c4b",
+    "OfficerName": "Aaron Richards",
+    "ReportDetails": "Benefit car generation administration campaign treat all develop. Crime name of red. Off understand we low popular stop more effect."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 840,
+    "AnnualIncome": 27120,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

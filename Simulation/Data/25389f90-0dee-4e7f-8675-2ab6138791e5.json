@@ -1,0 +1,112 @@
+{
+  "ClaimID": "25389f90-0dee-4e7f-8675-2ab6138791e5",
+  "PolicyID": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+  "EffectiveDates": {
+    "StartDate": "2025-08-16",
+    "EndDate": "2026-08-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "47c5522b-b804-4bac-b21c-da33d60d70fd",
+    "Name": "Richard Conway",
+    "PolicyNumber": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+    "ContactInformation": {
+      "Phone": "581-212-2861x494",
+      "Email": "usimpson@example.com",
+      "Address": "4097 Welch Harbors Apt. 346\nNorth Jacobside, IA 43728"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-30",
+    "Location": "3444 Wood Divide\nBriggsland, NV 20986",
+    "Description": "Ability process situation help tax. Never modern former from.\nLight low idea itself. Realize control room voice.\nBody lead policy end defense central. Popular wish kind bit him."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 28138
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9525
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 23272
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1611
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36102
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 98648,
+    "TotalApproved": 6227
+  },
+  "AdjusterDetails": {
+    "Name": "Paul Dominguez III",
+    "ContactInformation": {
+      "Phone": "256-421-8764",
+      "Email": "mileswilliam@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/8e42ef11-bf20-4bf8-859c-1678388d226f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chaney-Wilkins",
+    "Model": "foot",
+    "Year": 2000,
+    "VIN": "3041827d-4877-47b4-8f86-ba7bde653602"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kristi Mercado",
+      "ContactInformation": {
+        "Phone": "6292875439",
+        "Email": "emily44@example.com"
+      },
+      "Statement": "Nature throughout tax player point summer. Pull part wife game body than. Poor across argue brother."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9cab002b-14f1-4e82-8734-ca0406b99080",
+    "OfficerName": "Justin Burgess",
+    "ReportDetails": "Tree girl agreement field eight. Media chair wife stage moment value politics finally.\nSport wife this include lawyer his. Approach foot effort safe go nature degree miss."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 353,
+    "AnnualIncome": 64990,
+    "DebtToIncomeRatio": 0.61
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 5,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3cefdd10-726b-41c9-99a0-dcf6b6568731",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2025-03-20",
+    "EndDate": "2026-03-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-10",
+    "Location": "PSC 4699, Box 6449\nAPO AA 12741",
+    "Description": "Future help fly give town. Represent test poor financial or stay take.\nMeet young class speech though wife ready. Sell mouth dream eye which customer.\nWin near see drive save stuff various agreement."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4951898
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4676646
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4475722
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4489839
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4282074
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22876179,
+    "TotalApproved": 17109982
+  },
+  "AdjusterDetails": {
+    "Name": "Kenneth Carr",
+    "ContactInformation": {
+      "Phone": "2872595560",
+      "Email": "richardschristopher@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/16a7a4d0-5917-4e1a-a558-23f7d6e8648f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Allen PLC",
+    "Model": "fight",
+    "Year": 2004,
+    "VIN": "3b6f7971-3401-4ffc-a7da-4b8b1761bd05"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sherry Orozco",
+      "ContactInformation": {
+        "Phone": "645.584.2484x446",
+        "Email": "pjimenez@example.org"
+      },
+      "Statement": "Treat mouth next worry writer level enjoy. Number development remember TV western. Believe work operation born. North environmental occur church property."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "719d5bc0-e7ab-4969-8ae1-9de38689a1cd",
+    "OfficerName": "Melissa Baker",
+    "ReportDetails": "Girl keep network them movement wrong. Our include mother before want argue. Friend theory assume material stage.\nThree out per accept everyone buy. Office bed three old us order program."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 491,
+    "AnnualIncome": 186443,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

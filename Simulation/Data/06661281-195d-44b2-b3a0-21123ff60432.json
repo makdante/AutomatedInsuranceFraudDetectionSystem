@@ -1,0 +1,112 @@
+{
+  "ClaimID": "06661281-195d-44b2-b3a0-21123ff60432",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2025-08-18",
+    "EndDate": "2026-08-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-28",
+    "Location": "01388 Mark Hills Suite 240\nShannonhaven, NJ 80220",
+    "Description": "Kitchen compare give right eat which continue. Knowledge somebody single practice blue land report. Structure buy improve vote."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15493
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 40674
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9539
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 33278
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7325
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 106309,
+    "TotalApproved": 20578
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Padilla",
+    "ContactInformation": {
+      "Phone": "3917012292",
+      "Email": "juan20@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/dd23e7e1-4615-43bc-84e1-7cba856864fb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson-Wilson",
+    "Model": "enter",
+    "Year": 2015,
+    "VIN": "296b0fb2-8ab8-404b-964f-218a625c2920"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Logan",
+      "ContactInformation": {
+        "Phone": "601-549-4177x338",
+        "Email": "khanelizabeth@example.net"
+      },
+      "Statement": "Right high set. Deal this already grow bar after.\nYes visit little high security it. Begin dinner identify stay."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0a28ef6b-f153-4575-a8e9-a7a669fcf6dd",
+    "OfficerName": "Robert Moss",
+    "ReportDetails": "Information hand like. Also take day turn yes. Push new economic. Join whose something radio."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 498,
+    "AnnualIncome": 153454,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

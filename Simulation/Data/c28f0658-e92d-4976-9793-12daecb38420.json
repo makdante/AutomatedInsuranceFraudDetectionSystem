@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c28f0658-e92d-4976-9793-12daecb38420",
+  "PolicyID": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+  "EffectiveDates": {
+    "StartDate": "2025-05-02",
+    "EndDate": "2026-05-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eb400d1e-8ed3-4fd5-8a4b-a02804e6ce83",
+    "Name": "Dylan Lee",
+    "PolicyNumber": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+    "ContactInformation": {
+      "Phone": "976.394.8548x28663",
+      "Email": "blane@example.com",
+      "Address": "044 Briggs Way\nLake Allisonchester, FM 38872"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-07",
+    "Location": "40331 Smith Hill\nPort Christopher, DC 88112",
+    "Description": "Story along look yeah. Friend doctor production country nice hope.\nPlan attorney visit how.\nControl two door agency. By follow either station. Not whole day recent exist address."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7590
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24882
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13182
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4901
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9527
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 60082,
+    "TotalApproved": 26284
+  },
+  "AdjusterDetails": {
+    "Name": "Dana Michael",
+    "ContactInformation": {
+      "Phone": "643-440-9497",
+      "Email": "gabriellewarner@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c9b7791b-d1d7-48b3-950d-6f19361285ab"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bates Group",
+    "Model": "likely",
+    "Year": 2011,
+    "VIN": "0f9ba951-c417-4332-8596-8cf0c7b126c4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Benjamin Blair",
+      "ContactInformation": {
+        "Phone": "896-346-0280x2079",
+        "Email": "bryantbriana@example.com"
+      },
+      "Statement": "Fire option much conference entire. Federal two join day summer democratic.\nManager each suggest term health."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9e2e877c-b7af-4f5a-a868-3b0a4ad136a7",
+    "OfficerName": "Shirley Sullivan",
+    "ReportDetails": "Both TV six rest become sign because. There international customer think old without. Account series bank fear. Remember approach let by use story."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 621,
+    "AnnualIncome": 96035,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 8,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

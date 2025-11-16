@@ -1,0 +1,112 @@
+{
+  "ClaimID": "feb538c0-5f4d-4c45-8b34-86e0c30d25b8",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-10-23",
+    "EndDate": "2026-10-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-10-17",
+    "Location": "32803 Holt Lights\nBarnesborough, PW 67404",
+    "Description": "Energy better already meet rich. As three marriage bill pressure rule. Later common half as actually send her.\nTrade phone he. Matter and stop field."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4616946
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4260555
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4034590
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4862166
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4500071
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22274328,
+    "TotalApproved": 4239907
+  },
+  "AdjusterDetails": {
+    "Name": "Timothy Franklin",
+    "ContactInformation": {
+      "Phone": "(774)590-1364",
+      "Email": "lopezmelissa@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/0f920d99-e736-4a9d-9da4-8fc1a5441f78"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-10-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sellers LLC",
+    "Model": "day",
+    "Year": 2001,
+    "VIN": "f42a9d84-2b5b-42d2-b817-e1c13a1cb9ce"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jeffrey Stephenson",
+      "ContactInformation": {
+        "Phone": "001-858-972-3202x506",
+        "Email": "arellanostephanie@example.net"
+      },
+      "Statement": "Discussion management pattern main.\nClose draw kind simply city dark design growth. One part crime sister five."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "57ee9cc3-47d5-4263-b963-d36c095c940c",
+    "OfficerName": "Pamela Luna",
+    "ReportDetails": "Data company effect detail agent newspaper authority. Late election budget nothing central. Media vote perform official."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 402,
+    "AnnualIncome": 148974,
+    "DebtToIncomeRatio": 0.65
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

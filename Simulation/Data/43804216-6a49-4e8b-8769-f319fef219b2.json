@@ -1,0 +1,112 @@
+{
+  "ClaimID": "43804216-6a49-4e8b-8769-f319fef219b2",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-06-09",
+    "EndDate": "2026-06-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-02",
+    "Location": "5733 Alyssa Wall Apt. 389\nBrianland, DC 73562",
+    "Description": "Affect especially voice. Public suddenly score conference.\nTough popular list financial also if."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1359
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 158275
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 72226
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9191
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1551
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 242602,
+    "TotalApproved": 13121
+  },
+  "AdjusterDetails": {
+    "Name": "Scott Buchanan",
+    "ContactInformation": {
+      "Phone": "001-733-328-3134x3487",
+      "Email": "mhale@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ff92d614-6e19-448d-81e7-af8df01ba12b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bailey and Sons",
+    "Model": "after",
+    "Year": 2009,
+    "VIN": "7bbfee7e-514c-42f3-92d6-81c07745a70d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Mullins",
+      "ContactInformation": {
+        "Phone": "001-929-419-6132",
+        "Email": "shieldstanya@example.com"
+      },
+      "Statement": "Event win happy lead similar responsibility. Prevent try final true military kind. Attack action then coach civil true protect.\nBorn course minute religious everybody. Along part get and."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1da673be-3779-4533-a001-e97a23cc3e25",
+    "OfficerName": "Anita Howard",
+    "ReportDetails": "Sport hotel everything goal. War last six positive. Majority suffer sound occur analysis change.\nShould for remain similar soon sort concern election. Surface federal sell hold me church."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 727,
+    "AnnualIncome": 57569,
+    "DebtToIncomeRatio": 0.72
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 2,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

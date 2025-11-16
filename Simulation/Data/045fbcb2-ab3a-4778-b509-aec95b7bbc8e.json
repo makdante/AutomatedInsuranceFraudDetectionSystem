@@ -1,0 +1,112 @@
+{
+  "ClaimID": "045fbcb2-ab3a-4778-b509-aec95b7bbc8e",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-09-03",
+    "EndDate": "2026-09-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-06",
+    "Location": "PSC 8354, Box 7008\nAPO AE 94747",
+    "Description": "Customer stage daughter design present.\nHusband candidate kitchen part set past service. Scene easy personal. Stage left election argue."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 29072
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17707
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 87436
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 80316
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 39414
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 253945,
+    "TotalApproved": 9932
+  },
+  "AdjusterDetails": {
+    "Name": "Lawrence Clay",
+    "ContactInformation": {
+      "Phone": "+1-244-672-0402",
+      "Email": "ashleyshannon@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1a13d15a-1eee-476c-b51d-d8fba0aa50d1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Robertson-Scott",
+    "Model": "fight",
+    "Year": 2017,
+    "VIN": "5417bc20-5b1f-4488-8665-394d1b31f791"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Shaffer",
+      "ContactInformation": {
+        "Phone": "(398)457-1910",
+        "Email": "twalker@example.net"
+      },
+      "Statement": "Behind how pretty reduce. Ready federal store too board Congress trouble.\nDirector industry wish spend return. One nature value you. Build bill ask expert."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7cb56243-2745-483a-97a8-e1c4eaa6bbf0",
+    "OfficerName": "Elizabeth Howard",
+    "ReportDetails": "My under pretty boy still.\nSuccessful product recent public large leg experience behavior. Moment two leave show smile his pressure."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 771,
+    "AnnualIncome": 121330,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 10,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

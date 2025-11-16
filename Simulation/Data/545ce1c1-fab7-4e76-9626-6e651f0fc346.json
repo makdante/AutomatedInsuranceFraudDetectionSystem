@@ -1,0 +1,112 @@
+{
+  "ClaimID": "545ce1c1-fab7-4e76-9626-6e651f0fc346",
+  "PolicyID": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+  "EffectiveDates": {
+    "StartDate": "2024-11-26",
+    "EndDate": "2025-11-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d1d74627-ebfa-4be3-b1da-26ed11561b0d",
+    "Name": "Joseph Salazar",
+    "PolicyNumber": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+    "ContactInformation": {
+      "Phone": "001-886-312-3844x48198",
+      "Email": "ugray@example.net",
+      "Address": "293 Jessica Plain\nLake Jillborough, IA 96694"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2024-12-12",
+    "Location": "00929 Garcia Mall Apt. 205\nSouth John, FL 60050",
+    "Description": "Her information reveal however act the million.\nBehind young election hospital. Place participant standard attorney. Different image cost away likely."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4161
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 99833
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 107484
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 190263
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 114486
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 516227,
+    "TotalApproved": 320717
+  },
+  "AdjusterDetails": {
+    "Name": "Thomas Russo",
+    "ContactInformation": {
+      "Phone": "580-775-1647x74074",
+      "Email": "john39@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/7b0a189b-78cc-47b1-a37c-1d1db2661f4d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2024-12-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2024-12-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2024-12-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Christian-Harris",
+    "Model": "partner",
+    "Year": 2016,
+    "VIN": "93eccb18-33ae-49f6-a929-3ed99526f679"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robin Frey",
+      "ContactInformation": {
+        "Phone": "+1-298-735-0129x6321",
+        "Email": "collinschristopher@example.com"
+      },
+      "Statement": "Issue hand ahead class recently. Away Mr do west direction miss. Cover now animal. Learn court end word city discover."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3f5c403f-dbd3-441c-a91a-1794acca0646",
+    "OfficerName": "Rebecca Russell",
+    "ReportDetails": "Case simply go step suggest. Morning let cold push short. Foot fight international quickly arm soon under."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 612,
+    "AnnualIncome": 106780,
+    "DebtToIncomeRatio": 0.63
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 1,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

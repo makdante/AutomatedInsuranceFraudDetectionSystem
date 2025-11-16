@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a6a90c2e-feaf-4473-b326-03810728f812",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-09-10",
+    "EndDate": "2026-09-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-18",
+    "Location": "2508 Pierce Ports\nLake Alexanderton, VI 46425",
+    "Description": "Manager ball would tell.\nPer listen fear sometimes government woman despite total.\nTv out crime if natural.\nFor artist wife interview. Green similar send morning plant his."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 69470
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16650
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13001
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 26082
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3773
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 128976,
+    "TotalApproved": 32494
+  },
+  "AdjusterDetails": {
+    "Name": "Sandra Gomez",
+    "ContactInformation": {
+      "Phone": "(639)869-8657x145",
+      "Email": "christopheranderson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b9a8c1a3-b007-45c3-a98d-602a17b7e93b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Reyes-Strong",
+    "Model": "only",
+    "Year": 2006,
+    "VIN": "4c862537-ad1f-4cd5-81cd-26e8f05837ee"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Charles Patel",
+      "ContactInformation": {
+        "Phone": "807.949.6528",
+        "Email": "samantha78@example.org"
+      },
+      "Statement": "Attack mouth measure right test. Realize in successful else effort score.\nRate find suffer yet number today develop. Position something education. For help happen carry certainly."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1b8bb15e-9bee-466b-9cc1-961d4dadd3b4",
+    "OfficerName": "Jessica Williams",
+    "ReportDetails": "Record ok defense perform suddenly well. Almost defense national suffer.\nScience religious director coach.\nBelieve know local anyone board very Democrat. Trouble not smile. Safe partner than discuss."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 324,
+    "AnnualIncome": 103034,
+    "DebtToIncomeRatio": 0.55
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

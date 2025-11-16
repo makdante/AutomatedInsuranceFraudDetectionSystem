@@ -1,0 +1,112 @@
+{
+  "ClaimID": "340f1cd6-d13f-4ab0-ae45-8c37567df3d0",
+  "PolicyID": "500b8392-3ef4-475f-a0d6-15c142970199",
+  "EffectiveDates": {
+    "StartDate": "2025-03-06",
+    "EndDate": "2026-03-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0e2c98cc-0459-4a1f-b201-c0c324374a25",
+    "Name": "Brittany Watson",
+    "PolicyNumber": "500b8392-3ef4-475f-a0d6-15c142970199",
+    "ContactInformation": {
+      "Phone": "001-690-266-5439",
+      "Email": "jasonjames@example.org",
+      "Address": "66736 Antonio Valley\nWest Kristy, FL 30721"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-16",
+    "Location": "9585 Sara Isle Apt. 635\nWest James, MD 37452",
+    "Description": "Record there inside see.\nPrevent hold culture born rise. Moment send instead woman.\nType create person boy seek. Able join since laugh possible crime instead. Today have discover begin."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 192544
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 109427
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9938
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4631
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39432
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 355972,
+    "TotalApproved": 30107
+  },
+  "AdjusterDetails": {
+    "Name": "Scott Lopez",
+    "ContactInformation": {
+      "Phone": "5535846429",
+      "Email": "torresjessica@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/400d7623-e629-471e-b788-469ce7948521"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gordon and Sons",
+    "Model": "away",
+    "Year": 2018,
+    "VIN": "6d8ded82-9356-4734-b7e8-bb6fb9720bcc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Claudia Miller",
+      "ContactInformation": {
+        "Phone": "223.388.0001x838",
+        "Email": "christinalin@example.net"
+      },
+      "Statement": "Perform low law. Pass adult the image later leave safe. Bar keep able always this.\nYeah oil someone throughout never throw. Space important baby watch."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5c7de632-9f0c-4086-baf8-f33d3043edb0",
+    "OfficerName": "Sherry Fleming",
+    "ReportDetails": "Little prepare benefit record. Few move this much whom."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 559,
+    "AnnualIncome": 107649,
+    "DebtToIncomeRatio": 0.92
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 4,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

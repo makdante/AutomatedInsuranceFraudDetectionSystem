@@ -1,0 +1,112 @@
+{
+  "ClaimID": "142fa122-c692-450e-877b-ae71fa28f8d0",
+  "PolicyID": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+  "EffectiveDates": {
+    "StartDate": "2025-02-12",
+    "EndDate": "2026-02-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "06e8f248-48e5-4910-a342-a071a62ec409",
+    "Name": "Brenda Fitzgerald",
+    "PolicyNumber": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+    "ContactInformation": {
+      "Phone": "+1-542-640-7974",
+      "Email": "khamilton@example.org",
+      "Address": "16393 Melissa Shoal Apt. 662\nHernandezview, NC 46498"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-21",
+    "Location": "86406 Michael Inlet Suite 205\nNorth April, NJ 40491",
+    "Description": "Mean field give red catch hold heavy. Hand spend old music present customer team account. Ten interview produce process. Organization what how their probably word ask trip."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 121352
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 118916
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 80350
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6633
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7596
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 334847,
+    "TotalApproved": 133874
+  },
+  "AdjusterDetails": {
+    "Name": "Regina James",
+    "ContactInformation": {
+      "Phone": "(697)400-8303x43903",
+      "Email": "barbaramoreno@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ffde91b0-cbc0-417b-8667-1e1e822a784a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-31T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Webb LLC",
+    "Model": "direction",
+    "Year": 2011,
+    "VIN": "76d3c262-9619-4803-ac0e-ad810fb94f1a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Valerie Robinson",
+      "ContactInformation": {
+        "Phone": "001-616-303-9615",
+        "Email": "shahadam@example.net"
+      },
+      "Statement": "Method spring space beautiful plan sea firm condition. Police arm its realize friend manager billion.\nPublic reality cause water bring hand. Address kind artist we look response individual."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1dd1f777-764a-4e9e-bbc4-ed6aae8080ce",
+    "OfficerName": "Debbie Jones",
+    "ReportDetails": "Top stock civil soldier consider professional baby. Recently task explain.\nAny college agreement generation business realize. Site outside what."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 424,
+    "AnnualIncome": 30188,
+    "DebtToIncomeRatio": 0.99
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

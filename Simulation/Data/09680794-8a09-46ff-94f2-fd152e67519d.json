@@ -1,0 +1,112 @@
+{
+  "ClaimID": "09680794-8a09-46ff-94f2-fd152e67519d",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-10-16",
+    "EndDate": "2026-10-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-14",
+    "Location": "1355 Smith Square\nPort Deborahland, KY 33800",
+    "Description": "Whatever through long win standard though level. Watch capital hundred hair a accept it. Training leave red land.\nCenter fact drop very finish fact."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2524
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6198
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6968
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6038
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 23076
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 44804,
+    "TotalApproved": 3590
+  },
+  "AdjusterDetails": {
+    "Name": "Melvin Henderson",
+    "ContactInformation": {
+      "Phone": "268-569-9387",
+      "Email": "angelicapaul@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d6ce65e8-342b-4500-bfae-27a2b7d5feeb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Santiago LLC",
+    "Model": "collection",
+    "Year": 2022,
+    "VIN": "cd800748-44cc-450e-aa85-c9581b4fa232"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Ware",
+      "ContactInformation": {
+        "Phone": "409-513-7502",
+        "Email": "spencerjillian@example.org"
+      },
+      "Statement": "Newspaper new way ability much interview best. Quality spring station people man quickly control relationship.\nCase food side knowledge cultural strong."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0354a476-3067-4db6-a582-5d779e31de5f",
+    "OfficerName": "Justin Davis",
+    "ReportDetails": "Major everyone behind market expect half. Eight picture remain young where paper this.\nEmployee return others professional. Magazine work husband show within senior way. Benefit assume hit."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 334,
+    "AnnualIncome": 94941,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

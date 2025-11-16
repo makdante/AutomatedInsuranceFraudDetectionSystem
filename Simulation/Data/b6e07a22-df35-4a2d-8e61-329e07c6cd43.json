@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b6e07a22-df35-4a2d-8e61-329e07c6cd43",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-02-03",
+    "EndDate": "2026-02-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-22",
+    "Location": "Unit 3719 Box 0307\nDPO AE 89691",
+    "Description": "Defense sometimes city policy article suggest.\nChoose table machine. Quickly parent test watch nice consumer show. Sell subject mouth member."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4561322
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4076155
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4956544
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4022523
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4189333
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 21805877,
+    "TotalApproved": 11978458
+  },
+  "AdjusterDetails": {
+    "Name": "Sandra Thornton",
+    "ContactInformation": {
+      "Phone": "+1-494-938-4510x5314",
+      "Email": "michaelgarcia@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ac62f944-24a7-4fe4-b3c8-7c3055fd6c94"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-22T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-27T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-02T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lyons PLC",
+    "Model": "many",
+    "Year": 2010,
+    "VIN": "17763867-32c4-4465-ba79-7709fc50e241"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Logan Wallace",
+      "ContactInformation": {
+        "Phone": "691.701.1964",
+        "Email": "flopez@example.net"
+      },
+      "Statement": "Result message stand drop stock down find. Especially computer next change serious me. Treatment since indeed Republican happy government.\nBook keep become believe room mind life PM."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "93b7db19-777e-4300-9f93-72cde62595bd",
+    "OfficerName": "Alexander Garcia",
+    "ReportDetails": "Team role detail third Congress physical suddenly into. Argue partner control assume article protect wonder six. Thing of ground white partner ball whatever."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 362,
+    "AnnualIncome": 179038,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

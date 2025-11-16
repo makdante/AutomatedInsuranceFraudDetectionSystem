@@ -1,0 +1,112 @@
+{
+  "ClaimID": "098bd2c6-a631-4819-80b7-15be92150033",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2024-11-15",
+    "EndDate": "2025-11-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-26",
+    "Location": "224 Jessica Corner\nPatrickfurt, IL 99008",
+    "Description": "Fine black low phone. Cell produce from those commercial true. Them practice prepare college.\nReduce college six year available under."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9984
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12098
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 92832
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 162161
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 46816
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 323891,
+    "TotalApproved": 92910
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Richardson",
+    "ContactInformation": {
+      "Phone": "483-485-3491x48352",
+      "Email": "williamslouis@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/eca60d21-9d6e-4062-a5ec-25adcec0465f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-31T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Castro-Erickson",
+    "Model": "understand",
+    "Year": 2007,
+    "VIN": "874b654a-afb3-40b8-a8b6-febde65e2edd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Devin Golden",
+      "ContactInformation": {
+        "Phone": "281-942-6887",
+        "Email": "francismathew@example.com"
+      },
+      "Statement": "Side the without meeting use leg news. Into sell main style arm wonder certainly.\nRule ball stand agree catch often. Practice manage hundred charge performance. Of run early Democrat."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9ec022c7-0f1c-4d86-871b-25dcddfde611",
+    "OfficerName": "Jeremy Yoder",
+    "ReportDetails": "Past there go glass. Hit Democrat woman professional fear at successful.\nAccording nor time difference security position room. Draw hundred another president walk serious new phone."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 543,
+    "AnnualIncome": 66918,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 0,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

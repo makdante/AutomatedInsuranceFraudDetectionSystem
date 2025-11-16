@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1a7780d6-5a17-4535-b455-fc482ed1eea4",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-01-02",
+    "EndDate": "2026-01-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-30",
+    "Location": "51747 Allen Creek\nSloanland, IN 74238",
+    "Description": "Small reality interesting. National foot simply worry. Arm media building eye next word expect beyond. Offer surface sign group begin rich.\nMarket head general detail understand."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 23157
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18796
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5075
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9253
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 118877
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 175158,
+    "TotalApproved": 7826
+  },
+  "AdjusterDetails": {
+    "Name": "Richard Jordan",
+    "ContactInformation": {
+      "Phone": "907-654-0116",
+      "Email": "ithomas@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/c7675931-c0e7-450e-aac3-95d633c26f6f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-30T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-04T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-09T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Porter-Duke",
+    "Model": "item",
+    "Year": 2013,
+    "VIN": "173b231f-6a2d-4737-80b3-372033e9c90b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Donald Holt",
+      "ContactInformation": {
+        "Phone": "859-484-9516x609",
+        "Email": "robertsanders@example.net"
+      },
+      "Statement": "Tell trouble country seat Mr. That deep understand foot. Situation series he she consumer camera knowledge.\nSing write challenge similar. Vote coach well institution simple international."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a7e12945-348c-43da-b6a6-c29ea6fe666a",
+    "OfficerName": "Cynthia Smith",
+    "ReportDetails": "Morning result imagine recently road next rich. Space use time respond project."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 419,
+    "AnnualIncome": 186316,
+    "DebtToIncomeRatio": 0.53
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 1,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

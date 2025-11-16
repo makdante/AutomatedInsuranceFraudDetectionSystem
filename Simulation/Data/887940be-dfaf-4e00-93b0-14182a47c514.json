@@ -1,0 +1,112 @@
+{
+  "ClaimID": "887940be-dfaf-4e00-93b0-14182a47c514",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2024-12-05",
+    "EndDate": "2025-12-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-01",
+    "Location": "4633 Anthony Street Apt. 719\nWilliamtown, FM 92170",
+    "Description": "While career fall everybody choice community. Result full shake nor become.\nDetail behind knowledge cell inside certain."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17759
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8769
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 60865
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4011
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3130
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 94534,
+    "TotalApproved": 41535
+  },
+  "AdjusterDetails": {
+    "Name": "Erika Sims",
+    "ContactInformation": {
+      "Phone": "704-511-5412x72303",
+      "Email": "barbara00@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/36765694-933d-4688-a49b-64a63790d931"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morton LLC",
+    "Model": "those",
+    "Year": 2021,
+    "VIN": "4d9da4a7-2dc5-4ee4-9f1f-137f430456e5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Evans",
+      "ContactInformation": {
+        "Phone": "448-632-6604x0760",
+        "Email": "fgarrett@example.net"
+      },
+      "Statement": "Leader film can. Condition woman drug everybody cost so. Manager your question member claim store.\nLose summer resource. Him policy leave rule discover."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cbb5d085-558e-4d61-a0f8-676562412c63",
+    "OfficerName": "Juan Parks",
+    "ReportDetails": "Military tree five now inside play tonight. Medical energy growth thing medical oil adult as."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 746,
+    "AnnualIncome": 128175,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 1,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

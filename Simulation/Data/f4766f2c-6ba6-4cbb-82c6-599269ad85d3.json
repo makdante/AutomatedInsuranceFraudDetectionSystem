@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f4766f2c-6ba6-4cbb-82c6-599269ad85d3",
+  "PolicyID": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+  "EffectiveDates": {
+    "StartDate": "2025-07-08",
+    "EndDate": "2026-07-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba82c3bd-9d46-4b0e-b555-5005238e858f",
+    "Name": "Kimberly Perez",
+    "PolicyNumber": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+    "ContactInformation": {
+      "Phone": "001-609-229-9683x29012",
+      "Email": "nicholsbenjamin@example.com",
+      "Address": "81438 Berry Squares Apt. 214\nSarahtown, CA 13161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-23",
+    "Location": "71276 Charlotte Track Apt. 511\nLake Bailey, VT 40519",
+    "Description": "Mention play provide now bank. However trade heavy.\nLeft yeah science physical say. Skin and deep send. Lot rule window himself. Current rest offer great."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1619
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 21571
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14592
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 44185
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7031
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 88998,
+    "TotalApproved": 47255
+  },
+  "AdjusterDetails": {
+    "Name": "Jack Ortega",
+    "ContactInformation": {
+      "Phone": "677-296-2110x59335",
+      "Email": "gloria16@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/376f7686-2db4-497b-b4b2-e24cfda2041d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garcia, Cordova and Castro",
+    "Model": "she",
+    "Year": 2002,
+    "VIN": "1ad1e289-92ad-4ddb-ab91-e6b316c07a37"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "April Ross",
+      "ContactInformation": {
+        "Phone": "539-215-7843x93915",
+        "Email": "virginiadavis@example.com"
+      },
+      "Statement": "Maybe area argue theory tax. However community data finally science indicate though sound. Affect mention while raise government federal concern. Son opportunity but represent same despite."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ce0ab611-641d-46ee-8278-8406b7eede06",
+    "OfficerName": "Mr. Jeffrey Rodriguez MD",
+    "ReportDetails": "Capital method actually structure author. Fine hour wrong door page themselves. Strategy expert dog best arm."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 833,
+    "AnnualIncome": 166541,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c7cfcea1-69d9-44d6-83b6-a3cd6c8bd453",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2025-04-16",
+    "EndDate": "2026-04-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-15",
+    "Location": "43664 James Roads Suite 643\nTammyview, CA 33360",
+    "Description": "Picture watch build. Necessary follow push design blue. Lot must education available make.\nStill author stock paper room ask Congress on. Against culture card look military start."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5659
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 67053
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5272
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9261
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 45591
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 132836,
+    "TotalApproved": 98011
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Lewis",
+    "ContactInformation": {
+      "Phone": "587.370.2760",
+      "Email": "michelle60@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/150e2b23-9bcb-44df-96fb-c88a920d1db7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Shepherd LLC",
+    "Model": "professor",
+    "Year": 2009,
+    "VIN": "d15aa2a1-9170-4048-aa65-165345d659a7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Hall",
+      "ContactInformation": {
+        "Phone": "001-934-274-0234x3857",
+        "Email": "marylambert@example.org"
+      },
+      "Statement": "Family any add much friend under instead. Into carry sometimes perform include physical. Three hundred not no once most."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b1f86d04-91dd-4837-a605-04d2446eee53",
+    "OfficerName": "Jay Guerra",
+    "ReportDetails": "Run who until end part support special. Plant one build lay nature hot others. Step cold check thank then."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 507,
+    "AnnualIncome": 58333,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

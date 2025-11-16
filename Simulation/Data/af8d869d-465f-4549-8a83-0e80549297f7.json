@@ -1,0 +1,112 @@
+{
+  "ClaimID": "af8d869d-465f-4549-8a83-0e80549297f7",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-03-07",
+    "EndDate": "2026-03-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-01",
+    "Location": "9053 Brandon Wall Suite 491\nCurryborough, IN 68106",
+    "Description": "Finally whatever determine bed base partner with. Attack cell one rich determine.\nAny rise scene city plan. Surface subject message executive social. Play soldier blood way."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4409321
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4653099
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4378695
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4111926
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4369427
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21922468,
+    "TotalApproved": 14762948
+  },
+  "AdjusterDetails": {
+    "Name": "Beth Cox",
+    "ContactInformation": {
+      "Phone": "001-346-875-9929x36802",
+      "Email": "gjordan@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a48d4198-9bda-40cc-9dad-21474b916ae4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "George, Castro and Anderson",
+    "Model": "ok",
+    "Year": 2005,
+    "VIN": "1e92a8c9-fa93-4e37-bd12-b0ef9fe631a1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Regina Potter",
+      "ContactInformation": {
+        "Phone": "779.325.4031x541",
+        "Email": "melanie50@example.net"
+      },
+      "Statement": "Worry we design because candidate table. Age rule magazine avoid than maybe including church.\nWorker PM move. Reflect common cup."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "51c989f8-6378-419e-92d7-254b20b41827",
+    "OfficerName": "Riley King",
+    "ReportDetails": "Dog human everything good institution employee. Wide star everyone worry.\nHimself like many score arm us hospital majority. Send key night rest recent. North child few debate reflect."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 319,
+    "AnnualIncome": 114727,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

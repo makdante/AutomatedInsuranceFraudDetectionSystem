@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4b0051af-1fc7-41eb-8106-1af511155806",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2024-11-16",
+    "EndDate": "2025-11-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-23",
+    "Location": "7685 Michael Manors\nNorth John, SD 10039",
+    "Description": "Ask dinner significant financial win available history condition. Example learn size professor certainly simply yourself. Design follow career player."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4749181
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4887081
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4580419
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4102102
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4858550
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 23177333,
+    "TotalApproved": 19426394
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Smith",
+    "ContactInformation": {
+      "Phone": "(592)227-3422x701",
+      "Email": "eduncan@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/45258534-76eb-4e4f-85ed-88ed5e0d5b9d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-23T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-28T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ball Group",
+    "Model": "whose",
+    "Year": 2019,
+    "VIN": "e61fa16e-3791-4f0e-b6c1-85a63110450d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Zhang",
+      "ContactInformation": {
+        "Phone": "+1-450-768-8075x4353",
+        "Email": "lmoreno@example.org"
+      },
+      "Statement": "Site hand travel. Sometimes must fall month late agency of hear.\nCase leave hundred our. Republican interesting season happen surface."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f3c0912d-f4ba-4287-bdc7-f5a5a44068d2",
+    "OfficerName": "Robert Harrington",
+    "ReportDetails": "Be but us happen customer nice. Industry girl see yard.\nWhite number of certainly somebody find. Field add bank something pressure reality watch. Popular discussion what our."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 304,
+    "AnnualIncome": 84035,
+    "DebtToIncomeRatio": 0.65
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

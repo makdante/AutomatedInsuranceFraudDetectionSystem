@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2005717c-a61d-4315-afb4-f280d7d845c5",
+  "PolicyID": "6c36cc73-e207-48b9-a284-c51cf5663165",
+  "EffectiveDates": {
+    "StartDate": "2025-03-05",
+    "EndDate": "2026-03-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "193b28b0-1277-4ecb-b44b-678f0a8a54ac",
+    "Name": "Aaron Wilson",
+    "PolicyNumber": "6c36cc73-e207-48b9-a284-c51cf5663165",
+    "ContactInformation": {
+      "Phone": "4298804696",
+      "Email": "uford@example.org",
+      "Address": "70180 Jessica Ridges Suite 614\nEast Mindy, IL 04431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-31",
+    "Location": "Unit 5129 Box 5741\nDPO AP 80551",
+    "Description": "Personal half week movement fill bar pass. Base card appear mention black however girl. Himself cause child foreign go interesting up true. Heart present type certainly reason most as program."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 133906
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 70011
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7794
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 50766
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1390
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 263867,
+    "TotalApproved": 187351
+  },
+  "AdjusterDetails": {
+    "Name": "Cynthia Watson",
+    "ContactInformation": {
+      "Phone": "6434979342",
+      "Email": "amyrios@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/f3bd269e-c6b6-4aef-8292-88244385b3b5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Munoz-Walton",
+    "Model": "because",
+    "Year": 2008,
+    "VIN": "0f04293e-2cc6-48cd-a081-6fdf0ea09f02"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joel Martinez",
+      "ContactInformation": {
+        "Phone": "(479)349-5643x145",
+        "Email": "lewisjulie@example.org"
+      },
+      "Statement": "Trip month race conference while. Day car life they young."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "507b4704-0d6d-4f0f-b2ad-0003a6c1ef18",
+    "OfficerName": "Lori Brown",
+    "ReportDetails": "Quickly action compare near shoulder. Matter ten simply city serious everything really."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 686,
+    "AnnualIncome": 63669,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 1,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

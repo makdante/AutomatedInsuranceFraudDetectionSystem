@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e2fe60b8-05ff-4651-8544-10af8516dd19",
+  "PolicyID": "4d006887-ffd3-4707-8940-80e0970ad64f",
+  "EffectiveDates": {
+    "StartDate": "2025-01-18",
+    "EndDate": "2026-01-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "6191ccd1-d3f4-425d-a9cb-5820861f7d97",
+    "Name": "Andrew Wilson",
+    "PolicyNumber": "4d006887-ffd3-4707-8940-80e0970ad64f",
+    "ContactInformation": {
+      "Phone": "001-296-495-4711x47868",
+      "Email": "twilliams@example.org",
+      "Address": "9444 Jonathan Village\nSouth Taratown, AR 12477"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-07",
+    "Location": "70784 Cunningham Canyon Apt. 573\nWilliamstown, GU 35418",
+    "Description": "Item story matter after. Deal manage increase. Majority beat month foot place board. Me spend share government pick quite that."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10286
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7677
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1846
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13835
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11034
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 44678,
+    "TotalApproved": 13460
+  },
+  "AdjusterDetails": {
+    "Name": "Alexander Friedman",
+    "ContactInformation": {
+      "Phone": "001-867-878-5399",
+      "Email": "ehunt@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/be03a02f-8344-43c4-85ef-a8aebad02b12"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gonzalez, Powell and Stevens",
+    "Model": "let",
+    "Year": 2020,
+    "VIN": "b57912b3-f049-432d-8805-b9d7acbe7d9f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amber Burns",
+      "ContactInformation": {
+        "Phone": "372-212-1471",
+        "Email": "carmen94@example.com"
+      },
+      "Statement": "Natural read but party enough each. Yard exist writer statement reach bag describe girl."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bd62200d-68a4-43c4-b53d-71c4fa99c587",
+    "OfficerName": "Dalton Leach",
+    "ReportDetails": "Set size interesting follow recognize soon part. Seven movie tend class later movie final song. Who TV moment board.\nGame ground contain shoulder.\nQuickly goal me usually. Letter worry whatever."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 486,
+    "AnnualIncome": 114043,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

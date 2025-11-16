@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5ffafd28-9014-4bd4-a928-dc3be0f683e6",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2024-12-02",
+    "EndDate": "2025-12-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-19",
+    "Location": "213 Quinn Ways Apt. 527\nPerezhaven, VT 65902",
+    "Description": "Century loss source black book. Career kitchen cut culture eight. Us television cultural president majority range.\nWithin put traditional detail long."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2753
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 92122
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 73935
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4184
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 46018
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 219012,
+    "TotalApproved": 83154
+  },
+  "AdjusterDetails": {
+    "Name": "Matthew Snyder",
+    "ContactInformation": {
+      "Phone": "369-658-3160x5481",
+      "Email": "bennettjeffrey@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/551e5e6c-a557-4fe3-a2f4-6b0a9f57257f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Matthews, Goodwin and Smith",
+    "Model": "offer",
+    "Year": 2000,
+    "VIN": "1e459dba-87c1-4757-a60b-53848140b960"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Thomas Lopez",
+      "ContactInformation": {
+        "Phone": "(336)838-5268",
+        "Email": "samantha55@example.net"
+      },
+      "Statement": "Often democratic spring need throughout future natural. Language score daughter create. Great staff choice source act to challenge.\nLeg that choice alone. Perform weight seat speech decide."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "31eaa167-10dd-4fad-b0c1-1602d2f1fa8b",
+    "OfficerName": "Anthony Lozano",
+    "ReportDetails": "Race example billion create even game eye. Quite finally feeling window quite reality might."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 408,
+    "AnnualIncome": 82614,
+    "DebtToIncomeRatio": 0.69
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 4,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

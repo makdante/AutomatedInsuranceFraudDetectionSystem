@@ -1,0 +1,112 @@
+{
+  "ClaimID": "89b0b7db-fc50-4ded-a77a-4a28c2c3dfb1",
+  "PolicyID": "c3c97e20-9916-4009-b655-6b300f90d80a",
+  "EffectiveDates": {
+    "StartDate": "2025-02-24",
+    "EndDate": "2026-02-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "053ca69a-366f-4375-961c-7efc9aef3ba5",
+    "Name": "Dalton Davis",
+    "PolicyNumber": "c3c97e20-9916-4009-b655-6b300f90d80a",
+    "ContactInformation": {
+      "Phone": "333.559.0778",
+      "Email": "nancy30@example.org",
+      "Address": "5703 Aaron Lane\nSouth Matthew, MH 99089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-07",
+    "Location": "80808 Tara Falls Suite 742\nManntown, RI 63212",
+    "Description": "Show box last professor. Not vote indicate high third rich region. Thousand capital stuff control pass.\nDream task draw mention tough heavy break few. Friend road big story word church."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 36692
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7042
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7740
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7783
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 91355
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 150612,
+    "TotalApproved": 17647
+  },
+  "AdjusterDetails": {
+    "Name": "Loretta Robinson",
+    "ContactInformation": {
+      "Phone": "295-361-4944",
+      "Email": "william50@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/3bf06feb-ba36-4731-91b9-c44d3eca8713"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Blankenship-Henry",
+    "Model": "possible",
+    "Year": 2008,
+    "VIN": "8d10860c-f888-4459-9c2d-f858da2de612"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Daisy Baker",
+      "ContactInformation": {
+        "Phone": "+1-790-865-8514x040",
+        "Email": "larrywalsh@example.net"
+      },
+      "Statement": "Bank television prevent computer difficult. Theory idea source idea production."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c223493f-9cb6-4c1d-ae7d-c6f02ada96c5",
+    "OfficerName": "Suzanne Graham",
+    "ReportDetails": "Avoid call almost fill for office reflect. That pay close end player."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 553,
+    "AnnualIncome": 161186,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 4,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

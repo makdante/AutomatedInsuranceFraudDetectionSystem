@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b3f4398e-4990-4fb4-805b-90d9bff9436c",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-04-27",
+    "EndDate": "2026-04-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-10",
+    "Location": "42691 Macdonald Isle\nPort Steven, WI 86300",
+    "Description": "Teach matter mission law lose others agree. Source cup among your score. Health long fear material stage build. Water job follow leg industry agreement talk military."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 44356
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1922
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19419
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4360
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 44293
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 114350,
+    "TotalApproved": 113251
+  },
+  "AdjusterDetails": {
+    "Name": "Parker Gillespie",
+    "ContactInformation": {
+      "Phone": "657-560-0355",
+      "Email": "jeanmoran@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/54c5d725-b258-41a1-b4b8-04ef6fc0ed1c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Young-Miller",
+    "Model": "message",
+    "Year": 2012,
+    "VIN": "007861a1-746e-4313-b704-fb6716e6ed13"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Rivera",
+      "ContactInformation": {
+        "Phone": "(878)993-8476x139",
+        "Email": "alexissteele@example.net"
+      },
+      "Statement": "Democratic run event the.\nAbout fish education risk close least. Smile cause current daughter.\nTend trade able position. Lawyer let network chance himself sure."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "517e1240-179d-4a2d-91fe-5e192774eea6",
+    "OfficerName": "Laura Ward",
+    "ReportDetails": "However raise speak help movement fall about. Material accept talk brother rise hope none.\nNeed probably join. National form game population. Establish film process wind building point."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 808,
+    "AnnualIncome": 62490,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 1,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

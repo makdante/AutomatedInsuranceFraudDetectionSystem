@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b7e787f3-07e3-4bda-b81d-ccddaa41f962",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-06-13",
+    "EndDate": "2026-06-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-31",
+    "Location": "9148 Terry Bridge\nBoydborough, AK 80836",
+    "Description": "Laugh left feel stop write step. Major actually bar quickly really fear. Score newspaper walk a meet near.\nHimself road difficult from the. Chair house woman want hour natural level run."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4059
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 180314
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17323
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12810
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 83373
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 297879,
+    "TotalApproved": 200553
+  },
+  "AdjusterDetails": {
+    "Name": "Chase Burton",
+    "ContactInformation": {
+      "Phone": "(486)201-0869x0096",
+      "Email": "james71@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d3f1dc4c-1f79-4871-8ecd-82c8248bcd19"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mercer, Floyd and Palmer",
+    "Model": "military",
+    "Year": 2006,
+    "VIN": "12aca955-e05a-427e-898e-85038eb6061c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brandy Garcia",
+      "ContactInformation": {
+        "Phone": "001-809-430-9924x8990",
+        "Email": "walkeranthony@example.net"
+      },
+      "Statement": "Until ready kitchen front lead mind. Why prove father game writer couple however general. Activity understand between brother.\nIdentify role herself president shoulder compare response."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "559562e1-3eab-4362-b10b-704215425c58",
+    "OfficerName": "Richard Mullins",
+    "ReportDetails": "Effort whose democratic. Them develop study experience. Might despite attack picture.\nLeave ago nice try protect surface. Leave letter than detail first."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 780,
+    "AnnualIncome": 100398,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

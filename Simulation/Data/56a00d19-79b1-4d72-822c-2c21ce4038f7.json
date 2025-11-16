@@ -1,0 +1,112 @@
+{
+  "ClaimID": "56a00d19-79b1-4d72-822c-2c21ce4038f7",
+  "PolicyID": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+  "EffectiveDates": {
+    "StartDate": "2025-07-15",
+    "EndDate": "2026-07-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "33851d0f-ae34-4d84-9979-9c0bb345ff37",
+    "Name": "Emily Richardson",
+    "PolicyNumber": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+    "ContactInformation": {
+      "Phone": "(999)370-8402x9360",
+      "Email": "stephen63@example.com",
+      "Address": "90107 Stephen Well\nAndrewmouth, ND 46797"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-19",
+    "Location": "5417 Wood Corner\nJohnchester, WI 16013",
+    "Description": "You close us identify democratic gun better. Agent century on today north industry.\nStrategy deep treatment both hospital civil charge. See month say start kind."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9505
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 77235
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39894
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9662
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 34760
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 171056,
+    "TotalApproved": 149069
+  },
+  "AdjusterDetails": {
+    "Name": "Anita Dawson",
+    "ContactInformation": {
+      "Phone": "(417)602-8084",
+      "Email": "marissa10@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/338664cd-4938-4f73-a136-d524db42f3e8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilkerson Ltd",
+    "Model": "could",
+    "Year": 2021,
+    "VIN": "5f848948-8a4a-4e2d-9354-a4b337e4e100"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Isaiah Gilbert",
+      "ContactInformation": {
+        "Phone": "4793610322",
+        "Email": "danapalmer@example.org"
+      },
+      "Statement": "History hard support often. From no hair have central clearly rate. What try whom watch.\nHim sing movement. Light offer identify another sit commercial movie."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "69704998-2903-46c0-bde6-3262e5f1c710",
+    "OfficerName": "Meagan Castillo",
+    "ReportDetails": "Future say difficult class arm join morning. Policy him opportunity out use to fly."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 373,
+    "AnnualIncome": 192257,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 10,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

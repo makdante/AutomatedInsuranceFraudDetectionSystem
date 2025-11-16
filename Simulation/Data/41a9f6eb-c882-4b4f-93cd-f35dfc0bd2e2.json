@@ -1,0 +1,112 @@
+{
+  "ClaimID": "41a9f6eb-c882-4b4f-93cd-f35dfc0bd2e2",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2025-07-19",
+    "EndDate": "2026-07-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-19",
+    "Location": "13989 Kathleen Expressway Suite 809\nMelissamouth, MT 72468",
+    "Description": "Home chair without test pattern. Responsibility move Congress light. Response only what citizen oil nation course. Laugh week attorney suddenly.\nGun resource friend choose."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 42838
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14207
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18827
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14014
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6989
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 96875,
+    "TotalApproved": 45054
+  },
+  "AdjusterDetails": {
+    "Name": "Wendy Glass",
+    "ContactInformation": {
+      "Phone": "322-914-0596x2680",
+      "Email": "stefanie77@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ba31508b-8d95-4e7e-994e-55b5094c450f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Harmon, Matthews and Baldwin",
+    "Model": "door",
+    "Year": 2012,
+    "VIN": "8e481a92-4501-4e49-97a6-05802711bb5b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patrick Schwartz",
+      "ContactInformation": {
+        "Phone": "656-816-2492x1279",
+        "Email": "deborahschmidt@example.com"
+      },
+      "Statement": "Part generation some single not budget prove. Attention remember level. Go whether suffer tell someone."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "89edcecf-493f-46f2-855d-97bda390ec4d",
+    "OfficerName": "Samantha Garcia",
+    "ReportDetails": "She across professional. Sport million future.\nImprove why present growth. Yes others second challenge."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 644,
+    "AnnualIncome": 126621,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

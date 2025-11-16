@@ -1,0 +1,112 @@
+{
+  "ClaimID": "457a1a30-31cb-4bbb-9181-4cacea733a83",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-02-13",
+    "EndDate": "2026-02-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-06",
+    "Location": "622 Janet Lodge\nNew Jenna, OK 24671",
+    "Description": "Sister mouth perform not. Music end painting admit charge. Budget movement focus dream future.\nAt company begin discussion forget language someone. Course value book charge voice paper own."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 28158
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12584
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 74442
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7060
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 166434
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 288678,
+    "TotalApproved": 199658
+  },
+  "AdjusterDetails": {
+    "Name": "Jocelyn Wells",
+    "ContactInformation": {
+      "Phone": "2208851471",
+      "Email": "carrielambert@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/35484114-0d13-4c3d-99d5-0b0ff0ee473b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clark-Shaw",
+    "Model": "thus",
+    "Year": 2012,
+    "VIN": "1be8a939-8ee2-4ae2-aa7e-62f704acb2f3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Devin Cardenas",
+      "ContactInformation": {
+        "Phone": "288.738.3695x20357",
+        "Email": "vicki43@example.org"
+      },
+      "Statement": "View ever own positive. Conference stage network right hit lose civil rule."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "64158886-5322-4b37-b801-68d261585017",
+    "OfficerName": "Sarah Preston",
+    "ReportDetails": "Street perform player could hotel site mean trade.\nEnjoy live can go.\nSouthern case never market. Why goal seat. Partner only child no plant.\nMind might staff late himself person partner seek."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 652,
+    "AnnualIncome": 94724,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 8,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

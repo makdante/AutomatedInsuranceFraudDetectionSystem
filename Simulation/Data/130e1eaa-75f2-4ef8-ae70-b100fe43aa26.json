@@ -1,0 +1,112 @@
+{
+  "ClaimID": "130e1eaa-75f2-4ef8-ae70-b100fe43aa26",
+  "PolicyID": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+  "EffectiveDates": {
+    "StartDate": "2024-12-26",
+    "EndDate": "2025-12-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4034d100-7369-434a-b9ce-6c4944f22306",
+    "Name": "Katherine Chang",
+    "PolicyNumber": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+    "ContactInformation": {
+      "Phone": "001-974-300-4293",
+      "Email": "amyfarley@example.org",
+      "Address": "32411 Michael Station Suite 689\nJeffreymouth, FM 88065"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-29",
+    "Location": "9161 Daniel Forges Apt. 451\nKimberlyfort, OR 28407",
+    "Description": "Smile area should teacher mouth election quality. Follow decision speak member. Able worker condition why lawyer nor customer day."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7324
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18790
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 99737
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 141063
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6872
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 273786,
+    "TotalApproved": 94502
+  },
+  "AdjusterDetails": {
+    "Name": "Shawn Thompson",
+    "ContactInformation": {
+      "Phone": "964.480.8361",
+      "Email": "pcollier@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1ec4bbad-961b-4fec-96ba-48fa292e62c3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-04T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-09T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ward-Dougherty",
+    "Model": "citizen",
+    "Year": 2018,
+    "VIN": "61fcd8cd-fa7a-4c31-a700-1cc5a5da93c4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Andrew White",
+      "ContactInformation": {
+        "Phone": "5244384715",
+        "Email": "elizabethnorton@example.net"
+      },
+      "Statement": "Item room she century around. Easy cell north view. Chair identify actually radio.\nHard cold tough also kid purpose bill. Imagine citizen firm some will meeting."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f0b016e4-d27c-45e5-b176-b5aad72f09ad",
+    "OfficerName": "Jessica Thomas",
+    "ReportDetails": "Away concern garden bar. Bed peace during stuff possible the. Business specific meeting such. Financial position actually newspaper.\nBad send approach. Those rest television six news she."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 664,
+    "AnnualIncome": 137542,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 5,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

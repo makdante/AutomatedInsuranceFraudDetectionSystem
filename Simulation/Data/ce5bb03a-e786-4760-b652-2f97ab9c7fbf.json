@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ce5bb03a-e786-4760-b652-2f97ab9c7fbf",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-03-09",
+    "EndDate": "2026-03-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-23",
+    "Location": "9602 Moore Viaduct\nLoristad, DE 79616",
+    "Description": "Girl writer allow law central thought significant. While boy professor board back risk. Hit hour at national agree dark majority kitchen."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9869
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 98921
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17025
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 25014
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 28295
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 179124,
+    "TotalApproved": 166164
+  },
+  "AdjusterDetails": {
+    "Name": "Natalie Carrillo",
+    "ContactInformation": {
+      "Phone": "+1-730-420-1011x67409",
+      "Email": "cynthia48@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/40234878-8000-40a0-8bd5-27788321e3d4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cooper-Barber",
+    "Model": "wait",
+    "Year": 2015,
+    "VIN": "7ac0ad79-185c-4a36-99e7-5235b062d9c1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Teresa Chan",
+      "ContactInformation": {
+        "Phone": "6889201329",
+        "Email": "kking@example.com"
+      },
+      "Statement": "Wish individual past newspaper me miss of material. Next financial paper quite hospital. Build officer outside true raise somebody really response."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2d6bca94-b214-47d1-a337-fd16bfc8fb6e",
+    "OfficerName": "Mary Holmes",
+    "ReportDetails": "Million just capital song establish. Dog control kid environment apply his including find.\nMe will bit crime teach performance capital. Film political throw its."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 667,
+    "AnnualIncome": 28244,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 3,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

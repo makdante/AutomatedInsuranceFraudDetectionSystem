@@ -1,0 +1,112 @@
+{
+  "ClaimID": "44466d1a-63ba-4774-be10-66aedbde9b53",
+  "PolicyID": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+  "EffectiveDates": {
+    "StartDate": "2025-03-06",
+    "EndDate": "2026-03-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "99c198b5-d0aa-48d3-94c9-959f2a44263a",
+    "Name": "Bethany Rose",
+    "PolicyNumber": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+    "ContactInformation": {
+      "Phone": "(715)908-5515x619",
+      "Email": "heather19@example.com",
+      "Address": "5993 Snow Manor Suite 784\nCherylton, KY 35335"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-19",
+    "Location": "31183 Leblanc Ridge Suite 541\nLake Christopher, VI 26211",
+    "Description": "Include western social school. Woman approach positive lay read.\nCongress person cup. Spend occur well. Side nice vote offer meet field."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3346
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 32036
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13101
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14446
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14976
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 77905,
+    "TotalApproved": 72889
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Blankenship DDS",
+    "ContactInformation": {
+      "Phone": "+1-589-587-5982",
+      "Email": "psutton@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/2f806f64-37ce-4710-84de-2d54c49c5e06"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Michael, Peterson and Thomas",
+    "Model": "particularly",
+    "Year": 2000,
+    "VIN": "1678dd97-080d-416f-b5f4-4c325e2b0e1c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steven Andrews",
+      "ContactInformation": {
+        "Phone": "+1-247-888-9968x672",
+        "Email": "nathanielstrong@example.com"
+      },
+      "Statement": "Young fight above recognize man catch back. Group north road possible must. Support stuff second force news collection series.\nResponse reach new player toward water television. Somebody box point."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "273b9093-843e-4bb1-bd00-798f8a154943",
+    "OfficerName": "Danny Shelton",
+    "ReportDetails": "Follow here goal for. Attack only single use teach especially down.\nWriter view particularly hundred brother try. Better southern traditional cultural chair."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 654,
+    "AnnualIncome": 194747,
+    "DebtToIncomeRatio": 0.51
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

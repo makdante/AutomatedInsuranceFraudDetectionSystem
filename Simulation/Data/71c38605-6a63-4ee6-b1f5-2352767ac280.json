@@ -1,0 +1,112 @@
+{
+  "ClaimID": "71c38605-6a63-4ee6-b1f5-2352767ac280",
+  "PolicyID": "c3c97e20-9916-4009-b655-6b300f90d80a",
+  "EffectiveDates": {
+    "StartDate": "2025-06-27",
+    "EndDate": "2026-06-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "053ca69a-366f-4375-961c-7efc9aef3ba5",
+    "Name": "Dalton Davis",
+    "PolicyNumber": "c3c97e20-9916-4009-b655-6b300f90d80a",
+    "ContactInformation": {
+      "Phone": "333.559.0778",
+      "Email": "nancy30@example.org",
+      "Address": "5703 Aaron Lane\nSouth Matthew, MH 99089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-21",
+    "Location": "81302 Samuel Ranch\nStephanieside, WA 94702",
+    "Description": "Food paper we could so likely. North focus small say today beyond.\nHuge difficult likely. Idea recently include hope sound."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 36070
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7833
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 108510
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 30078
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8832
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 191323,
+    "TotalApproved": 178116
+  },
+  "AdjusterDetails": {
+    "Name": "Tonya Burch",
+    "ContactInformation": {
+      "Phone": "+1-860-810-1815x2430",
+      "Email": "jacquelinechang@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3df2521e-8c9f-4f06-811d-ddb3bd0976dc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-31T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hoffman and Sons",
+    "Model": "child",
+    "Year": 2006,
+    "VIN": "77f23b7e-9869-40cb-a9bc-43e0255db483"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Craig Miller",
+      "ContactInformation": {
+        "Phone": "+1-892-832-4605x15281",
+        "Email": "larsondonna@example.net"
+      },
+      "Statement": "Herself eight expert. Sound look radio expert drop.\nOf skin part education. Rather pass bit season program cover amount politics."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a8e83d0f-cb6a-4e23-8bd5-aef2e788f523",
+    "OfficerName": "Ana Townsend",
+    "ReportDetails": "Rise wind peace town whose ball first.\nWish foreign want state. Least cell left court. Career smile land since particularly yard total would."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 389,
+    "AnnualIncome": 140779,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 7,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

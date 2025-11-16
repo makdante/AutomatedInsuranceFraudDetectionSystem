@@ -1,0 +1,112 @@
+{
+  "ClaimID": "837d2de0-ea49-47bc-9fe0-d60657897c28",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-07-27",
+    "EndDate": "2026-07-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-29",
+    "Location": "57693 Jones Villages Suite 711\nNorth Deborahland, DC 38714",
+    "Description": "Ask program toward impact paper pressure chance. Outside soon country public.\nBase home you ago. Explain defense PM describe turn enter protect."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4441
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 46037
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 89601
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17694
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7555
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 165328,
+    "TotalApproved": 21491
+  },
+  "AdjusterDetails": {
+    "Name": "Kirsten Shah",
+    "ContactInformation": {
+      "Phone": "(337)671-3943",
+      "Email": "nballard@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/293b77b1-040a-407f-82aa-614170cea7cd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wood, Zimmerman and Duran",
+    "Model": "others",
+    "Year": 2012,
+    "VIN": "a9606a03-df0a-4353-acce-61174d38ae2f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Barry Tate",
+      "ContactInformation": {
+        "Phone": "800.643.0890",
+        "Email": "djones@example.net"
+      },
+      "Statement": "Argue turn myself. Read account toward these news create. Enough often president hope idea after future.\nCell matter indicate be. Expert identify fast though."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8cfb06c7-8949-449d-bc00-27b39333c01f",
+    "OfficerName": "Lisa Gonzalez",
+    "ReportDetails": "Time church than son. Manage outside role similar history. Magazine couple whom factor suffer. You growth music writer step."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 838,
+    "AnnualIncome": 89045,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

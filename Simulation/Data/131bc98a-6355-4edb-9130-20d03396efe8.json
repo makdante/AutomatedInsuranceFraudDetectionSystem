@@ -1,0 +1,112 @@
+{
+  "ClaimID": "131bc98a-6355-4edb-9130-20d03396efe8",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-05-27",
+    "EndDate": "2026-05-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-09",
+    "Location": "12799 Kathryn Stravenue Suite 799\nPayneside, MH 89347",
+    "Description": "Amount media yes sit create. Necessary lot use case.\nCountry star avoid thus later. Major feeling suddenly. Medical lose our participant into."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 49467
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 43853
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 161845
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9841
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 78503
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 343509,
+    "TotalApproved": 117293
+  },
+  "AdjusterDetails": {
+    "Name": "Renee Medina",
+    "ContactInformation": {
+      "Phone": "001-232-740-8735",
+      "Email": "brianna89@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1f0c1d28-a712-490c-bd8a-f77ee7240399"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Beck, Smith and Reeves",
+    "Model": "go",
+    "Year": 2018,
+    "VIN": "3aac4bb8-6473-4e59-a4ea-dd41c6ac16b7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebecca Rodriguez",
+      "ContactInformation": {
+        "Phone": "001-682-403-3143",
+        "Email": "paul47@example.org"
+      },
+      "Statement": "Win green summer her plan. Mother matter generation relate environment born. Common important goal new painting forward leader."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "35ad1849-56ff-41d5-a33e-29afe6be78d7",
+    "OfficerName": "David Rubio",
+    "ReportDetails": "Value per on method company other worker. None expert out treatment next or. Huge budget away everyone.\nFriend husband certain degree why. Team might various kid town parent."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 812,
+    "AnnualIncome": 186272,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

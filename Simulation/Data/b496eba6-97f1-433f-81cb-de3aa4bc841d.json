@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b496eba6-97f1-433f-81cb-de3aa4bc841d",
+  "PolicyID": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+  "EffectiveDates": {
+    "StartDate": "2025-09-19",
+    "EndDate": "2026-09-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fa402266-28f6-4a28-9984-042633fec81b",
+    "Name": "Miranda Nelson",
+    "PolicyNumber": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+    "ContactInformation": {
+      "Phone": "871.425.9645x240",
+      "Email": "iflynn@example.com",
+      "Address": "275 Lee Common\nSouth Hectorville, VI 11258"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-22",
+    "Location": "82739 Jeffrey Path\nEast Angelabury, SC 18238",
+    "Description": "Bit someone moment. Alone animal better professional light believe yard. Factor little because minute simple spring would."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 66684
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 94899
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16355
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4507
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3014
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 185459,
+    "TotalApproved": 43962
+  },
+  "AdjusterDetails": {
+    "Name": "Stacy Scott",
+    "ContactInformation": {
+      "Phone": "(875)556-9050x33532",
+      "Email": "awallace@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3968fe10-a0ad-4841-b912-74d297f21471"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cervantes, Gardner and Lee",
+    "Model": "many",
+    "Year": 2006,
+    "VIN": "897858ab-eaef-49d2-8404-91259d2d48c9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tracy Hill",
+      "ContactInformation": {
+        "Phone": "001-967-419-8931x8044",
+        "Email": "thomasanderson@example.org"
+      },
+      "Statement": "Head allow story. Writer behavior catch husband.\nStory western might media. Success push happy not simply ten act. Gun idea risk."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3f147e1d-7978-4972-b2c1-f01dc7d14aee",
+    "OfficerName": "Anna Everett",
+    "ReportDetails": "Poor television go evidence. Break window what anything. Night cause meet view raise half pattern table. Buy claim majority development."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 475,
+    "AnnualIncome": 68333,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

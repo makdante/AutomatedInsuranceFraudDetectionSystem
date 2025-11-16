@@ -1,0 +1,112 @@
+{
+  "ClaimID": "52837534-98f1-41e2-8b86-b11d09308427",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-06-13",
+    "EndDate": "2026-06-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-25",
+    "Location": "5117 Sandra Forges\nLake William, PR 15866",
+    "Description": "However join long even lot sign. Investment foreign relate research mother word customer kitchen. Improve on behind forward see wear song garden."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 74945
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 78584
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5284
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4847
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7842
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 171502,
+    "TotalApproved": 147949
+  },
+  "AdjusterDetails": {
+    "Name": "Robert Gilmore",
+    "ContactInformation": {
+      "Phone": "811-690-7371",
+      "Email": "johnrodriguez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d70149a0-a17b-4cc9-91f8-29010fb8407e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gallagher Ltd",
+    "Model": "piece",
+    "Year": 2012,
+    "VIN": "c5d34997-518f-41cb-a67f-79630628e8cd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anna Nguyen",
+      "ContactInformation": {
+        "Phone": "+1-444-580-5861x3886",
+        "Email": "merrittjulie@example.com"
+      },
+      "Statement": "Public according forward good trial worker stage. Address old treat skill cold since born cut."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f89e292b-47c8-4472-8aae-2a0ead0e1869",
+    "OfficerName": "Matthew Thompson",
+    "ReportDetails": "Wind security say a life nor so. Follow education end reduce time.\nShe lawyer agent page very travel. Training me my poor energy.\nRepresent white phone. Than different look candidate common."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 437,
+    "AnnualIncome": 186950,
+    "DebtToIncomeRatio": 0.16
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

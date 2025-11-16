@@ -1,0 +1,112 @@
+{
+  "ClaimID": "415d4d2b-2502-4497-be0f-978dfbafd76e",
+  "PolicyID": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+  "EffectiveDates": {
+    "StartDate": "2025-10-24",
+    "EndDate": "2026-10-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eb400d1e-8ed3-4fd5-8a4b-a02804e6ce83",
+    "Name": "Dylan Lee",
+    "PolicyNumber": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+    "ContactInformation": {
+      "Phone": "976.394.8548x28663",
+      "Email": "blane@example.com",
+      "Address": "044 Briggs Way\nLake Allisonchester, FM 38872"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-08",
+    "Location": "9894 Li Flats\nPort Donald, SD 16413",
+    "Description": "Gun respond call. Guy network matter economy over story today probably.\nItself room sign soon just seem. Answer movement against often various note together. Day try begin despite involve."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 34428
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17680
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 26231
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2172
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6593
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 87104,
+    "TotalApproved": 79308
+  },
+  "AdjusterDetails": {
+    "Name": "Taylor Williamson",
+    "ContactInformation": {
+      "Phone": "254-992-7093x809",
+      "Email": "fward@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/81283c8b-55b9-46ca-a581-9f017e186b8e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones and Sons",
+    "Model": "she",
+    "Year": 2013,
+    "VIN": "460735d0-4e6c-49ab-be08-a6ccaa79e153"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dawn Coleman",
+      "ContactInformation": {
+        "Phone": "(790)332-1562x58603",
+        "Email": "collinsbrenda@example.org"
+      },
+      "Statement": "Investment professor product future father vote. Simple short happy plant class rock low."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ce60ed82-2fc9-4d04-bb7c-e3595ae14a99",
+    "OfficerName": "David Cabrera",
+    "ReportDetails": "Next ever mother kitchen together. Challenge onto house form poor involve. Product hair early house sometimes new.\nGoal serious leader account short name. West long executive by student network."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 732,
+    "AnnualIncome": 118944,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "31cb0914-990d-4c53-a590-d680e37d5522",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-08-23",
+    "EndDate": "2026-08-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-27",
+    "Location": "17562 Gutierrez Path Suite 090\nPort Jamiebury, RI 97961",
+    "Description": "City interest skin child bad perhaps step. Difficult probably offer agree can which. Natural structure hold wear."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 29195
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6159
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 137099
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 91906
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 20763
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 285122,
+    "TotalApproved": 117358
+  },
+  "AdjusterDetails": {
+    "Name": "Jeremy Daniels",
+    "ContactInformation": {
+      "Phone": "702-391-8606x10283",
+      "Email": "mhammond@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b5ee07e2-ae46-4de5-a601-40067a507e36"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Kidd PLC",
+    "Model": "provide",
+    "Year": 2001,
+    "VIN": "9927dd1b-5f6b-4428-a356-c49ebcb53d9a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Alvarez Jr.",
+      "ContactInformation": {
+        "Phone": "+1-927-468-1851x2026",
+        "Email": "mooredenise@example.com"
+      },
+      "Statement": "Clearly leader during task one federal land. Protect thing wrong now situation development seat. Human create Mr. Face cause rest however significant staff identify."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c8560983-c4d1-47b2-bb20-3f180ba73f71",
+    "OfficerName": "Lori Davies",
+    "ReportDetails": "Itself material listen and do. Skill keep feel would pay effect yeah. Job talk model throw standard past fact. Law drug most bit bad thus measure."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 301,
+    "AnnualIncome": 99671,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

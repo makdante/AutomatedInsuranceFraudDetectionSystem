@@ -1,0 +1,112 @@
+{
+  "ClaimID": "96ff6c74-b8eb-4b4b-ad61-e48411054ef6",
+  "PolicyID": "9a540188-2fa0-4610-a341-5130618504c6",
+  "EffectiveDates": {
+    "StartDate": "2025-05-26",
+    "EndDate": "2026-05-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5e1aef1e-7897-4f43-8b25-4f651ff5946d",
+    "Name": "Brian Vance",
+    "PolicyNumber": "9a540188-2fa0-4610-a341-5130618504c6",
+    "ContactInformation": {
+      "Phone": "630-390-2993",
+      "Email": "terriosborn@example.com",
+      "Address": "01673 Osborne Ferry Apt. 849\nRobertbury, AR 69950"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-13",
+    "Location": "USNV Jacobs\nFPO AP 52775",
+    "Description": "Threat civil fly benefit remain west whatever whom. Good method exactly college contain bring."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 106990
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 37126
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2651
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 142220
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9720
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 298707,
+    "TotalApproved": 254264
+  },
+  "AdjusterDetails": {
+    "Name": "Jocelyn Kennedy",
+    "ContactInformation": {
+      "Phone": "(424)633-7799x783",
+      "Email": "marcus63@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/9a83c0a4-ea35-4fb3-b4f0-7c7b7ad8e728"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-13T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-18T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-23T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Griffin PLC",
+    "Model": "agent",
+    "Year": 2008,
+    "VIN": "801dc161-93ae-4f16-9790-c4ad9a9afd6d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Barbara Blair",
+      "ContactInformation": {
+        "Phone": "(888)768-6513x51366",
+        "Email": "tprice@example.com"
+      },
+      "Statement": "Part new trip apply my determine them. Among first military college dog treatment.\nNecessary interest every its."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "aab9240c-2cb0-48b6-97e7-0602bbe02aed",
+    "OfficerName": "Anthony Moore",
+    "ReportDetails": "Myself likely food measure art ask rise. Almost find realize item upon production.\nWay follow teach.\nDifference seven seem deep hotel."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 363,
+    "AnnualIncome": 191832,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

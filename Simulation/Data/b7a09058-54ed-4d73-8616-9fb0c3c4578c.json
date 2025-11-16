@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b7a09058-54ed-4d73-8616-9fb0c3c4578c",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-06-11",
+    "EndDate": "2026-06-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-14",
+    "Location": "508 Larry Drive Apt. 878\nSouth Katherineton, MS 20449",
+    "Description": "Important feel make stand call. Second while without message my loss.\nNow yourself attention. Service strategy this want job writer."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1089
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 47642
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13840
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 42656
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 82935
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 188162,
+    "TotalApproved": 159486
+  },
+  "AdjusterDetails": {
+    "Name": "Teresa Walsh",
+    "ContactInformation": {
+      "Phone": "733.247.8355",
+      "Email": "jtaylor@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/35449f63-ee0a-4d14-9688-efbeff6d0ac2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Riggs Ltd",
+    "Model": "process",
+    "Year": 2014,
+    "VIN": "8526461b-aed2-419a-9bf6-7b838e60d3d3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Nelson",
+      "ContactInformation": {
+        "Phone": "898.434.7619x310",
+        "Email": "joseph49@example.com"
+      },
+      "Statement": "Somebody father ok fight ten see method. Music cut yes be word do.\nSimple present rich cold. List memory feel in know dog. During political member teach grow world home."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bc97c8a8-b3e7-4603-adcc-8ad758f0c304",
+    "OfficerName": "Alexis Riley",
+    "ReportDetails": "Behind friend surface doctor one success nor.\nParty religious agency marriage quality owner. At meeting present it public wind western stay."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 447,
+    "AnnualIncome": 40287,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 4,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

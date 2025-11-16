@@ -1,0 +1,112 @@
+{
+  "ClaimID": "67e55e0f-b363-4d25-b26d-4282798b29da",
+  "PolicyID": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+  "EffectiveDates": {
+    "StartDate": "2025-05-22",
+    "EndDate": "2026-05-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc658f34-99aa-4827-9c9c-82ccb20e727e",
+    "Name": "Christopher Smith",
+    "PolicyNumber": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+    "ContactInformation": {
+      "Phone": "519-859-6871x1692",
+      "Email": "fpaul@example.net",
+      "Address": "052 Fletcher Road\nPort Kelsey, SD 74092"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-03",
+    "Location": "5421 Marie Pines Suite 905\nWest Maxwell, AK 27235",
+    "Description": "Produce suffer less protect him court hair.\nLeft themselves draw blood wonder. Play wear coach finally growth yet tax. Either fall each prevent tree look."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6959
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11910
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11515
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 90394
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 22313
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 143091,
+    "TotalApproved": 22439
+  },
+  "AdjusterDetails": {
+    "Name": "James Valenzuela",
+    "ContactInformation": {
+      "Phone": "+1-312-543-1489x552",
+      "Email": "vscott@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/52384fbe-113e-4b70-8442-70d229639b3b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lang-Johnson",
+    "Model": "toward",
+    "Year": 2018,
+    "VIN": "05ba61ab-056a-4458-825e-3a9109202339"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jeff Campos",
+      "ContactInformation": {
+        "Phone": "554-287-5200x06009",
+        "Email": "maryjames@example.com"
+      },
+      "Statement": "Agreement represent green less.\nHigh public candidate marriage. Understand hotel seek Congress main experience he bad."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ee7e9b81-bb4b-4224-932e-3e0d7db89543",
+    "OfficerName": "Elizabeth Keller",
+    "ReportDetails": "Field since network all. Six arrive agent low civil.\nAlong possible drop blue everybody structure. Hundred require project. Meet especially among century her yes themselves."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 844,
+    "AnnualIncome": 25205,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4690c98c-500b-4efc-9e46-6ca60eb0a6d1",
+  "PolicyID": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+  "EffectiveDates": {
+    "StartDate": "2025-03-27",
+    "EndDate": "2026-03-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ac5a31ca-3bdd-4c10-bf6a-ce868133ec66",
+    "Name": "James Gilbert",
+    "PolicyNumber": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+    "ContactInformation": {
+      "Phone": "2675986394",
+      "Email": "lmontes@example.org",
+      "Address": "52161 Young Shoals Suite 547\nStevenberg, MT 96015"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-05",
+    "Location": "PSC 8465, Box 6009\nAPO AP 90833",
+    "Description": "Of since arrive word bill thing quickly.\nAccording former go foreign professional nation. Experience author effort how even. Blue impact performance act go special."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 56915
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 85163
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2681
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12234
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 173800
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 330793,
+    "TotalApproved": 6050
+  },
+  "AdjusterDetails": {
+    "Name": "Aaron Mosley",
+    "ContactInformation": {
+      "Phone": "001-739-911-9056x485",
+      "Email": "matthewsimmons@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/29b10722-ce59-43ea-94a6-8bcb54842040"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez-Wilkins",
+    "Model": "face",
+    "Year": 2002,
+    "VIN": "2121c5d3-9f3d-4537-8e7e-bcdab4bade75"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jocelyn Munoz",
+      "ContactInformation": {
+        "Phone": "+1-561-318-9982x5044",
+        "Email": "huffandrea@example.com"
+      },
+      "Statement": "Man town piece say under. Pay strategy add season base movie huge."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8725b519-5938-489a-82b6-5ccb46c6dd91",
+    "OfficerName": "Stephen Marshall",
+    "ReportDetails": "Three local in fly whom government. Front realize pressure couple share create. Respond purpose card effort focus keep. Two deep important already test drug last."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 414,
+    "AnnualIncome": 88166,
+    "DebtToIncomeRatio": 0.5
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3dd9bd93-ecb2-41e6-b60c-aa41a586dec1",
+  "PolicyID": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+  "EffectiveDates": {
+    "StartDate": "2025-02-12",
+    "EndDate": "2026-02-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "94574ab1-14ef-4d7d-935c-c52f6f907b16",
+    "Name": "Brittany Perkins",
+    "PolicyNumber": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+    "ContactInformation": {
+      "Phone": "877-727-6223x0565",
+      "Email": "richard63@example.net",
+      "Address": "72556 Audrey Lake\nNathanshire, GA 57199"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-04",
+    "Location": "10905 Bradley Islands\nAmyfurt, IA 87381",
+    "Description": "Yard sing special player. Free music responsibility one south religious. Argue represent almost try our data he."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 122067
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5446
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3287
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8066
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 40837
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 179703,
+    "TotalApproved": 80769
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Bowen",
+    "ContactInformation": {
+      "Phone": "(383)649-3758",
+      "Email": "fostersteven@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/02381ba8-9a57-4edb-b1e9-d31592de7b71"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Benson, Rogers and Rogers",
+    "Model": "away",
+    "Year": 2018,
+    "VIN": "2dda51bd-fa8c-421d-831e-543c29ceb32e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jacqueline Brown",
+      "ContactInformation": {
+        "Phone": "705.634.4112x9412",
+        "Email": "robert36@example.com"
+      },
+      "Statement": "Itself tell benefit share cell include question. Rich Congress quite part ask.\nAvailable weight most own practice range main seat. Hard suffer shake figure when reflect spend."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d315f8bf-b17c-4c3b-8a8b-147822cd8f5e",
+    "OfficerName": "James Campbell",
+    "ReportDetails": "Else middle account. Western sit American those maintain.\nGroup finish occur theory condition couple Democrat. Marriage newspaper look else take culture environmental."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 729,
+    "AnnualIncome": 148207,
+    "DebtToIncomeRatio": 0.29
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

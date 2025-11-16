@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9a10a8d9-ac75-4dc6-a920-17e5c07365c6",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2025-06-25",
+    "EndDate": "2026-06-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-23",
+    "Location": "5055 Rebecca Cape\nEast Laurenville, AZ 46105",
+    "Description": "Ready through foreign property. Detail area culture know never general perhaps.\nWalk small both again security manage. Yet government leave back leave church."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30720
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 48734
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 32329
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6303
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 24594
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 142680,
+    "TotalApproved": 12504
+  },
+  "AdjusterDetails": {
+    "Name": "Kelly Owen",
+    "ContactInformation": {
+      "Phone": "9025824989",
+      "Email": "suzannemartinez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/ec0e4adf-4658-4a25-9bd9-adf8ec9a070b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Santiago Inc",
+    "Model": "those",
+    "Year": 2003,
+    "VIN": "a4fcef43-9d87-4a5c-aa05-0a8d6f6aeab3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angela Thornton",
+      "ContactInformation": {
+        "Phone": "+1-305-327-0633x0304",
+        "Email": "lloydlaura@example.org"
+      },
+      "Statement": "Possible history strong far nearly order. Available society reality edge.\nOperation reality cell then teach tell general. Source tell huge. Office argue serious yes order practice."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "80931369-52ff-4720-beb3-cf308689fa5b",
+    "OfficerName": "Monica Singleton",
+    "ReportDetails": "Carry simple bring arrive wide visit.\nFood generation available knowledge finish suggest. Dog get difference camera walk specific board."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 390,
+    "AnnualIncome": 87297,
+    "DebtToIncomeRatio": 0.51
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

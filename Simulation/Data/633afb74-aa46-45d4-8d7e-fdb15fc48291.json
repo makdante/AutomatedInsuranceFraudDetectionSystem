@@ -1,0 +1,112 @@
+{
+  "ClaimID": "633afb74-aa46-45d4-8d7e-fdb15fc48291",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-06-04",
+    "EndDate": "2026-06-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-10",
+    "Location": "5622 Michael Station\nSalinasview, WY 90733",
+    "Description": "Attack thousand television common wall. Actually itself meeting his.\nSo choose among building fly production. Case group difficult language attorney business. Together letter heart technology they."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 60543
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19088
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9886
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16250
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14085
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 119852,
+    "TotalApproved": 119085
+  },
+  "AdjusterDetails": {
+    "Name": "Scott Rodriguez",
+    "ContactInformation": {
+      "Phone": "+1-938-625-2608x971",
+      "Email": "belljason@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/dfd80dec-1158-4f5b-9318-49b073953120"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gomez-Molina",
+    "Model": "her",
+    "Year": 2012,
+    "VIN": "995309d4-d813-47a5-8dea-56eaab84e114"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lindsey Palmer",
+      "ContactInformation": {
+        "Phone": "7537865598",
+        "Email": "christina55@example.org"
+      },
+      "Statement": "Management pattern operation dog employee reason others speak. Central score response least. Movement mention consumer woman."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "de452a2f-01da-4c3a-bcdb-0b382e98b577",
+    "OfficerName": "Christina King",
+    "ReportDetails": "Join gun effect explain pretty sit. Alone use list defense green. Run stuff yourself perhaps."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 527,
+    "AnnualIncome": 122289,
+    "DebtToIncomeRatio": 0.5
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

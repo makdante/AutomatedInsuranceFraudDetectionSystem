@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0286fe30-728f-4296-999c-ab68888bbbcf",
+  "PolicyID": "f56b721d-77fb-4659-8280-faefc114b152",
+  "EffectiveDates": {
+    "StartDate": "2025-06-11",
+    "EndDate": "2026-06-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "9df24105-b696-442a-969e-d25b0cebdfb9",
+    "Name": "Jonathan Santos",
+    "PolicyNumber": "f56b721d-77fb-4659-8280-faefc114b152",
+    "ContactInformation": {
+      "Phone": "001-871-292-7838x249",
+      "Email": "bneal@example.org",
+      "Address": "46543 Jamie Burg Suite 969\nSarahfort, VI 92099"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-12",
+    "Location": "Unit 7773 Box 9274\nDPO AP 90192",
+    "Description": "Lose relationship something heavy. Number leg doctor with full system her. Beat green center pull machine.\nEvery build six behind service. Sell international order hand. Watch believe guy structure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 101182
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22956
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 86475
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 42981
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4998
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 258592,
+    "TotalApproved": 204895
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Ross",
+    "ContactInformation": {
+      "Phone": "503.242.4899",
+      "Email": "williamslorraine@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/0b1e5ca4-d5ea-4a68-862b-dbe1124f730c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Calhoun-Banks",
+    "Model": "walk",
+    "Year": 2012,
+    "VIN": "28db83c3-cebb-4a68-bf10-841667099bbc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Justin Flores",
+      "ContactInformation": {
+        "Phone": "+1-484-702-1184",
+        "Email": "lmcdonald@example.net"
+      },
+      "Statement": "Book necessary war no writer rate than course.\nOfficer question travel close across woman. Stop country exist positive federal TV.\nRed produce act benefit meet determine describe."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0b2dc539-04c5-4f6e-b1f3-4229eba5ee2d",
+    "OfficerName": "Kelsey Peterson",
+    "ReportDetails": "Ago father serious hear our. Political administration star stand significant he.\nMention national enough help smile any media four. Appear never able time whose north."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 526,
+    "AnnualIncome": 179596,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

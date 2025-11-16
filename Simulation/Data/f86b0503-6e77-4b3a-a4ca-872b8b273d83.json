@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f86b0503-6e77-4b3a-a4ca-872b8b273d83",
+  "PolicyID": "fa233a67-087f-4a81-aa85-03cb75220f66",
+  "EffectiveDates": {
+    "StartDate": "2025-03-09",
+    "EndDate": "2026-03-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0cc54510-0118-43f1-bb14-decc3fb19e8e",
+    "Name": "Daniel Novak",
+    "PolicyNumber": "fa233a67-087f-4a81-aa85-03cb75220f66",
+    "ContactInformation": {
+      "Phone": "531-516-8947",
+      "Email": "rogerssteven@example.com",
+      "Address": "51262 Davis Knoll\nLake Elizabeth, AZ 16893"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-12",
+    "Location": "2202 Samantha Ferry\nThomasburgh, MD 63638",
+    "Description": "Source important entire occur affect drop forget. Upon again offer than. Fight both yes quality sea candidate more."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 36206
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18490
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 98737
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6015
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11869
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 171317,
+    "TotalApproved": 51163
+  },
+  "AdjusterDetails": {
+    "Name": "Amanda Massey",
+    "ContactInformation": {
+      "Phone": "001-780-984-9153x695",
+      "Email": "brian42@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/300c810a-148c-4517-b70d-f00f35034876"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Castaneda, Jackson and Webb",
+    "Model": "me",
+    "Year": 2003,
+    "VIN": "b79abb24-afc9-4031-aa68-f3a756af0e64"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samantha Sutton",
+      "ContactInformation": {
+        "Phone": "(932)664-4935x7474",
+        "Email": "marcusgriffith@example.org"
+      },
+      "Statement": "Side write job worker image capital institution. Everyone pressure positive box. Environment I situation for natural your."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f2d55465-6b1e-4f08-9683-b00aa5ac737c",
+    "OfficerName": "Matthew Hancock",
+    "ReportDetails": "Data low either real across majority. Budget organization step black worker. Create sport result decide bit produce expect.\nMemory budget common order often."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 845,
+    "AnnualIncome": 30551,
+    "DebtToIncomeRatio": 0.65
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "80db0dfd-c850-4f9d-ba29-eb6b7bc35260",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-08-06",
+    "EndDate": "2026-08-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-01",
+    "Location": "55436 Kelley Hollow Suite 332\nPort Lauraland, WV 33423",
+    "Description": "During skin describe city central. Entire west by little seek involve ground health.\nCup real son. Sing may stock see company participant tree.\nLow apply read choose stock billion want."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7473
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 41754
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15212
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5646
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3375
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 73460,
+    "TotalApproved": 45126
+  },
+  "AdjusterDetails": {
+    "Name": "Philip Campbell",
+    "ContactInformation": {
+      "Phone": "929.247.7461x0188",
+      "Email": "joshua38@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/57f8e69a-5f23-464b-bfb6-f73798512f37"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gilbert-Erickson",
+    "Model": "a",
+    "Year": 2008,
+    "VIN": "6c92405f-6387-4f92-8b17-09409b06f24c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cynthia Hansen",
+      "ContactInformation": {
+        "Phone": "+1-803-671-8610x77460",
+        "Email": "dianagraham@example.net"
+      },
+      "Statement": "Effort movie control home boy partner. Member second stand image.\nFight probably customer outside.\nCup theory father line catch."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b4753704-abac-48cf-aa59-09530440a885",
+    "OfficerName": "Michael Huang",
+    "ReportDetails": "Theory bad since difficult fund. News reality here who music page. Such world watch key trade traditional yard."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 571,
+    "AnnualIncome": 180449,
+    "DebtToIncomeRatio": 0.35
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 4,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

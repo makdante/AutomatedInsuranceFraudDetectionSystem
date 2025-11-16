@@ -1,0 +1,112 @@
+{
+  "ClaimID": "eee485d7-5919-496a-9a75-221248895606",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2024-11-12",
+    "EndDate": "2025-11-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-10",
+    "Location": "Unit 1613 Box 9532\nDPO AA 66712",
+    "Description": "Whose whatever relationship score positive represent professor. Continue stand face respond strong sense. Citizen describe other each."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8399
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2985
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8193
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 26499
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 38203
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 84279,
+    "TotalApproved": 23498
+  },
+  "AdjusterDetails": {
+    "Name": "Eric Sharp",
+    "ContactInformation": {
+      "Phone": "593-317-0715x93372",
+      "Email": "hguerra@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/b271977e-da18-49e2-aeb9-d05d2b229939"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Marshall, Shaw and Hayes",
+    "Model": "throughout",
+    "Year": 2015,
+    "VIN": "ba6144df-e01f-4bc8-ac5d-b3a6cbf003af"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brittany Melendez",
+      "ContactInformation": {
+        "Phone": "611.271.4139",
+        "Email": "jessica28@example.org"
+      },
+      "Statement": "Resource we fish situation business story. She answer forget yet fill. Best identify enjoy throughout. Value hour sea or author foreign kitchen instead."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1a2c3283-00a8-4872-ae03-d6ec888f7739",
+    "OfficerName": "Dr. Sara Russo",
+    "ReportDetails": "Care have four protect. Oil free receive indicate entire.\nSuggest brother talk. That several claim entire vote. Feeling year wrong act. Who task wait accept task call."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 462,
+    "AnnualIncome": 59516,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

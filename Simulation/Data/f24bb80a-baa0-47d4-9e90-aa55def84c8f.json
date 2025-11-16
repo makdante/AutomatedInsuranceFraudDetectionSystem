@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f24bb80a-baa0-47d4-9e90-aa55def84c8f",
+  "PolicyID": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+  "EffectiveDates": {
+    "StartDate": "2025-07-15",
+    "EndDate": "2026-07-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fe640aa1-fac6-44c1-b128-0544382d3460",
+    "Name": "Mr. John Curtis DDS",
+    "PolicyNumber": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+    "ContactInformation": {
+      "Phone": "+1-788-856-0912x412",
+      "Email": "greenlorraine@example.com",
+      "Address": "970 Ryan Green\nWest Katherine, GA 40547"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-15",
+    "Location": "55180 Rodgers Terrace Suite 368\nStephanieshire, AS 82241",
+    "Description": "Surface attorney still begin.\nMiss evidence cost here cold south explain. East meet today check nor. Market result interesting."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 81304
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36144
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9768
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15364
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 22822
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 165402,
+    "TotalApproved": 101596
+  },
+  "AdjusterDetails": {
+    "Name": "Robert Phillips",
+    "ContactInformation": {
+      "Phone": "001-922-651-3033x47443",
+      "Email": "amy28@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/322f4e8b-1d6b-4e5e-915b-71ef4b2caed3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gomez Ltd",
+    "Model": "join",
+    "Year": 2012,
+    "VIN": "bddb57a6-33e8-479c-b95e-6091f36758dd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Debbie Zavala",
+      "ContactInformation": {
+        "Phone": "963.500.0274x050",
+        "Email": "webstertodd@example.net"
+      },
+      "Statement": "Everyone watch protect business direction bar moment. Near require really audience for view than news. Power eye section office."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a1efa52b-e60d-4b50-9a74-ee6519915f60",
+    "OfficerName": "Timothy Williams",
+    "ReportDetails": "Enter different ground person car point population. House mention body various range break available. Magazine close past billion hope."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 505,
+    "AnnualIncome": 60596,
+    "DebtToIncomeRatio": 0.78
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

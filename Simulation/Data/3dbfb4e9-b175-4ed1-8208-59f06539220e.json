@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3dbfb4e9-b175-4ed1-8208-59f06539220e",
+  "PolicyID": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+  "EffectiveDates": {
+    "StartDate": "2025-03-05",
+    "EndDate": "2026-03-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1ebb1bc-6120-42c4-a87a-be4f808197b1",
+    "Name": "Donald Smith",
+    "PolicyNumber": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+    "ContactInformation": {
+      "Phone": "675.606.3377",
+      "Email": "masonpamela@example.net",
+      "Address": "14432 Richard Vista\nNew Suzanne, TN 31994"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-16",
+    "Location": "0451 David Underpass\nHardyside, AR 21039",
+    "Description": "Design man media between. Minute east again assume upon quite different. It draw kitchen interesting think choose.\nChance national sit example. Though hear move wide difficult happen Congress."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47742
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10372
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10166
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 99675
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 41858
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 209813,
+    "TotalApproved": 103092
+  },
+  "AdjusterDetails": {
+    "Name": "Timothy Anderson",
+    "ContactInformation": {
+      "Phone": "965-783-8558x624",
+      "Email": "holmesmatthew@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1ac89943-ca1b-4267-8348-fd76a6644600"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gonzalez-Shepherd",
+    "Model": "certain",
+    "Year": 2010,
+    "VIN": "ec11e981-5c57-4764-a48c-777e7dae0031"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tracy Nichols",
+      "ContactInformation": {
+        "Phone": "+1-765-520-7310x194",
+        "Email": "allenrachel@example.com"
+      },
+      "Statement": "By plant happen economic entire relationship clearly. Value although third develop education.\nSpecific skin material. Technology remain character left determine indeed. Now street suffer ten."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "044d5998-2e22-411d-9caa-ffb44476a558",
+    "OfficerName": "Zachary Williams",
+    "ReportDetails": "Money happy value small situation tell factor. Others treatment fight evening project wrong. List hair old."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 500,
+    "AnnualIncome": 70540,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

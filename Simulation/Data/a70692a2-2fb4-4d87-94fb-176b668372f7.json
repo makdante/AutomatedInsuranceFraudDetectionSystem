@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a70692a2-2fb4-4d87-94fb-176b668372f7",
+  "PolicyID": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+  "EffectiveDates": {
+    "StartDate": "2025-05-30",
+    "EndDate": "2026-05-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7aeb67d8-8b5a-402f-b03b-33f51f2939f2",
+    "Name": "Susan Best",
+    "PolicyNumber": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+    "ContactInformation": {
+      "Phone": "272-361-9751",
+      "Email": "adamfigueroa@example.net",
+      "Address": "604 Sims Circle Suite 384\nNorth Anthonystad, WA 82430"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-24",
+    "Location": "10455 Ronald Locks\nSouth Jacquelinetown, WV 35766",
+    "Description": "Their player plant section material play head certain. Inside upon attack policy century. Want radio speak stop major personal."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 52512
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 63339
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2360
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 15388
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19262
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 152861,
+    "TotalApproved": 63695
+  },
+  "AdjusterDetails": {
+    "Name": "Jeffrey Hughes",
+    "ContactInformation": {
+      "Phone": "482.750.8721",
+      "Email": "mary54@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/0b505a5d-f157-4b8b-adc2-9f0efc63d5bd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Dennis Ltd",
+    "Model": "list",
+    "Year": 2019,
+    "VIN": "2f2bae95-7b1c-40b5-8ecc-0db829ba4258"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Allen Clark",
+      "ContactInformation": {
+        "Phone": "(656)510-9065x56563",
+        "Email": "dalemendoza@example.net"
+      },
+      "Statement": "Like road stock as describe. Skin single report rich.\nRadio customer feel star rock sense. Skin give no store better.\nHundred easy national. Capital director Mrs too large affect."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cd720f3d-20a4-4e2d-9f72-158d432e4c17",
+    "OfficerName": "Seth Gregory",
+    "ReportDetails": "Exist attention factor. Recently season begin. Movie total probably wish girl.\nHeart trouble right country."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 441,
+    "AnnualIncome": 53702,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

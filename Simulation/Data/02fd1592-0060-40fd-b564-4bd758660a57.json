@@ -1,0 +1,112 @@
+{
+  "ClaimID": "02fd1592-0060-40fd-b564-4bd758660a57",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-06-15",
+    "EndDate": "2026-06-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-07",
+    "Location": "820 Watson Stravenue Apt. 279\nEast Crystal, GU 14563",
+    "Description": "Agree southern leader heart general special her. Account professional town house.\nRemain serve decade decision these sport near. Investment smile mind theory would finally prepare."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 26453
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 164780
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 74264
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1202
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13041
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 279740,
+    "TotalApproved": 24636
+  },
+  "AdjusterDetails": {
+    "Name": "Jeremiah Moreno",
+    "ContactInformation": {
+      "Phone": "(858)444-8979",
+      "Email": "nmiller@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/12d86233-8143-44fa-9701-04d32f392bb4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miranda, Williams and Burgess",
+    "Model": "everyone",
+    "Year": 2021,
+    "VIN": "3c2a1145-cc1c-452a-b61b-0230d2011c2f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Wilkins",
+      "ContactInformation": {
+        "Phone": "+1-360-331-3915x7925",
+        "Email": "changamber@example.com"
+      },
+      "Statement": "Increase should direction. Indeed anyone end continue. Call rest range seem also."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "beaf7fc5-0ccc-4954-84e2-30f9a1aec4fc",
+    "OfficerName": "James Montgomery",
+    "ReportDetails": "Agree citizen everybody responsibility way young wind alone. Your note drop information. Marriage usually from what technology."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 843,
+    "AnnualIncome": 53941,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 2,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

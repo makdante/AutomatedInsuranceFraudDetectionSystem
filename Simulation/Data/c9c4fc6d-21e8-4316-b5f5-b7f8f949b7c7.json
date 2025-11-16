@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c9c4fc6d-21e8-4316-b5f5-b7f8f949b7c7",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2025-03-05",
+    "EndDate": "2026-03-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-07",
+    "Location": "4519 William View Suite 006\nDennistown, MD 74795",
+    "Description": "Near power rise building work. Follow forward trade detail carry.\nAdd indeed decade relationship most. Cup central partner impact.\nPower evidence idea box clearly baby he. Until measure site support."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 175866
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6413
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8896
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 93048
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 191927
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 476150,
+    "TotalApproved": 346384
+  },
+  "AdjusterDetails": {
+    "Name": "Jonathan Murphy",
+    "ContactInformation": {
+      "Phone": "527.305.9066x8087",
+      "Email": "ynicholson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/8a3ab2d4-5d22-45b8-8a75-7c6494338ac8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ali, Cherry and Good",
+    "Model": "easy",
+    "Year": 2012,
+    "VIN": "b0bc30bc-c494-4865-ae4d-bf7403024fef"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Mathis",
+      "ContactInformation": {
+        "Phone": "6082376530",
+        "Email": "carrillokara@example.org"
+      },
+      "Statement": "Wear less fish sport. Middle adult member measure summer.\nBoard time forward anything. Condition tough research herself paper worry. This suffer party statement girl."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1473ab10-5b6a-472c-96e9-0fa5bd20bcda",
+    "OfficerName": "Amanda Thomas",
+    "ReportDetails": "Compare early region manager. Cover wait ten together significant federal. Store foreign ok significant. Compare power drug agreement these writer simple world."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 781,
+    "AnnualIncome": 106885,
+    "DebtToIncomeRatio": 0.65
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

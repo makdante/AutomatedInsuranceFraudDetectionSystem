@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7da6a4df-b1a0-4539-8960-d80a88a29a47",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-08-09",
+    "EndDate": "2026-08-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-18",
+    "Location": "14547 Carrillo Cliffs Apt. 402\nPerkinsside, MO 97240",
+    "Description": "Might project card understand past rise tough. Reason support thing guess by town.\nChoose general discuss certain oil TV. Deep interest understand."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 31063
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 171118
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17131
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 82724
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 60177
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 362213,
+    "TotalApproved": 190840
+  },
+  "AdjusterDetails": {
+    "Name": "Linda Gonzalez",
+    "ContactInformation": {
+      "Phone": "307-744-6054x5579",
+      "Email": "haledavid@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/6103782a-7b1c-41d1-9018-6b9a752c97d4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morales Ltd",
+    "Model": "young",
+    "Year": 2011,
+    "VIN": "3e657a62-b194-4c70-812c-1512bec64075"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Susan Higgins",
+      "ContactInformation": {
+        "Phone": "(257)728-4172x50759",
+        "Email": "saravelazquez@example.net"
+      },
+      "Statement": "Life resource research thus. Sell at within stay age leave bill.\nGroup not race organization person. Figure discussion during into claim foreign onto."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "33554d91-1ded-48a0-aa7f-8dbeb5c5e3b2",
+    "OfficerName": "Richard Rodriguez MD",
+    "ReportDetails": "Try sell trial. Commercial modern agency on send street.\nAny the reduce instead themselves wide learn walk. Material campaign any billion. According tree message."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 573,
+    "AnnualIncome": 157416,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

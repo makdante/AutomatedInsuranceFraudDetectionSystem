@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2ba0e07d-8ab8-41b3-92ae-5e29a15085ae",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-05-18",
+    "EndDate": "2026-05-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-28",
+    "Location": "226 Day Ranch\nDavisfurt, VT 34391",
+    "Description": "Vote development simply process analysis apply. Should serve art owner response. Possible before management sort present hand her."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4716750
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4899401
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4654478
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4286042
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4900947
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 23457618,
+    "TotalApproved": 13180188
+  },
+  "AdjusterDetails": {
+    "Name": "David Gallegos",
+    "ContactInformation": {
+      "Phone": "+1-971-745-9156x530",
+      "Email": "ritabailey@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/28f3ce84-208d-4248-a790-f75067474023"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gregory-Alexander",
+    "Model": "treat",
+    "Year": 2007,
+    "VIN": "e6c7b9f2-b40a-404e-8309-0c4409088c7d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jamie Steele",
+      "ContactInformation": {
+        "Phone": "795-337-2854x665",
+        "Email": "kristi37@example.org"
+      },
+      "Statement": "Culture mother policy positive. Ten upon watch hope building keep. Popular spring cover million who structure product.\nHope range like continue land us. Teach class enter moment answer law also."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d8467609-5c25-4a36-a867-ea8b70f3fc8b",
+    "OfficerName": "Jessica Robertson DVM",
+    "ReportDetails": "One discover worker air feeling community situation. Bag simply strategy recent. Not front kid before force.\nMake lay than sing than within. Exactly finally go. Some art be with under kind."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 413,
+    "AnnualIncome": 21284,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

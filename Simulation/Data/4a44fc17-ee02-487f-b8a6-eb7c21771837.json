@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4a44fc17-ee02-487f-b8a6-eb7c21771837",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2024-11-17",
+    "EndDate": "2025-11-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-02",
+    "Location": "294 Charles Crossroad Apt. 586\nNorth Jenniferbury, IA 20749",
+    "Description": "Interesting none arm success. Sea doctor animal because today head. Agent visit candidate understand question economic.\nUs in on. Author artist on manager benefit."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5695
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 38677
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4301
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 63059
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 151695
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 263427,
+    "TotalApproved": 30679
+  },
+  "AdjusterDetails": {
+    "Name": "Darlene Patel",
+    "ContactInformation": {
+      "Phone": "(748)863-3383x9149",
+      "Email": "johndyer@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/4549a144-709a-4d24-a53a-9bb8f90d4e07"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stewart-Rasmussen",
+    "Model": "pay",
+    "Year": 2021,
+    "VIN": "90c1c37c-0bf1-4d20-80d7-c6e163564f22"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lisa Martin",
+      "ContactInformation": {
+        "Phone": "+1-627-286-4515x797",
+        "Email": "pschroeder@example.net"
+      },
+      "Statement": "Chance may service end figure. Entire thank group understand shake southern. While employee cell outside accept artist radio child.\nVisit apply him feeling receive."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5daf97bf-12ee-4c59-865a-a2fe8caf2920",
+    "OfficerName": "Mr. James Brown",
+    "ReportDetails": "Ahead occur consumer sure beautiful wonder show. Site crime specific see daughter beautiful. Morning whose argue development morning."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 745,
+    "AnnualIncome": 113396,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0e1ebcaf-bafd-4039-aff6-954e9dad8a9c",
+  "PolicyID": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+  "EffectiveDates": {
+    "StartDate": "2025-03-18",
+    "EndDate": "2026-03-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "709ee9bc-7606-4bdf-b79d-eda726a7c4fa",
+    "Name": "Heather Hall",
+    "PolicyNumber": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+    "ContactInformation": {
+      "Phone": "492.558.8377x933",
+      "Email": "ckemp@example.org",
+      "Address": "587 Elaine Underpass Suite 792\nRaymondshire, CO 15518"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-18",
+    "Location": "14749 Travis Plains Apt. 162\nWest Ruthborough, IA 64847",
+    "Description": "Along at issue expect seven other. End high people benefit knowledge. Tend use TV rather discover soldier."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5636
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7248
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7146
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8097
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12515
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 40642,
+    "TotalApproved": 19114
+  },
+  "AdjusterDetails": {
+    "Name": "Jose Thompson",
+    "ContactInformation": {
+      "Phone": "679-953-3556x06362",
+      "Email": "mjohnson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/0da0c301-6244-4ca7-9f6b-20f628b7cc3e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Weber, Smith and Wilkerson",
+    "Model": "officer",
+    "Year": 2012,
+    "VIN": "22f28633-c6ab-4d43-a8da-2810b1363f5b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Velez",
+      "ContactInformation": {
+        "Phone": "(357)768-6428x03234",
+        "Email": "reedpaul@example.net"
+      },
+      "Statement": "It cover most purpose court action eat number. Political also region group benefit idea.\nHave room idea price. Hit yourself memory drive eye. Team along business him when a expect."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "98a3e4f3-9ab2-462b-a1bf-3e99c0795934",
+    "OfficerName": "William Floyd",
+    "ReportDetails": "Five cause if teach land off smile. Available hotel number ten program. National detail just although."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 789,
+    "AnnualIncome": 84100,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 1,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

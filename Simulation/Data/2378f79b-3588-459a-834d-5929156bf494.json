@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2378f79b-3588-459a-834d-5929156bf494",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2025-05-04",
+    "EndDate": "2026-05-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-21",
+    "Location": "PSC 6294, Box 4021\nAPO AA 49039",
+    "Description": "Media improve sure baby debate. Wait senior smile big why now. Speech throughout tell hand chance."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 70566
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1002
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 23427
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4542
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11461
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 110998,
+    "TotalApproved": 65184
+  },
+  "AdjusterDetails": {
+    "Name": "Megan Kaiser",
+    "ContactInformation": {
+      "Phone": "001-319-466-6873",
+      "Email": "anna21@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/4de064ad-40f0-4b7a-a17a-00797dc7e9f7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson-Marquez",
+    "Model": "yeah",
+    "Year": 2016,
+    "VIN": "6ec6e41a-c2a6-4ea3-9eb1-e5e7f4926be8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Conley",
+      "ContactInformation": {
+        "Phone": "987-965-0234x3488",
+        "Email": "ryanwilliams@example.net"
+      },
+      "Statement": "Light approach happy may very modern project. Account response sometimes early.\nMilitary radio who easy maintain. Mind forget task difference under painting Mr. Attorney answer rock walk nor social."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "efeaa282-dea9-491e-a2ea-ed13633ea235",
+    "OfficerName": "Breanna Donaldson",
+    "ReportDetails": "Certain business image seek. Season PM low big dinner shake job. Deal standard girl various."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 314,
+    "AnnualIncome": 60574,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

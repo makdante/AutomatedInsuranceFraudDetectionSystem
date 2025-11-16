@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0b83f213-a609-4033-8d9c-6906fe5d9da8",
+  "PolicyID": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+  "EffectiveDates": {
+    "StartDate": "2025-05-18",
+    "EndDate": "2026-05-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc658f34-99aa-4827-9c9c-82ccb20e727e",
+    "Name": "Christopher Smith",
+    "PolicyNumber": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+    "ContactInformation": {
+      "Phone": "519-859-6871x1692",
+      "Email": "fpaul@example.net",
+      "Address": "052 Fletcher Road\nPort Kelsey, SD 74092"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-04",
+    "Location": "31795 Rodriguez Plaza Suite 284\nLake Amandaberg, FM 36021",
+    "Description": "Pass face happy security man. Eat middle industry final interest brother rule. Program into region more."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8873
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 23789
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 46872
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 122218
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5872
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 207624,
+    "TotalApproved": 169983
+  },
+  "AdjusterDetails": {
+    "Name": "Thomas Hall",
+    "ContactInformation": {
+      "Phone": "222-502-0908x89790",
+      "Email": "martincraig@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/af1da72f-37cb-46c3-871d-b8739ed748fd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brewer, Martin and James",
+    "Model": "song",
+    "Year": 2003,
+    "VIN": "b6ed62c5-37fd-43a0-ba6d-82c30657bbd9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amanda Ingram",
+      "ContactInformation": {
+        "Phone": "001-541-640-4710x92055",
+        "Email": "ecameron@example.net"
+      },
+      "Statement": "Leader half high American away character determine.\nInternational enjoy pressure activity of worry yeah. Western management former kid follow."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "afdd2e5a-6575-48ad-9715-cf9cf23285a9",
+    "OfficerName": "Amber Douglas",
+    "ReportDetails": "Dark Mr brother issue above.\nLevel section responsibility compare accept. Road despite reduce stage Democrat reach. Minute our us fall painting those science.\nCamera someone admit. East table want."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 756,
+    "AnnualIncome": 80834,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

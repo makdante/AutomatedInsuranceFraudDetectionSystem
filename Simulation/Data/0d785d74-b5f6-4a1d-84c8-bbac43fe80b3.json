@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0d785d74-b5f6-4a1d-84c8-bbac43fe80b3",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-08-06",
+    "EndDate": "2026-08-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-18",
+    "Location": "1038 Ortiz Points Suite 586\nEast Stephanie, SC 78776",
+    "Description": "House remember listen hot professor. Rock tell claim. Figure over break choose attorney.\nTravel western fly sure reach difficult mission. Least change control organization."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9504
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 45418
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14157
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6851
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1756
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 77686,
+    "TotalApproved": 65600
+  },
+  "AdjusterDetails": {
+    "Name": "Anthony King",
+    "ContactInformation": {
+      "Phone": "(843)911-8481",
+      "Email": "jasminecortez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b673259b-24b1-40f0-94e3-cc9ea6a1495a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Patel-Petty",
+    "Model": "get",
+    "Year": 2022,
+    "VIN": "7edc5a91-4b8d-46a2-b1dc-326b46ede1c3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erica Green",
+      "ContactInformation": {
+        "Phone": "001-416-623-6781x31976",
+        "Email": "sarahthompson@example.com"
+      },
+      "Statement": "Quality animal hit impact. Point debate car have three. Speak girl rate professional much strategy.\nNature reach street attorney happy president worker. Structure institution ok back risk."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2a74e88c-13f9-4d4f-bf29-abc33dee9449",
+    "OfficerName": "Thomas Brewer",
+    "ReportDetails": "Baby writer air sister peace kind base red. Collection theory store."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 503,
+    "AnnualIncome": 162572,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

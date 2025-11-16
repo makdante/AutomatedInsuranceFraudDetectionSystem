@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ae8670be-8d0f-45b4-9366-028814d0ea7b",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-02-12",
+    "EndDate": "2026-02-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-07",
+    "Location": "Unit 5827 Box 0778\nDPO AP 44416",
+    "Description": "Mrs thank subject receive. Other item risk new. Professional draw door actually owner."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 135180
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7847
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16698
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 59925
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 91741
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 311391,
+    "TotalApproved": 283204
+  },
+  "AdjusterDetails": {
+    "Name": "James Poole",
+    "ContactInformation": {
+      "Phone": "391-345-9352x89923",
+      "Email": "sharonjimenez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/8de5fe34-ace4-4af2-ae64-d783c46c9ac7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Green, Clayton and Gonzalez",
+    "Model": "pull",
+    "Year": 2018,
+    "VIN": "280acae9-3adf-458d-84e7-a776cf0fd2ad"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Denise Yang",
+      "ContactInformation": {
+        "Phone": "+1-695-675-1774x86614",
+        "Email": "cdelgado@example.net"
+      },
+      "Statement": "Visit girl high western.\nTrouble happy sea start of run. Adult administration debate good by above you. Firm result development six church."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "48741c5c-7139-41e7-a42e-4656adad957a",
+    "OfficerName": "Chelsea Henry",
+    "ReportDetails": "Large itself ten seat. Result idea spring catch. These know player near kid administration.\nOnly process fall imagine. Above result low."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 373,
+    "AnnualIncome": 113473,
+    "DebtToIncomeRatio": 0.61
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "53b12015-3de4-4369-8e1d-ff6b9195534c",
+  "PolicyID": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+  "EffectiveDates": {
+    "StartDate": "2025-03-12",
+    "EndDate": "2026-03-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba82c3bd-9d46-4b0e-b555-5005238e858f",
+    "Name": "Kimberly Perez",
+    "PolicyNumber": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+    "ContactInformation": {
+      "Phone": "001-609-229-9683x29012",
+      "Email": "nicholsbenjamin@example.com",
+      "Address": "81438 Berry Squares Apt. 214\nSarahtown, CA 13161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-12",
+    "Location": "86411 Stacey Bypass Suite 675\nNorth Vanessa, WI 73300",
+    "Description": "Born born song PM. Movie oil still shoulder cause.\nOur surface method more paper arrive Mrs. Cut call player customer behavior we understand. Current set become listen north lose expect air."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22773
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2204
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1769
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18943
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7505
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 53194,
+    "TotalApproved": 51023
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Moore",
+    "ContactInformation": {
+      "Phone": "(390)679-3942x179",
+      "Email": "qreynolds@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a30cbbd7-2b02-4e13-a93d-146d209f53d6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martin, Bailey and Alvarez",
+    "Model": "learn",
+    "Year": 2015,
+    "VIN": "2ae85c72-6a79-44d9-aff0-6d3989986828"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kenneth Collins",
+      "ContactInformation": {
+        "Phone": "5158221391",
+        "Email": "mckinneyheather@example.net"
+      },
+      "Statement": "From action agree mother Mr. That walk present available reality around card trade."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6f5788bc-7acf-472e-ac3a-e3163d2dc80d",
+    "OfficerName": "Austin Kennedy",
+    "ReportDetails": "Across choice cause ever so health. First indicate above.\nRaise successful machine everything than watch. Raise soldier practice other court pick."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 617,
+    "AnnualIncome": 76737,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 3,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

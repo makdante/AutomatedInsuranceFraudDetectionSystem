@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3b367562-9e7c-4cc9-b849-6f9b4a1b4e6e",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-05-03",
+    "EndDate": "2026-05-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-24",
+    "Location": "846 Brett Terrace Suite 149\nBrownburgh, WV 70828",
+    "Description": "Through entire recent director. Money these mission. From occur walk too since.\nMust try phone question level. Mouth will about production work."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 40208
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11901
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5304
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 102810
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 43665
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 203888,
+    "TotalApproved": 186991
+  },
+  "AdjusterDetails": {
+    "Name": "Kenneth Murillo",
+    "ContactInformation": {
+      "Phone": "001-984-396-5962x30162",
+      "Email": "kimberlythompson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/171d0c1a-fd1e-47d7-9c59-52d89cdb17e9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garrett, Zimmerman and Leblanc",
+    "Model": "wide",
+    "Year": 2017,
+    "VIN": "b1f7c9e1-171f-4177-b7e7-87da5828a0d6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jennifer Garcia",
+      "ContactInformation": {
+        "Phone": "+1-600-255-4632x74319",
+        "Email": "karen39@example.org"
+      },
+      "Statement": "Goal send can back add exactly politics avoid. Herself tree defense charge discussion last send including."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ba00d199-191e-4ce4-99b9-1dd0b42b70ba",
+    "OfficerName": "Michelle Torres",
+    "ReportDetails": "Full never really us. So end true believe among nature still. Fast red their."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 353,
+    "AnnualIncome": 134947,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 5,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

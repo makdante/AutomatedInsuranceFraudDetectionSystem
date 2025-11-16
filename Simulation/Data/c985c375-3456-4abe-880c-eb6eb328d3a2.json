@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c985c375-3456-4abe-880c-eb6eb328d3a2",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-03-23",
+    "EndDate": "2026-03-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-11",
+    "Location": "1953 Nelson Mall Suite 128\nNorth Jackieberg, AS 52718",
+    "Description": "Speak remember adult manager avoid quite statement. Purpose computer real I hundred despite. Camera course stay nation politics."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 21751
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15312
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7493
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7384
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7821
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 59761,
+    "TotalApproved": 48368
+  },
+  "AdjusterDetails": {
+    "Name": "Brandy Olson",
+    "ContactInformation": {
+      "Phone": "233-796-1930x280",
+      "Email": "johnparker@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/dd1d4ea4-cfdc-4992-90d1-571a7b50da2b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Farmer Inc",
+    "Model": "smile",
+    "Year": 2007,
+    "VIN": "47b2c800-96c3-4ff6-b6b3-f86016def5cc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tyler Paul",
+      "ContactInformation": {
+        "Phone": "651-968-3235",
+        "Email": "michael31@example.net"
+      },
+      "Statement": "Unit state seek for fire data. Rock business go. Son indeed raise oil government rest.\nAll position accept very seven size weight. Culture common spend on manager case. Along society whether sell."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "31c66402-f93d-479a-80ec-dae02018d7b4",
+    "OfficerName": "Kenneth Mack",
+    "ReportDetails": "May senior easy senior child. Attorney for surface simple.\nTax environmental position ready guy.\nStudent approach street speech sit. Man since whole total action difficult treatment."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 812,
+    "AnnualIncome": 169906,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

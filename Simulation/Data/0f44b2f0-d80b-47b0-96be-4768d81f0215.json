@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0f44b2f0-d80b-47b0-96be-4768d81f0215",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-07-10",
+    "EndDate": "2026-07-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-14",
+    "Location": "2504 Amy Isle\nEast Tracyton, OH 28819",
+    "Description": "His possible have economic after.\nAnother Mr window control before drop. Something baby able instead station part.\nDrug in relate value. You pressure many station."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4832
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19177
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 22648
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 34197
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 49632
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 130486,
+    "TotalApproved": 42410
+  },
+  "AdjusterDetails": {
+    "Name": "Susan Bailey",
+    "ContactInformation": {
+      "Phone": "5245916368",
+      "Email": "davidmcpherson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/b8d713c4-79bc-49dc-928f-03a28ae4efbd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Franco, Aguilar and Rodriguez",
+    "Model": "fine",
+    "Year": 2008,
+    "VIN": "97a57ae8-90f6-431e-a305-6d1d32394a56"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Devin York",
+      "ContactInformation": {
+        "Phone": "499-787-7349",
+        "Email": "wilsondaniel@example.net"
+      },
+      "Statement": "Beyond girl free issue agree begin. Southern oil land store game example."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bcfad50a-6ea2-43ef-a317-4a15a21120d2",
+    "OfficerName": "Amanda Ruiz",
+    "ReportDetails": "Interesting box adult game anything. Hear question institution. Parent food long keep wrong back.\nHour worker miss particularly building. Get choose race social something turn down."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 615,
+    "AnnualIncome": 186066,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

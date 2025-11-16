@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1010fc4f-cdd8-4387-8c75-955c15285655",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2024-12-09",
+    "EndDate": "2025-12-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-22",
+    "Location": "8848 Henry Vista Suite 831\nMichaelview, WI 27167",
+    "Description": "True model least skill dog. Civil light than around thus.\nPosition recently clearly back table owner model relationship. Able country nature our."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 31125
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 26788
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12813
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 106095
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6265
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 183086,
+    "TotalApproved": 122998
+  },
+  "AdjusterDetails": {
+    "Name": "Marvin Parrish",
+    "ContactInformation": {
+      "Phone": "001-634-553-0375x617",
+      "Email": "franksmith@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/6f601d68-27fd-4cc9-9131-50953086b6ac"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Schroeder LLC",
+    "Model": "end",
+    "Year": 2020,
+    "VIN": "8011ddb8-e568-4466-9738-d7876ae966d6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joel Torres",
+      "ContactInformation": {
+        "Phone": "385-863-3468x483",
+        "Email": "kelly20@example.org"
+      },
+      "Statement": "Magazine road option reduce. Much science yard according.\nAppear activity four ask itself. Nation role wait again lawyer guess whether none."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "46e23d40-cce2-4e67-aad4-1b866f4b290a",
+    "OfficerName": "Kevin Dawson",
+    "ReportDetails": "Rate time those research office approach interesting. Relationship worry consumer reality simply. Sign rich whether why and federal hit heart."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 593,
+    "AnnualIncome": 197833,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

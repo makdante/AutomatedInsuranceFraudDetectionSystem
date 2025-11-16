@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0186498f-ff5b-41c0-ae61-6990d88450b9",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2025-04-11",
+    "EndDate": "2026-04-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-22",
+    "Location": "10675 Joseph Hollow\nChristopherstad, CT 37081",
+    "Description": "Despite why guess up daughter painting kid. Pass company keep rest treat safe. Listen present industry political I color."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12046
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2545
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8218
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 32365
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19054
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 74228,
+    "TotalApproved": 64571
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Baird",
+    "ContactInformation": {
+      "Phone": "+1-500-772-9189x2067",
+      "Email": "jenniferscott@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/27ccafe6-35c2-4075-8e95-81c2bf58f7ca"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-22T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-27T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-01T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Harris-Espinoza",
+    "Model": "up",
+    "Year": 2012,
+    "VIN": "9f112b7f-888d-4c0f-bc5d-6ea026880da6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Emily Wilson",
+      "ContactInformation": {
+        "Phone": "001-237-672-5683x430",
+        "Email": "yevans@example.net"
+      },
+      "Statement": "Son call pressure its player. Officer production task every.\nVoice artist behavior economy far this. Coach data eye bring."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "afbadb74-2c89-4b82-a77f-ed9b8c79f0b6",
+    "OfficerName": "Brian Brandt",
+    "ReportDetails": "Bad personal fish well. Share them yeah.\nLike down man film. Bad draw out mission call brother magazine. Collection and whether thousand in bar."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 577,
+    "AnnualIncome": 52875,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

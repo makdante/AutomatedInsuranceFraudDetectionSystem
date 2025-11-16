@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b873022e-aab1-4643-9fdb-ffa3b7b01739",
+  "PolicyID": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+  "EffectiveDates": {
+    "StartDate": "2025-10-06",
+    "EndDate": "2026-10-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "99c198b5-d0aa-48d3-94c9-959f2a44263a",
+    "Name": "Bethany Rose",
+    "PolicyNumber": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+    "ContactInformation": {
+      "Phone": "(715)908-5515x619",
+      "Email": "heather19@example.com",
+      "Address": "5993 Snow Manor Suite 784\nCherylton, KY 35335"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-04",
+    "Location": "29290 Ware Mills\nSouth Michael, WV 57710",
+    "Description": "Song receive article order member responsibility weight current. Pretty marriage candidate summer.\nJust line grow issue. Democrat strategy pressure condition. Glass wide five best."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 84481
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6437
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 42905
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44873
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7856
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 186552,
+    "TotalApproved": 35605
+  },
+  "AdjusterDetails": {
+    "Name": "Susan Estes",
+    "ContactInformation": {
+      "Phone": "801.644.2449",
+      "Email": "alyssasantos@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/7fe99bf4-0f24-41ee-8a07-65c133beb201"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-09-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Richards PLC",
+    "Model": "page",
+    "Year": 2011,
+    "VIN": "64ee266a-2424-4674-8e29-191c3a87dac7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebecca Lowe",
+      "ContactInformation": {
+        "Phone": "+1-889-401-8436x47887",
+        "Email": "charlesedwards@example.net"
+      },
+      "Statement": "Let north rock trial.\nSuddenly back body put. Course camera history president season."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ed35d826-58e9-4aae-b71d-8c7570ceb662",
+    "OfficerName": "Catherine Martin",
+    "ReportDetails": "Teach any shake decade never money. Act act talk do enough real.\nOnce board those bring. Color media nature individual really left. Fall probably message human year various."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 301,
+    "AnnualIncome": 143764,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 6,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

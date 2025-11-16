@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4a2568ca-26ac-437e-96f7-ee9fd1550aed",
+  "PolicyID": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+  "EffectiveDates": {
+    "StartDate": "2025-01-28",
+    "EndDate": "2026-01-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0aea6355-ec93-4670-9d1f-368e59077bd4",
+    "Name": "Jennifer Smith",
+    "PolicyNumber": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+    "ContactInformation": {
+      "Phone": "(638)899-2687x626",
+      "Email": "barrvanessa@example.com",
+      "Address": "PSC 0173, Box 9250\nAPO AA 43354"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-08",
+    "Location": "281 Griffin Pass Apt. 683\nNancyview, WI 08885",
+    "Description": "Store possible always. Beat ahead star some choice staff. Team feel buy now century television have.\nYard test nation resource describe smile could. Close floor behind cut child majority."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13605
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8129
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7943
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2091
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 85765
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 117533,
+    "TotalApproved": 72434
+  },
+  "AdjusterDetails": {
+    "Name": "Philip Perez",
+    "ContactInformation": {
+      "Phone": "+1-995-802-5508x863",
+      "Email": "wandaryan@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c49aacda-a540-4826-85de-5b0f91c59c00"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Pearson-Williamson",
+    "Model": "impact",
+    "Year": 2016,
+    "VIN": "99a4056b-ac21-40a5-be40-9bd83647f45b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Foster",
+      "ContactInformation": {
+        "Phone": "+1-502-402-3814x8826",
+        "Email": "amanda75@example.org"
+      },
+      "Statement": "Explain husband pull.\nGreen process window memory agent then choose. Section from team create."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f8a271c4-7504-4cf8-9238-fce0831c9a27",
+    "OfficerName": "Robin Barry",
+    "ReportDetails": "Campaign ready know staff network. Word concern middle series.\nTheir recognize herself magazine direction interesting. Car science himself industry challenge fear."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 474,
+    "AnnualIncome": 137313,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 8,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

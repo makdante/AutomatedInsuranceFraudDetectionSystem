@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dc874ff9-dbbd-49d4-9cce-f81184dfa711",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-07-30",
+    "EndDate": "2026-07-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-08",
+    "Location": "2108 James Village\nJacksonborough, KY 59543",
+    "Description": "Attack half station bring camera assume of street.\nWife heavy meeting science could short only. Sure sell born talk contain life nothing do."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3019
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 86254
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19977
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15166
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8810
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 133226,
+    "TotalApproved": 28519
+  },
+  "AdjusterDetails": {
+    "Name": "Andrea Morse",
+    "ContactInformation": {
+      "Phone": "+1-639-410-0001x95830",
+      "Email": "williambarrett@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/9059243b-f930-4253-8744-5c43f781cb53"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cole and Sons",
+    "Model": "similar",
+    "Year": 2000,
+    "VIN": "5b88b131-4e2f-4f00-8cb5-53fbd7902bea"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Susan Fisher",
+      "ContactInformation": {
+        "Phone": "452-865-4756x065",
+        "Email": "michaelking@example.com"
+      },
+      "Statement": "Claim star possible police. Information head argue dream actually economic deep thing. Maintain pay boy nation child."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9b22afe0-8ade-4f66-8c98-59522ecea9b0",
+    "OfficerName": "Joseph Walton",
+    "ReportDetails": "Talk why well maintain wall trial. Concern rise a wonder reach. Body long doctor option development father head when. Send kind plant give field wait director side."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 475,
+    "AnnualIncome": 77072,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

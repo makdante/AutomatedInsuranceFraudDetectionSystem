@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b1c829fe-949d-4b50-99e5-1835b60a3ed4",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-06-18",
+    "EndDate": "2026-06-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-27",
+    "Location": "93485 Cole Meadows Suite 697\nNew Dawn, OR 93025",
+    "Description": "Right speech main war serve world read. Possible peace poor address.\nSay term bit partner condition. Benefit phone power imagine.\nSenior land arm realize meet subject bag."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8491
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3760
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1505
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12727
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 96244
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 122727,
+    "TotalApproved": 32727
+  },
+  "AdjusterDetails": {
+    "Name": "Darrell Luna",
+    "ContactInformation": {
+      "Phone": "239-620-5233x34284",
+      "Email": "ejackson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/21e069b1-044d-4e22-b29c-bb983fbbe555"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bell, Martinez and Farley",
+    "Model": "establish",
+    "Year": 2002,
+    "VIN": "e5ffa061-a7d4-440a-a7d1-f447982188c8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cindy Byrd",
+      "ContactInformation": {
+        "Phone": "001-853-428-1739x24580",
+        "Email": "elizabeth27@example.net"
+      },
+      "Statement": "Chair what wish anyone military set. Number player suffer several sister behind. Time heart single seek open party."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bf29b184-204e-4dbd-b0ca-4fddd247f738",
+    "OfficerName": "Debbie Rodriguez",
+    "ReportDetails": "Film industry house. Know beyond operation after purpose by down.\nRemember effect staff onto style fund career those. Those lay set account section old high."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 820,
+    "AnnualIncome": 28070,
+    "DebtToIncomeRatio": 0.23
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

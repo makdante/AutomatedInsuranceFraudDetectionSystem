@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1b8824a9-8cee-4ced-a6c0-9880092d1ec5",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2025-05-25",
+    "EndDate": "2026-05-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-19",
+    "Location": "41168 Victor Squares Suite 272\nNorth Rodney, PW 65321",
+    "Description": "Consumer interest operation. Method indeed all leave describe perhaps.\nSuddenly light side clearly nice less."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 149710
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 43643
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14271
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14910
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10143
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 232677,
+    "TotalApproved": 54535
+  },
+  "AdjusterDetails": {
+    "Name": "Jeremy Perkins",
+    "ContactInformation": {
+      "Phone": "001-231-770-8846x75648",
+      "Email": "fflores@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e3261ec0-b2d2-42a9-98d8-322c04d93847"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garcia, Rivera and Andrews",
+    "Model": "produce",
+    "Year": 2017,
+    "VIN": "b1788a2a-aab0-48b6-9b2c-4a1480026840"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Walter",
+      "ContactInformation": {
+        "Phone": "+1-472-985-4844x4095",
+        "Email": "sandra08@example.net"
+      },
+      "Statement": "Its thing discuss charge data action. Manager let interest I treat. Nor day four take growth marriage."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8f770a79-9c6c-4be9-af88-1addc7af3086",
+    "OfficerName": "Lisa Wood",
+    "ReportDetails": "All service hot man its. Animal forget material book court.\nAccording say great. Gun church before argue.\nPast send teach Congress television base. Car anything soon nothing last against one."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 743,
+    "AnnualIncome": 171423,
+    "DebtToIncomeRatio": 0.26
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

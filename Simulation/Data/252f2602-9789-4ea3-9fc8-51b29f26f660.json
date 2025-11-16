@@ -1,0 +1,112 @@
+{
+  "ClaimID": "252f2602-9789-4ea3-9fc8-51b29f26f660",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-01-20",
+    "EndDate": "2026-01-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-15",
+    "Location": "236 Jessica Club Apt. 333\nNorth Michaeltown, ND 36838",
+    "Description": "Summer although above also but small billion animal. World world environmental relationship party evening option.\nDeal however paper. His knowledge guy give relate produce in front."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17433
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 100598
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 33277
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16792
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 99252
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 267352,
+    "TotalApproved": 73944
+  },
+  "AdjusterDetails": {
+    "Name": "Michaela Roach",
+    "ContactInformation": {
+      "Phone": "550.473.8442x5912",
+      "Email": "brooksjulia@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/7d088d8d-d90a-41c0-b71c-a3d093af73e5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith, Evans and Baker",
+    "Model": "response",
+    "Year": 2008,
+    "VIN": "d365bb02-020e-402c-bd59-47f6fd63bf5e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Debra Hunt",
+      "ContactInformation": {
+        "Phone": "(561)267-2752",
+        "Email": "catherinecarr@example.net"
+      },
+      "Statement": "Lawyer career final produce stage drug. Fish citizen worker stage physical listen into. Enter green manager.\nWell pull allow professional cost serious. Will approach son third."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e7b39d2d-7c47-4c21-93a9-b1a9085c1041",
+    "OfficerName": "Autumn Johnson",
+    "ReportDetails": "Up explain position prove often. Serve idea how control. Beautiful this world dog.\nName teach suddenly own. Single enough green light. Eight surface teacher so conference sure big."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 464,
+    "AnnualIncome": 53695,
+    "DebtToIncomeRatio": 0.99
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

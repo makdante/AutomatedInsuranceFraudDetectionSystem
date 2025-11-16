@@ -1,0 +1,112 @@
+{
+  "ClaimID": "179e6102-27c6-46c1-820a-64cf71d8711d",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-04-28",
+    "EndDate": "2026-04-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-20",
+    "Location": "882 Frances Port Suite 744\nJasmineshire, DC 47200",
+    "Description": "Moment trip catch election. Send bank probably pick. Character thing build high. Conference already serious energy."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 46869
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16753
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9648
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 29912
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 117624
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 220806,
+    "TotalApproved": 59977
+  },
+  "AdjusterDetails": {
+    "Name": "Eric Brooks",
+    "ContactInformation": {
+      "Phone": "+1-685-272-5632x332",
+      "Email": "villarrealjoseph@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/556f5b65-0320-488e-82db-bb707c099b68"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-20T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-25T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-30T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lee Ltd",
+    "Model": "culture",
+    "Year": 2013,
+    "VIN": "f4baf363-be5e-40d3-8627-60dd961d13be"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Susan Martin",
+      "ContactInformation": {
+        "Phone": "+1-675-701-4503",
+        "Email": "tmay@example.net"
+      },
+      "Statement": "Contain affect not view increase agreement brother TV. Need other decision student kitchen item difference. Section answer particularly."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8f59f8c1-a265-46fb-9724-17798d8cfe78",
+    "OfficerName": "Christopher Mclaughlin",
+    "ReportDetails": "Hold against foreign on away away cultural action. Candidate then middle natural. Executive magazine foreign blood maybe week authority item."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 492,
+    "AnnualIncome": 171878,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 2,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

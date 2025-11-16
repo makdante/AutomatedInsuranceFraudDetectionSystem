@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b3acc309-4d73-4a73-9e7d-026976d1f666",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-07-12",
+    "EndDate": "2026-07-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-17",
+    "Location": "432 Kimberly Meadow Suite 858\nJamesland, NE 41620",
+    "Description": "Easy recently save space prevent left possible him. Occur probably station art bad address type. May summer surface environmental put."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4424204
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4887261
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4726544
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4893779
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4330966
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 23262754,
+    "TotalApproved": 7222290
+  },
+  "AdjusterDetails": {
+    "Name": "Kathryn Valentine",
+    "ContactInformation": {
+      "Phone": "(830)943-0768",
+      "Email": "sramirez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/5e378ebe-a606-48f1-b8a9-d35d651b447e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Blackwell-Edwards",
+    "Model": "father",
+    "Year": 2007,
+    "VIN": "5dda8401-5c8e-4b81-a794-e13b0528f09b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joshua Jones",
+      "ContactInformation": {
+        "Phone": "2204808118",
+        "Email": "lorettasullivan@example.net"
+      },
+      "Statement": "Increase represent with perhaps. Middle hold still painting serious time future down."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "68ad1c46-64ed-41e5-96e3-a92740939dd1",
+    "OfficerName": "Patrick Simmons",
+    "ReportDetails": "Claim home his require imagine bank whether care. Happy bit vote enjoy bed herself bag level."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 413,
+    "AnnualIncome": 66615,
+    "DebtToIncomeRatio": 0.57
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

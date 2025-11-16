@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d052c51f-57e5-457b-a1fe-2d196d57e56b",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2024-11-03",
+    "EndDate": "2025-11-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2024-11-28",
+    "Location": "897 Henderson Route Suite 376\nLauraborough, IA 82008",
+    "Description": "Feel must discuss often assume beyond security. Dog difficult line instead mission public somebody type. May write you two left technology everybody factor. Feeling drug music memory."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 149893
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8222
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3835
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 51197
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47069
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 260216,
+    "TotalApproved": 192061
+  },
+  "AdjusterDetails": {
+    "Name": "Patricia Allen",
+    "ContactInformation": {
+      "Phone": "371.548.0407",
+      "Email": "lwinters@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/f35acb39-c0e4-44ad-8f83-092738cca9ff"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2024-11-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2024-12-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2024-12-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Madden-Matthews",
+    "Model": "my",
+    "Year": 2013,
+    "VIN": "855a7420-52ef-4a09-a1bd-b1f1c832115c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nicholas Hickman",
+      "ContactInformation": {
+        "Phone": "001-855-446-8085x33710",
+        "Email": "brandy96@example.net"
+      },
+      "Statement": "Player force situation role wrong clear. Difficult sell say maybe.\nIndicate admit possible speech house star travel. Seem free discuss under actually skin language include."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a0e733d5-3872-4e77-a063-f7d33bcbd157",
+    "OfficerName": "Timothy Velasquez",
+    "ReportDetails": "Might address glass agree record wear despite. Least project ok particular hotel."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 458,
+    "AnnualIncome": 131255,
+    "DebtToIncomeRatio": 0.31
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

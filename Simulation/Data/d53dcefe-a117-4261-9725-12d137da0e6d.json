@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d53dcefe-a117-4261-9725-12d137da0e6d",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2025-01-27",
+    "EndDate": "2026-01-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-11",
+    "Location": "3170 Kelley Vista Apt. 981\nNorth Kathleen, OK 06162",
+    "Description": "Group possible analysis white. Trip rise chair choice from.\nLook safe environmental lot account. Fish create consider.\nAgo so style friend whose certain. Serious firm him up."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 139781
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3747
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 57280
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 35176
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 47794
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 283778,
+    "TotalApproved": 275615
+  },
+  "AdjusterDetails": {
+    "Name": "Sarah Holloway",
+    "ContactInformation": {
+      "Phone": "301-949-2054",
+      "Email": "rhernandez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d3298697-619e-432c-a9ea-3cf957f8fc52"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Flores PLC",
+    "Model": "serious",
+    "Year": 2010,
+    "VIN": "96bec0ad-e27f-4caa-9d34-2d452f72f6c8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steven Martinez",
+      "ContactInformation": {
+        "Phone": "295.512.5003x78073",
+        "Email": "sosabrandon@example.org"
+      },
+      "Statement": "Call difficult foot three feel image. Data consumer future. Population with when financial. Imagine others school its store quite administration.\nFinal glass that. Picture person official challenge."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "65498acc-3bac-4bcc-95b8-582b49bbf17d",
+    "OfficerName": "Donald French",
+    "ReportDetails": "Behind wall he bar trial forward simple. Must across what scene to activity."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 505,
+    "AnnualIncome": 46960,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 6,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

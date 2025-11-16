@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dc22ce81-62fc-4830-8107-283882de53fe",
+  "PolicyID": "c3c97e20-9916-4009-b655-6b300f90d80a",
+  "EffectiveDates": {
+    "StartDate": "2025-09-21",
+    "EndDate": "2026-09-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "053ca69a-366f-4375-961c-7efc9aef3ba5",
+    "Name": "Dalton Davis",
+    "PolicyNumber": "c3c97e20-9916-4009-b655-6b300f90d80a",
+    "ContactInformation": {
+      "Phone": "333.559.0778",
+      "Email": "nancy30@example.org",
+      "Address": "5703 Aaron Lane\nSouth Matthew, MH 99089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-20",
+    "Location": "8640 Shane Street\nTimothyside, PA 84222",
+    "Description": "Speech maintain analysis writer city trial station. Tree start generation democratic smile. Ago particularly Congress."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 35230
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 104884
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 20708
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 41720
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4842
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 207384,
+    "TotalApproved": 31609
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Oconnell",
+    "ContactInformation": {
+      "Phone": "+1-621-520-4534x36260",
+      "Email": "lharper@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/f83eddd8-2200-4f95-af04-706b9b5c8a6d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez, Hernandez and Douglas",
+    "Model": "anything",
+    "Year": 2016,
+    "VIN": "a444453c-bab6-443b-a31a-2e1de78c51da"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Elliott",
+      "ContactInformation": {
+        "Phone": "+1-232-981-2486x00012",
+        "Email": "millerpaul@example.com"
+      },
+      "Statement": "Then evidence Democrat professor. Another anything recent area weight. Though rich improve.\nRecognize rise whose free peace fly people guy. Provide let approach care happy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "732f0398-d75a-45c2-8696-3511bbb8f64b",
+    "OfficerName": "Lauren Clark",
+    "ReportDetails": "Marriage half air task general. Much night describe or because size know. Thing factor address build."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 771,
+    "AnnualIncome": 145614,
+    "DebtToIncomeRatio": 0.5
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

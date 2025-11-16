@@ -1,0 +1,112 @@
+{
+  "ClaimID": "96a59a48-5061-4981-b653-a6b5f8a4a45f",
+  "PolicyID": "fa233a67-087f-4a81-aa85-03cb75220f66",
+  "EffectiveDates": {
+    "StartDate": "2025-02-07",
+    "EndDate": "2026-02-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0cc54510-0118-43f1-bb14-decc3fb19e8e",
+    "Name": "Daniel Novak",
+    "PolicyNumber": "fa233a67-087f-4a81-aa85-03cb75220f66",
+    "ContactInformation": {
+      "Phone": "531-516-8947",
+      "Email": "rogerssteven@example.com",
+      "Address": "51262 Davis Knoll\nLake Elizabeth, AZ 16893"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-01",
+    "Location": "0770 Callahan Center\nFrankmouth, OK 23040",
+    "Description": "Less gas coach opportunity energy.\nCar why drug late stay they ahead. Relationship development movement politics series current week. Everyone chance rock relationship save occur matter."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3262
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 85125
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4637
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 189005
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 38295
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 320324,
+    "TotalApproved": 139326
+  },
+  "AdjusterDetails": {
+    "Name": "Eric Mcclain",
+    "ContactInformation": {
+      "Phone": "001-971-777-3050x50121",
+      "Email": "keith22@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/644fba42-ad00-47f9-a053-decbeb37b6aa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Freeman and Sons",
+    "Model": "task",
+    "Year": 2013,
+    "VIN": "e824c9cc-7bf8-48c3-93c8-664f1769ea79"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ryan Norman",
+      "ContactInformation": {
+        "Phone": "001-958-596-6562",
+        "Email": "thomaslopez@example.com"
+      },
+      "Statement": "House east stock consumer quite girl high stop. Two number next probably character usually. Fact visit prepare deep among. Teacher according who only democratic create."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8ff1a4df-e926-4a52-9732-e144db2e64b7",
+    "OfficerName": "Eric Jones",
+    "ReportDetails": "Suddenly wife management.\nRace whatever interesting scene prevent. Care source red billion case some base leader. Stay role now event base should financial."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 368,
+    "AnnualIncome": 84019,
+    "DebtToIncomeRatio": 0.37
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 4,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

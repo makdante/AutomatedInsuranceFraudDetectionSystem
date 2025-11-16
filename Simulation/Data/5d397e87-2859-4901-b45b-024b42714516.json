@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5d397e87-2859-4901-b45b-024b42714516",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-09-16",
+    "EndDate": "2026-09-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-25",
+    "Location": "354 Higgins Harbor\nBrendaview, PR 50247",
+    "Description": "Read team important travel. Policy way if year wait reflect. Moment feel career owner red since."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 154365
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 85124
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 94540
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 32279
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 19450
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 385758,
+    "TotalApproved": 264647
+  },
+  "AdjusterDetails": {
+    "Name": "Justin Ballard",
+    "ContactInformation": {
+      "Phone": "001-845-754-3377x763",
+      "Email": "jeremyholt@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/990da308-b5c7-49a2-a009-030e799ac8ba"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moore, Perkins and Johnson",
+    "Model": "seek",
+    "Year": 2013,
+    "VIN": "9a35bd35-f120-420f-8faf-9391814c1c0d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Peter Graves",
+      "ContactInformation": {
+        "Phone": "+1-461-336-6541x54519",
+        "Email": "davidhahn@example.com"
+      },
+      "Statement": "Thing teach section. Image old young employee able professional energy. Marriage who strategy four together player third.\nInvolve me key edge house culture. Focus beautiful third bad my."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c065558c-a75c-46c9-a033-cf9d1168ef77",
+    "OfficerName": "Matthew Marquez",
+    "ReportDetails": "Message purpose bar experience concern child term. Radio show anyone hot find if cup cover.\nDifferent development real science radio paper tough. Believe item imagine hand phone. Former thought task."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 597,
+    "AnnualIncome": 84893,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

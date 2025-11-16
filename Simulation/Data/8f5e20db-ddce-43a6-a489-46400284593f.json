@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8f5e20db-ddce-43a6-a489-46400284593f",
+  "PolicyID": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+  "EffectiveDates": {
+    "StartDate": "2025-01-10",
+    "EndDate": "2026-01-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "45b25f18-08b7-457c-9045-e998b2b74cef",
+    "Name": "Joshua Ryan",
+    "PolicyNumber": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+    "ContactInformation": {
+      "Phone": "(903)440-8271x3107",
+      "Email": "justin94@example.net",
+      "Address": "792 Ann Cliffs\nLake Desireebury, MD 93133"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-10",
+    "Location": "982 Sharon Via\nLake Veronicabury, TX 36444",
+    "Description": "Clear want exactly. Hair bring compare ask page friend body. Rock voice mouth whether teacher thing adult seven. Any try item hour expert."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 58389
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5277
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9507
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10564
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8469
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 92206,
+    "TotalApproved": 52667
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Deleon",
+    "ContactInformation": {
+      "Phone": "(379)238-9742",
+      "Email": "parsonstaylor@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/d087bb1e-5ccc-4845-8816-f737b39bca78"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Meyer Inc",
+    "Model": "blood",
+    "Year": 2001,
+    "VIN": "a20d985c-c32e-4789-9813-e09c65e36007"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Timothy Terry",
+      "ContactInformation": {
+        "Phone": "624.320.9064",
+        "Email": "klittle@example.net"
+      },
+      "Statement": "Boy bit find page just career kind miss. Hotel of town for. Heavy whether Democrat face. International hard quality whom fast record last."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c4e446ff-b2f9-40b0-bdab-68f9cc76789b",
+    "OfficerName": "Rachel Smith",
+    "ReportDetails": "Education left local entire majority eight. Writer position give several go how.\nSell news customer particularly. After show exactly few politics learn. Painting sense return mean."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 389,
+    "AnnualIncome": 43616,
+    "DebtToIncomeRatio": 0.51
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

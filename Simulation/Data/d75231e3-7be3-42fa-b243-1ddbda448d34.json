@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d75231e3-7be3-42fa-b243-1ddbda448d34",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-02-22",
+    "EndDate": "2026-02-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-30",
+    "Location": "Unit 7488 Box 0577\nDPO AE 66693",
+    "Description": "Build after task pick. Mind child rate chance. Simple spring protect apply star seven tax stock."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 197168
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15587
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 53212
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 95172
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 104361
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 465500,
+    "TotalApproved": 3250
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Reese",
+    "ContactInformation": {
+      "Phone": "989-676-0981x03353",
+      "Email": "christine79@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c2340668-c178-431f-a5d1-9a9b97800e48"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chapman, Rodriguez and Clark",
+    "Model": "exist",
+    "Year": 2001,
+    "VIN": "8fded755-4fc2-4d50-a5d4-afcf3b7a9fcb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Lopez",
+      "ContactInformation": {
+        "Phone": "901-619-3615x050",
+        "Email": "nbrown@example.net"
+      },
+      "Statement": "Contain participant next paper participant every. Black world determine play whose.\nSure well operation thought how national responsibility. Western want wide pull often. Drop add run."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5367e6a1-f65c-49e6-9308-ffd23c931537",
+    "OfficerName": "Ashley Gomez",
+    "ReportDetails": "Life language national expert nor condition magazine. Kid there cost give national model travel serve. Region number positive last where growth measure. Mind near court."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 688,
+    "AnnualIncome": 97963,
+    "DebtToIncomeRatio": 0.74
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 2,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

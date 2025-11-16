@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1566c3ed-4248-4152-a04d-bd0e946d65a9",
+  "PolicyID": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+  "EffectiveDates": {
+    "StartDate": "2025-10-12",
+    "EndDate": "2026-10-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "39861407-409e-4253-9f6c-7c0f48258b61",
+    "Name": "Frank Summers",
+    "PolicyNumber": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+    "ContactInformation": {
+      "Phone": "(214)893-1385x492",
+      "Email": "johnsonsherry@example.org",
+      "Address": "630 Phillips Roads Suite 295\nSouth Suzanne, PR 08692"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-28",
+    "Location": "88827 Buchanan Gardens\nJenniferstad, MD 92501",
+    "Description": "Employee stay use in. Parent cup act exactly meet project. Help everything tax decision try involve.\nNot each entire affect example half myself. Research get manage simply."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2784
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 30967
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2094
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18835
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9610
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 64290,
+    "TotalApproved": 2762
+  },
+  "AdjusterDetails": {
+    "Name": "David Harris",
+    "ContactInformation": {
+      "Phone": "774-807-7159x05866",
+      "Email": "dickersonjennifer@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/dafc8573-5cd6-4b5b-92f5-e693ea4b3bbf"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chan, Crane and Mason",
+    "Model": "trip",
+    "Year": 2006,
+    "VIN": "970db5e7-879d-4756-9683-66816d35ec9b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jerry Potter",
+      "ContactInformation": {
+        "Phone": "001-861-535-9307",
+        "Email": "mcdonaldmichele@example.org"
+      },
+      "Statement": "Between short serve. Wear worry team occur officer.\nDiscuss above leave yourself manager bring. Hot factor interview.\nInstead young every price we. Miss how edge standard."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e6e04cf8-801b-47ba-af11-3a98b61cf29c",
+    "OfficerName": "Derek Shaw",
+    "ReportDetails": "Address management safe administration democratic city. Address create read inside though before laugh kid.\nEach fine both toward whether surface prove. East skill over Democrat of blood than."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 425,
+    "AnnualIncome": 57890,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a9a7ec50-2890-41da-9c3f-e18bc4a099aa",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2024-11-08",
+    "EndDate": "2025-11-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-05",
+    "Location": "1320 Richard Fort\nFisherfurt, MA 30393",
+    "Description": "You when series American need. Sea past always light prove.\nKind ten military. White special push but defense arm. Prove adult natural although."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 29616
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 21708
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4993
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 171492
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16954
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 244763,
+    "TotalApproved": 45548
+  },
+  "AdjusterDetails": {
+    "Name": "Janet Reilly",
+    "ContactInformation": {
+      "Phone": "001-268-484-8370x556",
+      "Email": "carolyn41@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/efc8cf69-ee70-4676-b00e-128934db992f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith LLC",
+    "Model": "set",
+    "Year": 2007,
+    "VIN": "d3db14ca-edc6-4785-8402-5a18cdc5dd80"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Andrea Campbell",
+      "ContactInformation": {
+        "Phone": "(900)387-1377x1504",
+        "Email": "wesley57@example.net"
+      },
+      "Statement": "Old under very cell coach keep others company. Say nothing meet instead. Need maintain training decision employee meeting."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b1a18e53-651e-4378-b7ef-b207eb0d4335",
+    "OfficerName": "Dana Murray",
+    "ReportDetails": "Face occur lead through region each commercial. Head model hit worry change.\nRead relate forward degree down than understand. Subject mother probably need compare listen. Use into cell cell entire."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 481,
+    "AnnualIncome": 45463,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

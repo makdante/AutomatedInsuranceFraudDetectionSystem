@@ -1,0 +1,112 @@
+{
+  "ClaimID": "71eb5a17-8fc5-4620-a57c-a86b7e616433",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-04-29",
+    "EndDate": "2026-04-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-28",
+    "Location": "31654 Cook Court\nSouth Marilynstad, GU 60925",
+    "Description": "Performance life race glass large box. News him thank structure above vote push leg. Everybody option this executive attack live."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 177092
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12710
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 43055
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 83547
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 155092
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 471496,
+    "TotalApproved": 25923
+  },
+  "AdjusterDetails": {
+    "Name": "Brenda Boyd",
+    "ContactInformation": {
+      "Phone": "510.218.0318x94309",
+      "Email": "travis37@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d955615e-2f66-4b87-95cc-95d5e6b2e536"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lewis, Johnson and Rosales",
+    "Model": "material",
+    "Year": 2000,
+    "VIN": "ce67ad9a-306f-4419-8d06-cc8fd7ae42f5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tony Miller",
+      "ContactInformation": {
+        "Phone": "(631)658-7221",
+        "Email": "ericbird@example.com"
+      },
+      "Statement": "Role southern no identify. Final financial southern TV ten work expect. Too decide share eye."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bf20546f-f1f3-489c-b732-ebb9d47ca776",
+    "OfficerName": "Karina Smith",
+    "ReportDetails": "Difference key page his evidence data. Wait look anything red. Paper share approach some modern.\nMarriage even all red entire across finish push. Break small usually stand."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 669,
+    "AnnualIncome": 61372,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 3,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a726e5eb-0ea6-4029-aebe-17e52010384e",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-10-01",
+    "EndDate": "2026-10-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-29",
+    "Location": "1313 Gilbert Ville\nNorth Danielville, MS 56333",
+    "Description": "Indicate future piece war group. Explain message recent responsibility quickly water paper. Hold age result talk stuff see."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13650
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13372
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2671
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 83750
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 40305
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 153748,
+    "TotalApproved": 110937
+  },
+  "AdjusterDetails": {
+    "Name": "Brittney Gay",
+    "ContactInformation": {
+      "Phone": "+1-448-762-6886x06611",
+      "Email": "robertwalters@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/09aa5cdd-3841-4d3e-8c1f-6e0faf8c5539"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Kramer-Bird",
+    "Model": "enter",
+    "Year": 2004,
+    "VIN": "3b0523a0-a4f0-4087-acd2-248e6a279834"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erik Gordon",
+      "ContactInformation": {
+        "Phone": "833.266.7321x3273",
+        "Email": "chriskelly@example.net"
+      },
+      "Statement": "Eat ever find among.\nBlack west manage rise action care outside. Star note play allow despite reason."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "48633bef-1a8f-4762-b7bc-3ead3dbbb8e5",
+    "OfficerName": "Madison Church MD",
+    "ReportDetails": "Group third however. Third sell painting. Leader anyone have parent heavy reality nor.\nPage allow most leg soldier race discuss. First she environmental. Assume financial wall successful."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 661,
+    "AnnualIncome": 147893,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

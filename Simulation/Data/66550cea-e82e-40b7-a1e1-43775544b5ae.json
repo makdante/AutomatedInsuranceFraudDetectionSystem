@@ -1,0 +1,112 @@
+{
+  "ClaimID": "66550cea-e82e-40b7-a1e1-43775544b5ae",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-10-31",
+    "EndDate": "2026-10-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-20",
+    "Location": "9466 Lisa Via Suite 438\nKatherinehaven, KY 96236",
+    "Description": "Television pay response lawyer word walk term red. Somebody this purpose play himself edge interest technology. Turn concern section stock mission."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 53736
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 60208
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5219
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 96870
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8985
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 225018,
+    "TotalApproved": 6732
+  },
+  "AdjusterDetails": {
+    "Name": "Ricardo Edwards",
+    "ContactInformation": {
+      "Phone": "999.501.2520x6072",
+      "Email": "annaanderson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c5880150-3309-4bef-bd57-5afe9ad76d31"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Matthews, Cobb and Fox",
+    "Model": "themselves",
+    "Year": 2021,
+    "VIN": "7c0c2500-22ae-4c8f-b9c4-2d3359797e2c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Johnson",
+      "ContactInformation": {
+        "Phone": "6746073434",
+        "Email": "jamesjohnson@example.net"
+      },
+      "Statement": "Morning indicate realize short position actually wear. Fact same dream herself give improve.\nInstitution its maintain cause put social painting. Hold card enter help."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "70831440-6de8-4e17-94d1-654b2ceb02c3",
+    "OfficerName": "Keith James",
+    "ReportDetails": "Value just daughter listen. Small ability black their school heart guess. Policy most simply nice once boy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 824,
+    "AnnualIncome": 114470,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

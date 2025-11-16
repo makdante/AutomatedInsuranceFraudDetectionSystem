@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1c1c3638-6c75-47b3-b2e6-174a50fd6001",
+  "PolicyID": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+  "EffectiveDates": {
+    "StartDate": "2025-04-23",
+    "EndDate": "2026-04-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "69dff2d4-fe41-48b6-84f8-fbada01a13cc",
+    "Name": "Gerald Lynn",
+    "PolicyNumber": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+    "ContactInformation": {
+      "Phone": "804.824.4218",
+      "Email": "mark32@example.com",
+      "Address": "76834 William Key\nLake Heather, SC 99643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-13",
+    "Location": "8358 Zachary Knolls\nWest Brian, WY 14954",
+    "Description": "Foreign great pick century single. Memory page manager image.\nWorld moment would big recent. This fly edge heart. Like tend accept."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4779
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 10499
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 86540
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 71262
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3526
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 176606,
+    "TotalApproved": 156525
+  },
+  "AdjusterDetails": {
+    "Name": "Destiny Jenkins",
+    "ContactInformation": {
+      "Phone": "680.647.4741x828",
+      "Email": "silvabrittany@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/f1a05c31-28fe-4fb5-9e09-5835464b2a52"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Golden, Garcia and Lopez",
+    "Model": "kid",
+    "Year": 2020,
+    "VIN": "4640d474-595c-46ac-b578-a4cef1787b08"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Price",
+      "ContactInformation": {
+        "Phone": "+1-834-890-3027x8497",
+        "Email": "millerisaac@example.com"
+      },
+      "Statement": "State teacher soldier truth turn. Task specific ahead represent product last commercial. Begin participant discover represent truth."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f179f390-60bd-426c-bb72-a05795e4895e",
+    "OfficerName": "Michelle Taylor",
+    "ReportDetails": "Rest mouth half window. Thank amount buy result drive though agency. Yeah sing add them cause identify break town.\nEnjoy push condition."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 786,
+    "AnnualIncome": 152451,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

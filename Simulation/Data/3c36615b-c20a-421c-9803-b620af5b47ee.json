@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3c36615b-c20a-421c-9803-b620af5b47ee",
+  "PolicyID": "d67278aa-bec7-4840-bfff-77f2736e2d75",
+  "EffectiveDates": {
+    "StartDate": "2025-05-14",
+    "EndDate": "2026-05-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de87a79d-3530-44de-a42d-0905617f9485",
+    "Name": "Caitlyn Sosa",
+    "PolicyNumber": "d67278aa-bec7-4840-bfff-77f2736e2d75",
+    "ContactInformation": {
+      "Phone": "904-716-2217x5949",
+      "Email": "angela15@example.net",
+      "Address": "661 Hill Heights Suite 117\nCampbellmouth, ID 00775"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-15",
+    "Location": "18039 Floyd Shoal\nJennaland, AK 41571",
+    "Description": "Stuff walk upon fill. Party commercial stay. Around today piece fear. Full or now.\nSpring find budget ahead our century indicate. Among heavy account guy her. Car box leg some exactly statement."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5778
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 25222
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10648
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12742
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1317
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 55707,
+    "TotalApproved": 33008
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Skinner",
+    "ContactInformation": {
+      "Phone": "+1-258-313-9676x23133",
+      "Email": "rtapia@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/9b1190f8-37fd-4ab2-a91a-0c7806563418"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Russell, Jenkins and Washington",
+    "Model": "without",
+    "Year": 2017,
+    "VIN": "8d9807f0-61bd-429a-85f1-29d13e64e27f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brian Johnson",
+      "ContactInformation": {
+        "Phone": "365-609-9724x26346",
+        "Email": "churchmelissa@example.com"
+      },
+      "Statement": "Thus speak fast gas we particularly. Social total political against. Expert son anything listen send rather main."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "455ea2ac-23a3-487b-9639-a609bdd73752",
+    "OfficerName": "Joel Moreno",
+    "ReportDetails": "State tonight hour put focus college.\nMany organization record attention ready structure base. Say agreement kitchen believe member right control."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 758,
+    "AnnualIncome": 154520,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 1,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

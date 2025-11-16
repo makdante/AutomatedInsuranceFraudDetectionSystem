@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6f89d21f-d216-4e15-8d5c-fb0a18f34a1e",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-10-25",
+    "EndDate": "2026-10-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-06",
+    "Location": "37645 Luis Burg\nWiseberg, AL 76096",
+    "Description": "Move forward bar. Skill partner better state tax consider.\nWithout final live mission change. Game arrive every visit. Different animal season. Month machine eat nothing dinner college establish."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 32585
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 105562
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 150656
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19523
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 32782
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 341108,
+    "TotalApproved": 150614
+  },
+  "AdjusterDetails": {
+    "Name": "Susan Wagner",
+    "ContactInformation": {
+      "Phone": "(318)745-1924x0967",
+      "Email": "yjones@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/a51c3af7-6f77-4467-89dd-e7530ffc65ae"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Black-Small",
+    "Model": "into",
+    "Year": 2010,
+    "VIN": "4d6cb857-8dc5-4ad5-8e8a-e1aedf231043"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Donna Lam",
+      "ContactInformation": {
+        "Phone": "388-507-1352",
+        "Email": "robin16@example.org"
+      },
+      "Statement": "Guy stuff old message agent. Beautiful ahead sport environment.\nThe organization hard deep offer identify cause. Name heart chair north."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0d60dfe6-98b9-4e3e-9549-90667586f932",
+    "OfficerName": "Mary York",
+    "ReportDetails": "Find ask direction character either. Others boy speak member suddenly baby."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 540,
+    "AnnualIncome": 161740,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

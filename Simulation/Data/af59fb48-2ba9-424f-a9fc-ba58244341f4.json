@@ -1,0 +1,112 @@
+{
+  "ClaimID": "af59fb48-2ba9-424f-a9fc-ba58244341f4",
+  "PolicyID": "500b8392-3ef4-475f-a0d6-15c142970199",
+  "EffectiveDates": {
+    "StartDate": "2025-02-05",
+    "EndDate": "2026-02-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0e2c98cc-0459-4a1f-b201-c0c324374a25",
+    "Name": "Brittany Watson",
+    "PolicyNumber": "500b8392-3ef4-475f-a0d6-15c142970199",
+    "ContactInformation": {
+      "Phone": "001-690-266-5439",
+      "Email": "jasonjames@example.org",
+      "Address": "66736 Antonio Valley\nWest Kristy, FL 30721"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-08",
+    "Location": "Unit 9650 Box 4642\nDPO AE 85342",
+    "Description": "Change identify prove enjoy. Customer miss pretty painting here. Understand plan free company."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4837851
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4582673
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4018004
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4252743
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4755768
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22447039,
+    "TotalApproved": 11609601
+  },
+  "AdjusterDetails": {
+    "Name": "Betty Nash",
+    "ContactInformation": {
+      "Phone": "001-430-873-3913",
+      "Email": "johnball@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d1ded677-71cc-4452-9d09-e0cc95ef6db2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hunter Inc",
+    "Model": "Democrat",
+    "Year": 2004,
+    "VIN": "4dcc9520-9438-4213-9bdf-ab45edbca8b2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jacob Roberson II",
+      "ContactInformation": {
+        "Phone": "375.394.6563",
+        "Email": "srogers@example.net"
+      },
+      "Statement": "Night stock per sound matter any maybe. Miss number training civil store million. Me around simply relationship while.\nAs cultural door change none decision particular. Form series form power long."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c0a84f0f-542f-4676-b264-160671c70a17",
+    "OfficerName": "Christina Schroeder",
+    "ReportDetails": "Appear firm fear most couple. Stop space coach today should. Return family market I black TV.\nProperty world base end. Fight account society however ask. Weight crime her together."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 474,
+    "AnnualIncome": 60023,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

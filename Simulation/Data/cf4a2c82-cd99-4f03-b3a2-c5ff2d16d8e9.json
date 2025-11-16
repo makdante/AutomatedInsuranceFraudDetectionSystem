@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cf4a2c82-cd99-4f03-b3a2-c5ff2d16d8e9",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2025-05-18",
+    "EndDate": "2026-05-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-20",
+    "Location": "PSC 0436, Box 2499\nAPO AP 15334",
+    "Description": "Ground stop early southern listen trial somebody. Push there start as southern class they story.\nDiscussion set despite dream. Trip short trial end term possible. Summer civil account with still."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 42153
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7818
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14136
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2292
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9509
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 75908,
+    "TotalApproved": 38323
+  },
+  "AdjusterDetails": {
+    "Name": "Stephanie Marshall",
+    "ContactInformation": {
+      "Phone": "837.889.1486",
+      "Email": "jillsanders@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/2c818f00-cca6-4785-a9e1-75fe76c0fb44"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Adkins, Wilson and Morgan",
+    "Model": "citizen",
+    "Year": 2005,
+    "VIN": "26233c02-a3cc-4d4d-abd8-a0d8c7d0cd49"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Danielle Johnson",
+      "ContactInformation": {
+        "Phone": "649.457.7444x180",
+        "Email": "ztorres@example.net"
+      },
+      "Statement": "Stage kind draw.\nGround quality environmental success different nice drive speech. Section fear happen popular quite. Remain must then role individual develop data speech."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8bdd7868-36fa-4925-b9ee-b5e5165e74b3",
+    "OfficerName": "Teresa Lopez",
+    "ReportDetails": "Standard him name. Run live others major right dark. Too education south they.\nSuccessful design role clearly. Coach shake plan bill national industry. Firm early course clear our degree."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 739,
+    "AnnualIncome": 92164,
+    "DebtToIncomeRatio": 0.51
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 8,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

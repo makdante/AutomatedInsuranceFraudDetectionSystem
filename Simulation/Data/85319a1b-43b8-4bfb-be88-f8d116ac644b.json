@@ -1,0 +1,112 @@
+{
+  "ClaimID": "85319a1b-43b8-4bfb-be88-f8d116ac644b",
+  "PolicyID": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+  "EffectiveDates": {
+    "StartDate": "2025-06-03",
+    "EndDate": "2026-06-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "69dff2d4-fe41-48b6-84f8-fbada01a13cc",
+    "Name": "Gerald Lynn",
+    "PolicyNumber": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+    "ContactInformation": {
+      "Phone": "804.824.4218",
+      "Email": "mark32@example.com",
+      "Address": "76834 William Key\nLake Heather, SC 99643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-11",
+    "Location": "4288 Jamie Key Apt. 585\nCarlosside, TX 28481",
+    "Description": "Attack until may care foot world wonder.\nSort training wish wall. Person media style his sister help. Occur cover traditional gun."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 53999
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2400
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 97585
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 141994
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 88388
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 384366,
+    "TotalApproved": 362773
+  },
+  "AdjusterDetails": {
+    "Name": "Carlos Sanders",
+    "ContactInformation": {
+      "Phone": "230-545-9944x01517",
+      "Email": "saradavis@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/80ee14ab-270c-4837-8e09-a1835608f5a9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cruz, Hale and Mclaughlin",
+    "Model": "significant",
+    "Year": 2000,
+    "VIN": "ba274bc7-6641-4e45-9692-7f1244771f5f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Taylor",
+      "ContactInformation": {
+        "Phone": "(757)319-9058x40252",
+        "Email": "morenoralph@example.net"
+      },
+      "Statement": "Simple military home camera politics maintain own. Side politics subject add investment ever.\nMedical information action serious by yet history. Control soon fine describe traditional."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e0a1dc0b-529e-4a0b-a0fd-d0b94d6212f8",
+    "OfficerName": "Robert Chung",
+    "ReportDetails": "Lay strong officer traditional voice available. Door perhaps voice century friend professional. Talk security with. Stage call lawyer word like."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 342,
+    "AnnualIncome": 186778,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 2,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1b27adca-b7f6-453c-a2d6-11c0d20fcc8d",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-01-05",
+    "EndDate": "2026-01-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-18",
+    "Location": "980 Theresa Station\nWest Ronaldfurt, NM 28719",
+    "Description": "Animal soon point cost. There forward window table voice with. Soldier decision quality word for or. Water rock may present.\nHit suggest commercial growth."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 71615
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 92511
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 26996
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1281
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8445
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 200848,
+    "TotalApproved": 61503
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Marks",
+    "ContactInformation": {
+      "Phone": "350-754-1263x735",
+      "Email": "haydenelizabeth@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ff6a358e-22a0-4546-b437-41f43afa0fc3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Anderson PLC",
+    "Model": "fund",
+    "Year": 2015,
+    "VIN": "17ced47b-c55e-4aa6-9987-03ff9e8efd68"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathy Walters",
+      "ContactInformation": {
+        "Phone": "958-429-7890",
+        "Email": "todd39@example.org"
+      },
+      "Statement": "Nothing brother public wear create. Next attorney budget far past few. Into future practice man to. Another debate brother management right response."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "58041f91-9245-4074-94c8-33b98d7ad32b",
+    "OfficerName": "Gloria Sims",
+    "ReportDetails": "Spend thousand research none industry physical man agree. Vote day tough alone seem yard. Assume perhaps then stock born sing senior."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 529,
+    "AnnualIncome": 47040,
+    "DebtToIncomeRatio": 0.61
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 0,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

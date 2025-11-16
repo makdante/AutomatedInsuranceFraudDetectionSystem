@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4c86bd59-c874-4bdc-b144-27dc4415c915",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2025-08-29",
+    "EndDate": "2026-08-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-01",
+    "Location": "5916 Maxwell Squares Apt. 509\nPrestonchester, MH 38734",
+    "Description": "Make spend them. Large throw simple green. Sign wait energy item player upon.\nPick ok maintain team now turn just. Enter degree put kitchen. When machine and no crime people."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3380
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 37305
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 37168
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 37312
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 63125
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 178290,
+    "TotalApproved": 156298
+  },
+  "AdjusterDetails": {
+    "Name": "Victor Mayo",
+    "ContactInformation": {
+      "Phone": "737.590.7569x31271",
+      "Email": "larryhancock@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/6d4bb041-6645-4618-8803-4d6291126bbf"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith-Martinez",
+    "Model": "so",
+    "Year": 2006,
+    "VIN": "b91440ef-6c7e-414b-a06d-0b240846f8c2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Paige Peterson",
+      "ContactInformation": {
+        "Phone": "(469)927-0725x975",
+        "Email": "estevens@example.net"
+      },
+      "Statement": "Including bed evidence space. Old wait wear range brother explain. Body these seat two."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f274be4b-6272-414f-83e2-0b84d94b0935",
+    "OfficerName": "Randy Watson",
+    "ReportDetails": "Age tend represent information behavior course plan.\nDeep know technology performance."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 425,
+    "AnnualIncome": 110988,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

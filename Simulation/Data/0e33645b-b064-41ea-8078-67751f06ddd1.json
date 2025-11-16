@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0e33645b-b064-41ea-8078-67751f06ddd1",
+  "PolicyID": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+  "EffectiveDates": {
+    "StartDate": "2025-08-24",
+    "EndDate": "2026-08-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba82c3bd-9d46-4b0e-b555-5005238e858f",
+    "Name": "Kimberly Perez",
+    "PolicyNumber": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+    "ContactInformation": {
+      "Phone": "001-609-229-9683x29012",
+      "Email": "nicholsbenjamin@example.com",
+      "Address": "81438 Berry Squares Apt. 214\nSarahtown, CA 13161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-10",
+    "Location": "46018 Jennifer Ridges\nWest Kathyberg, MA 02962",
+    "Description": "War simple yard great glass run. Into member successful for police name.\nGuess hotel war store get check friend other. Outside soldier among. Film somebody success eat."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3416
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 49701
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9177
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16666
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19390
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 98350,
+    "TotalApproved": 44267
+  },
+  "AdjusterDetails": {
+    "Name": "Roberto Kennedy",
+    "ContactInformation": {
+      "Phone": "528-768-4383x5256",
+      "Email": "brookebond@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/cc835f59-72bc-4d92-b003-b0d14155b49f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mueller Inc",
+    "Model": "accept",
+    "Year": 2000,
+    "VIN": "b05b89fd-6339-4789-9edc-71dcf76f5eb2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tina Carter",
+      "ContactInformation": {
+        "Phone": "9678610513",
+        "Email": "beverly34@example.com"
+      },
+      "Statement": "Tend down traditional report understand director. Minute room where common artist maintain interesting. Program fire drive pull series."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ee168f27-92c4-4c77-a3a6-2e08f25b3970",
+    "OfficerName": "Manuel Jacobson",
+    "ReportDetails": "Cover participant very high success base. Bed call pay whether. Run coach age resource during. Trouble road find she."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 786,
+    "AnnualIncome": 60774,
+    "DebtToIncomeRatio": 0.65
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 1,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

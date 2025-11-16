@@ -1,0 +1,112 @@
+{
+  "ClaimID": "039da289-8949-4b27-b039-fce3e51600c3",
+  "PolicyID": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+  "EffectiveDates": {
+    "StartDate": "2025-07-29",
+    "EndDate": "2026-07-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "540679a4-28ef-4808-be74-d01304fb65d7",
+    "Name": "Martha Dorsey",
+    "PolicyNumber": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+    "ContactInformation": {
+      "Phone": "385.561.2218x18763",
+      "Email": "calderondon@example.net",
+      "Address": "22938 Wright Ports\nWest Michael, MA 77489"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-11",
+    "Location": "41156 Lambert Tunnel Apt. 856\nDwayneside, PW 83137",
+    "Description": "Chair walk base rest. Present expert drug former begin chance now.\nA assume respond beautiful weight assume make give. Build beat big."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12854
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 41010
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 23615
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22132
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4356
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 103967,
+    "TotalApproved": 87938
+  },
+  "AdjusterDetails": {
+    "Name": "Mrs. Kayla Campbell",
+    "ContactInformation": {
+      "Phone": "869-669-5189",
+      "Email": "dfleming@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/ac75fbaf-65d1-4bd0-a69c-fe7ce728313a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Juarez, Edwards and Cohen",
+    "Model": "dinner",
+    "Year": 2017,
+    "VIN": "9116970d-c30e-4538-a0f8-3746cd222d85"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kristen Perez",
+      "ContactInformation": {
+        "Phone": "7877791337",
+        "Email": "jordan36@example.org"
+      },
+      "Statement": "Step line black exist mind commercial. Actually relate standard accept spend hear past."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "004e7290-d683-407f-9453-a95340953034",
+    "OfficerName": "Tracy Obrien",
+    "ReportDetails": "Wall fast coach arm do early happen. Charge mission gun full reach.\nGet magazine huge then guess.\nTo bar bed language go. Skill hour reduce certainly top. Still purpose information but whom."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 569,
+    "AnnualIncome": 104015,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

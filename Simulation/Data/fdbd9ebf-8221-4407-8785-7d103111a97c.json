@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fdbd9ebf-8221-4407-8785-7d103111a97c",
+  "PolicyID": "e01c2861-e918-4ae4-b175-eac63e64b712",
+  "EffectiveDates": {
+    "StartDate": "2025-09-20",
+    "EndDate": "2026-09-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1f06f531-9f80-407c-9bfc-00b75ccf8e58",
+    "Name": "Nathaniel Jenkins",
+    "PolicyNumber": "e01c2861-e918-4ae4-b175-eac63e64b712",
+    "ContactInformation": {
+      "Phone": "548.395.1156x414",
+      "Email": "bridgeskristen@example.com",
+      "Address": "5340 Neal Trace\nNew Julia, KS 86257"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-07",
+    "Location": "USNV Brewer\nFPO AP 16962",
+    "Description": "Five career away body human standard head.\nHome weight play stock building blood. Success offer short couple. Travel cultural enjoy attention message manage recently."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1669
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44261
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 67539
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4271
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13756
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 131496,
+    "TotalApproved": 58017
+  },
+  "AdjusterDetails": {
+    "Name": "Duane Martinez",
+    "ContactInformation": {
+      "Phone": "001-547-759-4906x852",
+      "Email": "haleshannon@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/9f745386-685f-4069-b4e5-b911566b0f5e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Alvarez, Hughes and Hensley",
+    "Model": "relationship",
+    "Year": 2009,
+    "VIN": "444eca27-548b-41ff-8b51-c54a1b1f5a9c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Timothy Ball",
+      "ContactInformation": {
+        "Phone": "330.710.3634x239",
+        "Email": "priceashley@example.org"
+      },
+      "Statement": "Worry fish store night sometimes sometimes. Open policy entire seek marriage. Provide scene own nor religious size.\nScene simple heavy across lot. Pressure bank change develop."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "186ecdba-f04e-4df8-8188-5cc787605462",
+    "OfficerName": "Deanna Hughes",
+    "ReportDetails": "Anything someone hit year in teacher cause. Speech rise like line. That hard then. Best far community.\nCrime other imagine front major. Must believe range none include after early."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 417,
+    "AnnualIncome": 176308,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

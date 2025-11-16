@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4af501fa-db4a-44c0-8058-3ccb7408d1c8",
+  "PolicyID": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+  "EffectiveDates": {
+    "StartDate": "2025-05-01",
+    "EndDate": "2026-05-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d0bedd16-f201-4197-b8d7-b2d8d318b1a8",
+    "Name": "David Mcintosh",
+    "PolicyNumber": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+    "ContactInformation": {
+      "Phone": "+1-504-327-8426x072",
+      "Email": "moyeranthony@example.com",
+      "Address": "2867 Burton Land Suite 894\nSouth Brittanyside, DE 10957"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-20",
+    "Location": "876 Gilmore Mall\nClarkchester, MP 12223",
+    "Description": "Down laugh then doctor ball face will. Draw key system field.\nRealize industry fact find people simple. Economic head mean kind. Learn if national on national store."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 93874
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 94083
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44570
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7672
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2296
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 242495,
+    "TotalApproved": 137578
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Garner",
+    "ContactInformation": {
+      "Phone": "660-312-7585x5196",
+      "Email": "morgan97@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d06586b1-9190-4ac5-a3a3-f574582b2d0b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown Group",
+    "Model": "whether",
+    "Year": 2014,
+    "VIN": "dfd35bc2-cc61-4e4a-aecb-8f3dbac96ac2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kelsey Salazar",
+      "ContactInformation": {
+        "Phone": "(783)576-5572x413",
+        "Email": "stephaniemyers@example.net"
+      },
+      "Statement": "Thank similar different character back myself plan. Outside scientist great reason woman herself quite group."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "08ca6497-cc73-4de0-9293-83461a96fb4e",
+    "OfficerName": "Logan Pearson",
+    "ReportDetails": "Short society age fact. Catch instead popular method world. Data manager significant main southern.\nAlong result throughout author despite speech. Care main into painting food."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 701,
+    "AnnualIncome": 127278,
+    "DebtToIncomeRatio": 0.47
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 3,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

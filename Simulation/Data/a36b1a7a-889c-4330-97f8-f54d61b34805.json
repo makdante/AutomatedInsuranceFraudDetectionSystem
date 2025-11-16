@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a36b1a7a-889c-4330-97f8-f54d61b34805",
+  "PolicyID": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+  "EffectiveDates": {
+    "StartDate": "2024-11-05",
+    "EndDate": "2025-11-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "342b380f-5b25-4a6f-a462-2fa1c3057fc2",
+    "Name": "Kayla Wilson",
+    "PolicyNumber": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+    "ContactInformation": {
+      "Phone": "432-340-1587",
+      "Email": "jonathan54@example.com",
+      "Address": "25321 Lopez Stream\nPort Amandaside, MT 41311"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-10",
+    "Location": "889 Manuel Turnpike Apt. 946\nPort Cynthia, NH 91228",
+    "Description": "Design play much west argue born place data."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11869
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 53361
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 106344
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7039
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36144
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 214757,
+    "TotalApproved": 72693
+  },
+  "AdjusterDetails": {
+    "Name": "Paula Lyons",
+    "ContactInformation": {
+      "Phone": "401.756.3036",
+      "Email": "randy99@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/35818efd-0b20-4120-9fe5-d3ccefb1263c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson Inc",
+    "Model": "I",
+    "Year": 2007,
+    "VIN": "0f6c688e-abcb-4f88-9efb-662f1857549f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kyle Wilkerson",
+      "ContactInformation": {
+        "Phone": "205-686-6459x772",
+        "Email": "rivasjose@example.org"
+      },
+      "Statement": "Artist four democratic. Feeling purpose ask one travel tree thought. Cup science herself standard along really."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6cbfbc30-24bd-4a63-b367-4e93923db8db",
+    "OfficerName": "Gina Holmes MD",
+    "ReportDetails": "Reality team make especially large. Seat operation turn. Place customer suffer thank message be.\nAgain best message second form. Close then return push capital cover operation."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 319,
+    "AnnualIncome": 115616,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 2,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

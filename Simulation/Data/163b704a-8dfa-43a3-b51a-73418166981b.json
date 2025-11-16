@@ -1,0 +1,112 @@
+{
+  "ClaimID": "163b704a-8dfa-43a3-b51a-73418166981b",
+  "PolicyID": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+  "EffectiveDates": {
+    "StartDate": "2025-10-20",
+    "EndDate": "2026-10-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1ebb1bc-6120-42c4-a87a-be4f808197b1",
+    "Name": "Donald Smith",
+    "PolicyNumber": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+    "ContactInformation": {
+      "Phone": "675.606.3377",
+      "Email": "masonpamela@example.net",
+      "Address": "14432 Richard Vista\nNew Suzanne, TN 31994"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-23",
+    "Location": "USNS Rosario\nFPO AP 05603",
+    "Description": "Office list trial nearly second decide near. Trade state eight yard authority away five. School especially program free nation."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 34633
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 110176
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39009
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3207
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8329
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 195354,
+    "TotalApproved": 57058
+  },
+  "AdjusterDetails": {
+    "Name": "Stacy Hughes",
+    "ContactInformation": {
+      "Phone": "001-311-874-8453x412",
+      "Email": "kimberly32@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/491145b2-7189-4f44-999c-71955acdfcc8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Tucker Inc",
+    "Model": "true",
+    "Year": 2001,
+    "VIN": "3f9bb71a-9e97-4ad5-bf48-579cb19fe154"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Katie Vaughan",
+      "ContactInformation": {
+        "Phone": "777-878-0418",
+        "Email": "zcraig@example.net"
+      },
+      "Statement": "Network gas site machine organization. White after across light TV marriage.\nMay office religious today box add. Fish different table."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0795c9dc-8b28-4c64-96b3-b1600a087ddc",
+    "OfficerName": "Shirley Smith",
+    "ReportDetails": "Chance difference I system this into Democrat. Call international before. Detail police his wrong ground. Hundred newspaper major drop structure president.\nMean policy spend center."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 484,
+    "AnnualIncome": 161697,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

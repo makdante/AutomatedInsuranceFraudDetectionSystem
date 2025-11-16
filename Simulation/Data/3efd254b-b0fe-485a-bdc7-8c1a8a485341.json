@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3efd254b-b0fe-485a-bdc7-8c1a8a485341",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-06-06",
+    "EndDate": "2026-06-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-01",
+    "Location": "404 Lane Crest\nPort Nicholasport, ID 27878",
+    "Description": "Much resource reflect continue interview. Someone friend message increase. Everybody meet difference individual."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4064285
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4694254
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4053840
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4159529
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4678948
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21650856,
+    "TotalApproved": 8240494
+  },
+  "AdjusterDetails": {
+    "Name": "Rebecca Wilkerson",
+    "ContactInformation": {
+      "Phone": "(579)947-9239x2052",
+      "Email": "wwilson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a9b3f303-de4b-4179-af17-3d591d73af6b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Duncan, Lee and Jackson",
+    "Model": "network",
+    "Year": 2013,
+    "VIN": "24a1914b-3bf2-47a5-988c-7b4e34b93134"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Cooper",
+      "ContactInformation": {
+        "Phone": "687.793.9978",
+        "Email": "zoe69@example.com"
+      },
+      "Statement": "Single knowledge charge run. Relate capital tax memory finish others deep. Out policy soldier would whatever happen special."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6f7f02fb-0240-4938-8a6c-cf9ab2519fe2",
+    "OfficerName": "Nicole Adkins",
+    "ReportDetails": "Assume current toward practice market film performance. Difference chair subject raise half beyond body. Walk energy fund among past mention. Film can itself eat result."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 486,
+    "AnnualIncome": 180399,
+    "DebtToIncomeRatio": 0.89
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

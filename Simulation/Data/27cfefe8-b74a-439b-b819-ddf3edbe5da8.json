@@ -1,0 +1,112 @@
+{
+  "ClaimID": "27cfefe8-b74a-439b-b819-ddf3edbe5da8",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-04-24",
+    "EndDate": "2026-04-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-02",
+    "Location": "887 Joanne Corner Suite 899\nSanchezport, ID 47967",
+    "Description": "Collection production them everyone since space. Star cost popular blood spring issue. Thousand development between seven.\nInclude those quickly similar. Election ten someone without prove wear role."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 92947
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24523
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 33649
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11085
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11081
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 173285,
+    "TotalApproved": 92080
+  },
+  "AdjusterDetails": {
+    "Name": "Ryan Fisher",
+    "ContactInformation": {
+      "Phone": "548.510.2110x3827",
+      "Email": "scottjames@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/2d642bf9-2e13-4afb-a235-0485ed2e2112"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hudson, Steele and Martin",
+    "Model": "western",
+    "Year": 2005,
+    "VIN": "d34333c5-61a6-4f0c-89fb-6c9188253faa"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Annette Williams",
+      "ContactInformation": {
+        "Phone": "327-271-6104x5447",
+        "Email": "cgonzalez@example.net"
+      },
+      "Statement": "Other direction really. Sit concern language.\nPopular provide ever environmental thus. Hundred high local science parent able.\nFall show south help movement. Develop forget we oil modern."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "24597a2e-8cfe-4fa7-999b-5e51ef4aff32",
+    "OfficerName": "Brandon Nixon",
+    "ReportDetails": "Recognize close especially south. Night Democrat great form thought. Decide feeling mean build."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 440,
+    "AnnualIncome": 120653,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 8,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

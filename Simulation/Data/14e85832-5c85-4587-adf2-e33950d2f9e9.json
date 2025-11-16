@@ -1,0 +1,112 @@
+{
+  "ClaimID": "14e85832-5c85-4587-adf2-e33950d2f9e9",
+  "PolicyID": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+  "EffectiveDates": {
+    "StartDate": "2025-06-15",
+    "EndDate": "2026-06-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7aeb67d8-8b5a-402f-b03b-33f51f2939f2",
+    "Name": "Susan Best",
+    "PolicyNumber": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+    "ContactInformation": {
+      "Phone": "272-361-9751",
+      "Email": "adamfigueroa@example.net",
+      "Address": "604 Sims Circle Suite 384\nNorth Anthonystad, WA 82430"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-14",
+    "Location": "020 Parks Path\nPort Jason, IA 67483",
+    "Description": "Yourself read edge when later.\nMarket star our girl. School space yard room past."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18065
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 159926
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 52149
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4019
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 47208
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 281367,
+    "TotalApproved": 198034
+  },
+  "AdjusterDetails": {
+    "Name": "Bradley Cook",
+    "ContactInformation": {
+      "Phone": "310-714-6923x8200",
+      "Email": "julieking@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/be3a008b-4974-4668-b16f-b38488e42e55"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown-Williams",
+    "Model": "rich",
+    "Year": 2009,
+    "VIN": "f4c6f446-15c4-44db-9f18-549c216e85df"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Smith",
+      "ContactInformation": {
+        "Phone": "(244)448-9542x94396",
+        "Email": "michelleforbes@example.com"
+      },
+      "Statement": "Score summer fish worry reduce effort tend positive. Dog animal feel scientist baby. Tend mother herself condition environment last. Head day focus Democrat officer ask."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "698cb964-b07e-48dc-9923-0d2d49ac7e7e",
+    "OfficerName": "Victoria Wiggins",
+    "ReportDetails": "Put Republican build if none. Sure concern according nothing.\nBig participant letter never many leader national. Score concern include painting along team. Seven course bad big performance door hold."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 829,
+    "AnnualIncome": 155031,
+    "DebtToIncomeRatio": 0.21
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

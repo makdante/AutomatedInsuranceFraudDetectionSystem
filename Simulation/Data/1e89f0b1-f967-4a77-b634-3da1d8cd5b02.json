@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1e89f0b1-f967-4a77-b634-3da1d8cd5b02",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-10-20",
+    "EndDate": "2026-10-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-24",
+    "Location": "85389 Thomas Spur Apt. 340\nWest Petermouth, SC 22637",
+    "Description": "Finally anyone consider various. Treat watch though figure direction. Style available rest spend."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 38102
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13409
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3119
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 90726
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 88273
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 233629,
+    "TotalApproved": 203053
+  },
+  "AdjusterDetails": {
+    "Name": "Dr. Gregory Costa",
+    "ContactInformation": {
+      "Phone": "001-867-632-3523x788",
+      "Email": "onelson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/8d61d595-5ce3-418a-8ec3-38b7be2a251b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-24T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-29T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson-Johnson",
+    "Model": "subject",
+    "Year": 2022,
+    "VIN": "75de48fc-3def-41b0-83b1-5dfecfaaf8fc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Perez",
+      "ContactInformation": {
+        "Phone": "574.856.6201x467",
+        "Email": "njohnson@example.com"
+      },
+      "Statement": "Exist edge might.\nSend four grow water upon lose out. Benefit wall interest blue.\nLast consider try whom police hand. Spring air team management do boy. Machine allow itself thank develop clearly."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d9394311-a8f8-4f64-9414-6a24097194e8",
+    "OfficerName": "Anne Harris",
+    "ReportDetails": "Idea miss yeah world measure benefit. Wife Mrs direction rather past. Door attack sometimes air."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 563,
+    "AnnualIncome": 60584,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 2,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

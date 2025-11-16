@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e5d0b7b9-9a70-4af5-97e3-33b6f4512112",
+  "PolicyID": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+  "EffectiveDates": {
+    "StartDate": "2025-05-22",
+    "EndDate": "2026-05-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "99c198b5-d0aa-48d3-94c9-959f2a44263a",
+    "Name": "Bethany Rose",
+    "PolicyNumber": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+    "ContactInformation": {
+      "Phone": "(715)908-5515x619",
+      "Email": "heather19@example.com",
+      "Address": "5993 Snow Manor Suite 784\nCherylton, KY 35335"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-11",
+    "Location": "675 Tara Wells Apt. 423\nPort Gabriel, MS 46025",
+    "Description": "Represent which modern event exist west. Around hope there should economic. Buy somebody financial. Several play city area go."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 76086
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8488
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 168948
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 66996
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 172354
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 492872,
+    "TotalApproved": 471631
+  },
+  "AdjusterDetails": {
+    "Name": "Susan Mcguire",
+    "ContactInformation": {
+      "Phone": "(545)979-9212x17639",
+      "Email": "alexandramartinez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/8c1f29a2-a4cc-496a-b6eb-771bf7a9b48f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Christian, Nicholson and Gilbert",
+    "Model": "white",
+    "Year": 2010,
+    "VIN": "3dca9b52-620f-4d6e-8252-a9449dd05fe5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Debra Henderson",
+      "ContactInformation": {
+        "Phone": "438.750.7077",
+        "Email": "justin37@example.com"
+      },
+      "Statement": "Mind mission discover citizen follow modern your. Computer as seven add reflect Congress size. Address pretty support poor meet."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2781f960-de71-4e1f-befc-dad40fa50ce9",
+    "OfficerName": "Melissa Kim",
+    "ReportDetails": "Move cup nearly into bit resource event race. Shoulder move very chance radio.\nLine approach under lose military agree she quite. Nation hard than once."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 587,
+    "AnnualIncome": 23012,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

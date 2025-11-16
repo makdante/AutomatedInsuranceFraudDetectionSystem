@@ -1,0 +1,112 @@
+{
+  "ClaimID": "29e4a4d1-6b44-41b4-a4da-0483d3df5ee3",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2024-12-24",
+    "EndDate": "2025-12-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-08",
+    "Location": "USNS Noble\nFPO AA 62781",
+    "Description": "Peace how ability result plant. Star significant mother contain.\nSure describe break watch boy. Above door data a owner value tend. Game especially for with."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 103342
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 27760
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16713
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11948
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 32428
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 192191,
+    "TotalApproved": 144858
+  },
+  "AdjusterDetails": {
+    "Name": "Jeff Shaw",
+    "ContactInformation": {
+      "Phone": "001-577-254-9914",
+      "Email": "kristin95@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c7060c79-cb84-40a1-bbe6-4c1b18734eac"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hurst Group",
+    "Model": "improve",
+    "Year": 2004,
+    "VIN": "01d14622-030c-40a8-b44c-1d7e9455235e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Dixon",
+      "ContactInformation": {
+        "Phone": "884-615-6671x51805",
+        "Email": "lwheeler@example.com"
+      },
+      "Statement": "Mr job field strong make government relationship as. Cause matter last exactly. Place against notice though add everything.\nAlthough mouth above somebody rest. Task when write."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "348c148f-6251-4eb4-be51-3125bb14640d",
+    "OfficerName": "Shane Gonzales",
+    "ReportDetails": "Drop night break find interview. Fish never upon off man sometimes hard.\nFuture study home hear run. Cultural PM pick drug. Art beat production. Customer choice kid training after right."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 480,
+    "AnnualIncome": 163794,
+    "DebtToIncomeRatio": 0.55
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

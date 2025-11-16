@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7f87e768-b417-4f06-a8e6-b46a9ff823e0",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2024-11-23",
+    "EndDate": "2025-11-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-29",
+    "Location": "8146 Romero Isle\nWest Amyburgh, UT 05189",
+    "Description": "Necessary such role this. Would after tree line beautiful big fight them. Could candidate war feel president share."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 43809
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36743
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12325
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 36697
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4794
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 134368,
+    "TotalApproved": 123373
+  },
+  "AdjusterDetails": {
+    "Name": "Ana Fields",
+    "ContactInformation": {
+      "Phone": "+1-426-591-5739x122",
+      "Email": "michael65@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3beec3ed-6f83-4ad2-8988-382379304afe"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lopez PLC",
+    "Model": "room",
+    "Year": 2006,
+    "VIN": "5231e840-dba6-4dff-969f-ad3413c265b3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Deborah Hall PhD",
+      "ContactInformation": {
+        "Phone": "964.453.6197",
+        "Email": "keymary@example.org"
+      },
+      "Statement": "Their official partner nothing. Effect similar fear several throughout view. Place control process."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a7cce88a-ec0a-4a4f-a794-fe20085aaf37",
+    "OfficerName": "Judy Burke",
+    "ReportDetails": "Edge food manage stock community property. Government now party food describe. Born across base artist."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 362,
+    "AnnualIncome": 42829,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

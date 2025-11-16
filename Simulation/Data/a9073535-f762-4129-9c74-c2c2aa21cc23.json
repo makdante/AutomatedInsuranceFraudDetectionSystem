@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a9073535-f762-4129-9c74-c2c2aa21cc23",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-03-22",
+    "EndDate": "2026-03-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-23",
+    "Location": "1016 Durham Points\nNorth Craig, IA 61975",
+    "Description": "Attack ever indeed keep yard a pull. Machine successful surface. Rise record lose soldier.\nDecide if charge skill I theory. Experience type and across up teach."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 41302
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8337
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10766
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6014
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 51426
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 117845,
+    "TotalApproved": 10171
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Sweeney",
+    "ContactInformation": {
+      "Phone": "583-288-2966x13363",
+      "Email": "scott45@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b2be1d64-0928-46da-bdba-5aba19607706"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Potter, Robertson and Clayton",
+    "Model": "field",
+    "Year": 2016,
+    "VIN": "b0c9e4e7-b342-4879-9c59-73c448792432"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Adam Brewer",
+      "ContactInformation": {
+        "Phone": "001-799-402-6426x5490",
+        "Email": "kristencarpenter@example.org"
+      },
+      "Statement": "Newspaper animal else service skin scientist discuss. Develop its month child person. Trade author important college.\nLook mother politics degree. Art their coach seat set clear through."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "34391a02-5b2f-44a1-9f29-07aa1abeff1d",
+    "OfficerName": "Shane Green",
+    "ReportDetails": "Approach however people fact. Product customer so father usually.\nReady marriage anyone appear chair. Sound method left significant."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 624,
+    "AnnualIncome": 166241,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 3,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

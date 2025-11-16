@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bfedc86a-3777-4a48-acd4-2367d1e2b643",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-03-07",
+    "EndDate": "2026-03-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-06",
+    "Location": "095 Diaz Turnpike Suite 421\nLake Annetteside, IA 82082",
+    "Description": "Visit director thought discussion crime responsibility total world. Early save not. Collection under no process.\nAgain method remain hit item. Car ability ever six. Risk spend operation."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6957
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 24088
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17318
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 33901
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 64860
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 147124,
+    "TotalApproved": 137095
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Brooks",
+    "ContactInformation": {
+      "Phone": "+1-863-618-8779x234",
+      "Email": "sanchezlaura@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/adf344f9-6643-4568-a259-aedd5779aa02"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jacobs Ltd",
+    "Model": "development",
+    "Year": 2003,
+    "VIN": "dca289ed-90ad-4428-9dee-fb5cff421922"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Johnson",
+      "ContactInformation": {
+        "Phone": "+1-384-909-2196x42894",
+        "Email": "anthony86@example.net"
+      },
+      "Statement": "Partner follow black medical task relationship when. Teacher together best matter case phone return inside. Guy glass billion itself history drug risk."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f24386f5-e4e5-4c20-a2a6-577a75c8e60f",
+    "OfficerName": "Alan Pratt",
+    "ReportDetails": "Election degree throw explain. Edge research herself either car. Move door door machine. College result travel firm reveal."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 517,
+    "AnnualIncome": 77453,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 0,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

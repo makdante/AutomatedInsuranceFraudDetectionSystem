@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bba78ae0-fa6c-455d-85e5-a8a1b9f4d2c3",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-01-18",
+    "EndDate": "2026-01-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-03",
+    "Location": "578 Aguilar Ridges\nJimton, DE 30359",
+    "Description": "Simple officer best pay else beat over visit. Hope reality instead stock record. Doctor police nor career direction environmental."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9278
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15546
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6992
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2773
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2025
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 36614,
+    "TotalApproved": 21516
+  },
+  "AdjusterDetails": {
+    "Name": "Jose Sandoval",
+    "ContactInformation": {
+      "Phone": "+1-722-581-9931x92995",
+      "Email": "cooksharon@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/38704b66-b5b5-4d5b-b444-7b343b3d564b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mills-Cordova",
+    "Model": "since",
+    "Year": 2002,
+    "VIN": "9322711a-1bf7-45a2-938a-3dce37c24e6c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Charles Duncan",
+      "ContactInformation": {
+        "Phone": "(202)793-7272",
+        "Email": "dawn94@example.net"
+      },
+      "Statement": "Sort certain read represent. Figure sell just live land.\nAuthor card structure modern sell who measure. Cup security sound fund early must purpose."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e38c6df2-374e-4c7a-9a3e-34a5c32ec169",
+    "OfficerName": "Joshua Smith",
+    "ReportDetails": "Medical girl establish happen. Yet per clear reveal happy artist. Place road medical stock.\nTrade business coach bag firm mean. Oil event ago short."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 758,
+    "AnnualIncome": 86128,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

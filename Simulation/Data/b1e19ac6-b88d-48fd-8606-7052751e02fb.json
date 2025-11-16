@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b1e19ac6-b88d-48fd-8606-7052751e02fb",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2025-03-01",
+    "EndDate": "2026-03-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-10",
+    "Location": "8747 Trevino Loaf\nNew Victoriashire, WI 70114",
+    "Description": "Quality past number left financial country. Rate husband foot discover.\nEnter middle size eat. Mention into land study finally world get generation."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30116
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10386
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 40027
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 82437
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 150904
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 313870,
+    "TotalApproved": 132693
+  },
+  "AdjusterDetails": {
+    "Name": "Rachel Myers",
+    "ContactInformation": {
+      "Phone": "(688)527-5691x83857",
+      "Email": "santiagoerica@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/366c823d-1fa3-4a7f-a700-f634c603fb67"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith, Wilson and Green",
+    "Model": "let",
+    "Year": 2014,
+    "VIN": "3dc4db3d-35d7-4019-aafa-5408a8580060"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Moore",
+      "ContactInformation": {
+        "Phone": "946.947.2608x449",
+        "Email": "evanhill@example.com"
+      },
+      "Statement": "A list fight budget. Possible care perform executive interesting address officer. Then character which sell central.\nFirm they return recently. Special worker citizen summer."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "883921f5-6180-46d3-bd7c-054918d2de8b",
+    "OfficerName": "Ruth Malone",
+    "ReportDetails": "Beyond could state which him rest human. Evidence probably act PM plant. Degree yet tough central some two million cell."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 418,
+    "AnnualIncome": 176239,
+    "DebtToIncomeRatio": 0.63
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 1,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

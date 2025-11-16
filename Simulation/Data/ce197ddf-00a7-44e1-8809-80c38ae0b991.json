@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ce197ddf-00a7-44e1-8809-80c38ae0b991",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-05-22",
+    "EndDate": "2026-05-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-12",
+    "Location": "451 Wright Extension Apt. 796\nBellburgh, NY 75531",
+    "Description": "Ball however responsibility radio. Quite human throw remain simply at. Break during while popular look organization less conference."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7520
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22080
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 25816
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 86997
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36409
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 178822,
+    "TotalApproved": 165109
+  },
+  "AdjusterDetails": {
+    "Name": "Erica Clark",
+    "ContactInformation": {
+      "Phone": "9533660028",
+      "Email": "joseph86@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/731847d2-f5e3-4553-a6ef-c8212a5eca3c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lawson and Sons",
+    "Model": "teach",
+    "Year": 2008,
+    "VIN": "bd6bc8d4-185b-459d-b764-a67822327cbd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Simpson",
+      "ContactInformation": {
+        "Phone": "+1-873-676-5971x4702",
+        "Email": "williammartinez@example.net"
+      },
+      "Statement": "Itself treat table understand large book.\nNation now billion stand happen. Benefit thus cause investment begin bill."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5d6fd155-ee4d-417f-bc6e-ec0dc11bc731",
+    "OfficerName": "Kristen Beasley",
+    "ReportDetails": "Keep wide environment surface glass because window. His country exactly.\nBorn collection want issue show take paper.\nCare pay energy present hope quality. She movement life defense."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 504,
+    "AnnualIncome": 197831,
+    "DebtToIncomeRatio": 0.52
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 2,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9d17159a-4d26-46d3-92e0-eedec4b261c2",
+  "PolicyID": "7d680817-86fa-4f0f-b6fd-b5de84557ffd",
+  "EffectiveDates": {
+    "StartDate": "2025-07-21",
+    "EndDate": "2026-07-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c39beaf0-066a-4334-9809-0cc9be5199f3",
+    "Name": "Shirley Jenkins",
+    "PolicyNumber": "7d680817-86fa-4f0f-b6fd-b5de84557ffd",
+    "ContactInformation": {
+      "Phone": "760-945-4034",
+      "Email": "zachary07@example.org",
+      "Address": "PSC 5790, Box 4989\nAPO AE 66229"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-15",
+    "Location": "7230 Howell Roads\nPort Christina, MP 64244",
+    "Description": "General thought investment. Just raise until air can law not. Now these buy bag hit general."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 47205
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1489
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 37427
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7791
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15240
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 109152,
+    "TotalApproved": 72353
+  },
+  "AdjusterDetails": {
+    "Name": "Amanda Jones",
+    "ContactInformation": {
+      "Phone": "7407581805",
+      "Email": "howardjames@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/2b24c877-413c-4cd9-a945-b2820234eb84"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cummings LLC",
+    "Model": "receive",
+    "Year": 2012,
+    "VIN": "afc2dac7-37f0-4015-aed6-82fb5cf49ce5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joshua Murphy",
+      "ContactInformation": {
+        "Phone": "(916)390-7826",
+        "Email": "lwilliams@example.org"
+      },
+      "Statement": "Deal firm support but may theory good. Sound poor fund huge would. Decision account political sure guess from commercial."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1d7ebd6e-26f4-49ee-9de1-fd66e247cefa",
+    "OfficerName": "Michael Chavez",
+    "ReportDetails": "Water majority arrive debate indeed. Bar state stuff actually around manager morning. Nation north idea time."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 438,
+    "AnnualIncome": 147702,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 10,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

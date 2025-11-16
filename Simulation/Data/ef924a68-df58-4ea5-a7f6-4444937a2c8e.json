@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ef924a68-df58-4ea5-a7f6-4444937a2c8e",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-07-06",
+    "EndDate": "2026-07-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-01",
+    "Location": "908 Tiffany Parkways\nSouth Stephanieborough, IN 20505",
+    "Description": "Note cost hope them imagine spring commercial. Maintain civil their international. Any side character work certain claim small."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4723042
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4644291
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4159187
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4223176
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4003002
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21752698,
+    "TotalApproved": 8634987
+  },
+  "AdjusterDetails": {
+    "Name": "Kristen Fleming",
+    "ContactInformation": {
+      "Phone": "(583)868-9118x695",
+      "Email": "maria62@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/01183d79-7fc8-4e54-b1f6-f0e7b92c65a1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Zavala-Miller",
+    "Model": "society",
+    "Year": 2003,
+    "VIN": "4fe95454-0a39-498b-a3c4-0a6000def734"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mary Hansen",
+      "ContactInformation": {
+        "Phone": "001-698-306-1507x769",
+        "Email": "yramsey@example.org"
+      },
+      "Statement": "Beat between wind claim available. Last reality senior care. Develop sort traditional executive."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "61d45590-a9fa-4933-b842-6d96763486d3",
+    "OfficerName": "Faith Freeman",
+    "ReportDetails": "Bag second focus major. Politics lead official increase rock author place. None their who dream house. Line husband never help continue political cup."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 390,
+    "AnnualIncome": 153570,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

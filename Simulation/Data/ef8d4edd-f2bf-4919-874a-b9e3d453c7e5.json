@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ef8d4edd-f2bf-4919-874a-b9e3d453c7e5",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-09-12",
+    "EndDate": "2026-09-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-27",
+    "Location": "6958 Castillo Union\nWalkerbury, KS 42303",
+    "Description": "Middle news central painting. Claim quickly economy present what receive.\nUsually before figure. Fear central movement eat community."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 71297
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 125803
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8115
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9893
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 89921
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 305029,
+    "TotalApproved": 264979
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher King",
+    "ContactInformation": {
+      "Phone": "504-838-0106",
+      "Email": "randykim@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3dab0923-5dd1-48df-89d1-30afdb25f328"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mcclain-Morris",
+    "Model": "truth",
+    "Year": 2015,
+    "VIN": "370d4e73-74d3-4aff-b689-2a8fca8f918a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Jefferson",
+      "ContactInformation": {
+        "Phone": "230-304-6674",
+        "Email": "tracey75@example.com"
+      },
+      "Statement": "Group off opportunity wide sea ok. Series wall beat each sea never. Check force traditional worker. Necessary green serious place agreement thus paper guy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "04fc8326-21b6-43f0-ba2c-4766006e76ad",
+    "OfficerName": "Lisa Williams",
+    "ReportDetails": "Onto performance money young trip high anything. Nearly a it grow finally should parent. Character drug computer reason big. Public debate material relationship art land."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 472,
+    "AnnualIncome": 172338,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 1,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

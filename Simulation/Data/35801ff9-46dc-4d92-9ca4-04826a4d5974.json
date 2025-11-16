@@ -1,0 +1,112 @@
+{
+  "ClaimID": "35801ff9-46dc-4d92-9ca4-04826a4d5974",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-08-25",
+    "EndDate": "2026-08-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-18",
+    "Location": "324 Rivas Springs\nBrianborough, MI 25438",
+    "Description": "There now hard education improve beat. Leave hot win hand often necessary still environmental.\nImagine herself away travel could. Mother our catch listen he."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4496209
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4082739
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4907313
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4678164
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4504371
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22668796,
+    "TotalApproved": 3092949
+  },
+  "AdjusterDetails": {
+    "Name": "Sandra Garcia",
+    "ContactInformation": {
+      "Phone": "(974)785-2610x095",
+      "Email": "bjensen@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/0fc5a795-7c14-44e3-9cdf-a75bc53f59aa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Kramer-Turner",
+    "Model": "girl",
+    "Year": 2010,
+    "VIN": "f03dbcda-d03d-4c24-98cc-b605571dd41c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Frank Mayer",
+      "ContactInformation": {
+        "Phone": "(489)519-5297x487",
+        "Email": "colonjessica@example.net"
+      },
+      "Statement": "Choice blue debate get sound end certain. Open service policy single much. Night itself particularly son his be threat. Can window appear finally view bill."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1339f6e3-4dce-4307-bade-bd42d2ea1e6a",
+    "OfficerName": "Andrea Smith",
+    "ReportDetails": "Like may staff quality impact management. Pressure analysis sound paper present level. Out ten himself push."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 422,
+    "AnnualIncome": 81307,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

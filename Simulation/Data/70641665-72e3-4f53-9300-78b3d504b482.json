@@ -1,0 +1,112 @@
+{
+  "ClaimID": "70641665-72e3-4f53-9300-78b3d504b482",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-01-08",
+    "EndDate": "2026-01-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-23",
+    "Location": "2686 Melendez Divide Suite 955\nEast Eileenburgh, AZ 14292",
+    "Description": "Agreement gun star expert while others his. Bad safe operation through it consumer activity."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 42919
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 61189
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12364
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2217
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1477
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 120166,
+    "TotalApproved": 70322
+  },
+  "AdjusterDetails": {
+    "Name": "Derek Barnes",
+    "ContactInformation": {
+      "Phone": "+1-879-344-9325",
+      "Email": "teresa34@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/cb561d8a-3d18-490e-9301-3f8da3161aca"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Wu",
+    "Model": "five",
+    "Year": 2007,
+    "VIN": "0c9a0a8f-b00f-4be8-8fe7-57300dac962b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Lewis",
+      "ContactInformation": {
+        "Phone": "485.386.9450x9943",
+        "Email": "kristinagarcia@example.net"
+      },
+      "Statement": "Sing radio miss force writer some card. Remain kind last in kind. Close building show American theory understand."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "056dc600-7e9a-431b-9dd0-7384135c02ce",
+    "OfficerName": "Paula Freeman",
+    "ReportDetails": "Own relate environmental nor individual economy white. Somebody ahead avoid recognize large she worry. Wide program let development pretty two.\nFire he risk author person wonder few."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 822,
+    "AnnualIncome": 100644,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 10,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

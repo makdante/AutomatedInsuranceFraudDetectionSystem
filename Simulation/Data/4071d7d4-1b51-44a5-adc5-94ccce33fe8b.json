@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4071d7d4-1b51-44a5-adc5-94ccce33fe8b",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-06-28",
+    "EndDate": "2026-06-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-28",
+    "Location": "USNV Arias\nFPO AP 18606",
+    "Description": "Old although myself better soldier season than. Send it six.\nGarden pick mouth role tax identify concern. Expert strong soldier head us room everything artist."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4272051
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4983668
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4757019
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4044685
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4340885
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22398308,
+    "TotalApproved": 13486202
+  },
+  "AdjusterDetails": {
+    "Name": "Angela Johnson",
+    "ContactInformation": {
+      "Phone": "+1-564-729-0398x1689",
+      "Email": "colemanjennifer@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/13478d47-06df-4657-9052-90dfa08dcca9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Young-Mcdonald",
+    "Model": "production",
+    "Year": 2001,
+    "VIN": "1f873f63-59d1-4de4-9507-88681207e3e1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Marissa Jackson",
+      "ContactInformation": {
+        "Phone": "+1-371-312-0396x8022",
+        "Email": "jonesjoel@example.net"
+      },
+      "Statement": "Factor available image drive. Space mind task ten whole base discover. Recent miss scene choice sense guy standard party."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a0fd90bb-7e80-47dd-acb9-10583388c89f",
+    "OfficerName": "Joseph Ochoa",
+    "ReportDetails": "Beat administration side size market during. Whether local my.\nSmile huge mean of there toward per. Boy around build this indeed that. Once should process current paper."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 427,
+    "AnnualIncome": 180208,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 5,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

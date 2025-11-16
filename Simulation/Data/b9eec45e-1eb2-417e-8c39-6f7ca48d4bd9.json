@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b9eec45e-1eb2-417e-8c39-6f7ca48d4bd9",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-02-02",
+    "EndDate": "2026-02-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-06",
+    "Location": "20518 Sara Greens\nJamestown, SD 87996",
+    "Description": "Material performance on interesting. Cut few spend democratic claim three your. Woman husband want crime whether none loss.\nSimple friend style help. Wonder civil man have that by sing trial."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 70137
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 98495
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 84987
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3072
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14171
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 270862,
+    "TotalApproved": 220150
+  },
+  "AdjusterDetails": {
+    "Name": "Angela Jimenez",
+    "ContactInformation": {
+      "Phone": "3925191397",
+      "Email": "howejessica@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/ff51f8db-811f-4cc1-9d1c-8ee5d6c0d87e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moore-Haynes",
+    "Model": "seat",
+    "Year": 2021,
+    "VIN": "9b7e7ba2-bcc2-4d20-82c4-af0908d83f07"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Mccullough",
+      "ContactInformation": {
+        "Phone": "9334964728",
+        "Email": "jennifer26@example.org"
+      },
+      "Statement": "Hand price there claim result he.\nMiss table tough employee by. Building among else. Join economy quickly heart local doctor. Even out tax apply tonight research bar."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e9305a36-0488-4ab0-b147-a518445da547",
+    "OfficerName": "Chad Nguyen",
+    "ReportDetails": "Want school fine wind hair. Game ever concern today support once stand letter. Two production cause fast old.\nIndeed model order institution. Performance Mr wonder rest perform how."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 662,
+    "AnnualIncome": 108172,
+    "DebtToIncomeRatio": 0.47
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 1,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

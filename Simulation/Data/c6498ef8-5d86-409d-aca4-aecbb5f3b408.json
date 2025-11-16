@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c6498ef8-5d86-409d-aca4-aecbb5f3b408",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-07-04",
+    "EndDate": "2026-07-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-03",
+    "Location": "18732 John Glen\nMariaberg, FL 29684",
+    "Description": "Gas remain worry no. Purpose decade common bring.\nSort still each ground not fight. Weight himself item challenge high measure. Field increase score billion recently."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 194794
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8350
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12601
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8499
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17664
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 241908,
+    "TotalApproved": 179946
+  },
+  "AdjusterDetails": {
+    "Name": "Edward Valentine",
+    "ContactInformation": {
+      "Phone": "(798)779-6657",
+      "Email": "shaun75@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a359b8fa-e39e-4452-a069-ae0107c414cc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bailey-Edwards",
+    "Model": "rise",
+    "Year": 2020,
+    "VIN": "f68f9eb1-ef1b-43fa-aa0a-52f434348194"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Andersen",
+      "ContactInformation": {
+        "Phone": "654-337-2342x297",
+        "Email": "wvazquez@example.net"
+      },
+      "Statement": "Take share sort paper. Analysis difficult great project officer animal. Loss expert foreign check offer spend produce the.\nBelieve partner determine season cold game major human."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5697c977-00e3-46f6-950b-ceb26582c0b5",
+    "OfficerName": "Carla Carlson",
+    "ReportDetails": "Friend account meet go wish. Sing modern bring hope through."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 664,
+    "AnnualIncome": 82561,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 2,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

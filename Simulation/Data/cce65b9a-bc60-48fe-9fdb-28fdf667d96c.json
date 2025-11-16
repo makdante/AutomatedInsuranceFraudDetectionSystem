@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cce65b9a-bc60-48fe-9fdb-28fdf667d96c",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-05-18",
+    "EndDate": "2026-05-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-07",
+    "Location": "32603 Robles Lane\nSouth Maria, TX 09891",
+    "Description": "Into region agreement than. Finally company movement bed mind. Tell attention see region.\nThird student production. Stand senior meeting happy vote. Win ahead him."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2973
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 75860
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6138
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3564
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 78531
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 167066,
+    "TotalApproved": 33610
+  },
+  "AdjusterDetails": {
+    "Name": "Gwendolyn Hess",
+    "ContactInformation": {
+      "Phone": "001-802-594-1791x654",
+      "Email": "campbellbrian@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/5ac283b8-be1d-42a7-886e-353948634a75"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Preston PLC",
+    "Model": "keep",
+    "Year": 2021,
+    "VIN": "6855609d-5244-48fa-a96a-ce3c9979b4f1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Payne DVM",
+      "ContactInformation": {
+        "Phone": "415.741.6779",
+        "Email": "petersentodd@example.org"
+      },
+      "Statement": "Material reason become why state property. Wall section conference believe weight. These activity whatever book."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e3679519-c575-4186-ad4a-5261acd21fcb",
+    "OfficerName": "Steven Steele",
+    "ReportDetails": "World do old series. Character rest technology fast fast.\nSomething father something whose prepare face bank eight. Career player section conference him. Treatment professional against."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 511,
+    "AnnualIncome": 94639,
+    "DebtToIncomeRatio": 0.74
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

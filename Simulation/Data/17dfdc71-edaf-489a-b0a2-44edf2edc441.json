@@ -1,0 +1,112 @@
+{
+  "ClaimID": "17dfdc71-edaf-489a-b0a2-44edf2edc441",
+  "PolicyID": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+  "EffectiveDates": {
+    "StartDate": "2025-06-27",
+    "EndDate": "2026-06-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "540679a4-28ef-4808-be74-d01304fb65d7",
+    "Name": "Martha Dorsey",
+    "PolicyNumber": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+    "ContactInformation": {
+      "Phone": "385.561.2218x18763",
+      "Email": "calderondon@example.net",
+      "Address": "22938 Wright Ports\nWest Michael, MA 77489"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-09",
+    "Location": "2766 Melinda Underpass\nOrrborough, CA 09568",
+    "Description": "Religious commercial occur too may. Manager eight well west form their bag gun. Drop leg campaign life hair author mind. Purpose policy little fill lose."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 127314
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22441
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6656
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 82677
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 45070
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 284158,
+    "TotalApproved": 24540
+  },
+  "AdjusterDetails": {
+    "Name": "Nichole Gay",
+    "ContactInformation": {
+      "Phone": "001-993-392-0510",
+      "Email": "terri03@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/827a7506-2641-447c-b0ca-ba0cab8cb677"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Kane Ltd",
+    "Model": "raise",
+    "Year": 2022,
+    "VIN": "657f58a8-fd8d-49dc-b0d3-ac822a27bb39"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amy Rivera",
+      "ContactInformation": {
+        "Phone": "3006551635",
+        "Email": "jose61@example.org"
+      },
+      "Statement": "Like personal blood policy agreement nearly. Between left sport.\nChoice concern bar how end. Me production interesting chance middle.\nType social court. Reality list course difficult."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "db1ee3df-337e-4dd2-9d62-e05fb4015e09",
+    "OfficerName": "Jackson Dyer",
+    "ReportDetails": "Senior brother really window. Good doctor test condition executive herself consumer. Happy person democratic he."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 599,
+    "AnnualIncome": 110316,
+    "DebtToIncomeRatio": 0.44
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 0,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "61a67e53-ee67-4991-a0ca-27035b825d60",
+  "PolicyID": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+  "EffectiveDates": {
+    "StartDate": "2024-11-27",
+    "EndDate": "2025-11-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3cd8543c-a7fa-4fd5-96b8-321382511c44",
+    "Name": "Darryl Leonard",
+    "PolicyNumber": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+    "ContactInformation": {
+      "Phone": "342-367-2937",
+      "Email": "bmejia@example.net",
+      "Address": "429 Kimberly Landing\nClayburgh, AZ 73702"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-29",
+    "Location": "247 Elizabeth Port\nGonzalezview, ME 38654",
+    "Description": "There national free compare later letter study. Rate ask quickly democratic.\nAmong scene return. Single human admit treat eat. Development think edge live figure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 182598
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2511
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13585
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7015
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 89393
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 295102,
+    "TotalApproved": 279207
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Reed",
+    "ContactInformation": {
+      "Phone": "(324)347-7707",
+      "Email": "bhorton@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/c95d3a62-0410-4e36-a3ae-8da1ed67511e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown-Green",
+    "Model": "pick",
+    "Year": 2013,
+    "VIN": "0f4d2f98-f9c5-4b71-acb5-8bf218ec91a9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ralph Williams",
+      "ContactInformation": {
+        "Phone": "6792182861",
+        "Email": "glennnelson@example.org"
+      },
+      "Statement": "Yeah coach wait community machine big industry rich. Recognize share follow yeah. Develop care future result idea. Fish scene top while significant draw town level."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "dbddff7c-55a4-4867-a6ed-dc7282c4be2a",
+    "OfficerName": "Cristina Anderson",
+    "ReportDetails": "Until listen cover. Someone energy student remember what account.\nTruth final alone serve by might thousand. Them indicate professional white mother ok fund. Rate boy number enter."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 759,
+    "AnnualIncome": 135320,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 2,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

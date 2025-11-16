@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b6c77f15-e17b-4ef3-845e-1c9c9b235dc8",
+  "PolicyID": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+  "EffectiveDates": {
+    "StartDate": "2025-07-18",
+    "EndDate": "2026-07-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de2fd98f-92b5-4f00-b791-ce9f514afb15",
+    "Name": "Brandon Scott",
+    "PolicyNumber": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+    "ContactInformation": {
+      "Phone": "001-319-262-8310x0650",
+      "Email": "nelsonemily@example.net",
+      "Address": "0592 Patrick Wall\nLeslieport, IA 75247"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-27",
+    "Location": "Unit 9260 Box 9996\nDPO AP 46998",
+    "Description": "Top those risk industry can national fish. Example perform yes raise line staff poor. Face me realize hard interview fast brother citizen. Others international computer while base kind job."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9608
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3746
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 66887
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 28517
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3288
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 112046,
+    "TotalApproved": 106489
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Paul",
+    "ContactInformation": {
+      "Phone": "001-341-487-1746x52054",
+      "Email": "timothyjones@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/006be70a-b7e0-45dd-aa26-9dafdb59c27c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Powell and Sons",
+    "Model": "than",
+    "Year": 2019,
+    "VIN": "3f9c27c9-bbb5-4eb1-bc8d-704ab6f371e9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michele Brown",
+      "ContactInformation": {
+        "Phone": "(641)288-6962x715",
+        "Email": "alejandro22@example.com"
+      },
+      "Statement": "Board speech point of language away. Learn along author interview middle. Now yourself run just."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a8dcc7d4-9d82-4384-beeb-6cb7433f4990",
+    "OfficerName": "Stephanie Miller",
+    "ReportDetails": "Yes plan throughout cold five he list. Woman close nor during conference affect that.\nFamily big toward also prove wind. Only particularly reflect travel."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 797,
+    "AnnualIncome": 34277,
+    "DebtToIncomeRatio": 0.2
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 0,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f6b48d59-d66c-49c3-9452-3c35d27359bc",
+  "PolicyID": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+  "EffectiveDates": {
+    "StartDate": "2025-07-26",
+    "EndDate": "2026-07-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ddabce0f-b86c-49b4-a9b6-4d81be5b5325",
+    "Name": "Helen Williams DDS",
+    "PolicyNumber": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+    "ContactInformation": {
+      "Phone": "(520)524-5958",
+      "Email": "elizabeth72@example.net",
+      "Address": "2431 Karen Tunnel Suite 892\nLisaland, OK 93348"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-07",
+    "Location": "PSC 8317, Box 5396\nAPO AP 54070",
+    "Description": "Yes start south always article national need. Administration whose happen fact until. Task lay scene truth deal use."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17360
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7156
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1755
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1115
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8054
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 35440,
+    "TotalApproved": 34071
+  },
+  "AdjusterDetails": {
+    "Name": "Gregory Vaughn",
+    "ContactInformation": {
+      "Phone": "572.546.4389x9793",
+      "Email": "jason33@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d1c87b63-9b88-45ac-85e0-9220d6b473c3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones LLC",
+    "Model": "hold",
+    "Year": 2002,
+    "VIN": "261d177e-95e2-4e50-9c28-f6c180d8e04f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Pamela Carpenter",
+      "ContactInformation": {
+        "Phone": "6619382179",
+        "Email": "wardsabrina@example.net"
+      },
+      "Statement": "Population and body evening assume mother. Production several color add.\nGlass apply majority follow board wife another. Win also politics water. Pay perhaps bring several from."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "760d9917-f1b9-441b-91e1-ddc31465d3d0",
+    "OfficerName": "Anthony Patterson",
+    "ReportDetails": "This suggest he parent prove fly identify. Win several war laugh product he. Authority hospital suddenly two cut treatment. Risk arm model listen line black."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 476,
+    "AnnualIncome": 167416,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 4,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

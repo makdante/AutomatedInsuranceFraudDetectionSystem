@@ -1,0 +1,112 @@
+{
+  "ClaimID": "367b3b6a-19fc-4001-8e62-60d4ef2b3a0c",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-01-28",
+    "EndDate": "2026-01-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-27",
+    "Location": "108 Michael Keys\nFrancischester, AS 97582",
+    "Description": "Hope think mission indicate. Subject none area sing try. Skin catch water between might. School style all travel front."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2750
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22041
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 47779
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 116465
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 53031
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 242066,
+    "TotalApproved": 64785
+  },
+  "AdjusterDetails": {
+    "Name": "Charles Parsons",
+    "ContactInformation": {
+      "Phone": "2668507866",
+      "Email": "stevenjames@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/e1da0b76-f82b-476a-a40a-0c492e59a6ec"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bowers-Adkins",
+    "Model": "threat",
+    "Year": 2022,
+    "VIN": "82ded6c9-f7d3-4092-8dfc-be688a6f9b76"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Megan White",
+      "ContactInformation": {
+        "Phone": "239-514-7208x4131",
+        "Email": "ebrandt@example.org"
+      },
+      "Statement": "Ok still check pretty we. Effect after each.\nMarket happen million poor. Produce billion artist open.\nYear nor rule kid. Animal capital care house indeed wish girl."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4ed0f125-2227-441f-b700-03809a1fda02",
+    "OfficerName": "Tristan Hill",
+    "ReportDetails": "More begin market between certainly three long. Several fine here development. Act pass vote I use.\nNatural ability present of history listen of. Various sea close partner contain."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 306,
+    "AnnualIncome": 170089,
+    "DebtToIncomeRatio": 0.6
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

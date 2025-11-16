@@ -1,0 +1,112 @@
+{
+  "ClaimID": "05466c58-3f83-4c5b-88ac-722d2d0c4813",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-01-11",
+    "EndDate": "2026-01-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-07",
+    "Location": "141 James Park\nGomezland, MP 10780",
+    "Description": "Situation account girl authority. Summer north stock.\nAgree during article too. Free public front consider. Including process forward article."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 58237
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3103
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 26554
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8211
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19933
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 116038,
+    "TotalApproved": 8651
+  },
+  "AdjusterDetails": {
+    "Name": "Heather Berg",
+    "ContactInformation": {
+      "Phone": "526-226-2598x79776",
+      "Email": "jonespatrick@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/edd8eb8a-d628-4112-bc53-3a541ea52029"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mack, Rodriguez and Lloyd",
+    "Model": "quickly",
+    "Year": 2016,
+    "VIN": "7d16bea9-d730-4e52-8ad0-6847b6917323"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Castaneda",
+      "ContactInformation": {
+        "Phone": "(676)421-1727",
+        "Email": "whitejonathan@example.com"
+      },
+      "Statement": "Decade democratic country street safe rock why.\nOk least detail story. Style kitchen member also. Degree sport most employee."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "49a68f63-3171-4c4c-9647-61f142925446",
+    "OfficerName": "Jasmine Higgins",
+    "ReportDetails": "Nice instead point young player yeah these head. Technology watch how senior particularly street near enough."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 378,
+    "AnnualIncome": 122170,
+    "DebtToIncomeRatio": 0.2
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

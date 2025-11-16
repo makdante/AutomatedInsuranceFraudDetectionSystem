@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8044d44c-d1fb-4372-a68b-7725b7ed96d2",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-02-01",
+    "EndDate": "2026-02-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-01",
+    "Location": "993 Catherine Pass Apt. 788\nHannahhaven, TX 64887",
+    "Description": "Question sound training. For continue be security mission network. Standard west information challenge instead spring."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1248
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 137697
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7176
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 145351
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 54506
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 345978,
+    "TotalApproved": 22606
+  },
+  "AdjusterDetails": {
+    "Name": "Paige Howard",
+    "ContactInformation": {
+      "Phone": "+1-634-767-7688x706",
+      "Email": "jwilson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/b5c402bf-f6a4-4ebf-a305-3f42db88aef7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clark LLC",
+    "Model": "leader",
+    "Year": 2021,
+    "VIN": "07ee0bbf-a449-4ff1-a7a5-96f367c61bea"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Hernandez",
+      "ContactInformation": {
+        "Phone": "736.654.6800x49745",
+        "Email": "wendy27@example.org"
+      },
+      "Statement": "Quality huge process road. Across page particularly eye have such event president.\nEnvironment myself tonight where city race challenge. Need big say family compare issue."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d8e3c76a-37ad-47cf-a087-2a919b06a1e3",
+    "OfficerName": "Rebecca Armstrong",
+    "ReportDetails": "Medical drive break center popular. Particularly year company suggest senior expert why.\nMethod music court first himself never those. Recently know occur could stock."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 639,
+    "AnnualIncome": 25099,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

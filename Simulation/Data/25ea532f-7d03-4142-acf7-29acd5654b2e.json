@@ -1,0 +1,112 @@
+{
+  "ClaimID": "25ea532f-7d03-4142-acf7-29acd5654b2e",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2025-08-17",
+    "EndDate": "2026-08-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-18",
+    "Location": "09260 Robert Loop\nSouth Tamaraton, WV 18482",
+    "Description": "Represent return lose. Can between five together friend happen.\nNewspaper talk anything receive example health. Road carry I building draw until.\nDog man across box no different black."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1415
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14795
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 56230
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 32822
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 70506
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 175768,
+    "TotalApproved": 5373
+  },
+  "AdjusterDetails": {
+    "Name": "Jonathan Clark",
+    "ContactInformation": {
+      "Phone": "+1-733-867-7185x449",
+      "Email": "lorithompson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/3b20b895-b570-4e2e-9939-d6a6c0e74f18"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moore-Figueroa",
+    "Model": "exist",
+    "Year": 2008,
+    "VIN": "2f445593-1005-450c-ad90-7c31818bd22c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Webster",
+      "ContactInformation": {
+        "Phone": "279.984.0621",
+        "Email": "gina07@example.org"
+      },
+      "Statement": "Read past born. Plant look laugh.\nPlace kind prepare radio culture old if. Now themselves experience establish community mouth rock."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "77d1ab6e-3ca7-4192-818f-d6fd2a4a2d42",
+    "OfficerName": "Pamela Randolph",
+    "ReportDetails": "Increase indeed reality that off wife. Protect sister security figure yard. Yet also give current office Republican wide until.\nVisit guess short imagine cold."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 629,
+    "AnnualIncome": 113983,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 6,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

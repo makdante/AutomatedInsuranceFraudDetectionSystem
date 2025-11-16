@@ -1,0 +1,112 @@
+{
+  "ClaimID": "eff36d15-68dc-49d3-ad88-238f9baac835",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2024-12-17",
+    "EndDate": "2025-12-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-01",
+    "Location": "40085 Joshua Roads\nNew Katie, OR 98088",
+    "Description": "Turn season better.\nCatch set debate development foreign push. Join next simple last claim. Future strong while doctor bring home television."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39293
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 38152
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 43388
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16854
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 194066
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 331753,
+    "TotalApproved": 143305
+  },
+  "AdjusterDetails": {
+    "Name": "Tina Bailey",
+    "ContactInformation": {
+      "Phone": "4583555948",
+      "Email": "tuckerpamela@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b2164ef2-b896-4e37-892c-71c676839619"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Armstrong Ltd",
+    "Model": "product",
+    "Year": 2006,
+    "VIN": "e6de1eeb-75d4-4b8c-bb69-43aca6974e76"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Theresa Campbell",
+      "ContactInformation": {
+        "Phone": "872.746.1148x7769",
+        "Email": "suarezandrew@example.com"
+      },
+      "Statement": "Air street ago outside without.\nCurrent director check day class against. Around night ago until result."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6d91e01d-421e-4d4f-b60f-0100d83e5b0e",
+    "OfficerName": "Tiffany Walker",
+    "ReportDetails": "Its under manage while type. Amount rich energy upon his. Positive like present industry moment."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 387,
+    "AnnualIncome": 95053,
+    "DebtToIncomeRatio": 0.57
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

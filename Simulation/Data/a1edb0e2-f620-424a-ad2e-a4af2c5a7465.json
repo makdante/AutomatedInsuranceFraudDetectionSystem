@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a1edb0e2-f620-424a-ad2e-a4af2c5a7465",
+  "PolicyID": "f56b721d-77fb-4659-8280-faefc114b152",
+  "EffectiveDates": {
+    "StartDate": "2025-03-05",
+    "EndDate": "2026-03-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "9df24105-b696-442a-969e-d25b0cebdfb9",
+    "Name": "Jonathan Santos",
+    "PolicyNumber": "f56b721d-77fb-4659-8280-faefc114b152",
+    "ContactInformation": {
+      "Phone": "001-871-292-7838x249",
+      "Email": "bneal@example.org",
+      "Address": "46543 Jamie Burg Suite 969\nSarahfort, VI 92099"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-30",
+    "Location": "0420 Armstrong Rapids\nCharlenechester, TN 89845",
+    "Description": "Popular year yard detail. System large under age some her often."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4394
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18301
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 27852
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 185793
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2709
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 239049,
+    "TotalApproved": 28017
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Kelly",
+    "ContactInformation": {
+      "Phone": "001-946-581-9562x0481",
+      "Email": "lewistina@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/38a3d91c-0036-4466-b950-b3fc34bc8f0d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-30T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wang, Welch and Perez",
+    "Model": "happy",
+    "Year": 2006,
+    "VIN": "ea38f107-773b-4225-ba39-0c3a6562f91c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Anderson",
+      "ContactInformation": {
+        "Phone": "352-630-9045",
+        "Email": "turnerbelinda@example.org"
+      },
+      "Statement": "Any office subject sometimes. Structure clearly approach. Together first clearly point garden end receive. Give particularly minute worry matter response."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "899820cf-cfe4-4d18-b315-933a45c32209",
+    "OfficerName": "Michelle Huber",
+    "ReportDetails": "Near cultural whether man allow account. Card business southern cost family movement customer. Fast check price each minute."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 428,
+    "AnnualIncome": 66154,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 6,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

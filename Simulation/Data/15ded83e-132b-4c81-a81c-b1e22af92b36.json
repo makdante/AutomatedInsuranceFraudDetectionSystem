@@ -1,0 +1,112 @@
+{
+  "ClaimID": "15ded83e-132b-4c81-a81c-b1e22af92b36",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-07-27",
+    "EndDate": "2026-07-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-27",
+    "Location": "3402 Grant Key Apt. 972\nLake Maryton, TX 26279",
+    "Description": "Play car environmental stand one. Opportunity sing north impact.\nNumber successful society it. Interview risk finally model including image."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 65203
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 29028
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 185074
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27139
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 93078
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 399522,
+    "TotalApproved": 242477
+  },
+  "AdjusterDetails": {
+    "Name": "Nathan Landry",
+    "ContactInformation": {
+      "Phone": "896-575-9050x618",
+      "Email": "williamwolfe@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/761a5351-6246-4fcd-bd60-df7305a808b6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "King Ltd",
+    "Model": "dream",
+    "Year": 2016,
+    "VIN": "b568b1a5-1eef-4ade-95d8-6e2391d5c9d3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "William Lewis",
+      "ContactInformation": {
+        "Phone": "001-710-834-7821x531",
+        "Email": "brandonbenson@example.com"
+      },
+      "Statement": "Kind key newspaper goal.\nBecome happen machine church teach seem ready special. Task walk I pull team. Law music white they drop may."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c48eb0b1-9133-42d7-b45a-d52afe918647",
+    "OfficerName": "Melissa Torres",
+    "ReportDetails": "Race society dinner turn rich he focus doctor. Threat ahead bag drive high simple.\nBeautiful do find unit he health. Main cold book sound anyone run culture."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 435,
+    "AnnualIncome": 85532,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

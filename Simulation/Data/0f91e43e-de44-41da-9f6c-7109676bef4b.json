@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0f91e43e-de44-41da-9f6c-7109676bef4b",
+  "PolicyID": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+  "EffectiveDates": {
+    "StartDate": "2025-02-23",
+    "EndDate": "2026-02-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1ebb1bc-6120-42c4-a87a-be4f808197b1",
+    "Name": "Donald Smith",
+    "PolicyNumber": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+    "ContactInformation": {
+      "Phone": "675.606.3377",
+      "Email": "masonpamela@example.net",
+      "Address": "14432 Richard Vista\nNew Suzanne, TN 31994"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-25",
+    "Location": "559 Levine Brook\nEast Patrick, AZ 88951",
+    "Description": "Live this available statement.\nCentury far find read its hot. Total agency amount wish still. Cell carry house force race artist civil."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4977327
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4272737
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4180254
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4403745
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4479922
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22313985,
+    "TotalApproved": 18089714
+  },
+  "AdjusterDetails": {
+    "Name": "Angela Martin",
+    "ContactInformation": {
+      "Phone": "583-894-6581",
+      "Email": "cbrown@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/39029cd8-3454-4c14-aec2-42da38af90d6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-04T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jacobs-Bautista",
+    "Model": "society",
+    "Year": 2018,
+    "VIN": "bb4a1e04-4205-4fcb-a9dc-343da39ce1d0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Donna Miller",
+      "ContactInformation": {
+        "Phone": "634-281-2457",
+        "Email": "aliciaanthony@example.net"
+      },
+      "Statement": "No why there million leg.\nCatch agent onto strategy. Send leave learn floor whose room question. Author data paper voice resource both."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cee8ea0a-2b35-403d-b568-65c974c0d73b",
+    "OfficerName": "Heather Thompson",
+    "ReportDetails": "Money relationship take business. Nor fire summer statement. Push career doctor. Situation include I condition later.\nStructure almost this ability manager share. Pressure result wish buy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 340,
+    "AnnualIncome": 107634,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

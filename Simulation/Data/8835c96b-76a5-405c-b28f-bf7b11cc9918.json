@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8835c96b-76a5-405c-b28f-bf7b11cc9918",
+  "PolicyID": "6c36cc73-e207-48b9-a284-c51cf5663165",
+  "EffectiveDates": {
+    "StartDate": "2025-02-19",
+    "EndDate": "2026-02-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "193b28b0-1277-4ecb-b44b-678f0a8a54ac",
+    "Name": "Aaron Wilson",
+    "PolicyNumber": "6c36cc73-e207-48b9-a284-c51cf5663165",
+    "ContactInformation": {
+      "Phone": "4298804696",
+      "Email": "uford@example.org",
+      "Address": "70180 Jessica Ridges Suite 614\nEast Mindy, IL 04431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-21",
+    "Location": "2671 Sherri Junction\nEast Heidi, TX 64968",
+    "Description": "Smile ask authority. Side miss figure citizen it pay five. Miss meeting eye throughout.\nReligious car education cost onto. Benefit represent rock professor star.\nFly interview a note evidence."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40484
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 42405
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7505
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 168954
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 90476
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 349824,
+    "TotalApproved": 109101
+  },
+  "AdjusterDetails": {
+    "Name": "Thomas Williams",
+    "ContactInformation": {
+      "Phone": "+1-723-972-0123x09059",
+      "Email": "harveymichelle@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/a255c25b-59e3-4d23-b69c-0aac27026634"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-31T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson Ltd",
+    "Model": "wrong",
+    "Year": 2009,
+    "VIN": "92236192-acae-4bfa-95c2-83b3506c9b5d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Danielle Blair",
+      "ContactInformation": {
+        "Phone": "(844)384-6049",
+        "Email": "jameswatkins@example.org"
+      },
+      "Statement": "Garden protect serve. Effort language along plan future doctor. Talk simple responsibility everybody land exist team. Behavior involve pretty ever."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a295e47a-02d8-4a69-b359-79e711b45690",
+    "OfficerName": "William Davis",
+    "ReportDetails": "Rich medical beat heavy right many.\nSo point military offer tell along minute recently."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 489,
+    "AnnualIncome": 82476,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "67179ad9-e259-483a-aa42-b2c2d7aeb333",
+  "PolicyID": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+  "EffectiveDates": {
+    "StartDate": "2025-08-05",
+    "EndDate": "2026-08-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fe640aa1-fac6-44c1-b128-0544382d3460",
+    "Name": "Mr. John Curtis DDS",
+    "PolicyNumber": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+    "ContactInformation": {
+      "Phone": "+1-788-856-0912x412",
+      "Email": "greenlorraine@example.com",
+      "Address": "970 Ryan Green\nWest Katherine, GA 40547"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-15",
+    "Location": "87148 Thornton Ports Suite 345\nJamesshire, HI 93785",
+    "Description": "Level risk music mention space admit minute share.\nCard tax rock end this tonight consider. Together team front speak purpose."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13070
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 24336
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 28353
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44343
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 159015
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 269117,
+    "TotalApproved": 209390
+  },
+  "AdjusterDetails": {
+    "Name": "Joel Vaughn",
+    "ContactInformation": {
+      "Phone": "(376)498-4094x9251",
+      "Email": "daniel48@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/6ee9274e-47bd-474a-bd8f-d2bf68f738bf"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Patterson and Sons",
+    "Model": "year",
+    "Year": 2014,
+    "VIN": "271d9996-fb80-490f-ae42-f41b66b9c8ec"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lindsey Daniels",
+      "ContactInformation": {
+        "Phone": "2638631242",
+        "Email": "ujohnson@example.com"
+      },
+      "Statement": "According camera past. Born simple guy yet do represent. They even produce reveal science."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "03f667ec-06ae-4ecc-93a3-95a453030ba2",
+    "OfficerName": "Caleb Berry",
+    "ReportDetails": "Him spend thousand past per. Day create smile bed audience southern. Music its whom performance our.\nMovie huge note lose decision.\nTime work hit society expect religious. Learn floor simply."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 434,
+    "AnnualIncome": 155822,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

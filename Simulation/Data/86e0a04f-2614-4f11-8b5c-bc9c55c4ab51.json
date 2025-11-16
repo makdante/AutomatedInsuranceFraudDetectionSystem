@@ -1,0 +1,112 @@
+{
+  "ClaimID": "86e0a04f-2614-4f11-8b5c-bc9c55c4ab51",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2024-11-05",
+    "EndDate": "2025-11-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2024-11-19",
+    "Location": "2700 Rebecca Lakes\nNew Yvonne, PW 21007",
+    "Description": "Appear rock entire natural eat establish sell language.\nExactly you off weight out. Pass everything PM behind when gas. Doctor source full support they me you."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4361222
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4380747
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4016337
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4451755
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4617589
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 21827650,
+    "TotalApproved": 6917191
+  },
+  "AdjusterDetails": {
+    "Name": "Stephanie Parsons",
+    "ContactInformation": {
+      "Phone": "(840)230-9447x39230",
+      "Email": "emily24@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b461a6d1-2e25-45b1-9fcf-95c6816326c2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2024-11-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2024-11-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2024-11-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lopez Inc",
+    "Model": "stock",
+    "Year": 2008,
+    "VIN": "fdcf0f0c-7d0d-4662-ac5a-c651d03fe396"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Donna Pearson",
+      "ContactInformation": {
+        "Phone": "568-910-5730x084",
+        "Email": "cynthia19@example.org"
+      },
+      "Statement": "Story according sport yard likely. Traditional box season despite.\nMovement style manager professor usually magazine field. Attention media tell close street admit. Avoid care American too tree."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "73795548-3849-4061-ac9e-2184e404e6c5",
+    "OfficerName": "Mr. John Smith",
+    "ReportDetails": "Assume treatment need throughout forget expert. List something prevent enjoy. Southern everything ten for start now."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 373,
+    "AnnualIncome": 69827,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

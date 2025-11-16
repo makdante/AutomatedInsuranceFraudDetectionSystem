@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d2750e49-1c7a-421d-839e-fad545694a58",
+  "PolicyID": "433b7880-f7af-4e36-9012-5c5e793028d5",
+  "EffectiveDates": {
+    "StartDate": "2025-01-16",
+    "EndDate": "2026-01-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3906d06d-d7b8-494f-879b-a72d5db680f8",
+    "Name": "William West",
+    "PolicyNumber": "433b7880-f7af-4e36-9012-5c5e793028d5",
+    "ContactInformation": {
+      "Phone": "5878895828",
+      "Email": "johnmorris@example.net",
+      "Address": "1914 Lyons Green\nDavisbury, NY 54164"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-16",
+    "Location": "4679 Zachary Track Suite 670\nJoneschester, OR 16378",
+    "Description": "Culture often since finish. Significant term today support social interest by energy.\nPattern natural can four case direction."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27864
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5933
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1528
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 48510
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14685
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 98520,
+    "TotalApproved": 40738
+  },
+  "AdjusterDetails": {
+    "Name": "Abigail Carey",
+    "ContactInformation": {
+      "Phone": "388.881.7453x2815",
+      "Email": "ucarlson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/8d8e21f4-bc53-44d5-8e63-487b79eb1cbb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Maldonado-Sloan",
+    "Model": "customer",
+    "Year": 2008,
+    "VIN": "e679f4d7-be01-4430-86a9-32488d891e67"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Laura Murphy",
+      "ContactInformation": {
+        "Phone": "914-783-6910",
+        "Email": "lauren43@example.com"
+      },
+      "Statement": "Red institution similar one choice. Art level perform draw prove themselves.\nOffice production later red free enter writer. Total by effort short debate everybody drive. Trade week feel get product."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "59139d86-c8f5-430f-a6f0-94fd9533acb2",
+    "OfficerName": "Jason Brown",
+    "ReportDetails": "Indeed purpose thought memory tell. Number religious performance answer book herself station above.\nYes bank water between human. Personal we upon simple."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 727,
+    "AnnualIncome": 180310,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 1,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

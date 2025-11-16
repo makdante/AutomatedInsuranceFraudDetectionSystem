@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3521a778-9c10-41bf-9067-b268656a920c",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-08-07",
+    "EndDate": "2026-08-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-19",
+    "Location": "67520 Robert Island Suite 037\nJonview, AL 16097",
+    "Description": "Skin from hope bring section create consumer. Senior draw operation goal. Out could statement myself production develop."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 145377
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 138051
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9580
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6064
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 187466
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 486538,
+    "TotalApproved": 427687
+  },
+  "AdjusterDetails": {
+    "Name": "Kelly Clay",
+    "ContactInformation": {
+      "Phone": "397.827.9913x313",
+      "Email": "carolperez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/4332ea32-b72a-42e0-90d1-ca51bae322c1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stone Ltd",
+    "Model": "maybe",
+    "Year": 2002,
+    "VIN": "a3d882c8-5683-4d46-bf0a-b268a1220f4e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Martin Kerr",
+      "ContactInformation": {
+        "Phone": "001-521-553-4962",
+        "Email": "cynthia16@example.com"
+      },
+      "Statement": "Information close apply. Soon rock activity art.\nEight indicate team media guess player care. A wear as or around. Executive not remain enter."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4bfd08a8-dc33-456a-b917-c459f3fbba4f",
+    "OfficerName": "Dan Sloan",
+    "ReportDetails": "Represent traditional bar what stay. Music century less moment project defense. Environment reason what score country."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 753,
+    "AnnualIncome": 154416,
+    "DebtToIncomeRatio": 0.6
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 1,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

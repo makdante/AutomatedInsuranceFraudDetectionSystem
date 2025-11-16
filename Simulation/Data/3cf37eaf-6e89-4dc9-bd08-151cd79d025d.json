@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3cf37eaf-6e89-4dc9-bd08-151cd79d025d",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2024-12-12",
+    "EndDate": "2025-12-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-09",
+    "Location": "33995 Lynn Hills\nNew Caitlin, VI 65251",
+    "Description": "Stop best whole time. Receive drop this fire ground. Day attack create say teach new while. Continue tend decision where value safe."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18408
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2339
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8720
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 178192
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19772
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 227431,
+    "TotalApproved": 213716
+  },
+  "AdjusterDetails": {
+    "Name": "Crystal Fernandez",
+    "ContactInformation": {
+      "Phone": "001-674-317-7283x21203",
+      "Email": "alison85@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/8910a628-a1dd-4e15-bc6b-48496a3a446a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rice Inc",
+    "Model": "role",
+    "Year": 2020,
+    "VIN": "8dbb98f3-fa15-4a3d-9d31-9876f4120045"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Terry Gutierrez",
+      "ContactInformation": {
+        "Phone": "5858208927",
+        "Email": "boydaaron@example.net"
+      },
+      "Statement": "Method over song collection share not. Citizen space human whether.\nStudy those prepare read record. Career administration never each our character history song."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "92b0a7d8-b2be-4e87-88d7-db3ef303a267",
+    "OfficerName": "Adam Ramirez",
+    "ReportDetails": "Free strong free information your particular. Avoid green according perhaps market. Appear structure product.\nKey night test bag could person me. Project which high."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 482,
+    "AnnualIncome": 110356,
+    "DebtToIncomeRatio": 0.36
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

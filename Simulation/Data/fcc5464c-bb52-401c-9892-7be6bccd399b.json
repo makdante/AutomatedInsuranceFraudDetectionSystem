@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fcc5464c-bb52-401c-9892-7be6bccd399b",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-10-17",
+    "EndDate": "2026-10-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-30",
+    "Location": "894 Padilla Circles Suite 275\nSouth Courtneystad, MD 57808",
+    "Description": "Phone throughout you way put decide including. Something suffer morning into rate against never."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 33488
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7624
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 15263
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 185944
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16577
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 258896,
+    "TotalApproved": 197903
+  },
+  "AdjusterDetails": {
+    "Name": "Dan Perez",
+    "ContactInformation": {
+      "Phone": "+1-410-248-2186x292",
+      "Email": "tina74@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/842b749f-2022-4e9f-8d53-9b6a9abaa36f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chapman and Sons",
+    "Model": "organization",
+    "Year": 2008,
+    "VIN": "6e6dee3c-b909-4249-a72c-5f62aff2cc0e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Rodriguez",
+      "ContactInformation": {
+        "Phone": "+1-974-667-5802x59370",
+        "Email": "mezanicholas@example.com"
+      },
+      "Statement": "Or under some. Argue current hand which dream value experience. Various but can law then culture space.\nIndeed then indicate my focus care happy. Model walk management page field include heart range."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b36270b0-b873-499f-858c-584d6d32dd26",
+    "OfficerName": "Taylor Fernandez",
+    "ReportDetails": "Blue although human president effect let baby wish. Where of do suddenly reality. Can student imagine half eye experience manager."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 833,
+    "AnnualIncome": 67587,
+    "DebtToIncomeRatio": 0.69
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

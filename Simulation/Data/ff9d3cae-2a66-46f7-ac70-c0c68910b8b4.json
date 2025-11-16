@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ff9d3cae-2a66-46f7-ac70-c0c68910b8b4",
+  "PolicyID": "500b8392-3ef4-475f-a0d6-15c142970199",
+  "EffectiveDates": {
+    "StartDate": "2025-07-14",
+    "EndDate": "2026-07-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0e2c98cc-0459-4a1f-b201-c0c324374a25",
+    "Name": "Brittany Watson",
+    "PolicyNumber": "500b8392-3ef4-475f-a0d6-15c142970199",
+    "ContactInformation": {
+      "Phone": "001-690-266-5439",
+      "Email": "jasonjames@example.org",
+      "Address": "66736 Antonio Valley\nWest Kristy, FL 30721"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-21",
+    "Location": "488 Sanchez Walks\nRitterville, RI 17354",
+    "Description": "Grow speech way explain right. Continue trouble education court hotel because interesting dark."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 33278
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 27112
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17058
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36275
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 38856
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 152579,
+    "TotalApproved": 134985
+  },
+  "AdjusterDetails": {
+    "Name": "Kristin King",
+    "ContactInformation": {
+      "Phone": "+1-901-598-7773x623",
+      "Email": "briannguyen@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a72412ae-19b1-421c-8085-a9a8e323d647"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-31T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez and Sons",
+    "Model": "local",
+    "Year": 2017,
+    "VIN": "a3901676-8eb6-4e7c-ad11-eb6a765f209c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Valerie Richards",
+      "ContactInformation": {
+        "Phone": "7534141490",
+        "Email": "sherryabbott@example.org"
+      },
+      "Statement": "Cell education event something green because. Individual send identify small risk unit then beautiful. Unit involve prepare gun cell shoulder."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "41a21dfc-6cf0-48d4-a219-2e3cb9af638f",
+    "OfficerName": "Sarah Blackwell",
+    "ReportDetails": "Serious budget center director. National instead save growth leg. Then into notice.\nGeneral series age cell. She quickly debate attention. Financial product indeed capital."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 815,
+    "AnnualIncome": 181349,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

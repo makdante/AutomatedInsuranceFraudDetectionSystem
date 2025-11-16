@@ -1,0 +1,112 @@
+{
+  "ClaimID": "074f4b7a-b06d-46ab-9e0a-4f7cd0d9ecb1",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2024-12-10",
+    "EndDate": "2025-12-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-02",
+    "Location": "USS Williamson\nFPO AA 10839",
+    "Description": "Few focus writer pretty strong prevent level.\nOf thought medical doctor individual. Everyone nature its four second."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 165211
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 77508
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3561
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 133052
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 90014
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 469346,
+    "TotalApproved": 435348
+  },
+  "AdjusterDetails": {
+    "Name": "Marcus Rodriguez",
+    "ContactInformation": {
+      "Phone": "001-614-510-3743x84930",
+      "Email": "campbelldenise@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/eea81bbd-c279-4e25-9925-08138dbec594"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rodriguez-Robinson",
+    "Model": "debate",
+    "Year": 2004,
+    "VIN": "6e8cea26-8c62-47df-befe-1dc648167950"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "April Miller",
+      "ContactInformation": {
+        "Phone": "001-762-568-5287x83911",
+        "Email": "kkane@example.com"
+      },
+      "Statement": "Where prove culture Mr well over central long.\nMake music theory political probably anything race. Call kitchen artist guess rock. Section medical manager way do finish."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8d7a70a3-03e0-4a99-8099-0fd0fa4c6018",
+    "OfficerName": "Morgan Harris",
+    "ReportDetails": "As hand add company eat future know. Although yourself benefit question brother picture."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 411,
+    "AnnualIncome": 190274,
+    "DebtToIncomeRatio": 0.62
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

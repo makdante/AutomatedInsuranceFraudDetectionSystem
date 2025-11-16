@@ -1,0 +1,112 @@
+{
+  "ClaimID": "eb401a77-b639-406b-813e-7b9ee73fcbbc",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-09-06",
+    "EndDate": "2026-09-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-05",
+    "Location": "12977 Hart Brooks\nSheltonland, NC 06743",
+    "Description": "Real whom pay benefit. Follow their list race."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1203
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 94880
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 155421
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2665
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 129126
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 383295,
+    "TotalApproved": 246948
+  },
+  "AdjusterDetails": {
+    "Name": "Debra Baldwin",
+    "ContactInformation": {
+      "Phone": "+1-568-386-7136x81182",
+      "Email": "glenn30@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/52780ab3-a08a-48eb-ac58-58135b3e69cc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez and Sons",
+    "Model": "film",
+    "Year": 2013,
+    "VIN": "9e64f3e2-2b21-4ee3-ad22-dbb3b3132628"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alec Berry",
+      "ContactInformation": {
+        "Phone": "+1-731-468-2559x979",
+        "Email": "wbecker@example.com"
+      },
+      "Statement": "Throw born high management protect perform history. Save just set catch notice usually like. Dream plant south indeed there street floor."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "139a1f61-b34b-4c7a-a384-8f1e515597dc",
+    "OfficerName": "Christine Martin DDS",
+    "ReportDetails": "Through now person move story here life now. Half enough whose explain represent. Fill nothing ability phone its. Majority agent agency into summer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 590,
+    "AnnualIncome": 151277,
+    "DebtToIncomeRatio": 0.99
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 6,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

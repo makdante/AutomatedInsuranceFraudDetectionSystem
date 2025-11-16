@@ -1,0 +1,112 @@
+{
+  "ClaimID": "61ab99aa-d820-4bd0-9de0-b6d643567290",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2025-08-24",
+    "EndDate": "2026-08-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-10",
+    "Location": "46068 Lawrence Viaduct\nWatkinsborough, MI 99110",
+    "Description": "News provide each attention smile least leg provide. Family capital total similar prepare detail discuss.\nImprove could wall which baby. Court which over hit stand eight group."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4836475
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4258469
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4257711
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4832745
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4212503
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22397903,
+    "TotalApproved": 9106086
+  },
+  "AdjusterDetails": {
+    "Name": "Phillip Black",
+    "ContactInformation": {
+      "Phone": "899-659-8400",
+      "Email": "tommyjackson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/027c576a-92bb-4aa0-98fc-1cb2ab81c189"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller, Hartman and Sims",
+    "Model": "drop",
+    "Year": 2007,
+    "VIN": "e4f9ce2e-e012-469c-9df1-c7bd22a0bd94"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Aaron Higgins",
+      "ContactInformation": {
+        "Phone": "891.608.4780",
+        "Email": "ksavage@example.net"
+      },
+      "Statement": "Shake morning pressure try someone. Rock cold air dark.\nTravel everything station project participant like guy. Deep board opportunity recently either government six."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6d1a43d0-f7c1-4b59-86d6-67a473cacf05",
+    "OfficerName": "Tyler Henry",
+    "ReportDetails": "House science writer foot. Water deep hotel father after.\nEach kid never camera program. Street program city suffer natural adult.\nYear maybe success edge. Account lead mean business beyond base."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 480,
+    "AnnualIncome": 24312,
+    "DebtToIncomeRatio": 0.21
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

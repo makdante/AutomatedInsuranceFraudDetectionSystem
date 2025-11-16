@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ca7c65da-990f-4643-b616-94c130946423",
+  "PolicyID": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+  "EffectiveDates": {
+    "StartDate": "2025-10-27",
+    "EndDate": "2026-10-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc658f34-99aa-4827-9c9c-82ccb20e727e",
+    "Name": "Christopher Smith",
+    "PolicyNumber": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+    "ContactInformation": {
+      "Phone": "519-859-6871x1692",
+      "Email": "fpaul@example.net",
+      "Address": "052 Fletcher Road\nPort Kelsey, SD 74092"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-10",
+    "Location": "29471 Emily Brook Suite 811\nEast Carolport, MN 77759",
+    "Description": "Attack sing side hear research sound. Pm fund read price research.\nNational sound leave where well mission body. Phone although art food. Country nice two pay office decision push."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 31301
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37131
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7414
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1224
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5065
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 82135,
+    "TotalApproved": 48364
+  },
+  "AdjusterDetails": {
+    "Name": "Bryan Williams",
+    "ContactInformation": {
+      "Phone": "(925)850-1631x4586",
+      "Email": "daniel41@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/484f7628-da4b-4aa1-aa78-37a336fdef41"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Barton LLC",
+    "Model": "father",
+    "Year": 2010,
+    "VIN": "1929464e-b81c-4f3e-8568-e5caaa2d08da"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Danielle Hale",
+      "ContactInformation": {
+        "Phone": "792.961.4183",
+        "Email": "brandi59@example.com"
+      },
+      "Statement": "Mission central contain edge mind. Wide hot age surface choose image. Government enjoy particularly toward too sport such adult."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c5ec54b7-3022-46f4-86d0-a6a4a68f145d",
+    "OfficerName": "Angel Klein",
+    "ReportDetails": "Change on listen interest staff player. South admit any particular open. Ten point begin their guess trouble nice six."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 429,
+    "AnnualIncome": 30656,
+    "DebtToIncomeRatio": 0.29
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 6,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

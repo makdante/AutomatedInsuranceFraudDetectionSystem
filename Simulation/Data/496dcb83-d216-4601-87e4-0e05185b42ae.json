@@ -1,0 +1,112 @@
+{
+  "ClaimID": "496dcb83-d216-4601-87e4-0e05185b42ae",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2025-02-26",
+    "EndDate": "2026-02-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-13",
+    "Location": "32434 Johnson Trafficway\nStephanieshire, KY 77053",
+    "Description": "Action personal scientist go music soon throw. Without cause save resource science huge."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 88617
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3500
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2290
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6639
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 83325
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 184371,
+    "TotalApproved": 170425
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Bright",
+    "ContactInformation": {
+      "Phone": "001-987-557-0172x6396",
+      "Email": "jameschristopher@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/1c28c561-e28b-48b3-b188-da05a50ceca6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Huffman Ltd",
+    "Model": "because",
+    "Year": 2010,
+    "VIN": "d27d292f-0d6d-45d6-88da-c775c097aa38"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Timothy Brown",
+      "ContactInformation": {
+        "Phone": "001-598-853-6202x70823",
+        "Email": "piercelaura@example.org"
+      },
+      "Statement": "Analysis special tell level kid attack way. Kitchen bill eight reality arrive onto indicate article. Boy office style radio deep hour.\nAllow believe offer compare firm."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c791841f-b2b5-4992-8831-e1f2b3aaa20c",
+    "OfficerName": "Holly Acevedo",
+    "ReportDetails": "Responsibility figure listen most myself talk world. Take both instead capital business although. Message senior country line response apply."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 798,
+    "AnnualIncome": 60789,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

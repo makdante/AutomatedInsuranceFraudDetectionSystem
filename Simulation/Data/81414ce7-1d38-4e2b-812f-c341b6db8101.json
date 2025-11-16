@@ -1,0 +1,112 @@
+{
+  "ClaimID": "81414ce7-1d38-4e2b-812f-c341b6db8101",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-02-21",
+    "EndDate": "2026-02-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-25",
+    "Location": "81382 Brittany Points Apt. 866\nWest Tony, OK 22737",
+    "Description": "Seek mind business parent you rise. So thought stage edge.\nUsually business goal citizen bar today senior. Which song how last debate everyone hold. Build control available security fact."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 22407
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 54686
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 79825
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 24688
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 78022
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 259628,
+    "TotalApproved": 139437
+  },
+  "AdjusterDetails": {
+    "Name": "Christian Parker",
+    "ContactInformation": {
+      "Phone": "+1-817-613-3346x4936",
+      "Email": "stanleyball@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/eb155a1b-cf1c-4144-b568-f9ccffa51a9b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Herrera-Mercer",
+    "Model": "morning",
+    "Year": 2012,
+    "VIN": "b341e980-1b7e-4525-9e3e-1e10a86add70"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Weeks",
+      "ContactInformation": {
+        "Phone": "6365117019",
+        "Email": "edwardpineda@example.net"
+      },
+      "Statement": "Whatever ball television agree. Daughter action other term. You whole arm red it.\nGo fish candidate range sell. Vote provide foreign fact time product force hot. All generation threat me reduce."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0f18f72a-575e-48e9-9398-e2ddb99d8d61",
+    "OfficerName": "William Blair",
+    "ReportDetails": "Less organization several provide air. Analysis sound indeed account very whose herself. Air soon alone activity. Way into west minute."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 682,
+    "AnnualIncome": 118178,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 1,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

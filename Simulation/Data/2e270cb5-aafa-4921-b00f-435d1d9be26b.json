@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2e270cb5-aafa-4921-b00f-435d1d9be26b",
+  "PolicyID": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+  "EffectiveDates": {
+    "StartDate": "2025-10-30",
+    "EndDate": "2026-10-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d0bedd16-f201-4197-b8d7-b2d8d318b1a8",
+    "Name": "David Mcintosh",
+    "PolicyNumber": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+    "ContactInformation": {
+      "Phone": "+1-504-327-8426x072",
+      "Email": "moyeranthony@example.com",
+      "Address": "2867 Burton Land Suite 894\nSouth Brittanyside, DE 10957"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-12",
+    "Location": "2941 Jorge Cape Suite 002\nLake Jamesport, NY 23727",
+    "Description": "Tv people firm watch. Few four enjoy you group bring name. Class degree hot picture treatment owner notice. Respond food use dog our."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 115034
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14421
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2014
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8160
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 30021
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 169650,
+    "TotalApproved": 44937
+  },
+  "AdjusterDetails": {
+    "Name": "William Francis",
+    "ContactInformation": {
+      "Phone": "958.433.3085x04438",
+      "Email": "slewis@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/22ea587d-d48c-489d-91a3-cbacfa371f40"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sanchez PLC",
+    "Model": "act",
+    "Year": 2021,
+    "VIN": "062264ad-a097-4330-ba0f-6e1b9d4f0ee8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brett Smith",
+      "ContactInformation": {
+        "Phone": "309.845.8875x0656",
+        "Email": "georgeramirez@example.com"
+      },
+      "Statement": "Back accept knowledge long. Health treatment impact without want strategy. Mean most current change. Authority finish here worry soon report."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1a4ebe49-cfb1-4daa-a925-b540f71f28da",
+    "OfficerName": "James Ball",
+    "ReportDetails": "Particular none discover number by great. Black international collection someone finish able.\nFund data type threat population citizen reduce. Big dark society. Bar indeed news whether."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 628,
+    "AnnualIncome": 32300,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

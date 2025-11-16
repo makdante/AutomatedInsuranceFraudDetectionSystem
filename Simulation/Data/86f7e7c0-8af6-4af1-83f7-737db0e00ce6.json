@@ -1,0 +1,112 @@
+{
+  "ClaimID": "86f7e7c0-8af6-4af1-83f7-737db0e00ce6",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-05-19",
+    "EndDate": "2026-05-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-11",
+    "Location": "330 Mccall Plain Apt. 251\nLake Kelly, UT 04041",
+    "Description": "Stuff second son include. Enter amount let continue new.\nPerformance box true Mr. Behind since choice contain.\nPart when thousand Democrat. This hope require purpose. Team bar throw ahead."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4511098
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4820082
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4258700
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4363868
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4304941
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22258689,
+    "TotalApproved": 4321600
+  },
+  "AdjusterDetails": {
+    "Name": "Joseph Thompson",
+    "ContactInformation": {
+      "Phone": "001-906-409-2350x87107",
+      "Email": "keithferguson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/3bd5ab44-e9a3-49aa-98f2-725269d3fe5a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Owen-Brown",
+    "Model": "positive",
+    "Year": 2015,
+    "VIN": "cdebf822-91ac-4000-b959-3d2986d1e8c0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Travis Reynolds",
+      "ContactInformation": {
+        "Phone": "856.345.5814x1075",
+        "Email": "xcampbell@example.com"
+      },
+      "Statement": "Main budget board statement major give everyone three. Should main position car these career read despite. Coach herself consumer third continue hot know various."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2df9349d-1930-43a3-9ced-4bdad16b6b53",
+    "OfficerName": "Cheryl Hogan",
+    "ReportDetails": "Happy attack around anything site. Last method both opportunity same site. Peace whom anything drop hold son. Site organization finish blue baby approach certainly."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 352,
+    "AnnualIncome": 146631,
+    "DebtToIncomeRatio": 0.21
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cdd2f2b9-6be6-4ff5-91de-efd1429712d8",
+  "PolicyID": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+  "EffectiveDates": {
+    "StartDate": "2025-07-02",
+    "EndDate": "2026-07-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3cd8543c-a7fa-4fd5-96b8-321382511c44",
+    "Name": "Darryl Leonard",
+    "PolicyNumber": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+    "ContactInformation": {
+      "Phone": "342-367-2937",
+      "Email": "bmejia@example.net",
+      "Address": "429 Kimberly Landing\nClayburgh, AZ 73702"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-20",
+    "Location": "384 Knight Vista\nSouth Jeffreyville, MN 59477",
+    "Description": "Rule seem by whom actually. Artist why federal everything. Now form another cultural security edge billion."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9665
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 46505
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16709
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 99451
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 81458
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 253788,
+    "TotalApproved": 231049
+  },
+  "AdjusterDetails": {
+    "Name": "Aaron Snyder",
+    "ContactInformation": {
+      "Phone": "338-757-3206",
+      "Email": "christinestephenson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/7da2013e-3ce4-463a-ab54-f0c80b22e9e1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Anderson LLC",
+    "Model": "what",
+    "Year": 2011,
+    "VIN": "271ffd24-2cc9-41ff-b55d-c7fa8f72cb2d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tonya Hayes",
+      "ContactInformation": {
+        "Phone": "204.546.7260x63902",
+        "Email": "ybenjamin@example.com"
+      },
+      "Statement": "Artist miss situation consider sound tree. Type section hard throughout.\nTreat difficult think relationship single in. And floor property heavy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bf67d284-7d29-4f8c-adc0-7ffa8ab03d43",
+    "OfficerName": "Kevin Pitts",
+    "ReportDetails": "Over product former. Find look should never rest will.\nRepublican tax plan animal data finish. Few travel best use case matter. Democratic make ahead political if method radio."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 608,
+    "AnnualIncome": 148039,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

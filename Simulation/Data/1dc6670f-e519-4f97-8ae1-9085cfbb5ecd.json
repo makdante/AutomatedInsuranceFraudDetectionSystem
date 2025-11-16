@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1dc6670f-e519-4f97-8ae1-9085cfbb5ecd",
+  "PolicyID": "9a540188-2fa0-4610-a341-5130618504c6",
+  "EffectiveDates": {
+    "StartDate": "2025-09-06",
+    "EndDate": "2026-09-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5e1aef1e-7897-4f43-8b25-4f651ff5946d",
+    "Name": "Brian Vance",
+    "PolicyNumber": "9a540188-2fa0-4610-a341-5130618504c6",
+    "ContactInformation": {
+      "Phone": "630-390-2993",
+      "Email": "terriosborn@example.com",
+      "Address": "01673 Osborne Ferry Apt. 849\nRobertbury, AR 69950"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-01",
+    "Location": "0066 Robinson Burgs Apt. 358\nTiffanymouth, MH 65046",
+    "Description": "Change professor any on. Large weight involve dinner consider.\nSomeone office adult scene security. Guess beautiful student maintain agency happen wish. Mean him beat everyone huge."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5131
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9253
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7980
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 183028
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 153033
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 358425,
+    "TotalApproved": 282880
+  },
+  "AdjusterDetails": {
+    "Name": "Lindsay Erickson",
+    "ContactInformation": {
+      "Phone": "001-335-291-8180x721",
+      "Email": "qguzman@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/3b78b701-fec2-4afa-84d1-8e61bd4e2792"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bailey Group",
+    "Model": "appear",
+    "Year": 2010,
+    "VIN": "c2b66333-e43f-47c5-80af-406e05a9e82d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lee Green",
+      "ContactInformation": {
+        "Phone": "(973)987-2390x1184",
+        "Email": "youngmatthew@example.org"
+      },
+      "Statement": "Cultural hair garden training despite such. Tell opportunity skill discussion successful accept.\nDraw ball choice number world dinner do. Rise investment according purpose."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "365c4d8c-82bc-441f-9eda-a0c569db4ca6",
+    "OfficerName": "Mr. Lee Hoover",
+    "ReportDetails": "Weight find everyone none sure need usually. Smile military dream project during benefit option agree.\nDetail toward need bill. More by television song hand whose poor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 473,
+    "AnnualIncome": 24654,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

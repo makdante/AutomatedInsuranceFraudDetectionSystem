@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e18e17d6-7fed-41ce-a2e5-4ebc7a7e8b86",
+  "PolicyID": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+  "EffectiveDates": {
+    "StartDate": "2025-06-02",
+    "EndDate": "2026-06-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "39861407-409e-4253-9f6c-7c0f48258b61",
+    "Name": "Frank Summers",
+    "PolicyNumber": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+    "ContactInformation": {
+      "Phone": "(214)893-1385x492",
+      "Email": "johnsonsherry@example.org",
+      "Address": "630 Phillips Roads Suite 295\nSouth Suzanne, PR 08692"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-09",
+    "Location": "5888 Joshua Village Suite 531\nNorth Troy, KS 78264",
+    "Description": "Say left national across local authority. Rather probably draw."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 58429
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1615
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2714
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1058
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7312
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 71128,
+    "TotalApproved": 15936
+  },
+  "AdjusterDetails": {
+    "Name": "Matthew Shelton",
+    "ContactInformation": {
+      "Phone": "803-958-5241x4895",
+      "Email": "jonathon98@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/86b2a72e-ea9d-43b4-9f5f-f77441fafbfe"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Black Inc",
+    "Model": "future",
+    "Year": 2013,
+    "VIN": "048bae7a-82d7-41ea-8fad-8767fb61d592"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brandon Ayala",
+      "ContactInformation": {
+        "Phone": "621.949.0924",
+        "Email": "jane17@example.com"
+      },
+      "Statement": "Identify bar decade population anyone. Expect policy fear necessary threat.\nField white city nice. Without class customer have whatever than can much."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b86c55d0-d7a0-4e9a-8602-12d835450b68",
+    "OfficerName": "Kristina Smith",
+    "ReportDetails": "Possible business especially big. Sport them summer fact protect.\nAt computer market your personal speech boy executive. Project government suffer size other determine card."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 614,
+    "AnnualIncome": 77449,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 1,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

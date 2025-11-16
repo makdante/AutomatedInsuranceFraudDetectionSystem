@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5febf167-1644-4e72-b837-330805252d5b",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-10-04",
+    "EndDate": "2026-10-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-06",
+    "Location": "3485 Rowe Inlet\nEast Larry, ID 28902",
+    "Description": "Guy nearly effort people attorney history. Its Republican low particularly. This think everyone very deep."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4985
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 78855
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14955
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 108025
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2374
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 209194,
+    "TotalApproved": 202975
+  },
+  "AdjusterDetails": {
+    "Name": "Autumn Cervantes",
+    "ContactInformation": {
+      "Phone": "5282278790",
+      "Email": "brandon47@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/db6f898d-95c0-4c2e-9829-be04b8a33878"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ferguson and Sons",
+    "Model": "behind",
+    "Year": 2020,
+    "VIN": "c1b1af0e-c4f0-4213-b3cd-7593428448e2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lacey Edwards",
+      "ContactInformation": {
+        "Phone": "001-462-968-9630",
+        "Email": "bowenbrooke@example.org"
+      },
+      "Statement": "Discussion as democratic himself across hit be. Nor push answer and perform wait. Professional gun manager language. Because when every physical total fire alone."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "dce29419-d15c-44f7-adbe-d437fd227ba3",
+    "OfficerName": "Tyler Morrow",
+    "ReportDetails": "Body modern turn authority nearly something. Scientist area too community apply. Pressure blue relate election."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 358,
+    "AnnualIncome": 24825,
+    "DebtToIncomeRatio": 0.71
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 4,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

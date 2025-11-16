@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3376ea16-7a75-4229-99b1-b77d4e9988b0",
+  "PolicyID": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+  "EffectiveDates": {
+    "StartDate": "2025-06-17",
+    "EndDate": "2026-06-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "49ce8efb-716c-47d5-8d7f-00c686bd480a",
+    "Name": "Evan Russell",
+    "PolicyNumber": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+    "ContactInformation": {
+      "Phone": "546.466.7522",
+      "Email": "shawn53@example.net",
+      "Address": "6476 Holland Causeway Suite 490\nSouth Reginaborough, WV 81664"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-30",
+    "Location": "55786 John Heights Suite 234\nAnnamouth, WI 74186",
+    "Description": "Gas play decide back nice her these civil. Series method quite most consider.\nWhom degree material standard structure control with because. Arm structure forget instead official performance stand."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 132382
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44156
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 195408
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12186
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8082
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 392214,
+    "TotalApproved": 141302
+  },
+  "AdjusterDetails": {
+    "Name": "Sydney Duke",
+    "ContactInformation": {
+      "Phone": "001-745-455-5495x22670",
+      "Email": "elizabethcobb@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7bd8c092-756d-45a3-98cc-e88b7e268b9f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez-Jackson",
+    "Model": "far",
+    "Year": 2016,
+    "VIN": "488b7afb-b473-4728-881f-5ac83393f828"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Katherine Taylor",
+      "ContactInformation": {
+        "Phone": "4438201893",
+        "Email": "gjohnson@example.com"
+      },
+      "Statement": "Body until drop leave wall call base.\nSkill everybody serious. Pressure sell everyone help money pick."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "919da7e6-67bc-4fec-ad21-23ce49a1be30",
+    "OfficerName": "Jennifer Smith",
+    "ReportDetails": "More air most consumer respond. Watch impact present likely card."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 759,
+    "AnnualIncome": 54093,
+    "DebtToIncomeRatio": 0.12
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

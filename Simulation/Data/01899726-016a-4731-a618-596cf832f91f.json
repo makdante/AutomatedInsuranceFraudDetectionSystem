@@ -1,0 +1,112 @@
+{
+  "ClaimID": "01899726-016a-4731-a618-596cf832f91f",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2024-11-22",
+    "EndDate": "2025-11-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-27",
+    "Location": "483 Peter Expressway\nMelissaside, AK 43672",
+    "Description": "Provide kid sometimes system answer discover without receive. Mind area top behavior including rate out."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3418
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6492
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 49075
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3123
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 51251
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 113359,
+    "TotalApproved": 46468
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Taylor",
+    "ContactInformation": {
+      "Phone": "589-294-7560x43656",
+      "Email": "jrice@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ec1d8a94-b79f-40b7-8d18-4d1b883e7dc3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Avery LLC",
+    "Model": "quite",
+    "Year": 2010,
+    "VIN": "288dec3f-6fc9-4fde-9002-4ee9f0aba44f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patricia Cantu",
+      "ContactInformation": {
+        "Phone": "001-320-638-7841x600",
+        "Email": "patricia04@example.org"
+      },
+      "Statement": "Design list person do. Require also knowledge common whom sure soldier.\nRecognize rather guy box reach. Candidate tough kind our.\nBlack finish president phone none. Establish two itself."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1c3888bf-9a1b-421b-aa01-a90af4a396ca",
+    "OfficerName": "Jeremy Wyatt",
+    "ReportDetails": "Kitchen throw of black interesting better. Similar seem hope population. Significant hold factor age business morning."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 421,
+    "AnnualIncome": 159884,
+    "DebtToIncomeRatio": 0.96
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

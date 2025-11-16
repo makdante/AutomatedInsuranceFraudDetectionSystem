@@ -1,0 +1,112 @@
+{
+  "ClaimID": "70576b31-7a30-488b-9532-e59cfde915b0",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-05-11",
+    "EndDate": "2026-05-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-16",
+    "Location": "160 Holmes Ports Suite 418\nNorth Sarah, TX 87379",
+    "Description": "Occur huge level center. Example while window ready clearly. Thousand my behind young."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 89501
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1380
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 28601
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 167134
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 34497
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 321113,
+    "TotalApproved": 9101
+  },
+  "AdjusterDetails": {
+    "Name": "Matthew Brewer",
+    "ContactInformation": {
+      "Phone": "001-327-309-8177x572",
+      "Email": "connormorton@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/67a40fda-c1eb-4206-825d-222b54a6eb42"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith, Murillo and Campbell",
+    "Model": "behavior",
+    "Year": 2014,
+    "VIN": "8745e7ab-edc8-4dcc-9079-f756994d135a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Meredith Bennett",
+      "ContactInformation": {
+        "Phone": "689-268-6422x490",
+        "Email": "morenokathleen@example.com"
+      },
+      "Statement": "Else company call heart lay. Edge cover style some truth.\nAnswer after effort born.\nResearch focus contain language easy vote. Defense yes maybe."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0234d36e-aafe-4242-91a1-fa01a20fe0ea",
+    "OfficerName": "Troy Williams",
+    "ReportDetails": "Commercial assume research along. Energy one necessary serious young standard best. Summer dinner method national sense truth either."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 543,
+    "AnnualIncome": 145912,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

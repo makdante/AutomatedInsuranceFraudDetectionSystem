@@ -1,0 +1,112 @@
+{
+  "ClaimID": "439f4d4b-4489-4e71-8964-886803d6c122",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-07-27",
+    "EndDate": "2026-07-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-27",
+    "Location": "587 Martinez Flats Suite 432\nNew John, OH 78136",
+    "Description": "Event staff place contain.\nFollow apply return meeting save trouble. Tonight feel old risk."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 98403
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3291
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2574
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44784
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 85913
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 234965,
+    "TotalApproved": 133344
+  },
+  "AdjusterDetails": {
+    "Name": "Whitney Hatfield",
+    "ContactInformation": {
+      "Phone": "891.766.7070x714",
+      "Email": "rebecca75@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/abf3cb2c-144f-46e0-826b-4ae5ea5cb884"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Harris-Calderon",
+    "Model": "half",
+    "Year": 2005,
+    "VIN": "73ffb08d-cf08-4ed8-9f19-d15c98174216"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Teresa Palmer",
+      "ContactInformation": {
+        "Phone": "+1-331-612-3528x34265",
+        "Email": "powellgarrett@example.net"
+      },
+      "Statement": "Consumer measure throw two near. House process action write parent. Organization tree it since trouble.\nExample attack remain."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "48a27c1e-9088-401c-8991-4f89a6c80f5b",
+    "OfficerName": "Dr. David Walker",
+    "ReportDetails": "Person officer individual. Week act well newspaper toward especially. Situation dinner learn blood. Accept area site board defense wear training through."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 807,
+    "AnnualIncome": 45258,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

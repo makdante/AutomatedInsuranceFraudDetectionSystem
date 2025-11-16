@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bc297de6-fea1-4523-8d11-5f6ff173dd76",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-07-17",
+    "EndDate": "2026-07-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-13",
+    "Location": "3416 Barrera Forks Apt. 609\nPort Michelle, GU 60512",
+    "Description": "Meeting address join item almost west.\nDifference trade brother season boy increase example become. Development laugh them. Rise work black rule artist able talk test."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2609
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 146190
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 36003
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11185
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 36391
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 232378,
+    "TotalApproved": 37663
+  },
+  "AdjusterDetails": {
+    "Name": "Erin Koch",
+    "ContactInformation": {
+      "Phone": "939.414.5298x906",
+      "Email": "wardjennifer@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/fcfa5b22-0864-47ab-9f4e-ec039b856311"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-13T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-18T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-23T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rojas-Townsend",
+    "Model": "themselves",
+    "Year": 2009,
+    "VIN": "6d42f66f-de17-4d7c-a1b4-536d25e62f31"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Aaron Roberts",
+      "ContactInformation": {
+        "Phone": "259.430.5094x981",
+        "Email": "ymoore@example.net"
+      },
+      "Statement": "Voice some glass term my. Else organization animal future run economy. Former choice central anything who.\nOrganization at kind. Friend voice maintain television compare consider notice."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d3b46777-98a0-4eee-adc4-36d919248804",
+    "OfficerName": "Mitchell Reeves",
+    "ReportDetails": "Behavior if perhaps democratic. Follow produce including.\nAnalysis PM citizen child way. Fill impact return however friend. Myself still determine six week."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 505,
+    "AnnualIncome": 173311,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

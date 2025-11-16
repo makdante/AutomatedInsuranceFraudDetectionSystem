@@ -1,0 +1,112 @@
+{
+  "ClaimID": "da5698fc-b3de-47d1-bcfa-45dc7b3a9dd1",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2024-11-28",
+    "EndDate": "2025-11-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-14",
+    "Location": "6910 Hardy Ford Suite 014\nNew James, WA 01930",
+    "Description": "Director least attention name national could anything hope. Anyone until boy marriage give authority feel. Evidence hospital build rule response myself."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9074
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 82051
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 190469
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18786
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 53959
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 354339,
+    "TotalApproved": 237490
+  },
+  "AdjusterDetails": {
+    "Name": "Timothy Livingston",
+    "ContactInformation": {
+      "Phone": "414.306.4232x1519",
+      "Email": "vasqueznichole@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/19caceab-5048-47b0-86f3-5c69eb28ec98"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mason-Hood",
+    "Model": "lot",
+    "Year": 2001,
+    "VIN": "ac9407f1-9c7b-4aca-9c3e-40795abef40d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Justin Winters",
+      "ContactInformation": {
+        "Phone": "979.462.1923x48904",
+        "Email": "tinaorozco@example.com"
+      },
+      "Statement": "Before then find fire. Difference accept pass require. Find suddenly over bill.\nWoman employee degree ok provide special father. They simple travel table.\nPart college area. Item human down list."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6e94fb1e-1d28-40ae-9c71-144c5b4c1231",
+    "OfficerName": "William Campbell",
+    "ReportDetails": "Deal identify evening study eat book standard rate. Want wife image letter kitchen.\nMedia various song war imagine either theory position. Prevent cut near describe. Very other evening three."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 645,
+    "AnnualIncome": 51492,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 0,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

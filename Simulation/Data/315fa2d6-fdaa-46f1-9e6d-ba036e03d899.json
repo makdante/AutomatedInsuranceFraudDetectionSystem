@@ -1,0 +1,112 @@
+{
+  "ClaimID": "315fa2d6-fdaa-46f1-9e6d-ba036e03d899",
+  "PolicyID": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+  "EffectiveDates": {
+    "StartDate": "2025-01-21",
+    "EndDate": "2026-01-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ddabce0f-b86c-49b4-a9b6-4d81be5b5325",
+    "Name": "Helen Williams DDS",
+    "PolicyNumber": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+    "ContactInformation": {
+      "Phone": "(520)524-5958",
+      "Email": "elizabeth72@example.net",
+      "Address": "2431 Karen Tunnel Suite 892\nLisaland, OK 93348"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-27",
+    "Location": "928 Danielle Estate Apt. 954\nNorth Melissamouth, SD 59552",
+    "Description": "Never some cultural who join her. College win little between do.\nFinally defense century before energy room in. Animal wall outside conference statement necessary return."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7699
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16769
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4250
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 36660
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 76573
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 141951,
+    "TotalApproved": 25316
+  },
+  "AdjusterDetails": {
+    "Name": "Brett Contreras",
+    "ContactInformation": {
+      "Phone": "682.485.1078x9152",
+      "Email": "heather17@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c099c07c-162d-4d38-a468-91722a1fa7f8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Powers LLC",
+    "Model": "establish",
+    "Year": 2016,
+    "VIN": "90bdf131-4c5d-49e6-978e-89862b16f143"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Chelsea Hardy",
+      "ContactInformation": {
+        "Phone": "+1-797-380-7890x38924",
+        "Email": "thomasvelasquez@example.com"
+      },
+      "Statement": "Friend during week others guy soon fear. Open boy marriage laugh evening.\nCitizen treatment cost course may less especially. Range phone impact whole executive hit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3048b7f2-3b45-40c5-904c-5d128f29c050",
+    "OfficerName": "Bonnie Stewart",
+    "ReportDetails": "Oil medical fall computer poor theory. Be author everything technology town yes no. Instead social born."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 789,
+    "AnnualIncome": 59246,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 10,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

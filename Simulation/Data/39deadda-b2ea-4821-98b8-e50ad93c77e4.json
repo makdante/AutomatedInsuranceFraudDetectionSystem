@@ -1,0 +1,112 @@
+{
+  "ClaimID": "39deadda-b2ea-4821-98b8-e50ad93c77e4",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-07-17",
+    "EndDate": "2026-07-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-10",
+    "Location": "83930 Erika Underpass\nNew Zachary, AZ 71628",
+    "Description": "Determine like church environment capital city rich often. Top Mr generation whom.\nTonight artist land bad Republican. Nor mind wait author course talk. Finish training near attorney."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 46981
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 79445
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19001
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 74037
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4714
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 224178,
+    "TotalApproved": 181878
+  },
+  "AdjusterDetails": {
+    "Name": "Victor Smith",
+    "ContactInformation": {
+      "Phone": "(932)353-4937x3080",
+      "Email": "tbrown@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/15f80d32-70b7-4548-b8dd-7c9f1f765eeb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jacobson-Andrews",
+    "Model": "middle",
+    "Year": 2000,
+    "VIN": "b0ac4d0b-b725-4833-9a00-1124df3c5ec8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jeffery Young",
+      "ContactInformation": {
+        "Phone": "(919)210-4587x133",
+        "Email": "pvasquez@example.net"
+      },
+      "Statement": "Accept international everybody offer member easy partner idea. Hear picture full skin take candidate face.\nWe father arrive young particular born task seek. Collection not personal."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7f594876-dcc3-4374-8dfe-28b476e8bd37",
+    "OfficerName": "Adam Rodriguez",
+    "ReportDetails": "Forward color enough wear PM believe. Beyond hit subject cut goal. Recent bag sister. Build term wrong attention become beautiful government."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 473,
+    "AnnualIncome": 81027,
+    "DebtToIncomeRatio": 0.35
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

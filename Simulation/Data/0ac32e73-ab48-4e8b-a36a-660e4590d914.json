@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0ac32e73-ab48-4e8b-a36a-660e4590d914",
+  "PolicyID": "e01c2861-e918-4ae4-b175-eac63e64b712",
+  "EffectiveDates": {
+    "StartDate": "2024-12-03",
+    "EndDate": "2025-12-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1f06f531-9f80-407c-9bfc-00b75ccf8e58",
+    "Name": "Nathaniel Jenkins",
+    "PolicyNumber": "e01c2861-e918-4ae4-b175-eac63e64b712",
+    "ContactInformation": {
+      "Phone": "548.395.1156x414",
+      "Email": "bridgeskristen@example.com",
+      "Address": "5340 Neal Trace\nNew Julia, KS 86257"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-21",
+    "Location": "76432 James Village Apt. 106\nGallagherland, TX 61761",
+    "Description": "Central parent ground doctor amount artist cultural actually. Loss four tell hot discussion thing despite. Become others budget most less machine. Letter food tree field now once buy commercial."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2449
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18302
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9837
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 180411
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7988
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 218987,
+    "TotalApproved": 106475
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Taylor",
+    "ContactInformation": {
+      "Phone": "944-970-1894x71735",
+      "Email": "dscott@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/9584ba77-0734-4072-9653-9d11ad16ad7c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson-Barr",
+    "Model": "stage",
+    "Year": 2013,
+    "VIN": "bd9518b0-b9d2-456e-90ef-172640e7e19d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Blake Mcclain",
+      "ContactInformation": {
+        "Phone": "001-356-862-9705x827",
+        "Email": "julia70@example.net"
+      },
+      "Statement": "Drop music of election development stand child. Wife less green."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "131c2bbe-cb9f-4660-b70c-b4886c3b2878",
+    "OfficerName": "Arthur Mccormick",
+    "ReportDetails": "Great guy exactly place their race they. Shake season style trade body social. Eight someone method total impact watch."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 768,
+    "AnnualIncome": 129890,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 1,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

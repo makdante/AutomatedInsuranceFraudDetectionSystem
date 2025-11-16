@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a99ffdd8-0fbf-4585-bcd1-bbba09a9dfe8",
+  "PolicyID": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+  "EffectiveDates": {
+    "StartDate": "2025-07-16",
+    "EndDate": "2026-07-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "47c5522b-b804-4bac-b21c-da33d60d70fd",
+    "Name": "Richard Conway",
+    "PolicyNumber": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+    "ContactInformation": {
+      "Phone": "581-212-2861x494",
+      "Email": "usimpson@example.com",
+      "Address": "4097 Welch Harbors Apt. 346\nNorth Jacobside, IA 43728"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-06",
+    "Location": "867 Ian View\nNew Sierraside, IA 41494",
+    "Description": "Mind any material bring scientist.\nStreet structure true practice authority key. Win article ready onto the."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 156942
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 138949
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15557
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 61884
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 25040
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 398372,
+    "TotalApproved": 96061
+  },
+  "AdjusterDetails": {
+    "Name": "Danielle Klein",
+    "ContactInformation": {
+      "Phone": "+1-869-797-0732",
+      "Email": "beverly62@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a33a739b-4d0d-4a04-ba81-cd31b4afbcc8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mason, Duncan and Miller",
+    "Model": "east",
+    "Year": 2002,
+    "VIN": "c60938a7-b9db-45c0-b373-caffe535ab0c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dylan Roberts",
+      "ContactInformation": {
+        "Phone": "530-506-5990",
+        "Email": "qberry@example.net"
+      },
+      "Statement": "Fund become when yet nothing inside true money. Could language whose personal. Stage research many nor."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fd25e891-a809-41c9-941f-49271111fb71",
+    "OfficerName": "Jamie Riley",
+    "ReportDetails": "Instead sure hand year. Itself game thus. Capital dog affect bit strategy daughter fish cut.\nGo reason management. Administration fine read phone hold lay population. Player begin safe show."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 802,
+    "AnnualIncome": 186540,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 2,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

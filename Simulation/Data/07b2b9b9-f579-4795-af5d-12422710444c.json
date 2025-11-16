@@ -1,0 +1,112 @@
+{
+  "ClaimID": "07b2b9b9-f579-4795-af5d-12422710444c",
+  "PolicyID": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+  "EffectiveDates": {
+    "StartDate": "2025-07-06",
+    "EndDate": "2026-07-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1ca65977-e36d-46f7-95b8-d03e34c9f672",
+    "Name": "Melissa Charles DVM",
+    "PolicyNumber": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+    "ContactInformation": {
+      "Phone": "871-833-2368x7208",
+      "Email": "scottwagner@example.org",
+      "Address": "006 Torres Neck Apt. 510\nRichardsonshire, NM 15931"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-30",
+    "Location": "2163 Jennifer Shoal Apt. 952\nBradleyfurt, ME 61500",
+    "Description": "Win former though sound organization student it another. Institution again college medical treatment under dark big. Election discussion company gun bill. Under act center receive half against."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 35337
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11743
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 48520
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3243
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5257
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 104100,
+    "TotalApproved": 47971
+  },
+  "AdjusterDetails": {
+    "Name": "Justin Bond",
+    "ContactInformation": {
+      "Phone": "+1-445-504-4746x848",
+      "Email": "qyoung@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/bcef24d3-4418-424a-aa2d-4af4fcdf77ad"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown-Knight",
+    "Model": "property",
+    "Year": 2015,
+    "VIN": "33e2676b-1042-4338-b6c3-77fc372d87a6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Megan Barnett",
+      "ContactInformation": {
+        "Phone": "(885)450-7744",
+        "Email": "shannonterry@example.com"
+      },
+      "Statement": "Drive start American soon here.\nTreat resource myself who. Success firm during push interest pass stop."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b73b218f-650e-40fe-a2e1-fa7042d18025",
+    "OfficerName": "Ashley Sanders",
+    "ReportDetails": "Feeling stop upon free now argue three.\nLight say outside heart.\nThrow begin respond past. Market player sure public.\nLot several single national best thing suggest."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 532,
+    "AnnualIncome": 127160,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 10,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

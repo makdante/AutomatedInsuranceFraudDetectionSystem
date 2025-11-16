@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9ca79c42-3219-47fd-9af5-b232e350020f",
+  "PolicyID": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+  "EffectiveDates": {
+    "StartDate": "2025-02-21",
+    "EndDate": "2026-02-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b3c9e4e9-a946-44a4-82a7-829df9b0425b",
+    "Name": "Madison Kim",
+    "PolicyNumber": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+    "ContactInformation": {
+      "Phone": "396-342-3629x192",
+      "Email": "alvareztina@example.com",
+      "Address": "790 Johnson Hill Apt. 614\nWongport, CO 54591"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-14",
+    "Location": "8926 Kim Plaza Suite 536\nNorth Laura, PR 80665",
+    "Description": "Likely edge east order. Onto relate garden win hospital others budget own.\nSon people thus call range. Citizen owner bring down short."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4085648
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4891742
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4648512
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4153915
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4804653
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22584470,
+    "TotalApproved": 15535657
+  },
+  "AdjusterDetails": {
+    "Name": "Franklin Jimenez",
+    "ContactInformation": {
+      "Phone": "801-891-1720x0976",
+      "Email": "ygallagher@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e6e8ccc9-d42b-43eb-8a65-c3ffba60bcda"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown, Krueger and Campbell",
+    "Model": "fill",
+    "Year": 2019,
+    "VIN": "cb510379-38e8-42b3-921e-1e7c59ad3f7d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stephen Wiggins",
+      "ContactInformation": {
+        "Phone": "(436)526-5499",
+        "Email": "david03@example.org"
+      },
+      "Statement": "Know maybe decide. Just develop role provide indicate area window. Share recently main."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5e637e45-9b4f-4e43-af9f-c28d77744c4a",
+    "OfficerName": "Ian Davis",
+    "ReportDetails": "When final help book. Anything very one impact.\nLoss development item sit. Phone but together than hear or.\nEnough dream nation baby worker early theory."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 358,
+    "AnnualIncome": 117224,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

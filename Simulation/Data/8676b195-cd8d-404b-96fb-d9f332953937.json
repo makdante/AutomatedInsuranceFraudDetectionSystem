@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8676b195-cd8d-404b-96fb-d9f332953937",
+  "PolicyID": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+  "EffectiveDates": {
+    "StartDate": "2025-06-01",
+    "EndDate": "2026-06-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d5023dd5-3c99-4647-ac91-e9ca560330de",
+    "Name": "Kevin Williams",
+    "PolicyNumber": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+    "ContactInformation": {
+      "Phone": "(620)408-9812x278",
+      "Email": "maxwell13@example.net",
+      "Address": "800 Campbell Streets Apt. 592\nWest Nicole, DE 17286"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-17",
+    "Location": "9506 Jessica Street Apt. 401\nThomaschester, UT 30059",
+    "Description": "Long majority trouble travel a significant any example. Arm state just region speech structure. Much leave special.\nPower pull program smile. Room per already forward."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4355283
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4858573
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4073677
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4696553
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4774089
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22758175,
+    "TotalApproved": 2680442
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Mayo",
+    "ContactInformation": {
+      "Phone": "+1-863-727-3707",
+      "Email": "bhughes@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/9d97de14-34a3-4a98-b166-4872a274f3e9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ward-Vaughn",
+    "Model": "begin",
+    "Year": 2006,
+    "VIN": "f51da26f-0288-412c-a57f-ef278a7634be"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Chris Day",
+      "ContactInformation": {
+        "Phone": "+1-303-914-1456x47027",
+        "Email": "marioadams@example.com"
+      },
+      "Statement": "These Congress system although near operation state at. Whatever easy discover reach level relate beautiful.\nStock talk price move. Accept significant treat. Support how whom detail."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "864007e5-9097-435e-b657-3d238e9c8ad4",
+    "OfficerName": "Daniel Pace",
+    "ReportDetails": "Tell our behavior parent clear kind skill hair.\nExperience each stage travel close he outside. Institution politics effect require space she individual."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 383,
+    "AnnualIncome": 98387,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

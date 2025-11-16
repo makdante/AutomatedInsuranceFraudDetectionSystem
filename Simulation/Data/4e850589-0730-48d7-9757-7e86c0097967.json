@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4e850589-0730-48d7-9757-7e86c0097967",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2025-03-31",
+    "EndDate": "2026-03-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-07",
+    "Location": "3136 Russell Crest\nSandersfurt, MO 64402",
+    "Description": "Local white less catch without along word. Rate brother instead finish. Finally high teacher local beyond.\nSimply nice program base order night talk. Above particular human maintain my admit bad."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 25745
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6777
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14613
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 54940
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6363
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 108438,
+    "TotalApproved": 7183
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Sellers",
+    "ContactInformation": {
+      "Phone": "585.584.7806",
+      "Email": "tammy28@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e3eb85d4-8b30-447f-b431-7a40321b711b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Becker, Carlson and Anderson",
+    "Model": "single",
+    "Year": 2017,
+    "VIN": "53ab4476-20a5-491d-9385-d6f689267c9a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mary Smith",
+      "ContactInformation": {
+        "Phone": "(817)728-7772",
+        "Email": "christine18@example.com"
+      },
+      "Statement": "Party dog business activity as oil citizen. Light low drop rate discussion. Action alone term home per.\nSeem someone college anyone energy civil best special. Seat pick strategy push."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e2e087c9-8bd4-4810-be1f-5751ac46e111",
+    "OfficerName": "Louis Mccarthy",
+    "ReportDetails": "Option kind administration result notice report another record. Hold check apply mind rich.\nThere wall many now. Early check people movement series to risk."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 782,
+    "AnnualIncome": 70046,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

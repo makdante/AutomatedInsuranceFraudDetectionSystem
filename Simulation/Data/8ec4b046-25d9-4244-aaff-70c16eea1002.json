@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8ec4b046-25d9-4244-aaff-70c16eea1002",
+  "PolicyID": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+  "EffectiveDates": {
+    "StartDate": "2025-10-13",
+    "EndDate": "2026-10-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "49ce8efb-716c-47d5-8d7f-00c686bd480a",
+    "Name": "Evan Russell",
+    "PolicyNumber": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+    "ContactInformation": {
+      "Phone": "546.466.7522",
+      "Email": "shawn53@example.net",
+      "Address": "6476 Holland Causeway Suite 490\nSouth Reginaborough, WV 81664"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-10-07",
+    "Location": "720 Gutierrez Trail\nNorth Staceymouth, FM 44865",
+    "Description": "This concern spend here avoid be some practice. Detail bag war worker reflect trip author. Possible stop some base state identify there goal. Article suggest test against minute."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 96652
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4488
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4253
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11795
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18652
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 135840,
+    "TotalApproved": 91582
+  },
+  "AdjusterDetails": {
+    "Name": "Bailey Smith",
+    "ContactInformation": {
+      "Phone": "289-876-8076x84827",
+      "Email": "bwhite@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/337ddd76-59e2-42e6-9fd4-8c4af210c120"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-10-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clark-Barton",
+    "Model": "mission",
+    "Year": 2007,
+    "VIN": "41031501-2127-4095-b272-109b4aaa7901"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Martin",
+      "ContactInformation": {
+        "Phone": "001-613-312-3394x0792",
+        "Email": "jevans@example.org"
+      },
+      "Statement": "Significant sing third build condition face. Film that late must much determine. Record because adult training candidate way during. Bill really for popular answer avoid."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "af0d23ba-b7a8-428b-b89b-148ace2131eb",
+    "OfficerName": "Mr. Kyle Tapia",
+    "ReportDetails": "Above have development certain still attorney woman. Shoulder trip out only.\nTake lay though parent life lot Congress. Side event travel blood music poor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 473,
+    "AnnualIncome": 23502,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

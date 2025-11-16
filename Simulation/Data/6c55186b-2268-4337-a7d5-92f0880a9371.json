@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6c55186b-2268-4337-a7d5-92f0880a9371",
+  "PolicyID": "4d006887-ffd3-4707-8940-80e0970ad64f",
+  "EffectiveDates": {
+    "StartDate": "2025-07-31",
+    "EndDate": "2026-07-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "6191ccd1-d3f4-425d-a9cb-5820861f7d97",
+    "Name": "Andrew Wilson",
+    "PolicyNumber": "4d006887-ffd3-4707-8940-80e0970ad64f",
+    "ContactInformation": {
+      "Phone": "001-296-495-4711x47868",
+      "Email": "twilliams@example.org",
+      "Address": "9444 Jonathan Village\nSouth Taratown, AR 12477"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-24",
+    "Location": "582 Perez Spring Apt. 734\nWarrenborough, UT 62988",
+    "Description": "Mean work south standard commercial involve list.\nFocus field recent. Agency cut interesting trip food away owner."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5830
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 84022
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14589
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18594
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3322
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 126357,
+    "TotalApproved": 52159
+  },
+  "AdjusterDetails": {
+    "Name": "Danny Ellis",
+    "ContactInformation": {
+      "Phone": "648-956-6820",
+      "Email": "fhernandez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/a3e138ea-9b89-488f-b297-a384b93e6a03"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-24T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-29T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Obrien LLC",
+    "Model": "budget",
+    "Year": 2000,
+    "VIN": "eadd3287-ecd8-4065-ac00-df35960550aa"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Cox",
+      "ContactInformation": {
+        "Phone": "001-868-212-5435x8103",
+        "Email": "brooksbrandon@example.net"
+      },
+      "Statement": "Base talk allow really mission. Piece green rather kid discover. List school already professor practice commercial.\nWhole food deal site."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "73b44cf1-7e2b-4351-9cbe-75e80974a32b",
+    "OfficerName": "Jennifer Galvan",
+    "ReportDetails": "Indicate defense happen. Best follow might sometimes appear.\nLand difference get remain material call despite. Treatment explain book be remain."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 368,
+    "AnnualIncome": 105933,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

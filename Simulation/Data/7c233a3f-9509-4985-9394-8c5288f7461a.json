@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7c233a3f-9509-4985-9394-8c5288f7461a",
+  "PolicyID": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+  "EffectiveDates": {
+    "StartDate": "2025-01-28",
+    "EndDate": "2026-01-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "33851d0f-ae34-4d84-9979-9c0bb345ff37",
+    "Name": "Emily Richardson",
+    "PolicyNumber": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+    "ContactInformation": {
+      "Phone": "(999)370-8402x9360",
+      "Email": "stephen63@example.com",
+      "Address": "90107 Stephen Well\nAndrewmouth, ND 46797"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-26",
+    "Location": "996 Brian Meadow\nSouth Richard, AZ 12606",
+    "Description": "Science why yet kind radio he popular. Apply take player. Result best power risk hold ready may.\nSenior fight example amount where cost animal that. Own ball citizen commercial."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4227
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9551
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 35513
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8267
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 19839
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 77397,
+    "TotalApproved": 23643
+  },
+  "AdjusterDetails": {
+    "Name": "Alexis Stewart",
+    "ContactInformation": {
+      "Phone": "(625)320-2898",
+      "Email": "briannaaustin@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/e1094073-08a0-4fa1-83bd-b95147796756"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Turner and Sons",
+    "Model": "catch",
+    "Year": 2020,
+    "VIN": "05f3bd6d-b1b4-467a-bf18-d7b967ef9cd9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ronald Curry",
+      "ContactInformation": {
+        "Phone": "824.406.5472x1138",
+        "Email": "robertbarnes@example.net"
+      },
+      "Statement": "Again business life image from. Young bill teacher sister marriage prove. Former structure clearly budget community."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "db14f0a3-677f-4e98-bd05-ae4182f07d0e",
+    "OfficerName": "Nicole White",
+    "ReportDetails": "Stock out history front before low account. Question once provide piece rock.\nService hard group research thank. Suggest government something approach beautiful process appear true."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 465,
+    "AnnualIncome": 152219,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "401f0513-12ce-4672-95b2-b4f88237c61a",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2024-11-12",
+    "EndDate": "2025-11-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2024-11-29",
+    "Location": "68487 Jamie Ridge\nMckinneyville, NE 35777",
+    "Description": "Economy take hot professional management note never player. Program store thank west possible gun others job. Data democratic compare."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17190
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 194194
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17322
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 43641
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 24642
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 296989,
+    "TotalApproved": 9669
+  },
+  "AdjusterDetails": {
+    "Name": "Casey Campbell",
+    "ContactInformation": {
+      "Phone": "787-257-2707x987",
+      "Email": "matthew63@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/9cab2716-52a1-47cc-8705-fee046788e64"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2024-11-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2024-12-04T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2024-12-09T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams, Smith and Vasquez",
+    "Model": "start",
+    "Year": 2011,
+    "VIN": "c1e49d9f-cdc2-430a-80fd-6594b023b06f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Emily Koch",
+      "ContactInformation": {
+        "Phone": "(254)705-0079",
+        "Email": "kruegermadeline@example.net"
+      },
+      "Statement": "Painting put fly window. Low because black. Service century him southern. Identify all sign career look program meet both."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "845c1ad0-bfa0-4498-9ea8-71821a48c01e",
+    "OfficerName": "Vincent Olsen",
+    "ReportDetails": "Choice result civil. Civil product likely run tax guy. Up until at.\nQuite rich sure we spend someone. Rock significant couple. We help learn card simple really."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 524,
+    "AnnualIncome": 142386,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

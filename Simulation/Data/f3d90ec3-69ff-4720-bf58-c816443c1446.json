@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f3d90ec3-69ff-4720-bf58-c816443c1446",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-03-15",
+    "EndDate": "2026-03-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-27",
+    "Location": "PSC 9366, Box 4874\nAPO AA 35944",
+    "Description": "Her environmental upon wear agreement suggest operation miss. Say trial himself. Establish fact themselves prove growth stock.\nWalk coach safe chance thing.\nName wide page."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6274
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 134070
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 47704
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1891
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5154
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 195093,
+    "TotalApproved": 99262
+  },
+  "AdjusterDetails": {
+    "Name": "Heather Tucker",
+    "ContactInformation": {
+      "Phone": "251-912-5353",
+      "Email": "kelleyjason@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/df5f70ea-8055-47f3-b4f6-c411308323d9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Day and Sons",
+    "Model": "order",
+    "Year": 2018,
+    "VIN": "0f4aca06-f03c-46a6-869c-79d6b9eade15"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Anderson",
+      "ContactInformation": {
+        "Phone": "941.868.8487x74680",
+        "Email": "ericlopez@example.com"
+      },
+      "Statement": "Wrong else stage.\nDeep boy wife able ever meet either. Hit beat president ready him question institution person."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "61512cf8-8c0b-4f9f-a772-2c2a5ac95bfc",
+    "OfficerName": "Victoria Riley",
+    "ReportDetails": "Exactly usually lay work. Speak or produce run investment model. Lawyer professional once fly.\nLaw save view nothing allow she deal. Mention sing try pretty. Agent meeting fly."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 610,
+    "AnnualIncome": 75269,
+    "DebtToIncomeRatio": 0.26
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 3,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

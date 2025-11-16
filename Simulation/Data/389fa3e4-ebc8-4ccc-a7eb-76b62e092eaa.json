@@ -1,0 +1,112 @@
+{
+  "ClaimID": "389fa3e4-ebc8-4ccc-a7eb-76b62e092eaa",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-04-15",
+    "EndDate": "2026-04-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-27",
+    "Location": "USNV Anderson\nFPO AP 07677",
+    "Description": "Someone half window dark direction money. He mind direction over wear add human learn.\nRecord magazine smile baby other. Crime benefit alone grow pass trade stock leader. Explain car face address."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 46472
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 25463
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4657
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1894
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44549
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 123035,
+    "TotalApproved": 18931
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Phillips",
+    "ContactInformation": {
+      "Phone": "(967)609-3169x12577",
+      "Email": "nperez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4c8a5e98-24fa-46e1-8d67-0c70d35ba078"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garcia and Sons",
+    "Model": "sort",
+    "Year": 2004,
+    "VIN": "ee688f51-5e98-4c30-b5ba-a33860940429"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lori Lee",
+      "ContactInformation": {
+        "Phone": "(758)757-0522x5289",
+        "Email": "iguerra@example.com"
+      },
+      "Statement": "Either tend employee customer either. Ago arm soldier stay why food entire. Hour as possible receive. Doctor space left seek especially bad."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8a985b05-7afb-490a-b230-e839d759ee3a",
+    "OfficerName": "Brian Quinn",
+    "ReportDetails": "Summer note notice. Listen address outside drive street difference even. You buy to scientist total determine son. Budget spend up then."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 518,
+    "AnnualIncome": 193352,
+    "DebtToIncomeRatio": 0.36
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

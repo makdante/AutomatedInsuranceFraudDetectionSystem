@@ -1,0 +1,112 @@
+{
+  "ClaimID": "be6282c4-c6a5-4f34-9dcf-3bf1cf8fc6ba",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-03-28",
+    "EndDate": "2026-03-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-29",
+    "Location": "641 Gutierrez Ranch Suite 929\nPort Karenside, MP 72186",
+    "Description": "Federal popular though paper minute. Water PM describe against contain degree on.\nEver occur draw any fine onto feel. Determine performance reveal political get page civil much."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24800
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27298
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 23182
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19101
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6873
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 101254,
+    "TotalApproved": 60111
+  },
+  "AdjusterDetails": {
+    "Name": "Jesus Ross",
+    "ContactInformation": {
+      "Phone": "741-655-0919x53346",
+      "Email": "fpugh@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/65f9947d-01ed-40e8-bd6d-1eef31941b38"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stafford, Choi and Mendoza",
+    "Model": "company",
+    "Year": 2003,
+    "VIN": "1614eef9-8335-4a1b-b475-bcbbd1b47f82"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patricia Hoffman",
+      "ContactInformation": {
+        "Phone": "329-553-0541x965",
+        "Email": "jesse37@example.net"
+      },
+      "Statement": "See capital pattern yet direction use. Environment bill without. According rate top various believe film knowledge.\nCrime action candidate simple authority group. Thing want animal southern whole."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f2c51c98-82d7-48a6-a3fd-660385e77f1c",
+    "OfficerName": "Jonathan Johnson",
+    "ReportDetails": "Take your unit exist relationship federal beat. Left represent particularly visit movie.\nMr again kid college. Write treat pay across vote."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 810,
+    "AnnualIncome": 173392,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 4,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

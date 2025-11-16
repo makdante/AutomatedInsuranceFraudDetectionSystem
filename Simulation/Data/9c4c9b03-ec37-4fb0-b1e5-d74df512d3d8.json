@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9c4c9b03-ec37-4fb0-b1e5-d74df512d3d8",
+  "PolicyID": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+  "EffectiveDates": {
+    "StartDate": "2025-07-09",
+    "EndDate": "2026-07-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d0bedd16-f201-4197-b8d7-b2d8d318b1a8",
+    "Name": "David Mcintosh",
+    "PolicyNumber": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+    "ContactInformation": {
+      "Phone": "+1-504-327-8426x072",
+      "Email": "moyeranthony@example.com",
+      "Address": "2867 Burton Land Suite 894\nSouth Brittanyside, DE 10957"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-10",
+    "Location": "2958 Lopez Divide\nSmithside, MH 71094",
+    "Description": "Act among family easy family.\nThis lawyer out wish Republican production between. Beyond than Republican while these game military."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 35675
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13942
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 45743
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11950
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 20323
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 127633,
+    "TotalApproved": 9076
+  },
+  "AdjusterDetails": {
+    "Name": "Alicia Watkins",
+    "ContactInformation": {
+      "Phone": "001-572-230-0932x4705",
+      "Email": "samuel71@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/5e1403ce-e608-42c7-ae39-bcb9cfe33876"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Burns-Owens",
+    "Model": "determine",
+    "Year": 2022,
+    "VIN": "ed48ef6f-6a21-4f63-97f1-82ab426c446d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lisa Sheppard",
+      "ContactInformation": {
+        "Phone": "(646)278-4761",
+        "Email": "wanda01@example.com"
+      },
+      "Statement": "Music already current public detail radio participant.\nIdea may voice include continue you. Special single city indicate town inside. Shake stuff create nor maintain paper either issue."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1d816eb6-a498-4afc-a064-2cbadc3c5655",
+    "OfficerName": "Jonathan Martin",
+    "ReportDetails": "International million artist government TV ok. Detail star science another.\nThere concern describe food. List past success hope boy. Listen read turn responsibility result."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 476,
+    "AnnualIncome": 33440,
+    "DebtToIncomeRatio": 0.56
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 6,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

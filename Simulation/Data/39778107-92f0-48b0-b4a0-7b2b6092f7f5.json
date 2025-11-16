@@ -1,0 +1,112 @@
+{
+  "ClaimID": "39778107-92f0-48b0-b4a0-7b2b6092f7f5",
+  "PolicyID": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+  "EffectiveDates": {
+    "StartDate": "2025-07-20",
+    "EndDate": "2026-07-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fc97abc-4961-491f-a4b1-12068641ded7",
+    "Name": "Mark Macias",
+    "PolicyNumber": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+    "ContactInformation": {
+      "Phone": "520-436-5997x9756",
+      "Email": "aaron79@example.org",
+      "Address": "537 Scott Unions Suite 245\nBrianfurt, WA 46172"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-10",
+    "Location": "30393 Daniel Ferry Suite 577\nWest Megan, AL 61541",
+    "Description": "Language range either prepare. Tv meeting special pretty value per environmental.\nSave exist since everybody. Instead change suggest tell. Cell close join."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4775800
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4446152
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4823948
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4213958
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4657438
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22917296,
+    "TotalApproved": 6438758
+  },
+  "AdjusterDetails": {
+    "Name": "Jill Crawford",
+    "ContactInformation": {
+      "Phone": "9056685357",
+      "Email": "leecourtney@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e5a3d34f-ceaa-4b57-a177-71f781d2ecec"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller-Rodriguez",
+    "Model": "detail",
+    "Year": 2005,
+    "VIN": "0e3fd57e-3268-46e3-b314-54594c4f27e6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Long",
+      "ContactInformation": {
+        "Phone": "+1-933-728-0722x4022",
+        "Email": "johncolon@example.org"
+      },
+      "Statement": "Manage summer else meeting particularly. Policy cause majority standard good. Foot court statement letter resource third age."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "218c5895-4b5e-479c-8bc8-f320d09d8abf",
+    "OfficerName": "Deborah Lewis",
+    "ReportDetails": "Research political seem character forward. Church fall across dream open for lawyer social.\nYes job miss. Coach may than way ready century. Management try lose why."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 379,
+    "AnnualIncome": 81569,
+    "DebtToIncomeRatio": 0.92
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

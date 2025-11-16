@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5d0a67a8-a321-4922-8d2f-20660fafa6d9",
+  "PolicyID": "7d680817-86fa-4f0f-b6fd-b5de84557ffd",
+  "EffectiveDates": {
+    "StartDate": "2025-01-04",
+    "EndDate": "2026-01-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c39beaf0-066a-4334-9809-0cc9be5199f3",
+    "Name": "Shirley Jenkins",
+    "PolicyNumber": "7d680817-86fa-4f0f-b6fd-b5de84557ffd",
+    "ContactInformation": {
+      "Phone": "760-945-4034",
+      "Email": "zachary07@example.org",
+      "Address": "PSC 5790, Box 4989\nAPO AE 66229"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-29",
+    "Location": "6366 Kane Views\nEast Theresa, GU 59476",
+    "Description": "Indeed election officer charge consumer order management contain. Middle nor top knowledge owner star."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4071874
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4178400
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4050660
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4682930
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4365037
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21348901,
+    "TotalApproved": 4841241
+  },
+  "AdjusterDetails": {
+    "Name": "Gerald Burton",
+    "ContactInformation": {
+      "Phone": "(272)814-2624",
+      "Email": "rogersjames@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d4e67064-72fc-43ac-9bcc-e02c1277794d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Price-Lutz",
+    "Model": "represent",
+    "Year": 2017,
+    "VIN": "96f82590-11fb-4cc5-b3b9-19a36ad8390b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Ramsey",
+      "ContactInformation": {
+        "Phone": "553.830.9428x971",
+        "Email": "glenayala@example.net"
+      },
+      "Statement": "Official Congress many create conference. Animal newspaper responsibility sell respond large. Next where figure alone stay.\nClaim either be accept cup but plan. May lay coach foreign sell."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9f670235-bc5b-4f8b-8d48-f9b82fb2c3ce",
+    "OfficerName": "Raymond Petersen",
+    "ReportDetails": "Stop box size option American. Why plant range effect offer.\nSuch Democrat many word entire hundred. Generation look matter line. Measure president dream court."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 399,
+    "AnnualIncome": 93016,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

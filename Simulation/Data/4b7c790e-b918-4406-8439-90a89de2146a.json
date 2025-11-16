@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4b7c790e-b918-4406-8439-90a89de2146a",
+  "PolicyID": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+  "EffectiveDates": {
+    "StartDate": "2025-06-03",
+    "EndDate": "2026-06-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ddabce0f-b86c-49b4-a9b6-4d81be5b5325",
+    "Name": "Helen Williams DDS",
+    "PolicyNumber": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+    "ContactInformation": {
+      "Phone": "(520)524-5958",
+      "Email": "elizabeth72@example.net",
+      "Address": "2431 Karen Tunnel Suite 892\nLisaland, OK 93348"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-27",
+    "Location": "049 Emily Curve\nPattymouth, WI 22651",
+    "Description": "Off general bag off as majority unit.\nFather course hear. Fact trial lawyer accept majority. Teach require discussion close foot wonder right country."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 64881
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15382
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 49856
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5937
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16645
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 152701,
+    "TotalApproved": 52324
+  },
+  "AdjusterDetails": {
+    "Name": "Gregory Best",
+    "ContactInformation": {
+      "Phone": "346-321-0013x781",
+      "Email": "stacywaters@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7ba6ee23-a810-44eb-9478-e498de736f3b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Long-Lowe",
+    "Model": "party",
+    "Year": 2007,
+    "VIN": "b2b7aec1-9c0d-4e22-a48f-a824cd5533fc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stefanie Mills",
+      "ContactInformation": {
+        "Phone": "+1-202-992-0011x55360",
+        "Email": "christopher45@example.com"
+      },
+      "Statement": "Note finish country then happen stand. Offer also bed contain. Success local product hundred use. Dream it television have."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f9465e6a-7f54-40f2-bbec-d6993cd7a2d0",
+    "OfficerName": "Audrey Curry",
+    "ReportDetails": "Face story fill shake feel only big. People pass son wear case local. Market while ground he chance often.\nResult heart interesting. Somebody usually natural week author already force."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 325,
+    "AnnualIncome": 116581,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

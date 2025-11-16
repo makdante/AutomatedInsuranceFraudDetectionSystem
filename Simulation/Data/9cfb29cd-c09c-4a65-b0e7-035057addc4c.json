@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9cfb29cd-c09c-4a65-b0e7-035057addc4c",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-05-20",
+    "EndDate": "2026-05-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-26",
+    "Location": "94160 Woods Port Suite 570\nJenniferborough, MS 84495",
+    "Description": "Option fact manager responsibility look. Congress social use hour. Hundred while book parent read shake partner."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24994
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13964
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 95196
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 95687
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3791
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 233632,
+    "TotalApproved": 218272
+  },
+  "AdjusterDetails": {
+    "Name": "Kristi White",
+    "ContactInformation": {
+      "Phone": "300.951.4601",
+      "Email": "kimberlyparker@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a36ea2dc-8256-4f31-9ab5-3cd452d1eb3a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jennings, White and Jones",
+    "Model": "buy",
+    "Year": 2017,
+    "VIN": "7e48ea12-9bac-42ce-99c5-41014d427c11"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Katherine Smith",
+      "ContactInformation": {
+        "Phone": "832.835.1394",
+        "Email": "matthewhopkins@example.com"
+      },
+      "Statement": "Although nothing get room buy page option. Style here up Mr only.\nVisit itself worry thank. Do often home memory series but always.\nParty or again. Practice ask report note movie prevent."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c349033e-b3c9-4528-ac3d-a51df34ddf65",
+    "OfficerName": "Paul Brooks",
+    "ReportDetails": "Wall sea happen site particular. More common staff.\nBuild use speech training. Education act address down citizen back statement."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 648,
+    "AnnualIncome": 101667,
+    "DebtToIncomeRatio": 0.38
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "361ae105-bd69-44a7-b186-38601dc4e1f8",
+  "PolicyID": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+  "EffectiveDates": {
+    "StartDate": "2025-01-16",
+    "EndDate": "2026-01-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b3c9e4e9-a946-44a4-82a7-829df9b0425b",
+    "Name": "Madison Kim",
+    "PolicyNumber": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+    "ContactInformation": {
+      "Phone": "396-342-3629x192",
+      "Email": "alvareztina@example.com",
+      "Address": "790 Johnson Hill Apt. 614\nWongport, CO 54591"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-14",
+    "Location": "472 Olivia Ports Apt. 277\nAshleyfort, HI 47376",
+    "Description": "Girl off unit call. Reflect attention send feel once about something."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 184488
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 77625
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7520
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9908
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 46455
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 325996,
+    "TotalApproved": 186256
+  },
+  "AdjusterDetails": {
+    "Name": "Beth Williamson",
+    "ContactInformation": {
+      "Phone": "6136902209",
+      "Email": "rileyblake@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/94a8b3f5-416f-40b4-83f6-e115fec9e812"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stafford PLC",
+    "Model": "help",
+    "Year": 2017,
+    "VIN": "cf5fadad-7b81-40ea-8bb6-4be1e62137e2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Carrie Perez",
+      "ContactInformation": {
+        "Phone": "305-757-4731",
+        "Email": "bfriedman@example.org"
+      },
+      "Statement": "Society involve check personal. Compare buy purpose force fly. Miss daughter read onto strategy marriage.\nReality list reduce record rather yourself."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "12ac673a-cf13-443e-8b36-1d26cc1a89ee",
+    "OfficerName": "Julia Hamilton",
+    "ReportDetails": "Quickly raise even anything religious onto add. Forward trial relationship. Just short forward body institution life trip."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 309,
+    "AnnualIncome": 47131,
+    "DebtToIncomeRatio": 0.89
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

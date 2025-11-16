@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8cb8353d-615b-422e-a911-b60ecaccc584",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2025-08-29",
+    "EndDate": "2026-08-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-08",
+    "Location": "5771 Gutierrez Radial Apt. 214\nSouth Jamesview, MI 42227",
+    "Description": "Hard head board feel writer. Audience program end similar.\nAt little whole your. Father hotel government peace table theory admit. Interest right so. Movie budget water fine."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 45534
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12855
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4418
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 56242
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7496
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 126545,
+    "TotalApproved": 34640
+  },
+  "AdjusterDetails": {
+    "Name": "Raymond Arnold",
+    "ContactInformation": {
+      "Phone": "001-862-246-7185x09446",
+      "Email": "sabrinacaldwell@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/18c6f06f-9843-4fd6-9d72-916f394552b6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Winters-Joyce",
+    "Model": "join",
+    "Year": 2012,
+    "VIN": "fa3a5601-fd24-4f74-99f1-c2f28311651a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Dixon",
+      "ContactInformation": {
+        "Phone": "708-264-9788x769",
+        "Email": "bdavidson@example.net"
+      },
+      "Statement": "Bank everything people up couple final painting. She field near easy.\nCompany cold although. Until public each anyone dinner program."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7e4cafe2-ce29-416e-b3de-e959e19f859b",
+    "OfficerName": "Kayla Kennedy",
+    "ReportDetails": "Recently single court health now tax. Charge store peace.\nWill various hand section home effect. Across debate nation number race. Leave plan season win."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 829,
+    "AnnualIncome": 92731,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

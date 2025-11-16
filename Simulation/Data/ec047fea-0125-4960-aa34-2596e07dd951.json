@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ec047fea-0125-4960-aa34-2596e07dd951",
+  "PolicyID": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+  "EffectiveDates": {
+    "StartDate": "2024-11-25",
+    "EndDate": "2025-11-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3cd8543c-a7fa-4fd5-96b8-321382511c44",
+    "Name": "Darryl Leonard",
+    "PolicyNumber": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+    "ContactInformation": {
+      "Phone": "342-367-2937",
+      "Email": "bmejia@example.net",
+      "Address": "429 Kimberly Landing\nClayburgh, AZ 73702"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-31",
+    "Location": "9268 Karen Club\nEast Jacquelineview, MD 97090",
+    "Description": "War physical policy north. Than else go bit gun beyond. Dream catch impact recent one return."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5386
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11031
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 41531
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14129
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 29097
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 101174,
+    "TotalApproved": 39713
+  },
+  "AdjusterDetails": {
+    "Name": "Connie Zhang",
+    "ContactInformation": {
+      "Phone": "607.518.0215x9392",
+      "Email": "tim63@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/f9d8ff95-0492-4494-984c-fa6f70c2d45a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morales and Sons",
+    "Model": "under",
+    "Year": 2008,
+    "VIN": "5f2b3ecc-9f7d-4dbf-99db-2665307208f3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sarah Hamilton",
+      "ContactInformation": {
+        "Phone": "210-494-6695x734",
+        "Email": "thompsonjessica@example.org"
+      },
+      "Statement": "Sense thought feel produce physical home hundred some. Newspaper fly bit event official contain. Second however him industry."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1e486828-5c6c-495a-a635-563ef15b103c",
+    "OfficerName": "Abigail Reed",
+    "ReportDetails": "Suggest market fly learn to house movie. Yard sometimes area executive spend project against relate. Oil see watch lay own religious."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 670,
+    "AnnualIncome": 168167,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 3,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

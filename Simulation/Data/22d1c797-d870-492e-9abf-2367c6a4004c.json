@@ -1,0 +1,112 @@
+{
+  "ClaimID": "22d1c797-d870-492e-9abf-2367c6a4004c",
+  "PolicyID": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+  "EffectiveDates": {
+    "StartDate": "2025-02-27",
+    "EndDate": "2026-02-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "69dff2d4-fe41-48b6-84f8-fbada01a13cc",
+    "Name": "Gerald Lynn",
+    "PolicyNumber": "8bdb7a8c-028f-407a-9be4-1c6ad15245dd",
+    "ContactInformation": {
+      "Phone": "804.824.4218",
+      "Email": "mark32@example.com",
+      "Address": "76834 William Key\nLake Heather, SC 99643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-28",
+    "Location": "USS Davis\nFPO AE 50501",
+    "Description": "Already sound nation TV sister. Administration relate moment agree manager sense. Third season arrive country give theory.\nOffice increase suggest same on. Easy agent leave fish."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16372
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9391
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 60738
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 195409
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 47933
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 329843,
+    "TotalApproved": 113746
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Sheppard",
+    "ContactInformation": {
+      "Phone": "290-362-8615x9340",
+      "Email": "jimmyrussell@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/99c1b78f-c07d-432a-b9d7-6cf83309b760"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Spencer, Baker and Hester",
+    "Model": "case",
+    "Year": 2011,
+    "VIN": "2eef5a7a-f974-441b-8b0c-f15f20bfc44b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dr. Linda Turner",
+      "ContactInformation": {
+        "Phone": "(302)922-7250x93951",
+        "Email": "john10@example.net"
+      },
+      "Statement": "Action action peace many plan practice green.\nCity teach crime. Drug only cup report box. Movement interesting traditional group page into daughter."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "28b29122-8ee7-49c7-9c62-9559342eea3e",
+    "OfficerName": "Gary Ramirez",
+    "ReportDetails": "Spend right to until sense bed wrong rich.\nBase daughter this prepare. Player join actually suddenly.\nPlant easy avoid walk course. Until art author summer. Get sea history college hard."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 807,
+    "AnnualIncome": 79739,
+    "DebtToIncomeRatio": 0.2
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 8,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

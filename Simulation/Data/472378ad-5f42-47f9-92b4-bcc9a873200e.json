@@ -1,0 +1,112 @@
+{
+  "ClaimID": "472378ad-5f42-47f9-92b4-bcc9a873200e",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-05-01",
+    "EndDate": "2026-05-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-08",
+    "Location": "900 Martinez Green Suite 825\nSouth Lindseymouth, MH 15762",
+    "Description": "Floor leader coach little range fire view ten. Lawyer may long control apply and again page.\nPush push entire among good. Production return late ask seven."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 85213
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3963
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47113
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1113
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13849
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 151251,
+    "TotalApproved": 147334
+  },
+  "AdjusterDetails": {
+    "Name": "Cynthia Pollard",
+    "ContactInformation": {
+      "Phone": "(723)333-7073",
+      "Email": "anthonydominguez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/d6b9f80e-ebb4-47d4-9f52-2d45a1a1d0eb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Meyer-Thomas",
+    "Model": "tend",
+    "Year": 2017,
+    "VIN": "2845f379-ad53-4734-ba49-f65ea91c8114"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samuel Collins",
+      "ContactInformation": {
+        "Phone": "748.534.0149x6697",
+        "Email": "llester@example.org"
+      },
+      "Statement": "Live some ever professor local case sing. Unit hour add generation firm result."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f1ca6ab9-6390-4ba3-9398-9c55e7b574b8",
+    "OfficerName": "Jody Kim",
+    "ReportDetails": "Method actually hit deep moment. Watch wrong law several where other sing.\nMother at knowledge pretty. Evidence personal lay.\nTotal tax glass professional second alone. Peace beat among more get."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 740,
+    "AnnualIncome": 25478,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

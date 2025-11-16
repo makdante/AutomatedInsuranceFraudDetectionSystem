@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f5946d75-d66f-4014-ac5f-823ccbeef924",
+  "PolicyID": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+  "EffectiveDates": {
+    "StartDate": "2025-08-31",
+    "EndDate": "2026-08-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eb400d1e-8ed3-4fd5-8a4b-a02804e6ce83",
+    "Name": "Dylan Lee",
+    "PolicyNumber": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+    "ContactInformation": {
+      "Phone": "976.394.8548x28663",
+      "Email": "blane@example.com",
+      "Address": "044 Briggs Way\nLake Allisonchester, FM 38872"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-22",
+    "Location": "9924 Michael Run\nLake Latasha, SD 65999",
+    "Description": "Rule final appear beat exist his discussion. Can task yet school. Strategy although voice throw buy fund.\nPainting every test bed. Voice night indicate work detail. Police economic attention grow."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 15193
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 133991
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8754
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 161235
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 45784
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 364957,
+    "TotalApproved": 251600
+  },
+  "AdjusterDetails": {
+    "Name": "Mr. Todd Wilson",
+    "ContactInformation": {
+      "Phone": "486-265-7636",
+      "Email": "brandall@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e510460f-3889-4af6-a19f-e5713bd2482d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Soto Group",
+    "Model": "service",
+    "Year": 2010,
+    "VIN": "2d71a4fa-1e02-49c4-9769-c2e547351e33"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Allison Thomas",
+      "ContactInformation": {
+        "Phone": "(787)235-1449x7129",
+        "Email": "balvarado@example.com"
+      },
+      "Statement": "Mind arrive nice look new. Bad adult artist.\nCover Congress firm body forget discover. Follow live others free check Mr.\nRisk where well thank section. Prevent race without."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fc5833ed-5d77-4f4c-a7b0-6c6c2d73af4c",
+    "OfficerName": "Stephanie Suarez",
+    "ReportDetails": "Much actually look mind black. Instead ability early friend. Entire teacher image south image resource interest."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 387,
+    "AnnualIncome": 152861,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 3,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

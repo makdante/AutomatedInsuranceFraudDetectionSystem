@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b6c00d53-8d4a-45f2-be84-95c3781f7af5",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2025-08-22",
+    "EndDate": "2026-08-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-21",
+    "Location": "3095 Graham Road Apt. 631\nPort Elizabeth, RI 61729",
+    "Description": "Total end own. Perform around candidate fight perhaps. Eat hold buy western.\nPaper large by past buy source. Buy check seek step short.\nProbably try along. Big life traditional election shoulder."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 81453
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4849
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 51926
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3394
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4868
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 146490,
+    "TotalApproved": 121111
+  },
+  "AdjusterDetails": {
+    "Name": "Erin Fox",
+    "ContactInformation": {
+      "Phone": "+1-848-637-2475x956",
+      "Email": "dbarnes@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/590fbc3f-33a5-46e4-9e94-110406a2014e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ray, Taylor and Savage",
+    "Model": "responsibility",
+    "Year": 2022,
+    "VIN": "682624d6-9f64-49ec-a980-ad946c5c5a39"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michele Bailey",
+      "ContactInformation": {
+        "Phone": "001-730-557-0197x848",
+        "Email": "weaverjessica@example.com"
+      },
+      "Statement": "Newspaper operation meeting. Sea direction set instead near girl consumer.\nScience nothing character nothing. Thought little interest center glass line record."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "277ff7e6-fe38-4d21-9703-8c3874518f87",
+    "OfficerName": "Daniel Martin",
+    "ReportDetails": "Fish quite thus area. Enough reflect far get whom and nothing.\nTraining democratic public international within compare across. Impact her try seem sell reason. Source us new weight three drive local."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 797,
+    "AnnualIncome": 88663,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

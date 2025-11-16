@@ -1,0 +1,112 @@
+{
+  "ClaimID": "46a7664a-a96f-4696-a194-2f706c684105",
+  "PolicyID": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+  "EffectiveDates": {
+    "StartDate": "2024-12-09",
+    "EndDate": "2025-12-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "38d2f43b-58cf-49b2-83ed-99824c18c529",
+    "Name": "Vanessa Lam",
+    "PolicyNumber": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+    "ContactInformation": {
+      "Phone": "(659)271-4340x58512",
+      "Email": "kayleethompson@example.org",
+      "Address": "4509 Robert Haven\nNew Curtis, HI 74176"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-15",
+    "Location": "716 Williams Terrace Suite 904\nLake Kimberly, VA 98250",
+    "Description": "Writer age finally officer campaign. Road up color rock design grow.\nPlan successful along election. Science long rich former around out."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8717
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 158078
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 134039
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16127
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14068
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 331029,
+    "TotalApproved": 52605
+  },
+  "AdjusterDetails": {
+    "Name": "Shelby Parker",
+    "ContactInformation": {
+      "Phone": "682.366.6193",
+      "Email": "lewisjason@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/57912c6a-5ca3-4b74-a935-36dfbcad1217"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lopez-Fowler",
+    "Model": "space",
+    "Year": 2018,
+    "VIN": "20b057ca-094b-406c-91c2-85fce26599cb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Miller",
+      "ContactInformation": {
+        "Phone": "665-474-5083",
+        "Email": "elizabeth85@example.net"
+      },
+      "Statement": "Test specific serious in. Condition daughter source share thing.\nProfessor within green style. Move ok activity few anyone maintain term."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9839c64f-cdbf-4d2a-9ef2-becab285bd02",
+    "OfficerName": "Kayla Wise",
+    "ReportDetails": "Especially picture nearly toward generation wrong. Street letter out. Light join could door.\nYard argue involve talk easy tonight. Capital stop similar book ready every me natural."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 699,
+    "AnnualIncome": 29663,
+    "DebtToIncomeRatio": 0.11
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0a53fa19-1d80-4741-85ca-a69a33defd8e",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-10-07",
+    "EndDate": "2026-10-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-21",
+    "Location": "995 Tami Parkway\nLisahaven, ID 77406",
+    "Description": "Everybody keep while avoid fund white officer. Price without hour represent long support offer. Shoulder throughout suggest degree often four.\nHusband civil common ten. Put quickly trial brother."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6266
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14416
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 30184
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19328
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7461
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 77655,
+    "TotalApproved": 35831
+  },
+  "AdjusterDetails": {
+    "Name": "Amy Williams",
+    "ContactInformation": {
+      "Phone": "930.864.2412x41426",
+      "Email": "bwelch@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/abe7365b-0deb-48be-8184-382f51b0a1e3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ferrell Group",
+    "Model": "effort",
+    "Year": 2008,
+    "VIN": "15a34a2c-80aa-4a38-91d1-294133c4cc67"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joseph Coffey",
+      "ContactInformation": {
+        "Phone": "(712)951-3139",
+        "Email": "andrewgreene@example.com"
+      },
+      "Statement": "Fast cause across. Industry operation your try others. Take cover me front."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5be3dbc4-368e-4b84-8cfd-3e4d715496c5",
+    "OfficerName": "Thomas Hamilton",
+    "ReportDetails": "Catch key no choose.\nWonder pay game heart development floor clearly. At argue involve."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 309,
+    "AnnualIncome": 48226,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

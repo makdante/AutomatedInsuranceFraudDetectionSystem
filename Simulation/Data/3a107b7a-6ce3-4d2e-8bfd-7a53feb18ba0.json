@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3a107b7a-6ce3-4d2e-8bfd-7a53feb18ba0",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-02-02",
+    "EndDate": "2026-02-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-23",
+    "Location": "457 Martin Lodge\nHeatherville, AK 24398",
+    "Description": "North maintain because lay no. Third happy couple.\nEnough treatment size station share capital though safe."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4500
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 98648
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 106972
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 86748
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 50894
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 347762,
+    "TotalApproved": 135319
+  },
+  "AdjusterDetails": {
+    "Name": "Lauren Jackson",
+    "ContactInformation": {
+      "Phone": "215-293-6389",
+      "Email": "bryanmoore@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/dcb9140c-234f-4035-92fc-39a7da793bf5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith, Frederick and Mack",
+    "Model": "management",
+    "Year": 2021,
+    "VIN": "ae27380a-5263-42e9-9912-9a069724c1ef"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Aaron Gutierrez",
+      "ContactInformation": {
+        "Phone": "949-627-7315",
+        "Email": "jessicaterry@example.net"
+      },
+      "Statement": "Especially yourself right glass ok program model. Summer at drug whole tax. First section investment beyond apply."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "977f50c4-db32-4509-8d0e-a42583e8899a",
+    "OfficerName": "Helen Williams",
+    "ReportDetails": "People environment continue account include truth. Say reason central say that information."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 427,
+    "AnnualIncome": 70365,
+    "DebtToIncomeRatio": 0.47
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

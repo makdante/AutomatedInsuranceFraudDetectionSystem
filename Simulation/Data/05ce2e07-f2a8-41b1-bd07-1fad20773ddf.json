@@ -1,0 +1,112 @@
+{
+  "ClaimID": "05ce2e07-f2a8-41b1-bd07-1fad20773ddf",
+  "PolicyID": "fa233a67-087f-4a81-aa85-03cb75220f66",
+  "EffectiveDates": {
+    "StartDate": "2025-09-07",
+    "EndDate": "2026-09-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0cc54510-0118-43f1-bb14-decc3fb19e8e",
+    "Name": "Daniel Novak",
+    "PolicyNumber": "fa233a67-087f-4a81-aa85-03cb75220f66",
+    "ContactInformation": {
+      "Phone": "531-516-8947",
+      "Email": "rogerssteven@example.com",
+      "Address": "51262 Davis Knoll\nLake Elizabeth, AZ 16893"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-01",
+    "Location": "0144 Kathryn Port\nNew Valerieburgh, MN 33332",
+    "Description": "Because somebody agent final.\nHundred if section once raise decision hot. Behavior item who fight from dream better."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8554
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 88350
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 49251
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 26832
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6535
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 179522,
+    "TotalApproved": 155702
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Smith",
+    "ContactInformation": {
+      "Phone": "585-837-1053",
+      "Email": "kaitlyn56@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/db967afd-3252-4c1c-af3a-0e73234847fa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Barrett, Anderson and Stevens",
+    "Model": "support",
+    "Year": 2006,
+    "VIN": "3e1e0cb9-70c7-45d7-b416-7e9e578d38f3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cody Miller",
+      "ContactInformation": {
+        "Phone": "001-912-389-6583x64540",
+        "Email": "daisy84@example.org"
+      },
+      "Statement": "Impact eight threat rise own enjoy peace. Either share talk describe. Establish his establish our behind."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e1913c0a-549a-4fda-93ab-32be86246183",
+    "OfficerName": "Heather Wallace",
+    "ReportDetails": "Organization try less. So rise bank little image prove. Woman sister within try language focus apply bill."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 801,
+    "AnnualIncome": 114854,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

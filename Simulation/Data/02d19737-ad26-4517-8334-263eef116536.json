@@ -1,0 +1,112 @@
+{
+  "ClaimID": "02d19737-ad26-4517-8334-263eef116536",
+  "PolicyID": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+  "EffectiveDates": {
+    "StartDate": "2025-05-10",
+    "EndDate": "2026-05-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "540679a4-28ef-4808-be74-d01304fb65d7",
+    "Name": "Martha Dorsey",
+    "PolicyNumber": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+    "ContactInformation": {
+      "Phone": "385.561.2218x18763",
+      "Email": "calderondon@example.net",
+      "Address": "22938 Wright Ports\nWest Michael, MA 77489"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-29",
+    "Location": "9030 Walker Ranch\nDanielberg, IL 39174",
+    "Description": "Few reality modern color eye see pressure. House show wall.\nGeneration before we reveal. Yes once specific or six. Less large individual she put seek carry. Tree bring expect cold she."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11035
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 20310
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 34227
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36619
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 54891
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 157082,
+    "TotalApproved": 5785
+  },
+  "AdjusterDetails": {
+    "Name": "Anthony Zavala",
+    "ContactInformation": {
+      "Phone": "700.851.3768",
+      "Email": "collieradrian@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/c3de2d93-718b-451e-b2f9-81b86200de67"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Taylor-Levy",
+    "Model": "take",
+    "Year": 2008,
+    "VIN": "a603807a-dacd-47b5-9904-f76bada50755"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Dixon",
+      "ContactInformation": {
+        "Phone": "567.931.3743x8741",
+        "Email": "carloscarter@example.org"
+      },
+      "Statement": "Interest attention operation argue dinner western.\nBecome toward drop throughout maybe impact. Capital anything mother part."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e41e278b-59fc-4be0-bf55-d1c14383a04b",
+    "OfficerName": "Frank Dougherty",
+    "ReportDetails": "Weight describe mission crime. North on school pull. Would right hair far order.\nAnything decision exist film place soon. Impact describe leader upon another ball."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 840,
+    "AnnualIncome": 89464,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

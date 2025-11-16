@@ -1,0 +1,112 @@
+{
+  "ClaimID": "af9f7c89-ddc2-4280-b641-b2a251004ac3",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-08-10",
+    "EndDate": "2026-08-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-23",
+    "Location": "7409 Joel Isle\nNorth Marissa, MO 07077",
+    "Description": "Gun conference meet analysis west adult worker leave. Woman citizen actually natural development."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47602
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9287
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16892
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2020
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3742
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 79543,
+    "TotalApproved": 10803
+  },
+  "AdjusterDetails": {
+    "Name": "Peter Robertson",
+    "ContactInformation": {
+      "Phone": "223.574.5009x940",
+      "Email": "bpetersen@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/5b7b0dcb-52c3-433a-a9c5-48ecec7bb004"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moran, Adams and Nguyen",
+    "Model": "themselves",
+    "Year": 2010,
+    "VIN": "eb6b9e03-8e45-437a-9b2c-ff629a14db8a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Hannah Dyer",
+      "ContactInformation": {
+        "Phone": "618.275.5459x0878",
+        "Email": "maciasjennifer@example.net"
+      },
+      "Statement": "Old PM learn which church fight. Force blood together science nation day. Born attack test also company economic."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0be654fc-5408-47e6-9e5c-813655cc0a16",
+    "OfficerName": "Terri Brown",
+    "ReportDetails": "Deep soon wife. Year my draw and full value can.\nPattern until up language. National fight south store majority from cold. Table happen easy mention. Increase foot common figure hope animal so."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 572,
+    "AnnualIncome": 76479,
+    "DebtToIncomeRatio": 0.1
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

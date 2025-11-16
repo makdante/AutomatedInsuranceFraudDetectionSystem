@@ -1,0 +1,112 @@
+{
+  "ClaimID": "399dcd6e-8f29-4d68-9901-b8569c1c0e1a",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2024-12-22",
+    "EndDate": "2025-12-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-01",
+    "Location": "Unit 9813 Box 0294\nDPO AE 09352",
+    "Description": "Paper consider relate situation industry. Line gas Congress.\nLevel place generation any agency. Leader official picture crime role onto white particularly. Owner modern example number quality."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 88001
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5589
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19892
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 47089
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 30771
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 191342,
+    "TotalApproved": 180260
+  },
+  "AdjusterDetails": {
+    "Name": "Shirley Wood",
+    "ContactInformation": {
+      "Phone": "857-929-2831x52980",
+      "Email": "jared77@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/cb31a108-fee7-4a8d-8211-75dec5cc61c0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Flores, Gallegos and Willis",
+    "Model": "maintain",
+    "Year": 2001,
+    "VIN": "aa35f4da-b4e8-469c-aae6-49e8c518634b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Crystal Allen",
+      "ContactInformation": {
+        "Phone": "+1-895-836-1107",
+        "Email": "ymorris@example.net"
+      },
+      "Statement": "May wind what consider race. Rest financial long why. On family article week.\nRespond forward behind recently possible. Ground poor it season turn deep near."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b6003ca7-c8f7-43a0-949c-6e82f6d80bc7",
+    "OfficerName": "Joe Brooks",
+    "ReportDetails": "Bar skill close station real rest far. Have from how certain assume particular stuff age.\nCell another several phone identify spend pretty. Cost rule Mrs light financial subject speech."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 619,
+    "AnnualIncome": 115253,
+    "DebtToIncomeRatio": 0.53
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 6,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

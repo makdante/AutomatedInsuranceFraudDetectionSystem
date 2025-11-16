@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f03d3cb4-170c-41a3-987a-c8cdda1692ff",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-01-09",
+    "EndDate": "2026-01-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-26",
+    "Location": "PSC 4565, Box 4442\nAPO AA 94670",
+    "Description": "Tree now attack.\nFirm offer money cup too. Drug series over member their type federal.\nActually her from none. Against already position level marriage federal."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13957
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 78761
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 121447
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6238
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 25422
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 245825,
+    "TotalApproved": 69678
+  },
+  "AdjusterDetails": {
+    "Name": "Michelle Beck",
+    "ContactInformation": {
+      "Phone": "(923)980-1211x90643",
+      "Email": "katie07@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1033ab8a-d8e1-48ea-8c98-adf73ad7df53"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Montgomery-West",
+    "Model": "thought",
+    "Year": 2010,
+    "VIN": "d83f39a8-4456-4448-a8c3-fe939f35b3e1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Melissa Morales",
+      "ContactInformation": {
+        "Phone": "(686)934-6045",
+        "Email": "kirkdavid@example.net"
+      },
+      "Statement": "Security least hour there affect. Throughout term understand notice. Wonder make I buy a. Sport network serve trade.\nCulture food article glass. Voice pick office bad admit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "361ff54b-51d2-4c38-94a4-7d5e9bf5c98b",
+    "OfficerName": "Sarah Brown",
+    "ReportDetails": "Fire challenge past. Oil cost nor in commercial can. Black offer list how down out.\nAgainst order perhaps do. Modern lot rule area. Perform explain toward respond response."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 587,
+    "AnnualIncome": 146794,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

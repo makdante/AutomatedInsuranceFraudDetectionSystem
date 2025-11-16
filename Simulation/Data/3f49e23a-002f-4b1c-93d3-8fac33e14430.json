@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3f49e23a-002f-4b1c-93d3-8fac33e14430",
+  "PolicyID": "be1a056e-41f2-4711-a855-46173d7d2368",
+  "EffectiveDates": {
+    "StartDate": "2025-08-04",
+    "EndDate": "2026-08-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a46d411e-9ab9-4ed4-914f-2da09d0b8a29",
+    "Name": "Christopher Shaw",
+    "PolicyNumber": "be1a056e-41f2-4711-a855-46173d7d2368",
+    "ContactInformation": {
+      "Phone": "407.948.6080x1895",
+      "Email": "thomaswatson@example.com",
+      "Address": "27329 Dean Locks Suite 317\nLake Jasonhaven, WY 37967"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-11",
+    "Location": "1406 Chelsea Throughway Suite 460\nNew Lisamouth, OH 57887",
+    "Description": "Carry back church agree. Exactly probably read provide charge.\nPrice money set field account teacher involve. Second team face across by and."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1587
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17086
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6058
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8474
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6097
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 39302,
+    "TotalApproved": 3967
+  },
+  "AdjusterDetails": {
+    "Name": "Cathy Harper",
+    "ContactInformation": {
+      "Phone": "001-704-313-9321x235",
+      "Email": "keithle@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/4f2afe8b-42d7-4b72-85de-160dba8a280a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wells LLC",
+    "Model": "community",
+    "Year": 2022,
+    "VIN": "8a8b59ba-b78b-448b-9eda-83ffe2ec256d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ronald Harris",
+      "ContactInformation": {
+        "Phone": "592-633-8487x53368",
+        "Email": "nicholas93@example.com"
+      },
+      "Statement": "The meeting best hour reason rather note. Leave energy wife voice fish trip."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "008ace0f-01c8-4e46-b139-c3bb1be91e84",
+    "OfficerName": "Barbara Santiago",
+    "ReportDetails": "Sea news democratic writer all know. Room all management toward stop ok hotel. Wish become also focus political Republican age."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 730,
+    "AnnualIncome": 23004,
+    "DebtToIncomeRatio": 0.52
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 3,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

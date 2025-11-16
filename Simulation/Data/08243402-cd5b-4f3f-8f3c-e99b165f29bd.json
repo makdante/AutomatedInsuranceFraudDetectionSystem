@@ -1,0 +1,112 @@
+{
+  "ClaimID": "08243402-cd5b-4f3f-8f3c-e99b165f29bd",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2025-07-11",
+    "EndDate": "2026-07-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-11",
+    "Location": "9986 Yesenia Lane\nRamirezmouth, VI 90765",
+    "Description": "Position those almost level western relationship. Condition story lead go detail."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 47448
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 59064
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 60944
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8707
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 34794
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 210957,
+    "TotalApproved": 44630
+  },
+  "AdjusterDetails": {
+    "Name": "Johnny Gutierrez",
+    "ContactInformation": {
+      "Phone": "(842)224-7202",
+      "Email": "daviskelly@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/2b1159ca-8f6b-4356-9a93-9b2c77aa1a46"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams Ltd",
+    "Model": "record",
+    "Year": 2015,
+    "VIN": "fcf2ac56-99d6-4467-bb4b-0228f8ee95a7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Barrett",
+      "ContactInformation": {
+        "Phone": "283.359.2826x004",
+        "Email": "xfleming@example.net"
+      },
+      "Statement": "Church very officer ahead him law cold. You above site training face. Local particularly attorney hope move build kid."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "06cf6e26-6ec1-4241-9340-d0b60da4f3db",
+    "OfficerName": "Allison Carter",
+    "ReportDetails": "Expert talk born. Live human career five your. Thing run arrive book catch.\nWhat father mission section student culture. Company book employee form worker cut.\nMarriage unit south gun."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 844,
+    "AnnualIncome": 58943,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

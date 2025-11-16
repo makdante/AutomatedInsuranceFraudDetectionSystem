@@ -1,0 +1,112 @@
+{
+  "ClaimID": "75e41708-e227-4859-a71a-5734694b7de4",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-05-22",
+    "EndDate": "2026-05-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-24",
+    "Location": "86363 Melissa Mount Apt. 053\nLake Michelle, NY 20598",
+    "Description": "Itself protect machine race couple sister least. Day interesting power responsibility.\nKitchen sense but second have miss. Answer center nearly writer all. Join hard available drive."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 89375
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5020
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 185309
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18734
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16476
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 314914,
+    "TotalApproved": 205100
+  },
+  "AdjusterDetails": {
+    "Name": "Kimberly Gonzalez",
+    "ContactInformation": {
+      "Phone": "(941)293-4129",
+      "Email": "blackburnsara@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4d2041bd-9d0c-40c4-aac2-83f6b1cc276b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Huff, Mendoza and Beard",
+    "Model": "age",
+    "Year": 2003,
+    "VIN": "7c686388-eb35-49b5-aec5-f6720a92c392"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Carter",
+      "ContactInformation": {
+        "Phone": "240-211-6468",
+        "Email": "joyce54@example.net"
+      },
+      "Statement": "Traditional consider charge mouth rather. Prevent laugh price before remember. Sit others chance allow catch professional accept."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fcc2521e-d46c-42ea-a3a8-9debb3459ab5",
+    "OfficerName": "Susan Brown",
+    "ReportDetails": "No pick spring who throw resource. Receive amount analysis.\nMarket imagine just within. Recent career point lawyer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 543,
+    "AnnualIncome": 107317,
+    "DebtToIncomeRatio": 0.56
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 2,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

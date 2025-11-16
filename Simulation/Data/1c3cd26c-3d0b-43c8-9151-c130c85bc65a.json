@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1c3cd26c-3d0b-43c8-9151-c130c85bc65a",
+  "PolicyID": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+  "EffectiveDates": {
+    "StartDate": "2025-10-08",
+    "EndDate": "2026-10-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0aea6355-ec93-4670-9d1f-368e59077bd4",
+    "Name": "Jennifer Smith",
+    "PolicyNumber": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+    "ContactInformation": {
+      "Phone": "(638)899-2687x626",
+      "Email": "barrvanessa@example.com",
+      "Address": "PSC 0173, Box 9250\nAPO AA 43354"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-03",
+    "Location": "9509 Michael Mount Suite 620\nBradleyland, NH 67981",
+    "Description": "Case morning partner available. Attack way government responsibility popular though. Speech available economy drive fill daughter interview."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 75822
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 96775
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 94032
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8284
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4412
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 279325,
+    "TotalApproved": 12194
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Gonzales",
+    "ContactInformation": {
+      "Phone": "307.671.6057",
+      "Email": "adam70@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/e2f22da2-2b6e-485f-bdb0-c1b5a8019832"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-09-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller, Harris and Bullock",
+    "Model": "affect",
+    "Year": 2021,
+    "VIN": "5b03c17d-397d-4d85-82e2-82dd1b954727"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stephanie Garcia",
+      "ContactInformation": {
+        "Phone": "001-938-231-4919x7609",
+        "Email": "rwilliams@example.com"
+      },
+      "Statement": "Race thus tax machine reason piece from. Government leave if letter however between recently. Most look walk apply store beyond."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c5082ae1-7902-45ef-8d87-17bc5efb4362",
+    "OfficerName": "Beverly Thomas",
+    "ReportDetails": "Concern nation member. Case in front argue always audience.\nWell debate bed move management simple. Right woman become score blue.\nImportant same best want present. Run degree song say."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 598,
+    "AnnualIncome": 179517,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

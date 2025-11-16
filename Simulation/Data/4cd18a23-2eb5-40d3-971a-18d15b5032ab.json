@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4cd18a23-2eb5-40d3-971a-18d15b5032ab",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2025-06-25",
+    "EndDate": "2026-06-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-13",
+    "Location": "8802 Brittany Estate\nEast Stephanieberg, MP 08213",
+    "Description": "Some usually political example start provide together. Exactly say computer yeah so public similar.\nSupport prepare decide game evening."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1407
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8368
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1909
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 124579
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 67244
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 203507,
+    "TotalApproved": 103316
+  },
+  "AdjusterDetails": {
+    "Name": "Austin Gross",
+    "ContactInformation": {
+      "Phone": "2972718949",
+      "Email": "francisco18@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/052c815c-71d9-4677-9dfd-a2d435eeedbe"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gonzales-Espinoza",
+    "Model": "box",
+    "Year": 2008,
+    "VIN": "7337d874-386f-4958-b620-276484f1edb2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Pierce",
+      "ContactInformation": {
+        "Phone": "+1-435-642-3316x270",
+        "Email": "brownlori@example.org"
+      },
+      "Statement": "State final trial. Themselves full account fish eye.\nBeyond everyone recently item of win exactly. Level see remember game throw power."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "afb13f22-75ec-4156-b36d-ca9e4f385a3f",
+    "OfficerName": "Barry Curry",
+    "ReportDetails": "Beat collection page child. Tax anyone miss use. Media dark pull Mrs possible. Source official push executive something admit place."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 653,
+    "AnnualIncome": 72671,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

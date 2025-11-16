@@ -1,0 +1,112 @@
+{
+  "ClaimID": "69b31e66-638b-484b-bfbc-e6e416f644bd",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2025-08-08",
+    "EndDate": "2026-08-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-20",
+    "Location": "31643 Lori Key\nLake Tiffany, MN 35130",
+    "Description": "Clearly put soldier and. Perform tonight nearly. Its control finally authority easy executive."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14122
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3103
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 62524
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 92244
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 57799
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 229792,
+    "TotalApproved": 120063
+  },
+  "AdjusterDetails": {
+    "Name": "Timothy Martin",
+    "ContactInformation": {
+      "Phone": "(521)864-1804",
+      "Email": "christopher87@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b13cd9ae-9861-4e68-8b0e-44576ee0ff51"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-20T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-25T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-30T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bradford Inc",
+    "Model": "body",
+    "Year": 2007,
+    "VIN": "83f7e503-ce05-46da-8d3e-8404042f176c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patrick Flores",
+      "ContactInformation": {
+        "Phone": "001-986-324-3475",
+        "Email": "fjohnson@example.org"
+      },
+      "Statement": "Story pretty me mind but. Establish tax situation wish change finish.\nProfessional age range owner. Cover old collection everything happy modern head."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1727741d-9af9-4f18-b228-f4de92054a31",
+    "OfficerName": "Mary Lowery",
+    "ReportDetails": "Get history activity. Same others result we all. Approach often information theory front term along.\nPolitics dream popular top. Positive data receive character."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 462,
+    "AnnualIncome": 148383,
+    "DebtToIncomeRatio": 0.72
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

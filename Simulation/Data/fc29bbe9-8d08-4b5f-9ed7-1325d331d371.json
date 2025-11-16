@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fc29bbe9-8d08-4b5f-9ed7-1325d331d371",
+  "PolicyID": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+  "EffectiveDates": {
+    "StartDate": "2025-05-04",
+    "EndDate": "2026-05-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "06e8f248-48e5-4910-a342-a071a62ec409",
+    "Name": "Brenda Fitzgerald",
+    "PolicyNumber": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+    "ContactInformation": {
+      "Phone": "+1-542-640-7974",
+      "Email": "khamilton@example.org",
+      "Address": "16393 Melissa Shoal Apt. 662\nHernandezview, NC 46498"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-20",
+    "Location": "PSC 9924, Box 6441\nAPO AA 72191",
+    "Description": "Soon light remember decision.\nPolitical attention art including movie. Church deal leg kid.\nBar its federal under wrong to piece. Yourself need easy fund those class put. It better floor year."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5040
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 25795
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13966
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7710
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 42605
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 95116,
+    "TotalApproved": 14937
+  },
+  "AdjusterDetails": {
+    "Name": "Aaron Archer",
+    "ContactInformation": {
+      "Phone": "(594)991-4008x602",
+      "Email": "qharper@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c27a8ca6-b895-46c4-8a89-d9ca7c0ca7e3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moses, Ibarra and Rhodes",
+    "Model": "important",
+    "Year": 2009,
+    "VIN": "ee2f99eb-cf33-4102-a638-1e28f98951b6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Smith",
+      "ContactInformation": {
+        "Phone": "001-441-749-8659",
+        "Email": "lawrencevega@example.org"
+      },
+      "Statement": "Quickly expert wind it street fish two. Particular court result great per decide."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "23b28886-d6af-4113-8cf2-b1708e96092a",
+    "OfficerName": "Savannah White",
+    "ReportDetails": "Never phone church grow.\nOffice listen give phone. Summer cause day sense join. Learn benefit food others author.\nToo go trip every sister any. It face third peace story record upon."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 542,
+    "AnnualIncome": 155223,
+    "DebtToIncomeRatio": 0.61
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 2,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

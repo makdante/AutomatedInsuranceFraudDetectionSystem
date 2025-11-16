@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1e5f5e1d-603b-4b7f-b274-0836a4fded06",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2025-05-21",
+    "EndDate": "2026-05-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-11",
+    "Location": "992 Natasha Center Suite 393\nThompsonshire, DE 79645",
+    "Description": "Week show idea under significant marriage. Up parent turn page though guess blue. Discover then fund amount ground because."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1575
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3750
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36495
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1886
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 62921
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 106627,
+    "TotalApproved": 81217
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Miranda",
+    "ContactInformation": {
+      "Phone": "438-404-8326x66121",
+      "Email": "hcrawford@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/43787bd6-7c85-4d5f-b43f-90aa9cee00d7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Daniels-Rivera",
+    "Model": "never",
+    "Year": 2008,
+    "VIN": "77fa4266-8be7-4563-b99e-be91f9ab8f26"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amanda Miller",
+      "ContactInformation": {
+        "Phone": "+1-358-536-6707x5983",
+        "Email": "denisebartlett@example.com"
+      },
+      "Statement": "Nation card rise notice appear alone.\nReceive total mother case.\nPolitical war arrive without leave. Pick range activity win budget certain."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "051e4a59-1964-4f6b-a9c4-449e3148fb76",
+    "OfficerName": "Ronald Fleming MD",
+    "ReportDetails": "Respond share huge Republican base. Short avoid himself service similar power say.\nGo raise specific. Tonight skill possible manager letter father campaign."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 605,
+    "AnnualIncome": 26474,
+    "DebtToIncomeRatio": 0.55
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

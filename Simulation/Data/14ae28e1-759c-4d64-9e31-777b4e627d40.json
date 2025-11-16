@@ -1,0 +1,112 @@
+{
+  "ClaimID": "14ae28e1-759c-4d64-9e31-777b4e627d40",
+  "PolicyID": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+  "EffectiveDates": {
+    "StartDate": "2025-04-29",
+    "EndDate": "2026-04-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ddabce0f-b86c-49b4-a9b6-4d81be5b5325",
+    "Name": "Helen Williams DDS",
+    "PolicyNumber": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+    "ContactInformation": {
+      "Phone": "(520)524-5958",
+      "Email": "elizabeth72@example.net",
+      "Address": "2431 Karen Tunnel Suite 892\nLisaland, OK 93348"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-28",
+    "Location": "097 Alisha Tunnel\nJacquelineville, SC 84814",
+    "Description": "Win during assume home detail speak lay. Better under right. Beautiful himself although professional see ever gas. Generation nor end international."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 39718
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 90828
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12231
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 167448
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 23553
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 333778,
+    "TotalApproved": 128535
+  },
+  "AdjusterDetails": {
+    "Name": "Thomas Davis",
+    "ContactInformation": {
+      "Phone": "001-396-972-6885x9068",
+      "Email": "knorton@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/3e199fe4-c8ab-4834-b603-2cf30bea2242"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davenport LLC",
+    "Model": "whom",
+    "Year": 2004,
+    "VIN": "d1701c5b-5358-4198-8f7d-5cee1bb3a22a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tracy Bryant",
+      "ContactInformation": {
+        "Phone": "(425)239-7101",
+        "Email": "shawn26@example.org"
+      },
+      "Statement": "Soon seat scientist indicate today economic. Our their ground body. Visit old a this employee college write."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7a659d74-590a-425d-b0e2-956b663246b3",
+    "OfficerName": "Pedro Snyder",
+    "ReportDetails": "Lead until fight social sure test beautiful. Direction present recognize issue say agreement do.\nRoad enter staff. Public middle relate pass these mission behind. Theory senior seem stock."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 666,
+    "AnnualIncome": 153015,
+    "DebtToIncomeRatio": 0.89
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 4,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

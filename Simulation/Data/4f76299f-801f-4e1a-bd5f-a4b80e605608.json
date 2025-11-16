@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4f76299f-801f-4e1a-bd5f-a4b80e605608",
+  "PolicyID": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+  "EffectiveDates": {
+    "StartDate": "2025-08-29",
+    "EndDate": "2026-08-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eb400d1e-8ed3-4fd5-8a4b-a02804e6ce83",
+    "Name": "Dylan Lee",
+    "PolicyNumber": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+    "ContactInformation": {
+      "Phone": "976.394.8548x28663",
+      "Email": "blane@example.com",
+      "Address": "044 Briggs Way\nLake Allisonchester, FM 38872"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-14",
+    "Location": "62302 Kevin Forges Apt. 860\nLake Kyle, IL 33674",
+    "Description": "Forward technology again degree. Sell admit response here. Property often agreement collection. Movie tell thousand occur at."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 43169
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 40637
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 30190
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3341
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7964
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 125301,
+    "TotalApproved": 104989
+  },
+  "AdjusterDetails": {
+    "Name": "Amanda Johnson",
+    "ContactInformation": {
+      "Phone": "906.837.1786x446",
+      "Email": "acevedorobert@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b20d3b44-311e-413b-89f7-50be53a51deb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garcia-Castillo",
+    "Model": "probably",
+    "Year": 2019,
+    "VIN": "74aa3737-2f74-43b8-a46a-0ec303e98e33"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Phillip Rice",
+      "ContactInformation": {
+        "Phone": "001-527-460-6772x111",
+        "Email": "umoore@example.com"
+      },
+      "Statement": "Pull executive almost example interesting organization low. Light tax very left force future mother.\nMrs trial so upon professor our recent. Give thus past. Partner lose until nothing program."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "53b8237b-246a-4668-8f3b-893878569c64",
+    "OfficerName": "Javier Smith",
+    "ReportDetails": "Fund draw collection along structure their. Onto party mouth increase good out people.\nFew strategy notice reduce attack believe. Then Mrs simply range bring."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 511,
+    "AnnualIncome": 188064,
+    "DebtToIncomeRatio": 0.23
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 2,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

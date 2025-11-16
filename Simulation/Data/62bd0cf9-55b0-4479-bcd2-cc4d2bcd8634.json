@@ -1,0 +1,112 @@
+{
+  "ClaimID": "62bd0cf9-55b0-4479-bcd2-cc4d2bcd8634",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-06-11",
+    "EndDate": "2026-06-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-31",
+    "Location": "88202 Johnson Center Suite 565\nCourtneybury, IL 18932",
+    "Description": "Loss hospital sea rest fire score authority. Response child doctor seven by.\nHead move girl. School seem truth minute computer run. Bring American protect example."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 42947
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12440
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10900
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8514
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2367
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 77168,
+    "TotalApproved": 39948
+  },
+  "AdjusterDetails": {
+    "Name": "Gary Smith",
+    "ContactInformation": {
+      "Phone": "001-324-594-8522x8515",
+      "Email": "gthomas@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/6b336a29-74c0-4f5b-8287-c1023f70fe95"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Goodman Group",
+    "Model": "result",
+    "Year": 2001,
+    "VIN": "488b9813-417f-404e-8619-436a560e7dde"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mary Anderson",
+      "ContactInformation": {
+        "Phone": "001-889-971-2693x34574",
+        "Email": "srichardson@example.com"
+      },
+      "Statement": "Voice under challenge personal beat. Firm particularly subject."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b30cf7ef-9e75-42ff-a6bb-5a3555fdaced",
+    "OfficerName": "Deborah Bullock",
+    "ReportDetails": "About fall cultural lose trade. West drop attention pick view me. Discuss top consider require laugh easy station else. Brother accept value all student clear."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 338,
+    "AnnualIncome": 85609,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 1,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

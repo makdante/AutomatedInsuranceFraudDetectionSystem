@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7bc8093f-f543-4ec9-921b-36976638492f",
+  "PolicyID": "c3c97e20-9916-4009-b655-6b300f90d80a",
+  "EffectiveDates": {
+    "StartDate": "2025-03-14",
+    "EndDate": "2026-03-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "053ca69a-366f-4375-961c-7efc9aef3ba5",
+    "Name": "Dalton Davis",
+    "PolicyNumber": "c3c97e20-9916-4009-b655-6b300f90d80a",
+    "ContactInformation": {
+      "Phone": "333.559.0778",
+      "Email": "nancy30@example.org",
+      "Address": "5703 Aaron Lane\nSouth Matthew, MH 99089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-18",
+    "Location": "874 Wu Road Suite 162\nEast Justinmouth, SC 76581",
+    "Description": "Method course pressure other network space. Listen forward direction popular get. Sound billion situation event response change."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 162997
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5940
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 58887
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 35853
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 48321
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 311998,
+    "TotalApproved": 144857
+  },
+  "AdjusterDetails": {
+    "Name": "Nathan Nunez",
+    "ContactInformation": {
+      "Phone": "593.260.7924",
+      "Email": "amartin@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/4c39071e-2b91-4a01-8fd5-c2ef629b419b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jimenez and Sons",
+    "Model": "she",
+    "Year": 2022,
+    "VIN": "98d75561-8c72-4556-9db1-43ca731b4552"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erica Barnes",
+      "ContactInformation": {
+        "Phone": "944-568-1096x849",
+        "Email": "xflores@example.com"
+      },
+      "Statement": "Data American although. First paper military even anything discover attack.\nSense approach power police dream change. Pattern rise heart stuff every article."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "163bb812-3001-4fc8-a197-18d74b93294e",
+    "OfficerName": "Todd Holmes",
+    "ReportDetails": "Around young act person rest three especially. Rate cost mean stay man woman.\nAnother table future you put. History director require test. Woman focus page spend deal skill music product."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 684,
+    "AnnualIncome": 61956,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 8,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

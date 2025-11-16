@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0895ddba-8f3f-4823-a00d-68d62bae6aac",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2025-04-13",
+    "EndDate": "2026-04-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-12",
+    "Location": "4364 Paul Trafficway Apt. 608\nBriantown, VA 28833",
+    "Description": "Range address themselves power else skin too of. Court call situation modern fight idea.\nCentral threat show investment training watch. Down democratic manager such interview community cell."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6794
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 74204
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 85115
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9014
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 109179
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 284306,
+    "TotalApproved": 253008
+  },
+  "AdjusterDetails": {
+    "Name": "Alexis Ruiz",
+    "ContactInformation": {
+      "Phone": "566-484-2503",
+      "Email": "julie74@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/41aa43f7-fc83-464f-87a5-cf11526cc642"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Myers, Graham and Newman",
+    "Model": "ready",
+    "Year": 2009,
+    "VIN": "fd61920e-0749-4e16-8bc7-08076677d9fa"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joy Odonnell",
+      "ContactInformation": {
+        "Phone": "(596)464-3587",
+        "Email": "brandon69@example.com"
+      },
+      "Statement": "Two miss concern budget. Medical five between resource.\nBe sure commercial direction sport. Ask long attorney budget. Spend their guess drug against join support personal."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "237a5473-b89e-428b-89fb-e250b2564bd1",
+    "OfficerName": "John White",
+    "ReportDetails": "Lot ready half seem beat prove. Different tax really surface yeah. Night institution hit join year evidence."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 641,
+    "AnnualIncome": 121311,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 2,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

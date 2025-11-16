@@ -1,0 +1,112 @@
+{
+  "ClaimID": "39f48283-6bf4-4d4e-9e74-ae688ac87bf5",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-06-29",
+    "EndDate": "2026-06-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-18",
+    "Location": "52537 Timothy Manors Apt. 082\nLake Joseph, CO 34697",
+    "Description": "Especially whatever behind nation.\nBaby mean herself compare return believe room. Issue expert own top standard reveal their. Hear huge try place.\nCreate black this suggest."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 159618
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2853
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2082
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13730
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6609
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 184892,
+    "TotalApproved": 120404
+  },
+  "AdjusterDetails": {
+    "Name": "Joy Joseph",
+    "ContactInformation": {
+      "Phone": "+1-655-266-4464x5844",
+      "Email": "mezajames@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/66ebd47c-9622-4840-9623-6e3f747356f9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Parks, Moon and Mccormick",
+    "Model": "pretty",
+    "Year": 2003,
+    "VIN": "18b46699-1832-4438-9a87-0088447ae0a0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brandy Snow",
+      "ContactInformation": {
+        "Phone": "(483)812-8716x794",
+        "Email": "wagnerrobert@example.org"
+      },
+      "Statement": "Fear prevent adult big tree very. Several understand player site organization least.\nLeader simple guy number. Study white she hear eye performance investment."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6f469712-3d8f-4bef-bddf-56391530efc2",
+    "OfficerName": "Alexis Huang",
+    "ReportDetails": "Data man resource like matter individual few.\nAlthough describe seat find because. Exist hour so toward."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 503,
+    "AnnualIncome": 23042,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 4,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

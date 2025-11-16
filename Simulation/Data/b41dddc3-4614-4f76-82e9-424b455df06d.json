@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b41dddc3-4614-4f76-82e9-424b455df06d",
+  "PolicyID": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+  "EffectiveDates": {
+    "StartDate": "2025-03-07",
+    "EndDate": "2026-03-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "99c198b5-d0aa-48d3-94c9-959f2a44263a",
+    "Name": "Bethany Rose",
+    "PolicyNumber": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+    "ContactInformation": {
+      "Phone": "(715)908-5515x619",
+      "Email": "heather19@example.com",
+      "Address": "5993 Snow Manor Suite 784\nCherylton, KY 35335"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-09",
+    "Location": "1323 Daniel Glen\nSouth Brooke, WA 49757",
+    "Description": "Food radio one fish under issue operation.\nDiscover product management rather day discover.\nWatch feel almost watch reduce fund consider. Most course draw life concern debate old."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3994
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9544
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 48430
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 93068
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 156092
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 311128,
+    "TotalApproved": 292498
+  },
+  "AdjusterDetails": {
+    "Name": "Justin Sharp",
+    "ContactInformation": {
+      "Phone": "6529242239",
+      "Email": "dakota20@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/365bca8e-f4fa-4f52-b713-df944edd38c6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Newton Ltd",
+    "Model": "win",
+    "Year": 2012,
+    "VIN": "e356fb74-33c8-48d4-8b5b-2194ef91ef29"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Gregory",
+      "ContactInformation": {
+        "Phone": "5227671307",
+        "Email": "aprilhuffman@example.net"
+      },
+      "Statement": "Mrs especially hot author less. Nearly design myself analysis may party.\nAnswer citizen respond truth few. Buy human appear loss."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7df1efce-6395-4bf9-9500-6a589a42f86c",
+    "OfficerName": "Lisa Hendricks",
+    "ReportDetails": "Cultural present PM. Capital matter build book everyone agreement. Personal hot the green.\nOften development among second. Serious person important Congress someone sport claim."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 718,
+    "AnnualIncome": 70280,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

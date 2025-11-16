@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0b0b1757-2812-4ac2-ae0e-08332c3f1aaa",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2025-07-04",
+    "EndDate": "2026-07-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-24",
+    "Location": "97905 Castro Shore Apt. 826\nWilliamsland, TN 91775",
+    "Description": "Style run avoid whole. Themselves themselves build our out many nice.\nChurch rest service before itself set.\nArticle compare process certain. Interview happy pretty pretty door situation."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 60250
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1949
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8013
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9203
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 21943
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 101358,
+    "TotalApproved": 52280
+  },
+  "AdjusterDetails": {
+    "Name": "Chelsea Jones",
+    "ContactInformation": {
+      "Phone": "7339687726",
+      "Email": "suttonchristopher@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b3a0a010-3f3f-4408-b994-c35e17438caa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cox-Sanchez",
+    "Model": "read",
+    "Year": 2000,
+    "VIN": "8a4faffe-2855-4630-999d-64a5b5ee49af"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bryan Ruiz",
+      "ContactInformation": {
+        "Phone": "366.216.4279",
+        "Email": "serranosierra@example.net"
+      },
+      "Statement": "Radio think war couple tough save manage. Method soon program.\nWhom list mind safe old develop. Save through table scientist some customer friend. Book issue citizen no inside experience sell."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "abd18420-b65a-488a-917c-01ececbdd9de",
+    "OfficerName": "Sarah Costa",
+    "ReportDetails": "Impact serve movie test sport her. Program employee certainly require. Language before next be across traditional."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 663,
+    "AnnualIncome": 122097,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

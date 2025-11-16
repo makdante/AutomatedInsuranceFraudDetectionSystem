@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8d819f56-5ecf-43a0-91b7-e4f094731dba",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-06-10",
+    "EndDate": "2026-06-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-16",
+    "Location": "285 Karen Orchard\nPort Austin, FM 83665",
+    "Description": "Medical customer scene voice art author. Indeed dog under director.\nMay share federal. Collection film want lawyer say also lay. Institution big reveal."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3972
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 61195
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 30101
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11857
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 87325
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 194450,
+    "TotalApproved": 66731
+  },
+  "AdjusterDetails": {
+    "Name": "Catherine Garcia MD",
+    "ContactInformation": {
+      "Phone": "+1-686-972-7601x8244",
+      "Email": "morrisbrianna@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/6bbcc6ca-7873-417f-b3e6-aa4ff6230aad"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-16T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-21T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-26T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Murphy, Cunningham and Brown",
+    "Model": "number",
+    "Year": 2000,
+    "VIN": "1e5f8fdb-2063-4677-ba1a-8d1b55b1e023"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mariah Robinson",
+      "ContactInformation": {
+        "Phone": "280-304-0731x6626",
+        "Email": "jennifer86@example.net"
+      },
+      "Statement": "Book former same seem nature him around politics. Continue already future cost box agreement. Must sell whole."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "60a5a6eb-6ff5-408d-9231-1ee30c23b959",
+    "OfficerName": "Jessica Clark",
+    "ReportDetails": "Leader personal church performance into everything health. Wait memory meeting specific be. Machine role president call."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 689,
+    "AnnualIncome": 90346,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

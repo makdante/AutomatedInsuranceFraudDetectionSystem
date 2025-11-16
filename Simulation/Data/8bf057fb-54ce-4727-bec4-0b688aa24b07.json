@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8bf057fb-54ce-4727-bec4-0b688aa24b07",
+  "PolicyID": "be1a056e-41f2-4711-a855-46173d7d2368",
+  "EffectiveDates": {
+    "StartDate": "2025-06-27",
+    "EndDate": "2026-06-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a46d411e-9ab9-4ed4-914f-2da09d0b8a29",
+    "Name": "Christopher Shaw",
+    "PolicyNumber": "be1a056e-41f2-4711-a855-46173d7d2368",
+    "ContactInformation": {
+      "Phone": "407.948.6080x1895",
+      "Email": "thomaswatson@example.com",
+      "Address": "27329 Dean Locks Suite 317\nLake Jasonhaven, WY 37967"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-14",
+    "Location": "97339 Joseph Ridges Suite 348\nBrandonbury, VI 96902",
+    "Description": "Tv nice parent financial. Law dream herself partner relationship away remember water. Always keep Mr nothing great tough."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6202
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11293
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 47237
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 98490
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18620
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 181842,
+    "TotalApproved": 70130
+  },
+  "AdjusterDetails": {
+    "Name": "Alicia Barker",
+    "ContactInformation": {
+      "Phone": "349-494-0127x3779",
+      "Email": "roachtaylor@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/6813da95-9e9f-4ec1-a101-538cd6f7a825"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hill-Soto",
+    "Model": "others",
+    "Year": 2008,
+    "VIN": "d8cd2173-37b4-4628-8dbb-373fd3705cf3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dylan Ruiz",
+      "ContactInformation": {
+        "Phone": "001-254-770-1211x0075",
+        "Email": "floydmorgan@example.net"
+      },
+      "Statement": "Since already cultural travel new might amount heavy.\nI make the amount follow tree."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ecc2d996-6eb4-41e7-85dc-c776da581292",
+    "OfficerName": "Renee Cardenas",
+    "ReportDetails": "Goal professional take rate approach image. Professional those financial program.\nOften list must treat draw blue. Analysis participant successful nature with chance may."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 508,
+    "AnnualIncome": 133087,
+    "DebtToIncomeRatio": 0.69
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

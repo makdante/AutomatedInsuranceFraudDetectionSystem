@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cff44940-e977-40e9-9726-739ad3006ec1",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-02-12",
+    "EndDate": "2026-02-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-17",
+    "Location": "7260 Horton Park Apt. 586\nEast Adamfort, HI 56515",
+    "Description": "Child police control. As well half purpose if. Tell trade child think next.\nContinue thing since deal front community. Letter gas under other marriage green.\nGood political boy rest create put."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4133
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17450
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 138981
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36127
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14529
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 211220,
+    "TotalApproved": 26514
+  },
+  "AdjusterDetails": {
+    "Name": "Elizabeth Sanford",
+    "ContactInformation": {
+      "Phone": "555.608.0017x5384",
+      "Email": "robertholmes@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/35b167b3-7a2b-47b0-9f00-dbee45a1b36a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Parker, Wheeler and Morales",
+    "Model": "authority",
+    "Year": 2020,
+    "VIN": "63010c6a-a8d9-45d0-a787-0709e65d6982"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joyce Fisher",
+      "ContactInformation": {
+        "Phone": "950.750.7191",
+        "Email": "hwells@example.com"
+      },
+      "Statement": "Property dog state hospital garden card. More story three artist technology toward. I north girl positive Democrat open husband."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fc9aa573-c0b1-4298-8bdc-d5046d16f219",
+    "OfficerName": "Daniel Taylor",
+    "ReportDetails": "Generation way consider anyone perform participant create even. Try give manager throughout truth cost kid. Major kind author stop him else usually."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 655,
+    "AnnualIncome": 113418,
+    "DebtToIncomeRatio": 0.92
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 8,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

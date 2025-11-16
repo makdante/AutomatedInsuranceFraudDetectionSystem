@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d33f53ea-b339-483e-94d4-2f2c5ed54063",
+  "PolicyID": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+  "EffectiveDates": {
+    "StartDate": "2025-08-12",
+    "EndDate": "2026-08-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d1d74627-ebfa-4be3-b1da-26ed11561b0d",
+    "Name": "Joseph Salazar",
+    "PolicyNumber": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+    "ContactInformation": {
+      "Phone": "001-886-312-3844x48198",
+      "Email": "ugray@example.net",
+      "Address": "293 Jessica Plain\nLake Jillborough, IA 96694"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-06",
+    "Location": "88348 Steven Forges Apt. 623\nWest Williamborough, GA 31477",
+    "Description": "First situation foreign. Security require off parent personal while. Upon young kid surface number street."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 20513
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6617
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12204
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 31542
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2855
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 73731,
+    "TotalApproved": 6572
+  },
+  "AdjusterDetails": {
+    "Name": "Elizabeth Casey",
+    "ContactInformation": {
+      "Phone": "672-688-1294x09777",
+      "Email": "devin03@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/bc431e34-67df-48b3-81fa-d9448f570429"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Castillo, Vance and Johnson",
+    "Model": "respond",
+    "Year": 2009,
+    "VIN": "d5ec2a8a-1b58-4aa6-beac-4f96a465e4e6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Barker",
+      "ContactInformation": {
+        "Phone": "001-505-970-1395x91682",
+        "Email": "upeterson@example.com"
+      },
+      "Statement": "Small full yard control international star. Run smile laugh material general main strong.\nBaby figure ever activity occur. Sister every population decision."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ed134fca-a98a-413c-8ada-718554e7a598",
+    "OfficerName": "Rachel Davis",
+    "ReportDetails": "Smile house other rather street hand exactly. Either heavy scientist present avoid own. Wrong hear Democrat very between.\nMouth as stuff action group prepare. Draw report though pick building nation."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 444,
+    "AnnualIncome": 25392,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4cbd896e-1c2b-4aef-abfc-d9d0d8ba8b3e",
+  "PolicyID": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+  "EffectiveDates": {
+    "StartDate": "2025-02-11",
+    "EndDate": "2026-02-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8be26a6-4cb5-4164-b3db-8733f427afd7",
+    "Name": "Courtney Davis",
+    "PolicyNumber": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+    "ContactInformation": {
+      "Phone": "001-379-236-0842x2726",
+      "Email": "nicholas30@example.net",
+      "Address": "670 Lucas Vista Suite 883\nNew Carol, CO 53855"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-13",
+    "Location": "193 Garcia Crossroad\nChrishaven, DC 70111",
+    "Description": "Number trip keep establish alone investment establish. Agree city present. Sit mother trip arm level."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 10119
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 20587
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 83492
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5062
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 162324
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 281584,
+    "TotalApproved": 246189
+  },
+  "AdjusterDetails": {
+    "Name": "Douglas Rice",
+    "ContactInformation": {
+      "Phone": "(941)849-7936x86088",
+      "Email": "webbmichael@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/59e13f38-9dc6-4b94-81dd-46f3c634125d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez, Jenkins and Shaw",
+    "Model": "voice",
+    "Year": 2008,
+    "VIN": "5cb518ca-00a7-41be-bcd3-abd165743f7a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Stokes",
+      "ContactInformation": {
+        "Phone": "(491)357-6865x431",
+        "Email": "jwhite@example.org"
+      },
+      "Statement": "Turn cultural everyone open. Box I protect street field particularly. Well alone eat total audience."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8771dd0b-5b4d-4ef5-addc-2d0cf8921a8a",
+    "OfficerName": "Laura Mccoy",
+    "ReportDetails": "Growth positive opportunity early. Reason politics low west.\nInterest use agent individual growth. Source magazine rate agency few statement."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 339,
+    "AnnualIncome": 46405,
+    "DebtToIncomeRatio": 0.44
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

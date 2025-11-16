@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5fb59c43-f888-43d2-9c98-34c4b95890cb",
+  "PolicyID": "edb39a23-2e22-4016-9361-028155eceec8",
+  "EffectiveDates": {
+    "StartDate": "2025-02-27",
+    "EndDate": "2026-02-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "958f1d81-cf68-405c-ab92-a931c2c577e6",
+    "Name": "Breanna Ewing",
+    "PolicyNumber": "edb39a23-2e22-4016-9361-028155eceec8",
+    "ContactInformation": {
+      "Phone": "+1-935-681-7496",
+      "Email": "jeremystark@example.net",
+      "Address": "52172 Ryan Estate Suite 095\nPort Nathanbury, NY 38761"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-21",
+    "Location": "846 Fitzgerald Brooks\nHowardmouth, GU 37552",
+    "Description": "Kitchen similar standard middle think window.\nScience certain today alone key action open. Business reach improve around executive close. Point music TV discussion nearly crime through."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 62971
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 125180
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8814
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18020
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 26561
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 241546,
+    "TotalApproved": 239004
+  },
+  "AdjusterDetails": {
+    "Name": "Joseph Warren",
+    "ContactInformation": {
+      "Phone": "5272718693",
+      "Email": "wintersphilip@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/3dc36bfe-cef5-4d96-8902-75e1e9e56df7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-01T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Campbell, Harrington and Valencia",
+    "Model": "professional",
+    "Year": 2005,
+    "VIN": "0fc459fc-f987-4358-b10d-3fb664aa6c30"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lisa Dickerson",
+      "ContactInformation": {
+        "Phone": "766-393-8961",
+        "Email": "umadden@example.com"
+      },
+      "Statement": "Daughter likely what but walk it police. Shoulder end according wrong position. Activity condition ground throughout visit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "06ef449f-451c-49f1-80fc-017538b3571b",
+    "OfficerName": "Rachel Leonard",
+    "ReportDetails": "Situation among magazine spring long TV here. Rather claim type country language course last. Shake effort on story go if."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 550,
+    "AnnualIncome": 159464,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b13867fb-82b5-4dc9-8072-c765f219681d",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-07-07",
+    "EndDate": "2026-07-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-06",
+    "Location": "4249 Turner Falls Apt. 633\nLake Tracyville, MI 61714",
+    "Description": "Know look they here day prove that. Really they hotel attack whatever control. Week gun very four too however.\nMove how expect teach. Card develop Democrat single develop."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 179499
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9961
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9809
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 93129
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9973
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 302371,
+    "TotalApproved": 175757
+  },
+  "AdjusterDetails": {
+    "Name": "Benjamin Johnson",
+    "ContactInformation": {
+      "Phone": "882.623.5952x2802",
+      "Email": "cbauer@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/81d04f6d-f3da-44a9-9822-c31c32154a0b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mccarthy, Kaufman and Nichols",
+    "Model": "land",
+    "Year": 2011,
+    "VIN": "9b3622d0-968e-47f0-afb6-6c4ccac9188f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mia Cummings",
+      "ContactInformation": {
+        "Phone": "+1-897-498-3026",
+        "Email": "camachochristopher@example.org"
+      },
+      "Statement": "Last notice late game should story condition degree. Section certain none. Color home meeting operation.\nBehind now tax six fast by against. Give brother together just. Hotel purpose word."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "eff2121c-95db-4255-9e73-fcb3f824f2d5",
+    "OfficerName": "Ronnie Andrews",
+    "ReportDetails": "Social above city particular. Discussion best mouth edge perform seven.\nDaughter prevent different. Activity cause off.\nFive agreement true leader record answer. Just drug draw message care talk."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 829,
+    "AnnualIncome": 82905,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 6,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

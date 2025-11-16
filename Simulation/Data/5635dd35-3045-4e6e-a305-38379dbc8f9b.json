@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5635dd35-3045-4e6e-a305-38379dbc8f9b",
+  "PolicyID": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+  "EffectiveDates": {
+    "StartDate": "2025-02-20",
+    "EndDate": "2026-02-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de2fd98f-92b5-4f00-b791-ce9f514afb15",
+    "Name": "Brandon Scott",
+    "PolicyNumber": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+    "ContactInformation": {
+      "Phone": "001-319-262-8310x0650",
+      "Email": "nelsonemily@example.net",
+      "Address": "0592 Patrick Wall\nLeslieport, IA 75247"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-12",
+    "Location": "435 Adams Stream\nCantrelltown, MN 15503",
+    "Description": "Weight song type want. Quite include war half tend decision site.\nSimply my compare point everybody cost some perhaps. Professional country accept everybody. Throughout have able TV."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 68648
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5598
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3694
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 115036
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19312
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 212288,
+    "TotalApproved": 52987
+  },
+  "AdjusterDetails": {
+    "Name": "James Tucker",
+    "ContactInformation": {
+      "Phone": "+1-237-849-5500x6565",
+      "Email": "monicashaw@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/aec2bc6f-10f7-4dcb-befd-87f129a8e66c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mclaughlin, Thomas and Cochran",
+    "Model": "remember",
+    "Year": 2006,
+    "VIN": "505d38b4-ee62-41a6-94a1-c51d30661460"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lindsey Harding",
+      "ContactInformation": {
+        "Phone": "933-922-9064",
+        "Email": "ywright@example.net"
+      },
+      "Statement": "Produce phone as stuff oil growth. Action probably everyone western most drive. But live game toward loss between pull.\nBox bed too. Choose voice break scientist deal. Single live cut affect change."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9f562c45-8a7c-46ad-afb3-60875429e108",
+    "OfficerName": "Evelyn Harris",
+    "ReportDetails": "Station concern audience. Purpose traditional rise knowledge among maybe door. Major return eat natural citizen theory throw hit.\nLine offer quickly provide."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 681,
+    "AnnualIncome": 153038,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 5,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

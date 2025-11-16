@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c7e22e2b-73b4-440d-a71a-81bf4f327a2b",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-08-19",
+    "EndDate": "2026-08-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-15",
+    "Location": "0933 Rose Mountain\nAshleystad, SC 66641",
+    "Description": "Need second husband mission several both explain. Performance middle guess director score.\nPerson dinner final. Central throughout exist."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10533
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1936
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 68121
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 118919
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 91187
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 290696,
+    "TotalApproved": 46052
+  },
+  "AdjusterDetails": {
+    "Name": "Jose Scott",
+    "ContactInformation": {
+      "Phone": "+1-242-272-9820x9799",
+      "Email": "brooksrobert@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/805692b1-118d-4b30-9631-c871cd50d9fc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis, Ross and Drake",
+    "Model": "marriage",
+    "Year": 2014,
+    "VIN": "931ccac8-533f-413c-91f4-2e14827e4828"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Gallagher MD",
+      "ContactInformation": {
+        "Phone": "218-498-7576",
+        "Email": "davisjanet@example.org"
+      },
+      "Statement": "Third tree foot dark parent owner. Manage card collection there. Age bar article serious determine Congress.\nListen capital on room. American expect former bring drug."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1a2efec9-9235-4cf9-86e4-76d3cb0826b2",
+    "OfficerName": "Alexandra Anderson",
+    "ReportDetails": "Public myself education tough politics pass. Mother maintain need.\nBeyond medical again imagine prepare seem reason. Floor maybe environment one any."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 684,
+    "AnnualIncome": 43868,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

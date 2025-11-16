@@ -1,0 +1,112 @@
+{
+  "ClaimID": "12154366-c0af-4c80-a62a-13d71e61893b",
+  "PolicyID": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+  "EffectiveDates": {
+    "StartDate": "2025-01-09",
+    "EndDate": "2026-01-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "342b380f-5b25-4a6f-a462-2fa1c3057fc2",
+    "Name": "Kayla Wilson",
+    "PolicyNumber": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+    "ContactInformation": {
+      "Phone": "432-340-1587",
+      "Email": "jonathan54@example.com",
+      "Address": "25321 Lopez Stream\nPort Amandaside, MT 41311"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-20",
+    "Location": "3135 Gonzalez Junctions\nGreerchester, KS 78504",
+    "Description": "Bit child something home. Western everything bank phone.\nTable month suggest live cell. Onto reduce young produce upon hotel able red. Marriage rich page."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 34702
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 75337
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 63075
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15354
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3511
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 191979,
+    "TotalApproved": 126598
+  },
+  "AdjusterDetails": {
+    "Name": "Evan Brooks",
+    "ContactInformation": {
+      "Phone": "001-903-771-8533x3503",
+      "Email": "ssavage@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/e4d0e614-d78b-4d9d-9685-c7864d796241"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Grant PLC",
+    "Model": "yard",
+    "Year": 2000,
+    "VIN": "a6eee12d-3f43-4d77-95e2-9308eac09d14"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Timothy Campbell",
+      "ContactInformation": {
+        "Phone": "229.688.9331x819",
+        "Email": "susan41@example.com"
+      },
+      "Statement": "Hot buy six. Throw training region year position.\nSeem technology practice alone article dinner. Not song outside entire station nothing. Great evening successful others still field."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9c6f5500-3bee-4584-9818-eddccf7692f6",
+    "OfficerName": "Louis Conrad",
+    "ReportDetails": "Across there shake environment. Run however car hundred free prevent produce child.\nMyself door must change prove stay seven. Significant media business than. Perform front happy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 822,
+    "AnnualIncome": 24185,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

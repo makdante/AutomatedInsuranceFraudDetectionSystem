@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c0b16e78-db9d-47e8-9c77-05deb7b3256c",
+  "PolicyID": "615dd311-61f1-4d66-9081-93d8b1a30832",
+  "EffectiveDates": {
+    "StartDate": "2025-04-22",
+    "EndDate": "2026-04-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "413855ef-2e2d-4b8e-b2fc-330be891114b",
+    "Name": "Amy Barnes",
+    "PolicyNumber": "615dd311-61f1-4d66-9081-93d8b1a30832",
+    "ContactInformation": {
+      "Phone": "(281)531-1709x697",
+      "Email": "monicacarroll@example.org",
+      "Address": "2310 Leslie Drive Suite 947\nSimsbury, VI 28289"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-03",
+    "Location": "Unit 5084 Box 4116\nDPO AA 95095",
+    "Description": "After college edge city. Too police buy wonder kitchen.\nMessage those activity blue camera hit surface. Audience continue threat stay. Peace world more wind teach."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4986
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 129045
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 70413
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11576
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8676
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 224696,
+    "TotalApproved": 31921
+  },
+  "AdjusterDetails": {
+    "Name": "Monica Davis",
+    "ContactInformation": {
+      "Phone": "973-242-0111",
+      "Email": "pchang@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e10e8c42-cb12-421f-ae45-aeff0cf8ad27"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Walker-Alvarado",
+    "Model": "some",
+    "Year": 2012,
+    "VIN": "ca7cbe68-75a2-4e3a-a1e4-4bfab48e905f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Gonzalez",
+      "ContactInformation": {
+        "Phone": "001-432-993-2607x760",
+        "Email": "tdelacruz@example.org"
+      },
+      "Statement": "Likely ground science claim. Might study structure maybe.\nSea into PM from physical. Style choice relate less least. However style appear huge."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "96c74435-c57c-474a-adf7-5e1ce57925ba",
+    "OfficerName": "Patrick Mccarty",
+    "ReportDetails": "Same around often hundred. Believe religious animal authority you owner degree. Eat while attorney until though.\nWhile care message open force much many. Voice off job international tree nice."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 362,
+    "AnnualIncome": 179019,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

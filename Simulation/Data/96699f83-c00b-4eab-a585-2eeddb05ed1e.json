@@ -1,0 +1,112 @@
+{
+  "ClaimID": "96699f83-c00b-4eab-a585-2eeddb05ed1e",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-02-23",
+    "EndDate": "2026-02-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-25",
+    "Location": "52734 Potter Ford Suite 284\nWest Codyside, HI 46472",
+    "Description": "Right low my model. Strong our similar discuss.\nFull service officer off focus bar. Little safe Mrs effort billion. Return along factor happy instead."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 94328
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 30690
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 90020
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 82230
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 43334
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 340602,
+    "TotalApproved": 149625
+  },
+  "AdjusterDetails": {
+    "Name": "Kyle Moss",
+    "ContactInformation": {
+      "Phone": "391.543.5023x13373",
+      "Email": "cacosta@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/1fd6a1d4-f80b-40d4-9bc9-d9bd518a2e15"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mcgee PLC",
+    "Model": "today",
+    "Year": 2006,
+    "VIN": "b32595ef-7ad0-4205-80c2-6c43ecbb3781"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dawn Rodriguez",
+      "ContactInformation": {
+        "Phone": "+1-382-831-1980x84688",
+        "Email": "copelandholly@example.org"
+      },
+      "Statement": "Information small forward camera. Point yourself so oil. Actually authority movement.\nFood easy hot enough speak prevent. Number himself you police. Situation table within indicate happy memory."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f1fc791b-62c6-4307-8b7c-3fb42dbbefa8",
+    "OfficerName": "Michael Jones",
+    "ReportDetails": "Many personal customer front land pressure possible. View style buy surface compare strong those. Him should traditional already suggest economy. Nothing set rest reveal save."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 667,
+    "AnnualIncome": 160044,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

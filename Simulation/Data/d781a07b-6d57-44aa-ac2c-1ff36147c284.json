@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d781a07b-6d57-44aa-ac2c-1ff36147c284",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-08-06",
+    "EndDate": "2026-08-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-20",
+    "Location": "53951 Michael Ferry Suite 038\nJonesbury, CO 43892",
+    "Description": "Turn final strong establish from soon.\nProject resource stay action smile trial. Bill civil drug. He force respond son represent among center."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4407
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14405
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5323
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3751
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9095
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 36981,
+    "TotalApproved": 32760
+  },
+  "AdjusterDetails": {
+    "Name": "Andrew Meyer",
+    "ContactInformation": {
+      "Phone": "584-670-8651",
+      "Email": "cschneider@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/fcf032dd-8507-4448-b51b-59e197c4d250"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-20T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-25T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-02T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garrison and Sons",
+    "Model": "wall",
+    "Year": 2009,
+    "VIN": "b06ef22a-513f-476d-b0e0-254fe911877f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Rodriguez",
+      "ContactInformation": {
+        "Phone": "+1-539-561-2777x5588",
+        "Email": "ymccoy@example.net"
+      },
+      "Statement": "Join particularly enter. Both example summer.\nRole set last. Ten thought executive these join. Society reason by.\nCampaign really several wonder base. Nation strategy look imagine tree smile."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e69e39ad-76f8-44c1-ab0f-46c9133bf635",
+    "OfficerName": "Benjamin Mcintosh",
+    "ReportDetails": "Amount attack property former growth class.\nUnderstand have might either scientist thousand shoulder. Reveal effort consumer thousand more read debate enough."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 661,
+    "AnnualIncome": 80153,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

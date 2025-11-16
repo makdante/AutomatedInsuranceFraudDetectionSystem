@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f6da274f-88da-4f8b-b484-83c7543d55c7",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-09-27",
+    "EndDate": "2026-09-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-19",
+    "Location": "936 Trevor Point\nHicksmouth, RI 44681",
+    "Description": "Like cell appear hear suggest also. Fund team important activity simple situation.\nSerious effort million product away forward necessary. Friend PM article marriage laugh game."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 83955
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 99558
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12400
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 28862
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1748
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 226523,
+    "TotalApproved": 178009
+  },
+  "AdjusterDetails": {
+    "Name": "April Jones",
+    "ContactInformation": {
+      "Phone": "979-972-4258",
+      "Email": "moranchristine@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/586c1c03-57e4-4574-b774-ba5fe0230413"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-09-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Schneider Ltd",
+    "Model": "lose",
+    "Year": 2013,
+    "VIN": "764cc4f2-93cf-48da-a48f-4474f21514f0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kyle Hooper",
+      "ContactInformation": {
+        "Phone": "(779)608-2250x58218",
+        "Email": "melissacoleman@example.com"
+      },
+      "Statement": "Recognize bag theory. Such claim simply.\nParent friend town either day call. See civil career successful contain just. Manage improve maintain environment staff skill black."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "35cb5ea4-98d6-4b3c-8c3a-3de4ec81becc",
+    "OfficerName": "Cheryl Dixon",
+    "ReportDetails": "White new with recently hospital able personal. Technology into side government concern eight accept above."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 313,
+    "AnnualIncome": 176326,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

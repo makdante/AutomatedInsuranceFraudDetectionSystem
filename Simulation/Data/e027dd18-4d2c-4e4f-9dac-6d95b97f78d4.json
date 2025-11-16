@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e027dd18-4d2c-4e4f-9dac-6d95b97f78d4",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-07-30",
+    "EndDate": "2026-07-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-02",
+    "Location": "12434 Payne Shoal\nWarnermouth, NC 13842",
+    "Description": "Feel draw no process. Spring new effort wish machine perhaps happen pattern.\nRun on certainly threat conference. Hundred church store final public high country."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 57439
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 86470
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 34812
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 24397
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 59123
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 262241,
+    "TotalApproved": 75748
+  },
+  "AdjusterDetails": {
+    "Name": "Brooke Castillo",
+    "ContactInformation": {
+      "Phone": "846.344.7825x13787",
+      "Email": "ifox@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1f48c4fd-bf89-42a8-a6b0-dd8dd9dd90a2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Riley, Miller and Martin",
+    "Model": "military",
+    "Year": 2009,
+    "VIN": "8da3015d-84f8-4622-a03b-eaaa389392e3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Deborah James",
+      "ContactInformation": {
+        "Phone": "8754711719",
+        "Email": "brandon11@example.net"
+      },
+      "Statement": "Ready list leader political wife soon avoid. Condition word toward just thought cultural.\nPresent produce need bit degree seven. Half listen offer.\nSeat care just decade just."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "705e7510-fce4-4a9d-9bcf-6573e79638c9",
+    "OfficerName": "Sarah Conway",
+    "ReportDetails": "Single window cover brother. Laugh recent until deep myself which her others.\nMaybe single president set view."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 575,
+    "AnnualIncome": 39324,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 8,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

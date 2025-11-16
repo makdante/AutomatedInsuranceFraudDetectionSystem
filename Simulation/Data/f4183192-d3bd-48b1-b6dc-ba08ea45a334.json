@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f4183192-d3bd-48b1-b6dc-ba08ea45a334",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-02-21",
+    "EndDate": "2026-02-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-26",
+    "Location": "2014 Nathan Springs\nWest Christopher, CT 26579",
+    "Description": "Subject site article authority mother station. Material understand ability red whom go. Down describe hold wear paper onto else."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 96014
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13171
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 111754
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7360
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6121
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 234420,
+    "TotalApproved": 34037
+  },
+  "AdjusterDetails": {
+    "Name": "Timothy Rowe",
+    "ContactInformation": {
+      "Phone": "(452)720-4269x20477",
+      "Email": "dhart@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/f50df991-51b9-43b5-b61a-3c3fd63e077c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hampton-Moore",
+    "Model": "huge",
+    "Year": 2017,
+    "VIN": "71c4961a-95a8-45fe-b5d8-01e0cbd91344"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erica Phillips",
+      "ContactInformation": {
+        "Phone": "001-901-613-9499x159",
+        "Email": "zjohnson@example.net"
+      },
+      "Statement": "Have knowledge already color everyone physical. Subject visit movie responsibility.\nService theory huge player. Cost drop lot major four."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f3bb95a0-8af0-4251-81b4-b4eea16465f7",
+    "OfficerName": "Andrew Goodwin",
+    "ReportDetails": "Cultural simple total. Project laugh power far long change region. Choice own no daughter.\nCold institution just art democratic market student. Region option chair small."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 494,
+    "AnnualIncome": 20519,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 7,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

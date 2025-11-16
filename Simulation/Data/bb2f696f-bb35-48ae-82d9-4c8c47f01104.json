@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bb2f696f-bb35-48ae-82d9-4c8c47f01104",
+  "PolicyID": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+  "EffectiveDates": {
+    "StartDate": "2025-10-20",
+    "EndDate": "2026-10-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ac5a31ca-3bdd-4c10-bf6a-ce868133ec66",
+    "Name": "James Gilbert",
+    "PolicyNumber": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+    "ContactInformation": {
+      "Phone": "2675986394",
+      "Email": "lmontes@example.org",
+      "Address": "52161 Young Shoals Suite 547\nStevenberg, MT 96015"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-14",
+    "Location": "684 Allen Mount Suite 883\nWarrenside, UT 28180",
+    "Description": "Response key pick question issue letter word. Much painting person successful probably message.\nThis family friend soon six three. Local read born our general work choose land."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19287
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 112876
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15969
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3127
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1468
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 152727,
+    "TotalApproved": 126202
+  },
+  "AdjusterDetails": {
+    "Name": "Mrs. Sandra Murray",
+    "ContactInformation": {
+      "Phone": "(563)224-8078x7991",
+      "Email": "brian83@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/148fdfb5-0360-4dd3-8d23-ced785acfc9f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sutton, Cooper and Pace",
+    "Model": "we",
+    "Year": 2009,
+    "VIN": "fffb6f82-5d6a-4bc2-8c09-4c806d2dd0a6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Moss",
+      "ContactInformation": {
+        "Phone": "001-942-721-7907",
+        "Email": "umiller@example.com"
+      },
+      "Statement": "Message remain body phone street be fish. When follow religious keep risk drop. Mention politics owner beautiful give tree."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d27f7691-9777-4289-acc8-f6a038e61c03",
+    "OfficerName": "Angela Evans",
+    "ReportDetails": "Everything hold cut threat budget notice. Education red huge down.\nCentury administration conference dream in wide executive. Collection allow grow mouth. College ahead visit best."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 489,
+    "AnnualIncome": 194253,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

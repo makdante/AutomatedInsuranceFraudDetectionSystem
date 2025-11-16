@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ab982ecb-bbc9-46a1-8dcd-931fe2dc4d09",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-05-04",
+    "EndDate": "2026-05-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-04",
+    "Location": "225 Washington Gateway\nSouth Karlberg, DE 80307",
+    "Description": "Wide yourself fast resource per. Issue around able wear finish.\nBusiness fast for industry shoulder focus instead. Room price such him pick that set film. Large yet work attention mouth."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 27554
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9567
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6556
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13077
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 84985
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 141739,
+    "TotalApproved": 76105
+  },
+  "AdjusterDetails": {
+    "Name": "Erica Pierce",
+    "ContactInformation": {
+      "Phone": "4193636495",
+      "Email": "bmiller@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/11e09396-37cb-43ae-aae2-c44f124086b2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Olson-Hughes",
+    "Model": "painting",
+    "Year": 2009,
+    "VIN": "4e1d83fd-ff56-4266-a416-0e586d753a63"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joseph Morales",
+      "ContactInformation": {
+        "Phone": "214-766-8539x0889",
+        "Email": "tholland@example.com"
+      },
+      "Statement": "Item rule life national pick account woman traditional. Least improve PM next.\nGroup charge site interesting. Hope lose rate reveal price."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "06580f9b-48da-4c7b-a5cf-2d2ffb4debdb",
+    "OfficerName": "Kevin Burton",
+    "ReportDetails": "Address indeed do thing major. One degree write home return speech hand. Feel wait ten cut yes figure political great.\nOut stage talk individual accept."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 323,
+    "AnnualIncome": 163796,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 8,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

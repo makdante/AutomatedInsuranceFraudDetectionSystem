@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d27be671-b89d-438a-9e43-97e13b92ac0f",
+  "PolicyID": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+  "EffectiveDates": {
+    "StartDate": "2025-03-03",
+    "EndDate": "2026-03-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3cd8543c-a7fa-4fd5-96b8-321382511c44",
+    "Name": "Darryl Leonard",
+    "PolicyNumber": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+    "ContactInformation": {
+      "Phone": "342-367-2937",
+      "Email": "bmejia@example.net",
+      "Address": "429 Kimberly Landing\nClayburgh, AZ 73702"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-21",
+    "Location": "PSC 5718, Box 4963\nAPO AP 49518",
+    "Description": "Most chance place wrong. Create should little return huge technology. Answer foreign knowledge."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4119621
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4109599
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4832492
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4439951
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4157442
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 21659105,
+    "TotalApproved": 21494065
+  },
+  "AdjusterDetails": {
+    "Name": "Heather Graves",
+    "ContactInformation": {
+      "Phone": "(790)567-4380",
+      "Email": "jacquelineking@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/584ed4ae-0796-47aa-a59c-abdd1a5e74ba"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-01T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Santos, Wilson and Hatfield",
+    "Model": "get",
+    "Year": 2011,
+    "VIN": "3f7b69d9-06df-47d1-ad0b-e67d8caeaa08"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Parsons",
+      "ContactInformation": {
+        "Phone": "(610)291-4105x70542",
+        "Email": "rachaeladkins@example.net"
+      },
+      "Statement": "Head floor drop almost course structure. Hospital something in oil. Set three win situation place lose point line."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "619fe825-dfb4-41dc-8354-b391d4d3bbd9",
+    "OfficerName": "Beverly Brown",
+    "ReportDetails": "Realize I watch red seven where. Gun trial tree power moment. Staff moment someone degree.\nAction occur standard art lot. Create second example together guy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 424,
+    "AnnualIncome": 168594,
+    "DebtToIncomeRatio": 0.81
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

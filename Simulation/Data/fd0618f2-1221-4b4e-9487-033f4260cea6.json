@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fd0618f2-1221-4b4e-9487-033f4260cea6",
+  "PolicyID": "f56b721d-77fb-4659-8280-faefc114b152",
+  "EffectiveDates": {
+    "StartDate": "2024-11-09",
+    "EndDate": "2025-11-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "9df24105-b696-442a-969e-d25b0cebdfb9",
+    "Name": "Jonathan Santos",
+    "PolicyNumber": "f56b721d-77fb-4659-8280-faefc114b152",
+    "ContactInformation": {
+      "Phone": "001-871-292-7838x249",
+      "Email": "bneal@example.org",
+      "Address": "46543 Jamie Burg Suite 969\nSarahfort, VI 92099"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-06",
+    "Location": "229 Ayala Hills\nRogersbury, ID 63547",
+    "Description": "Pattern along total leave man. Build thing four girl. School too whom remain other.\nMay paper treatment behavior.\nChance evidence condition perform represent during."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4778212
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4951170
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4586825
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4789179
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4080248
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 23185634,
+    "TotalApproved": 1935018
+  },
+  "AdjusterDetails": {
+    "Name": "Angela Vasquez",
+    "ContactInformation": {
+      "Phone": "393-861-5328",
+      "Email": "smithmanuel@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1793a9b3-de03-4fba-b38e-c0ab0ff5dcfe"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stanley-Potter",
+    "Model": "PM",
+    "Year": 2013,
+    "VIN": "cce1fc65-359e-4a51-ab2b-d596cb7c98c4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Anderson",
+      "ContactInformation": {
+        "Phone": "726-216-8169x1357",
+        "Email": "gilbertheather@example.com"
+      },
+      "Statement": "Summer charge authority keep data. Great someone science catch late son.\nSummer radio small shake onto. Add class grow truth event. Talk answer hot though."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "73c4b3d4-7bf9-4a7b-9ef3-6b292e82585a",
+    "OfficerName": "Travis Sawyer",
+    "ReportDetails": "Able father professional loss care tend. Customer interview start music. Myself somebody happy summer chair exist.\nCrime act who this theory."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 361,
+    "AnnualIncome": 116406,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

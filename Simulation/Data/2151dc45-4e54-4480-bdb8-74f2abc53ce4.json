@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2151dc45-4e54-4480-bdb8-74f2abc53ce4",
+  "PolicyID": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+  "EffectiveDates": {
+    "StartDate": "2025-03-01",
+    "EndDate": "2026-03-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0aea6355-ec93-4670-9d1f-368e59077bd4",
+    "Name": "Jennifer Smith",
+    "PolicyNumber": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+    "ContactInformation": {
+      "Phone": "(638)899-2687x626",
+      "Email": "barrvanessa@example.com",
+      "Address": "PSC 0173, Box 9250\nAPO AA 43354"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-01",
+    "Location": "885 Mccoy Trail\nWest Cole, PR 42873",
+    "Description": "Box voice car feeling how something should light. Require adult firm wonder service.\nWorld easy entire could popular. Task fire win."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 39159
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 110869
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27961
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7807
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 43486
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 229282,
+    "TotalApproved": 201558
+  },
+  "AdjusterDetails": {
+    "Name": "Gregory Adams",
+    "ContactInformation": {
+      "Phone": "001-555-392-8837x17314",
+      "Email": "dmorgan@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/6942428e-babe-4fd8-b1d3-73c79d9bd8c4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jacobs-Price",
+    "Model": "rate",
+    "Year": 2022,
+    "VIN": "1479d663-a309-437c-a5e8-2b75ce570696"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sandra Romero",
+      "ContactInformation": {
+        "Phone": "265.801.0221x9579",
+        "Email": "sthompson@example.com"
+      },
+      "Statement": "Congress decade heart star personal spring now. We expect term fish. Need spend maybe still wait offer determine baby. Program feel year them despite agreement teach."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1e4e4637-d21e-4f9d-af28-e183a72ff1b5",
+    "OfficerName": "Frances Campbell",
+    "ReportDetails": "Language role citizen almost. Marriage budget north economic act recently because. Black claim beyond other most."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 346,
+    "AnnualIncome": 50152,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

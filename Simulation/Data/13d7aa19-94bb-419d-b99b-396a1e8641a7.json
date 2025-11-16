@@ -1,0 +1,112 @@
+{
+  "ClaimID": "13d7aa19-94bb-419d-b99b-396a1e8641a7",
+  "PolicyID": "be1a056e-41f2-4711-a855-46173d7d2368",
+  "EffectiveDates": {
+    "StartDate": "2025-04-02",
+    "EndDate": "2026-04-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a46d411e-9ab9-4ed4-914f-2da09d0b8a29",
+    "Name": "Christopher Shaw",
+    "PolicyNumber": "be1a056e-41f2-4711-a855-46173d7d2368",
+    "ContactInformation": {
+      "Phone": "407.948.6080x1895",
+      "Email": "thomaswatson@example.com",
+      "Address": "27329 Dean Locks Suite 317\nLake Jasonhaven, WY 37967"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-30",
+    "Location": "6540 Tracy Ports Suite 689\nLake Miketown, MS 21551",
+    "Description": "Organization across somebody manage personal single. General program newspaper office newspaper. Institution political after international step floor anything."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 54887
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 41943
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14274
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19940
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 45153
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 176197,
+    "TotalApproved": 107725
+  },
+  "AdjusterDetails": {
+    "Name": "Patrick Williams",
+    "ContactInformation": {
+      "Phone": "(266)979-1408x57987",
+      "Email": "mitchelldeanna@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/d7f6ea56-97c7-4d43-9fde-14bcebebe50b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cohen LLC",
+    "Model": "will",
+    "Year": 2022,
+    "VIN": "e1de2125-7712-48d3-abdc-083b19271733"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tina Anderson",
+      "ContactInformation": {
+        "Phone": "375-657-1257",
+        "Email": "schwartztroy@example.org"
+      },
+      "Statement": "Represent manager order wife reveal rest usually. Key owner let news. Shake this poor score.\nRecord rise break century president. Nice from number admit establish card short."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "97c43167-e17d-43b8-b554-3d616536651b",
+    "OfficerName": "Lawrence Watkins",
+    "ReportDetails": "Center quality a product among finally open.\nFrom site authority. Start his view fast boy. What wear win seem remember."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 666,
+    "AnnualIncome": 64192,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

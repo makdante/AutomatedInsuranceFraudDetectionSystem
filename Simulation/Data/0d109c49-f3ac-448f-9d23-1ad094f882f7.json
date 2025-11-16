@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0d109c49-f3ac-448f-9d23-1ad094f882f7",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2025-04-13",
+    "EndDate": "2026-04-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-09",
+    "Location": "15005 Bailey Alley\nMichaelhaven, DE 06118",
+    "Description": "Say although agree which summer week. Remain Mrs place system your force face.\nEven their despite amount material so. Record address treatment situation before threat sister."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4051
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16190
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 31164
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10812
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1487
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 63704,
+    "TotalApproved": 48848
+  },
+  "AdjusterDetails": {
+    "Name": "Allison Smith",
+    "ContactInformation": {
+      "Phone": "(874)374-1937",
+      "Email": "jenny66@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e7c83bac-6967-41ab-aa12-6d93e8079031"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garcia Group",
+    "Model": "news",
+    "Year": 2019,
+    "VIN": "d1e4713a-f917-4f9a-ab09-101744d5ea5f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kenneth Chen",
+      "ContactInformation": {
+        "Phone": "001-823-890-5104x856",
+        "Email": "hendersonandrew@example.com"
+      },
+      "Statement": "Other thing woman development consumer president provide. Call finally outside catch our.\nVery few entire event join culture. Return end election majority just budget trial."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "aedcf29f-3930-4b35-bbf4-412f7f651b91",
+    "OfficerName": "Amber Sanchez",
+    "ReportDetails": "After space attention gas. Republican break opportunity message bank. Side type course relate improve.\nMission eight everybody because world six. Card investment cut movie."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 403,
+    "AnnualIncome": 176606,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 5,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

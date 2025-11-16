@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0066e14c-d49c-47ef-8abb-e55b7c0be7b6",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-01-30",
+    "EndDate": "2026-01-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-18",
+    "Location": "4403 Christopher Village Apt. 981\nNorth Robertchester, MI 40653",
+    "Description": "Strong water whatever court medical imagine player. Friend along fear result parent. Exactly arm rock couple material.\nDegree allow order against control item dream. Effect drop population capital."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15551
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5156
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8698
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 21303
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 33990
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 84698,
+    "TotalApproved": 65069
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Snyder",
+    "ContactInformation": {
+      "Phone": "(731)690-6995x8025",
+      "Email": "richmondjennifer@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ea9af86b-641f-4dfc-8044-82bc6a60406c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lindsey-Robinson",
+    "Model": "professional",
+    "Year": 2014,
+    "VIN": "12d27bc5-da7f-4158-9336-68e3f970a9b8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christine Robertson",
+      "ContactInformation": {
+        "Phone": "+1-317-378-5903x100",
+        "Email": "gracewright@example.org"
+      },
+      "Statement": "Region leg act them situation understand nation avoid. Enter determine study wife throw.\nCourse agreement attorney challenge everything Republican. Note ago break travel. Sense easy wait."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "385aaa26-ecf4-4f62-b9c5-a43a1ddd10f3",
+    "OfficerName": "Christina Baker",
+    "ReportDetails": "Most population piece everyone report middle peace. Operation as fact agent away. Take include fight project against.\nSea manage for argue mention. Month support music."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 499,
+    "AnnualIncome": 58670,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b9b02309-b938-4b10-a49d-046b59552109",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-03-07",
+    "EndDate": "2026-03-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-21",
+    "Location": "8562 Thomas Manors Suite 601\nJordanchester, IN 79163",
+    "Description": "Join some run strategy allow choose stock family. With bag risk move easy cold citizen.\nAround they both low within director affect. American yard news relate. Ability consider which follow."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4588998
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4524345
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4254891
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4493331
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4564251
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22425816,
+    "TotalApproved": 3400833
+  },
+  "AdjusterDetails": {
+    "Name": "Bryan Riley",
+    "ContactInformation": {
+      "Phone": "+1-869-873-3871",
+      "Email": "nancybowen@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/3d73a7b3-5180-4f16-bb80-b25b4e631694"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lee, Allen and Cervantes",
+    "Model": "school",
+    "Year": 2018,
+    "VIN": "21701e2a-58c5-4253-a302-f4a813e46a05"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cassandra Jennings",
+      "ContactInformation": {
+        "Phone": "001-872-906-4885x4991",
+        "Email": "tracynichols@example.net"
+      },
+      "Statement": "Religious history seem address when it language quickly.\nLine national mission. May each ability network.\nRate pass it late court someone ready. Happen camera rich act success must area."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a535c13e-74d5-46c9-8432-e6a04f66b1c9",
+    "OfficerName": "Cory Leach",
+    "ReportDetails": "Identify bar question maintain area floor. Require work teacher middle claim example.\nTrue so lot. Early popular deal say this class back. Explain him along decide detail however keep."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 477,
+    "AnnualIncome": 84264,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

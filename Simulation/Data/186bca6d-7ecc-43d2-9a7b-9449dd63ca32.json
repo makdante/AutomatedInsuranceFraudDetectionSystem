@@ -1,0 +1,112 @@
+{
+  "ClaimID": "186bca6d-7ecc-43d2-9a7b-9449dd63ca32",
+  "PolicyID": "615dd311-61f1-4d66-9081-93d8b1a30832",
+  "EffectiveDates": {
+    "StartDate": "2025-09-18",
+    "EndDate": "2026-09-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "413855ef-2e2d-4b8e-b2fc-330be891114b",
+    "Name": "Amy Barnes",
+    "PolicyNumber": "615dd311-61f1-4d66-9081-93d8b1a30832",
+    "ContactInformation": {
+      "Phone": "(281)531-1709x697",
+      "Email": "monicacarroll@example.org",
+      "Address": "2310 Leslie Drive Suite 947\nSimsbury, VI 28289"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-09",
+    "Location": "93955 Hughes Pike\nNew Lisaland, NE 69478",
+    "Description": "Person experience heavy result. Follow place page southern. Probably spend this price.\nOn present man for none president catch. Spring travel after artist. Stay color guess road water rate many."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 29837
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2140
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2378
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3389
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5432
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 43176,
+    "TotalApproved": 1662
+  },
+  "AdjusterDetails": {
+    "Name": "Allison Harris",
+    "ContactInformation": {
+      "Phone": "+1-357-801-3023x299",
+      "Email": "dave62@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/aeca113f-9dcb-405f-838d-e201ce02bc6c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis LLC",
+    "Model": "late",
+    "Year": 2017,
+    "VIN": "e45dd72f-2f19-4767-a1f1-23a6afb48739"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ian Campbell",
+      "ContactInformation": {
+        "Phone": "(955)436-2898x8214",
+        "Email": "pamelabrowning@example.org"
+      },
+      "Statement": "Majority nice western kid reflect such wall. Them character production enjoy number history.\nThing several even before fill can hair. Expert real both although behavior."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ec404602-fd00-4975-a83a-e954b7f9ae7c",
+    "OfficerName": "Jeremy Gutierrez",
+    "ReportDetails": "Face walk where author. They seek game economic someone continue.\nTax deal oil lawyer politics whose social he. Talk necessary put new environmental."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 766,
+    "AnnualIncome": 144488,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

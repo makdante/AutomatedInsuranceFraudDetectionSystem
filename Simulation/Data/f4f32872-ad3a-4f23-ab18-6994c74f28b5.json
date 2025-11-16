@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f4f32872-ad3a-4f23-ab18-6994c74f28b5",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2024-12-30",
+    "EndDate": "2025-12-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-07",
+    "Location": "229 Evelyn Well\nEast Amberside, OH 83321",
+    "Description": "Get could address agency information. Anyone green college early others.\nArtist chance recognize catch help. Cost foreign voice remain have life everything war. Order word always."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 174174
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 92798
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13322
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5841
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8659
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 294794,
+    "TotalApproved": 87115
+  },
+  "AdjusterDetails": {
+    "Name": "Tyler Moore",
+    "ContactInformation": {
+      "Phone": "(248)435-4392x355",
+      "Email": "billyunderwood@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/b44ce5ef-8cc6-4368-a878-1f114963327a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Aguilar and Sons",
+    "Model": "individual",
+    "Year": 2004,
+    "VIN": "525023c0-2609-4ed6-b529-39c12bb32a22"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Victoria Davenport",
+      "ContactInformation": {
+        "Phone": "548.553.4144x318",
+        "Email": "tracy40@example.com"
+      },
+      "Statement": "Loss evening whom coach affect seat food. His term conference. Rule yet style blood someone cause.\nPass anything next party."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0c4277e7-2b16-46f3-9769-d70f2802cb52",
+    "OfficerName": "Jeanne Martinez",
+    "ReportDetails": "Through law number me. Than sometimes clearly rest report right act voice. Hard out ok force change forget would."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 682,
+    "AnnualIncome": 65995,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

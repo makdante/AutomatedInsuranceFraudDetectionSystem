@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4ec9b1f3-0b81-4294-a8b0-baf5a8f3b67a",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-03-06",
+    "EndDate": "2026-03-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-14",
+    "Location": "3714 Justin Skyway\nEast John, NM 26006",
+    "Description": "Soldier rather prove price arrive down. War often down will.\nAppear minute than good. Station measure recognize anything admit rest. Media down line crime tell bit alone."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 39481
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 69476
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12747
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 68803
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 52527
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 243034,
+    "TotalApproved": 109667
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Horn",
+    "ContactInformation": {
+      "Phone": "409.792.7154x0764",
+      "Email": "tannergarcia@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/7155470a-3a14-470a-bb02-7f7bf18ca178"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Delgado-Wells",
+    "Model": "catch",
+    "Year": 2017,
+    "VIN": "6d384f19-6ac3-44a8-bb88-d3a4236f5b64"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joshua Chapman",
+      "ContactInformation": {
+        "Phone": "001-367-323-3789x16244",
+        "Email": "sfrazier@example.net"
+      },
+      "Statement": "Must wind friend. Think forward another fact maybe.\nBill successful wide author service smile. Management thus administration form night."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "68e1c61a-ae71-4a80-bb6e-a1fbcff14b63",
+    "OfficerName": "Alex Castaneda",
+    "ReportDetails": "Song bar human western book. Simple do their describe view. Tax although sell but join special security."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 458,
+    "AnnualIncome": 77552,
+    "DebtToIncomeRatio": 0.22
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 6,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5de5ed33-ff95-4ec9-ad61-721b85e7cb35",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2025-09-13",
+    "EndDate": "2026-09-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-31",
+    "Location": "664 Christina Parks\nWest Lisatown, MA 56311",
+    "Description": "If worry possible as minute rich.\nWant peace development wish bar attorney. Visit front some probably budget economy science pretty. Amount answer speak before once commercial."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7697
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 78460
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 44924
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 78677
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 46075
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 255833,
+    "TotalApproved": 19026
+  },
+  "AdjusterDetails": {
+    "Name": "Katherine Kennedy",
+    "ContactInformation": {
+      "Phone": "+1-951-851-2196x354",
+      "Email": "cfaulkner@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/cca22c70-c836-4418-a2ff-c482ceee758e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Kaiser, Boyd and Riddle",
+    "Model": "finally",
+    "Year": 2001,
+    "VIN": "463540ca-a357-4ff5-ae0f-d7beb543bc1e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Melissa Herring",
+      "ContactInformation": {
+        "Phone": "321-482-5961",
+        "Email": "ihernandez@example.org"
+      },
+      "Statement": "Sell listen or language money suggest name.\nCost wish within. White officer commercial too take assume.\nHer case develop college true factor."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3e447630-92f9-4f84-bff6-25a1adc3d204",
+    "OfficerName": "Katherine Jimenez",
+    "ReportDetails": "Ask explain music area although.\nUs show structure red chance term. Decade plan public process action watch wrong one. Near during though team."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 585,
+    "AnnualIncome": 71484,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6e645610-cc59-4bd3-bb7f-48ad20aec38a",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-06-24",
+    "EndDate": "2026-06-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-30",
+    "Location": "81442 Martin Green\nJustinshire, MT 83022",
+    "Description": "Sister few rather safe clear.\nNation foot prepare again represent nation. Able reflect war major ready."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 26357
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 33304
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18173
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9507
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 125061
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 212402,
+    "TotalApproved": 86532
+  },
+  "AdjusterDetails": {
+    "Name": "Andrew Rojas",
+    "ContactInformation": {
+      "Phone": "(486)376-3851x790",
+      "Email": "scott32@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a0a6884c-219c-41eb-b1e9-01c5f07efa1d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Freeman-Brown",
+    "Model": "model",
+    "Year": 2019,
+    "VIN": "d70dd83e-4f7a-4c5e-ba67-c87ffaac0e69"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samantha Dunn",
+      "ContactInformation": {
+        "Phone": "+1-290-966-2438x808",
+        "Email": "williamsjonathan@example.com"
+      },
+      "Statement": "Less its major Democrat image every. Turn month recently mention main respond system.\nLight drug similar sort activity recent. Bill figure challenge hope. Fire structure me machine improve sure."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "36a23ef6-d04b-4c4a-9a0f-77d91406176b",
+    "OfficerName": "Jonathan Camacho",
+    "ReportDetails": "Huge nation sense seem five last. Window year top could economic leg record. Shoulder real no father total. Situation six president quite."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 768,
+    "AnnualIncome": 159178,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

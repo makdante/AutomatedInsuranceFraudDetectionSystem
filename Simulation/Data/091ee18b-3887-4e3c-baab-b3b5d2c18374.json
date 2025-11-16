@@ -1,0 +1,112 @@
+{
+  "ClaimID": "091ee18b-3887-4e3c-baab-b3b5d2c18374",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-03-29",
+    "EndDate": "2026-03-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-28",
+    "Location": "664 Alicia Roads Apt. 489\nKellerland, CT 63549",
+    "Description": "Right heart language against method. Ever senior analysis management than wait my.\nOrganization himself half. News offer event prepare. Miss likely need church generation near try."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3513
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 60025
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14514
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 94114
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1103
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 173269,
+    "TotalApproved": 57264
+  },
+  "AdjusterDetails": {
+    "Name": "Teresa Garcia",
+    "ContactInformation": {
+      "Phone": "(396)632-1401",
+      "Email": "nguyenjoseph@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/9ca8aa62-e591-4e03-a891-b11077c61027"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wagner Inc",
+    "Model": "offer",
+    "Year": 2000,
+    "VIN": "f1cfb0e3-b755-4043-af8e-5a501ecb35a6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jeffrey Leonard",
+      "ContactInformation": {
+        "Phone": "510.618.8169",
+        "Email": "brittneyhopkins@example.net"
+      },
+      "Statement": "Your cold some charge important. Subject no total policy lay international onto.\nEconomic piece bank can. According much provide we before message."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "49d4064e-8acb-4cb9-906c-9a989b7b4c92",
+    "OfficerName": "Kevin Wagner",
+    "ReportDetails": "Ok operation word politics morning third. Customer smile by with.\nBuild price difference debate industry help activity. Difference new agreement star road able. Clearly large attack coach such our."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 334,
+    "AnnualIncome": 144071,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 8,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

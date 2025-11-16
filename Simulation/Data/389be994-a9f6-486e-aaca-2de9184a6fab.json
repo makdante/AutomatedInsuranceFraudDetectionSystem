@@ -1,0 +1,112 @@
+{
+  "ClaimID": "389be994-a9f6-486e-aaca-2de9184a6fab",
+  "PolicyID": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+  "EffectiveDates": {
+    "StartDate": "2025-04-03",
+    "EndDate": "2026-04-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "49ce8efb-716c-47d5-8d7f-00c686bd480a",
+    "Name": "Evan Russell",
+    "PolicyNumber": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+    "ContactInformation": {
+      "Phone": "546.466.7522",
+      "Email": "shawn53@example.net",
+      "Address": "6476 Holland Causeway Suite 490\nSouth Reginaborough, WV 81664"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-30",
+    "Location": "40643 Anderson Streets Apt. 592\nJasmineville, PA 79643",
+    "Description": "Reason focus represent head doctor wear. Assume board scientist suggest environmental something.\nMaintain individual medical recent. Former meet give yard happen. Score modern knowledge."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3146
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 156518
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 120064
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 97066
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9018
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 385812,
+    "TotalApproved": 376390
+  },
+  "AdjusterDetails": {
+    "Name": "Peter Johnson",
+    "ContactInformation": {
+      "Phone": "604.234.6946",
+      "Email": "jerrymcintosh@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/51e780cb-93f2-4f2c-a08f-8b04fef8f036"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Evans-Williams",
+    "Model": "stand",
+    "Year": 2003,
+    "VIN": "cd5c3317-eb23-4376-bc31-023606ecb385"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jose Mckee",
+      "ContactInformation": {
+        "Phone": "881.298.4877",
+        "Email": "travis22@example.org"
+      },
+      "Statement": "Realize hotel daughter network TV tonight.\nCultural yard know behind. Stock partner gun play base particularly most city. Stock step she yeah cover sell."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8c5e7002-36b9-41b0-b83e-0cdcb7f4b8bc",
+    "OfficerName": "Abigail Grant",
+    "ReportDetails": "Reduce oil exactly over great. Speech structure after knowledge send.\nLead music identify similar option test white vote. Fast situation decide your."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 841,
+    "AnnualIncome": 68980,
+    "DebtToIncomeRatio": 0.89
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

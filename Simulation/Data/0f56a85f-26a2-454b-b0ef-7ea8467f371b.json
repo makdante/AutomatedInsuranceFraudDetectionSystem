@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0f56a85f-26a2-454b-b0ef-7ea8467f371b",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-07-09",
+    "EndDate": "2026-07-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-10",
+    "Location": "44561 Jake Pike Apt. 564\nPort Robert, WA 61487",
+    "Description": "Improve decision for only require. Better unit something situation should war employee.\nBox somebody nothing window middle fund. Fear however friend mission."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4127
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9157
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7936
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 45289
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2419
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 68928,
+    "TotalApproved": 40072
+  },
+  "AdjusterDetails": {
+    "Name": "Mark Gray",
+    "ContactInformation": {
+      "Phone": "464-556-1043x0920",
+      "Email": "ujackson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c2db15b3-8309-4f0b-938a-59a411642aba"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Pierce, Scott and Wheeler",
+    "Model": "add",
+    "Year": 2012,
+    "VIN": "f6cfc371-cc0d-4a5a-bb62-043335bd45d8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Martinez",
+      "ContactInformation": {
+        "Phone": "(305)266-2632x24026",
+        "Email": "michaelhardy@example.net"
+      },
+      "Statement": "Nice story difficult to give vote risk. President enough know sit team student. Sound line product food stage training. Appear pattern avoid more north."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3ff3c4ac-be22-46bc-91f8-a117d83ef872",
+    "OfficerName": "Stacey Kidd",
+    "ReportDetails": "Successful pressure name foreign happy end worry suddenly. Page shoulder imagine attorney see. Later admit five country business back magazine. Save teach up them else."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 351,
+    "AnnualIncome": 194502,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 1,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

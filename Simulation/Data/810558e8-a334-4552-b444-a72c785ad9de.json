@@ -1,0 +1,112 @@
+{
+  "ClaimID": "810558e8-a334-4552-b444-a72c785ad9de",
+  "PolicyID": "f56b721d-77fb-4659-8280-faefc114b152",
+  "EffectiveDates": {
+    "StartDate": "2025-05-05",
+    "EndDate": "2026-05-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "9df24105-b696-442a-969e-d25b0cebdfb9",
+    "Name": "Jonathan Santos",
+    "PolicyNumber": "f56b721d-77fb-4659-8280-faefc114b152",
+    "ContactInformation": {
+      "Phone": "001-871-292-7838x249",
+      "Email": "bneal@example.org",
+      "Address": "46543 Jamie Burg Suite 969\nSarahfort, VI 92099"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-02",
+    "Location": "1698 Alexandria Shores Apt. 232\nEast Lindseytown, MP 59615",
+    "Description": "Approach production strategy especially power see until. Success lawyer bank series account economy far prevent. Particular light explain include mean."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 54059
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4103
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 158934
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 160570
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 31443
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 409109,
+    "TotalApproved": 280797
+  },
+  "AdjusterDetails": {
+    "Name": "Scott Rivera",
+    "ContactInformation": {
+      "Phone": "+1-470-784-3883",
+      "Email": "madams@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/295f8b47-cd07-4cc6-897f-469ac6b7f1a1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis-Medina",
+    "Model": "senior",
+    "Year": 2017,
+    "VIN": "20ee9490-1fa3-4ffa-92df-b640ea0a332c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Davis",
+      "ContactInformation": {
+        "Phone": "789.593.2557x823",
+        "Email": "lawrencebernard@example.org"
+      },
+      "Statement": "They would investment whom reach. Man woman two lawyer power member loss past. Machine nation should short idea recognize enter."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c0b89233-ff65-4d0c-a6a4-458f19f2660a",
+    "OfficerName": "Brian Smith",
+    "ReportDetails": "Under level item. Research above yes pick later. Identify growth include follow assume.\nDiscuss indicate whether result commercial together interesting. Investment bag nation enter."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 406,
+    "AnnualIncome": 196158,
+    "DebtToIncomeRatio": 0.53
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

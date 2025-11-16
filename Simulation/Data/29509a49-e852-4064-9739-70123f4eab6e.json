@@ -1,0 +1,112 @@
+{
+  "ClaimID": "29509a49-e852-4064-9739-70123f4eab6e",
+  "PolicyID": "48e7eff0-2137-440a-aff3-8d0668e114bd",
+  "EffectiveDates": {
+    "StartDate": "2025-01-01",
+    "EndDate": "2026-01-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de07fb4c-90da-4855-a341-856e9fe8cbd8",
+    "Name": "Christopher Kim",
+    "PolicyNumber": "48e7eff0-2137-440a-aff3-8d0668e114bd",
+    "ContactInformation": {
+      "Phone": "+1-611-281-1850x1314",
+      "Email": "barbara52@example.com",
+      "Address": "286 Herrera Street Apt. 219\nNew Eric, ID 86449"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-07",
+    "Location": "337 Bryan Station\nKellyshire, MA 80063",
+    "Description": "Help wide human likely. See prevent magazine. Range arrive region ability heart.\nPolicy scene sing agent. List apply already so price easy. New back several that get outside."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44330
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 78245
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13881
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 41086
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1634
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 179176,
+    "TotalApproved": 59520
+  },
+  "AdjusterDetails": {
+    "Name": "William Hill",
+    "ContactInformation": {
+      "Phone": "001-826-856-1425x24233",
+      "Email": "wellsmark@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/eea5a4d5-90e1-4678-ba69-2644b6898a42"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moore LLC",
+    "Model": "second",
+    "Year": 2020,
+    "VIN": "6b7d5adf-5d41-44e7-8209-f71266d685cb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Becky Smith",
+      "ContactInformation": {
+        "Phone": "(347)525-8570",
+        "Email": "berrykristen@example.org"
+      },
+      "Statement": "Number card may population leader. Pick wear even. Leg avoid message make myself receive. Growth study organization attention out three.\nMother room pass kid machine lose. Respond consider sea."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "297d16b6-bb43-4622-be2c-9f359bc1298f",
+    "OfficerName": "Rebecca Santos",
+    "ReportDetails": "Focus lead heart ball he although line. Time successful nice game special mission. Quickly tree upon according."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 600,
+    "AnnualIncome": 65987,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 9,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

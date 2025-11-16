@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b953c109-b1e4-454c-bfb9-c89f665e4c5f",
+  "PolicyID": "d67278aa-bec7-4840-bfff-77f2736e2d75",
+  "EffectiveDates": {
+    "StartDate": "2024-11-10",
+    "EndDate": "2025-11-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de87a79d-3530-44de-a42d-0905617f9485",
+    "Name": "Caitlyn Sosa",
+    "PolicyNumber": "d67278aa-bec7-4840-bfff-77f2736e2d75",
+    "ContactInformation": {
+      "Phone": "904-716-2217x5949",
+      "Email": "angela15@example.net",
+      "Address": "661 Hill Heights Suite 117\nCampbellmouth, ID 00775"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-18",
+    "Location": "4844 Jorge Islands Suite 930\nPort Jennifer, AS 49152",
+    "Description": "Return certain hard mission.\nLead power wide goal camera executive. Form whose learn me time film. Main approach special face lose including."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4837498
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4856649
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4127595
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4739788
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4074664
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22636194,
+    "TotalApproved": 6812846
+  },
+  "AdjusterDetails": {
+    "Name": "Ricardo Rodriguez",
+    "ContactInformation": {
+      "Phone": "594-784-9049x096",
+      "Email": "rmarshall@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e3735f8e-9263-464c-b930-86aec102867e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hill-Andrews",
+    "Model": "source",
+    "Year": 2017,
+    "VIN": "f6e0bf52-0335-4cbf-9922-d1dcd46bb3c1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Andrew Marquez",
+      "ContactInformation": {
+        "Phone": "001-213-410-4501x8227",
+        "Email": "rorozco@example.org"
+      },
+      "Statement": "Check production claim language owner more take. Arm within until east. Price side action question office hard must."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "af23d438-b8d9-467d-b7ad-c49a82261be0",
+    "OfficerName": "Faith Murphy",
+    "ReportDetails": "The financial standard my year different. Above put let able PM process. Direction full prevent list worker program."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 404,
+    "AnnualIncome": 83759,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

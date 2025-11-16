@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d33e794f-0ae3-42bb-b9e8-e08dc6a0db6a",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2024-11-21",
+    "EndDate": "2025-11-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-24",
+    "Location": "458 Megan Ports\nEast Rachaeltown, MH 62034",
+    "Description": "Finally effort point blue enter raise. Environment become short energy.\nBudget know well before. Decision race probably music."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 198754
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 179102
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6268
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 72221
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9397
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 465742,
+    "TotalApproved": 260086
+  },
+  "AdjusterDetails": {
+    "Name": "Belinda Wood",
+    "ContactInformation": {
+      "Phone": "473.708.1431",
+      "Email": "millsjoshua@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/cdf474a9-ab5b-4665-9177-93ddb1bcdd5c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Carr, Thompson and Davis",
+    "Model": "total",
+    "Year": 2001,
+    "VIN": "842a9fcc-ed93-4711-9883-9cc2ccc684a8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kenneth Brock",
+      "ContactInformation": {
+        "Phone": "274-639-4665x083",
+        "Email": "englishkimberly@example.org"
+      },
+      "Statement": "None sure argue. Six main well task.\nJoin mother skin.\nExist character decade provide pick raise mouth. Card option involve here behind personal.\nHundred final challenge red finally."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d85c69b4-b3fb-4943-ba6d-905fcd2e6c1f",
+    "OfficerName": "Julie Bowers",
+    "ReportDetails": "Figure us source measure. Question choose someone reveal one.\nShoulder bar safe. Center become use oil. Ready add that enough represent participant experience."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 474,
+    "AnnualIncome": 131679,
+    "DebtToIncomeRatio": 0.6
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 2,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fce6259d-3b38-45cf-a836-0ea433d34f45",
+  "PolicyID": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+  "EffectiveDates": {
+    "StartDate": "2025-03-30",
+    "EndDate": "2026-03-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ddabce0f-b86c-49b4-a9b6-4d81be5b5325",
+    "Name": "Helen Williams DDS",
+    "PolicyNumber": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+    "ContactInformation": {
+      "Phone": "(520)524-5958",
+      "Email": "elizabeth72@example.net",
+      "Address": "2431 Karen Tunnel Suite 892\nLisaland, OK 93348"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-29",
+    "Location": "012 Foley Coves Suite 477\nSouth Wesley, VI 03598",
+    "Description": "Ahead they under example first tough. Few military middle reveal factor charge light.\nSix for hot notice team despite long. Series member here sing us."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 35227
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8624
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 135522
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 30758
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 49074
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 259205,
+    "TotalApproved": 142157
+  },
+  "AdjusterDetails": {
+    "Name": "Hannah Sanchez",
+    "ContactInformation": {
+      "Phone": "+1-281-671-6985x45899",
+      "Email": "yvonne74@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/16878c7a-77f4-4044-b3c7-cc5f5553e2f4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith Inc",
+    "Model": "everyone",
+    "Year": 2012,
+    "VIN": "600ec0a2-8cd1-47e5-b6b3-5f130519c3a6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cassandra Cooper",
+      "ContactInformation": {
+        "Phone": "6896532085",
+        "Email": "alexandraguzman@example.com"
+      },
+      "Statement": "Material one she middle low south low. Care ready note player member wish single. Speak out religious black soldier executive."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "eb3d73ef-3a3e-4420-9500-dc3ca1e60218",
+    "OfficerName": "Mark Howard",
+    "ReportDetails": "Already which half strong. Standard receive into.\nWar especially article order. Respond citizen deep lead.\nRock inside impact million. Single tend son report sense."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 634,
+    "AnnualIncome": 63844,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 9,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

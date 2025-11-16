@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d9b1dfa8-ec66-439d-9d67-5e6fe33f310f",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-08-31",
+    "EndDate": "2026-08-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-30",
+    "Location": "2250 White Pass Suite 520\nJennifertown, GA 49371",
+    "Description": "Send market discussion local reach plant training. Behind law among myself cold successful.\nStrong where add particular. Type since quite campaign ready mission."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 26637
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3071
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3513
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 66228
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37712
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 137161,
+    "TotalApproved": 131850
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Graham",
+    "ContactInformation": {
+      "Phone": "(439)992-2012",
+      "Email": "douglasrodriguez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/82832399-50d5-42eb-85f1-5eda7a555906"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-30T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Erickson, Palmer and Morgan",
+    "Model": "offer",
+    "Year": 2020,
+    "VIN": "54d8721b-c9e0-410f-b11f-81a0544aad10"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erin Martinez",
+      "ContactInformation": {
+        "Phone": "001-599-691-5729x76987",
+        "Email": "markwhite@example.com"
+      },
+      "Statement": "The dog body generation history science although. Today control risk."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "84da0030-8c8c-478f-bf67-ad639ba83cca",
+    "OfficerName": "Brian Atkinson",
+    "ReportDetails": "Society under better business. Tell on worry several hit now take. That system several week either program."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 320,
+    "AnnualIncome": 149478,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

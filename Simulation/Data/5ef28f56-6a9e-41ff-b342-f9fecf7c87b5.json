@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5ef28f56-6a9e-41ff-b342-f9fecf7c87b5",
+  "PolicyID": "433b7880-f7af-4e36-9012-5c5e793028d5",
+  "EffectiveDates": {
+    "StartDate": "2025-04-18",
+    "EndDate": "2026-04-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3906d06d-d7b8-494f-879b-a72d5db680f8",
+    "Name": "William West",
+    "PolicyNumber": "433b7880-f7af-4e36-9012-5c5e793028d5",
+    "ContactInformation": {
+      "Phone": "5878895828",
+      "Email": "johnmorris@example.net",
+      "Address": "1914 Lyons Green\nDavisbury, NY 54164"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-14",
+    "Location": "462 Lisa Ville\nWest Andrew, MH 07040",
+    "Description": "Either probably home break. Plant second edge team Mrs inside understand. Share stay plant four year less station."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2782
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16704
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9466
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 60580
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 24299
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 113831,
+    "TotalApproved": 40833
+  },
+  "AdjusterDetails": {
+    "Name": "Benjamin Benson",
+    "ContactInformation": {
+      "Phone": "001-360-476-7508x150",
+      "Email": "patricia23@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/619f4dbd-e00d-4315-aedc-cfa12efe8ddc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Snyder, Kent and Lee",
+    "Model": "agent",
+    "Year": 2021,
+    "VIN": "784ee323-dac5-4fe0-98d2-2dc8a0656cb8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Barbara Molina",
+      "ContactInformation": {
+        "Phone": "375-960-3752",
+        "Email": "jay42@example.net"
+      },
+      "Statement": "Really place management couple. Environmental race dream sport economic. Often wait drug training customer consider."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "84bbd11a-2043-45d1-a927-4b803802f9eb",
+    "OfficerName": "Douglas Wolfe",
+    "ReportDetails": "Determine whom pick any leave continue energy. Continue local try two by thing shoulder.\nFormer try suggest cultural candidate feel. Control land action small interesting wait his."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 543,
+    "AnnualIncome": 94932,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

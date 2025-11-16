@@ -1,0 +1,112 @@
+{
+  "ClaimID": "55377615-2da2-4c7a-8864-9116cdb13084",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-05-13",
+    "EndDate": "2026-05-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-18",
+    "Location": "92699 Amy Harbor\nLake Joseport, NH 45648",
+    "Description": "Speak teach worker blood record ahead certain participant. Series such power serious newspaper establish science.\nDifference dinner no record. Method value both. Hot respond attorney world style."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3349
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 110115
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5872
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 160150
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 37522
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 317008,
+    "TotalApproved": 46290
+  },
+  "AdjusterDetails": {
+    "Name": "Alice Casey",
+    "ContactInformation": {
+      "Phone": "001-235-220-8200x4781",
+      "Email": "kylesteele@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/67525f43-8fe8-4423-b14b-dc63342d1fa4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sutton-Robinson",
+    "Model": "often",
+    "Year": 2020,
+    "VIN": "e7bcc644-ea84-4e0a-bb74-1716288e39e9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Smith",
+      "ContactInformation": {
+        "Phone": "+1-680-453-6572",
+        "Email": "frychristopher@example.net"
+      },
+      "Statement": "Left government into parent show either hour people. Operation both outside indeed."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a7942312-a9a8-4e26-9026-8aad66ea36d6",
+    "OfficerName": "Alicia Edwards",
+    "ReportDetails": "Moment better sign station. Wonder type against simple last.\nThought child allow. Bed southern mission later hard half if number."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 330,
+    "AnnualIncome": 195413,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 0,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

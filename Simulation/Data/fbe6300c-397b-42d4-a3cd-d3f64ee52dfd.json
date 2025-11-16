@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fbe6300c-397b-42d4-a3cd-d3f64ee52dfd",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2024-12-19",
+    "EndDate": "2025-12-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-04",
+    "Location": "11835 Robert Forges Apt. 421\nLake Raymondmouth, UT 45560",
+    "Description": "Goal bank where rich. Give there performance religious skin. Government send ok serious eat score."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11573
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 57116
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 125286
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 38421
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 37878
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 270274,
+    "TotalApproved": 198807
+  },
+  "AdjusterDetails": {
+    "Name": "Teresa Nguyen",
+    "ContactInformation": {
+      "Phone": "406-553-1367x29262",
+      "Email": "wilsonrichard@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/429aed46-ca4c-4a97-a29b-f3d9d64e77fa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson-Harmon",
+    "Model": "far",
+    "Year": 2021,
+    "VIN": "a03eaf7f-b622-40f2-bbe7-24ce3b315881"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dr. Dustin Ferguson",
+      "ContactInformation": {
+        "Phone": "853.492.0417",
+        "Email": "kinggary@example.org"
+      },
+      "Statement": "Smile conference student watch. Follow enjoy so key meeting.\nCover member agreement civil. Nice see floor now recent. Hit example star mind which best."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1cb883c5-d6f1-44c6-947c-3012fd5352eb",
+    "OfficerName": "Aaron Roberts",
+    "ReportDetails": "Yes outside agent different. Spring task experience that.\nRadio different draw modern. Significant mean enjoy method choose exist community. Great much easy more give five result morning."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 786,
+    "AnnualIncome": 90519,
+    "DebtToIncomeRatio": 0.71
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f7bfb785-b61e-46a8-8b92-b102f1b75900",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-06-06",
+    "EndDate": "2026-06-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-11",
+    "Location": "6751 Mora Rest Suite 157\nEast Dawnburgh, CO 31825",
+    "Description": "Skill left financial work. Price respond decision type phone entire yard.\nHome have life new her energy during. Compare represent why."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 39424
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4168
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3649
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4012
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 29344
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 80597,
+    "TotalApproved": 17081
+  },
+  "AdjusterDetails": {
+    "Name": "Stephen Shaw",
+    "ContactInformation": {
+      "Phone": "(670)756-9172",
+      "Email": "hriley@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/39acc9f9-7e0f-4e4d-93de-3c4bc2a5393b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rogers, Jackson and Turner",
+    "Model": "impact",
+    "Year": 2016,
+    "VIN": "d1ba65cf-04d7-4cdd-ade6-fad6f9a0ae49"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ryan Golden",
+      "ContactInformation": {
+        "Phone": "001-439-648-2341",
+        "Email": "heathercrane@example.org"
+      },
+      "Statement": "Specific compare test he economy state single like. Sit necessary thousand him."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1e20b7fb-9fa0-4bc9-8520-074892327ffd",
+    "OfficerName": "Jeffrey Smith",
+    "ReportDetails": "Glass chair draw force central level. Cell grow toward.\nFoot agent challenge however language. Accept within itself. Life tend from state may task family."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 456,
+    "AnnualIncome": 101307,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 1,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

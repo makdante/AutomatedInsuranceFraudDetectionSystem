@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c768857c-becc-4a77-9bfd-72410f15b160",
+  "PolicyID": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+  "EffectiveDates": {
+    "StartDate": "2024-11-28",
+    "EndDate": "2025-11-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "36ef7374-a94b-45c8-8312-6e8562668715",
+    "Name": "Vincent Flynn",
+    "PolicyNumber": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+    "ContactInformation": {
+      "Phone": "950-852-7090",
+      "Email": "harrybryant@example.com",
+      "Address": "476 Reed Landing\nJeanettestad, VT 94361"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-15",
+    "Location": "USS Lawson\nFPO AE 93706",
+    "Description": "Study let war camera. Recently forward professor ground. My kitchen industry special result media.\nDuring wide eye very get. Know same policy. Toward grow it owner."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 27878
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5155
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8270
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14768
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1687
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 57758,
+    "TotalApproved": 46448
+  },
+  "AdjusterDetails": {
+    "Name": "Adam Sutton",
+    "ContactInformation": {
+      "Phone": "(743)878-9690x3491",
+      "Email": "zross@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/742d78e0-9058-481c-b8ff-2c0564ad23cd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Silva, Cruz and Hull",
+    "Model": "everybody",
+    "Year": 2000,
+    "VIN": "7a5baef0-2a1c-4164-ab26-aaa6c5eb1217"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jacob Patterson",
+      "ContactInformation": {
+        "Phone": "(598)629-8577x449",
+        "Email": "thomas80@example.org"
+      },
+      "Statement": "Scene ask no detail strong expert issue. Agreement available Mrs wear leg."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d62e83cb-e31d-4bb2-9f3d-9f8d407da03f",
+    "OfficerName": "Rachael Miller",
+    "ReportDetails": "Interest though off defense operation. Probably baby color drive.\nExplain it social plan.\nBaby thing wall join. Grow leg cultural wait."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 625,
+    "AnnualIncome": 81482,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "60a58a92-44d1-4515-a0f2-c920712e0ba5",
+  "PolicyID": "f56b721d-77fb-4659-8280-faefc114b152",
+  "EffectiveDates": {
+    "StartDate": "2024-11-25",
+    "EndDate": "2025-11-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "9df24105-b696-442a-969e-d25b0cebdfb9",
+    "Name": "Jonathan Santos",
+    "PolicyNumber": "f56b721d-77fb-4659-8280-faefc114b152",
+    "ContactInformation": {
+      "Phone": "001-871-292-7838x249",
+      "Email": "bneal@example.org",
+      "Address": "46543 Jamie Burg Suite 969\nSarahfort, VI 92099"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-09",
+    "Location": "1272 Julie Mountain\nBenjaminborough, TX 85051",
+    "Description": "Whether set side learn pay already. Idea seven red they whom similar report hour. Well line price return foreign."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7265
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 68554
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 29938
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3513
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 121656
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 230926,
+    "TotalApproved": 203376
+  },
+  "AdjusterDetails": {
+    "Name": "Holly Lambert",
+    "ContactInformation": {
+      "Phone": "+1-280-745-8652x416",
+      "Email": "rhudson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/9041bb8d-7809-4bc4-829c-ad64044bbc07"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lopez, Lewis and Clark",
+    "Model": "hit",
+    "Year": 2002,
+    "VIN": "222830f0-5781-4aaa-88b3-2b551383a6ed"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patricia Manning",
+      "ContactInformation": {
+        "Phone": "7477341224",
+        "Email": "alisha92@example.org"
+      },
+      "Statement": "Past plant still shake. Raise sign rock authority brother. Seem last produce bad particularly old house. Quality policy good deep find among call contain."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5c0117de-8930-4225-bdff-de9f3e7350e0",
+    "OfficerName": "Brittany White",
+    "ReportDetails": "Wind trial leader some leg modern loss. Purpose whether teach agree yet hundred section.\nBox each list share sit man."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 743,
+    "AnnualIncome": 158021,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

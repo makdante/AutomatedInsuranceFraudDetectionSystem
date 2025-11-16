@@ -1,0 +1,112 @@
+{
+  "ClaimID": "580de33a-90ae-4b7e-b2af-66774fb6f7bf",
+  "PolicyID": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+  "EffectiveDates": {
+    "StartDate": "2025-01-12",
+    "EndDate": "2026-01-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b3c9e4e9-a946-44a4-82a7-829df9b0425b",
+    "Name": "Madison Kim",
+    "PolicyNumber": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+    "ContactInformation": {
+      "Phone": "396-342-3629x192",
+      "Email": "alvareztina@example.com",
+      "Address": "790 Johnson Hill Apt. 614\nWongport, CO 54591"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-27",
+    "Location": "9378 Dean Well Apt. 010\nFeliciabury, DC 24022",
+    "Description": "Maybe case war. Guess people show particularly defense. Note better hold chance for plant.\nGeneration physical information. A sit test painting specific red fly."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 63905
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 121999
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13577
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2731
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5040
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 207252,
+    "TotalApproved": 6523
+  },
+  "AdjusterDetails": {
+    "Name": "James Munoz",
+    "ContactInformation": {
+      "Phone": "+1-397-226-0045x46946",
+      "Email": "bbrown@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/7eb4f1c8-d819-412f-808d-72d1fb4769b6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Henry, Matthews and Williams",
+    "Model": "want",
+    "Year": 2020,
+    "VIN": "aa5dffde-7e0e-41f9-b72a-d5cad1f20025"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amy Roberts",
+      "ContactInformation": {
+        "Phone": "001-983-355-8093x69151",
+        "Email": "umeyer@example.com"
+      },
+      "Statement": "Fall international top second job enjoy yet. Yard first newspaper. Knowledge garden by five development something send.\nUnder evidence ground appear inside. Some rather school car movie."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0e4902bc-a4ab-40c6-8797-95761f788209",
+    "OfficerName": "Ashley Lloyd",
+    "ReportDetails": "Want science their idea Democrat everyone health long. Drive simply scientist stand career treat people environmental. Technology officer teacher hard society blood include."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 612,
+    "AnnualIncome": 165460,
+    "DebtToIncomeRatio": 0.63
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

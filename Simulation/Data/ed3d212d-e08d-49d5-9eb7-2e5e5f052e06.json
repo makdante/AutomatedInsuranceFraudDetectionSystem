@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ed3d212d-e08d-49d5-9eb7-2e5e5f052e06",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-01-11",
+    "EndDate": "2026-01-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-16",
+    "Location": "478 Watson Flat Apt. 055\nSouth Susanville, SD 01755",
+    "Description": "Open PM since style exactly. Bar these plant sense model.\nNational art local quickly example much total economy. Of dark law other."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6027
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 26149
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14442
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 56509
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40483
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 143610,
+    "TotalApproved": 44757
+  },
+  "AdjusterDetails": {
+    "Name": "Henry Robinson",
+    "ContactInformation": {
+      "Phone": "806.832.6271x347",
+      "Email": "durhamemily@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/f487b731-3034-4ab7-af11-36c7851f3053"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martin-Sanders",
+    "Model": "almost",
+    "Year": 2014,
+    "VIN": "70be23c2-24ef-4d65-9850-ca7840d136db"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joyce Charles",
+      "ContactInformation": {
+        "Phone": "+1-816-300-8762x09862",
+        "Email": "velazquezchristopher@example.org"
+      },
+      "Statement": "Decide police it cut. Practice window recent investment build."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "821bd912-ed17-419f-82ca-0ad5821c2420",
+    "OfficerName": "Michael Turner",
+    "ReportDetails": "Meet phone list maybe near protect. Discover glass finally professional actually. Method consider picture five. Best listen and clearly."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 460,
+    "AnnualIncome": 162105,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 0,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c17cc08d-a254-4e39-b9ff-2e3f077402c8",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-06-07",
+    "EndDate": "2026-06-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-01",
+    "Location": "7089 Bowman Heights\nFeliciatown, PA 61862",
+    "Description": "Room generation admit than the. Table back key president seem forget. Hundred across cultural teach guy natural. Fight party start these.\nHimself teacher key become too."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4704874
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4261205
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4284834
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4663996
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4677251
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22592160,
+    "TotalApproved": 6546612
+  },
+  "AdjusterDetails": {
+    "Name": "Meghan Dickerson",
+    "ContactInformation": {
+      "Phone": "001-432-792-3799x2083",
+      "Email": "jill46@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c91a3ef3-5fee-4075-9994-0eee4de82cda"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson Group",
+    "Model": "add",
+    "Year": 2004,
+    "VIN": "89e14fe3-058b-4342-830b-68cba53d1325"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Margaret Blackwell",
+      "ContactInformation": {
+        "Phone": "+1-837-827-5276x94035",
+        "Email": "brenda17@example.org"
+      },
+      "Statement": "Republican half century along. Manage night court support seat.\nOil say talk represent build. Democratic guess white rise many free recent. Himself school specific move."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "00028bc1-464c-4e48-bff2-643f9e3b02d3",
+    "OfficerName": "Erika Anderson",
+    "ReportDetails": "Unit indicate top none debate. Yourself conference trouble important.\nWork public arm those. Join energy seat trouble. Deal artist unit explain at."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 382,
+    "AnnualIncome": 109352,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

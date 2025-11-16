@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dd51253a-3049-4c0b-8c98-d9c2671f0068",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2024-11-03",
+    "EndDate": "2025-11-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-28",
+    "Location": "4108 Victor Lights Suite 247\nPaulland, MS 62907",
+    "Description": "Rate analysis condition. Entire say gun final person.\nSound thank realize data none team. Store surface president radio final know."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17051
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9135
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 50382
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8955
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9746
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 95269,
+    "TotalApproved": 12158
+  },
+  "AdjusterDetails": {
+    "Name": "Laurie Boyd",
+    "ContactInformation": {
+      "Phone": "496.288.9726",
+      "Email": "thorntondavid@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/971c7d74-7249-4607-a021-0f4a88edff5d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cortez Inc",
+    "Model": "audience",
+    "Year": 2010,
+    "VIN": "d82c1c59-c3f2-4141-a50a-d6892153c67e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Julie Evans",
+      "ContactInformation": {
+        "Phone": "438-758-7523",
+        "Email": "xyoung@example.net"
+      },
+      "Statement": "Interesting draw news share place concern. Finally that treat board fear.\nReveal enter war. Out require plant main impact yourself. Despite perform quality another red federal effect."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9c11c346-62f1-445e-bc4f-50ab4cebf401",
+    "OfficerName": "Donald Walker",
+    "ReportDetails": "Fear star hour eat. Challenge lot professional trouble sort each. Politics lose rather decade various.\nEither receive free him democratic. Try own property side style. These building money."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 477,
+    "AnnualIncome": 20145,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 6,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

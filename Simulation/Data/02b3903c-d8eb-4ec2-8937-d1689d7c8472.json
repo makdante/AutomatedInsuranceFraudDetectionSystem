@@ -1,0 +1,112 @@
+{
+  "ClaimID": "02b3903c-d8eb-4ec2-8937-d1689d7c8472",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2024-11-07",
+    "EndDate": "2025-11-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-28",
+    "Location": "681 Dennis Forks Apt. 178\nLake Aprilberg, ME 61813",
+    "Description": "As difficult play summer soon believe. Wait cut simple get role. Manager because else most style whether health.\nBlood person value. Likely television off imagine focus claim western hour."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 126870
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 27635
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8975
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 46608
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 95170
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 305258,
+    "TotalApproved": 262276
+  },
+  "AdjusterDetails": {
+    "Name": "Tricia Ortega",
+    "ContactInformation": {
+      "Phone": "001-851-796-9491x476",
+      "Email": "gholloway@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/cea15eff-30b2-4282-8635-4569f443eefb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bowman, Thomas and Thornton",
+    "Model": "fine",
+    "Year": 2006,
+    "VIN": "6f36612b-fb7c-4788-8aba-bc884ac4d8cd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Williams",
+      "ContactInformation": {
+        "Phone": "+1-744-854-8081x693",
+        "Email": "pearsonchristopher@example.com"
+      },
+      "Statement": "Issue control meeting increase. Mother Democrat ball someone mind open heavy. Modern lead toward join.\nEarly just none. Quality seat financial paper the first current gun."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "92e1621f-46ed-46c6-bfe6-ba9dc1fd5d6f",
+    "OfficerName": "Joshua Hansen",
+    "ReportDetails": "Strong chair who key. Response mind national himself professional quality.\nCut agreement push set argue former. Lot eye free behavior force capital suffer. Ago long hour."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 300,
+    "AnnualIncome": 77842,
+    "DebtToIncomeRatio": 0.26
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 5,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

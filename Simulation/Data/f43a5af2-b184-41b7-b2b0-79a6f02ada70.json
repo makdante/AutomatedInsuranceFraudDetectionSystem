@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f43a5af2-b184-41b7-b2b0-79a6f02ada70",
+  "PolicyID": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+  "EffectiveDates": {
+    "StartDate": "2025-09-28",
+    "EndDate": "2026-09-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fe640aa1-fac6-44c1-b128-0544382d3460",
+    "Name": "Mr. John Curtis DDS",
+    "PolicyNumber": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+    "ContactInformation": {
+      "Phone": "+1-788-856-0912x412",
+      "Email": "greenlorraine@example.com",
+      "Address": "970 Ryan Green\nWest Katherine, GA 40547"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-31",
+    "Location": "5792 Beck Lane Suite 937\nTrantown, ME 10210",
+    "Description": "Sure half hotel mention budget later. Card agree whom social. Far rate cut stuff though national note factor. Suddenly beautiful all process herself affect."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8388
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 112761
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2638
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 41338
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44162
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 209287,
+    "TotalApproved": 30631
+  },
+  "AdjusterDetails": {
+    "Name": "Mike Fletcher",
+    "ContactInformation": {
+      "Phone": "001-819-420-8395x23209",
+      "Email": "isaiahperkins@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/29f2e640-0f95-4397-8e75-6c9433064d28"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gibson, Jackson and Cox",
+    "Model": "discover",
+    "Year": 2003,
+    "VIN": "1c1689ff-85c1-4914-a783-3e13fcd02edf"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alexander Snyder",
+      "ContactInformation": {
+        "Phone": "+1-426-333-9499x722",
+        "Email": "dixonsarah@example.com"
+      },
+      "Statement": "Believe window speak customer before very woman. Daughter guy health wrong space. Foreign pull scene person only say."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c170c06c-4e0e-4c8d-888b-37a490879a6c",
+    "OfficerName": "Roy Payne",
+    "ReportDetails": "Visit senior indicate all blue spring Democrat. Car one color quite charge work.\nMr admit physical manage. Data environment third rate way it magazine."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 836,
+    "AnnualIncome": 100075,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

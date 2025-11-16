@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7d352cf3-ad65-4754-be55-a5d05e33f8e2",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-05-21",
+    "EndDate": "2026-05-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-15",
+    "Location": "733 Lindsay Plaza Apt. 177\nNorth Samuel, AK 28322",
+    "Description": "Baby positive rather section only add. Down memory worry cost board. Around respond network gun.\nBeat set center hundred. Lawyer life event summer court myself."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2937
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 55091
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10936
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2760
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7114
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 78838,
+    "TotalApproved": 47787
+  },
+  "AdjusterDetails": {
+    "Name": "Julia Morgan",
+    "ContactInformation": {
+      "Phone": "837-660-6470x8050",
+      "Email": "kenneth76@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/bca5478f-2036-4c42-a1be-c0d9110fdd91"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morrison, Norton and Ruiz",
+    "Model": "community",
+    "Year": 2010,
+    "VIN": "d7e4182d-207b-4df1-a8d2-fed2e0b66638"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kimberly Mitchell",
+      "ContactInformation": {
+        "Phone": "706.481.4634x0361",
+        "Email": "clarkholly@example.net"
+      },
+      "Statement": "Show bed full pull seek. Respond so couple under for word. Language provide century degree country. Doctor these floor their.\nUse imagine somebody born son marriage."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7317bf69-6c24-4d89-8bc3-3ce6ff7716e1",
+    "OfficerName": "Stephanie Mason",
+    "ReportDetails": "Them majority tough. Against wall food just save relationship."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 391,
+    "AnnualIncome": 93520,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

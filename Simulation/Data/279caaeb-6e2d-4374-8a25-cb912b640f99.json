@@ -1,0 +1,112 @@
+{
+  "ClaimID": "279caaeb-6e2d-4374-8a25-cb912b640f99",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-07-27",
+    "EndDate": "2026-07-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-21",
+    "Location": "93313 Lauren Skyway\nChristophermouth, DE 41273",
+    "Description": "Apply market build reveal under though him. Cell successful peace need purpose claim nation. Art market who skin traditional."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16864
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13311
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 42797
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9085
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17873
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 99930,
+    "TotalApproved": 58058
+  },
+  "AdjusterDetails": {
+    "Name": "Emily Boyd",
+    "ContactInformation": {
+      "Phone": "853.810.7284x78633",
+      "Email": "robinsondonna@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/234536ba-10ac-4b8d-aea6-bda1e6c0d3db"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-31T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Blankenship, Hudson and Berger",
+    "Model": "market",
+    "Year": 2003,
+    "VIN": "3414872a-e93b-420b-8ec4-e511009c9e4c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mary Barron",
+      "ContactInformation": {
+        "Phone": "952.361.4297x584",
+        "Email": "xdunn@example.org"
+      },
+      "Statement": "Our suddenly street though try get might. Suggest discuss economic get.\nReveal yeah learn hope clear skin around. Both character fight consumer simple."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b256564c-e49c-4e9d-8818-08ab9b45150b",
+    "OfficerName": "Joseph Contreras",
+    "ReportDetails": "Campaign answer network ok school eight. Page question law cold.\nDoctor out music American in investment. Its movement star hospital month to. How common within above show."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 762,
+    "AnnualIncome": 139154,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

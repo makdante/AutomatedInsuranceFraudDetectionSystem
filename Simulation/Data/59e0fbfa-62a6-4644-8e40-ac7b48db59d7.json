@@ -1,0 +1,112 @@
+{
+  "ClaimID": "59e0fbfa-62a6-4644-8e40-ac7b48db59d7",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-08-07",
+    "EndDate": "2026-08-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-04",
+    "Location": "Unit 2384 Box 6072\nDPO AP 50027",
+    "Description": "Theory accept everybody sometimes probably. Effect much dark record only piece.\nHigh trial senior spend."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3470
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4415
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1135
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 24499
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 105803
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 139322,
+    "TotalApproved": 35118
+  },
+  "AdjusterDetails": {
+    "Name": "Mark Mason",
+    "ContactInformation": {
+      "Phone": "001-252-984-8569",
+      "Email": "joseph19@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/2dd70657-7f46-4bc4-8bea-65784d4ec353"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Doyle, Collins and Young",
+    "Model": "share",
+    "Year": 2021,
+    "VIN": "577db0f3-3104-48b5-ae92-63ca6e0734de"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Laura Moore",
+      "ContactInformation": {
+        "Phone": "001-737-202-4422x644",
+        "Email": "ismith@example.net"
+      },
+      "Statement": "Manager recognize success they positive. Identify trouble town his.\nIndicate number family recognize school. Challenge sense build measure. Walk number sea plan short poor president throw."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "49e36e54-8b86-4c02-bc8b-e21ca3fbc68b",
+    "OfficerName": "Brian Miller",
+    "ReportDetails": "Character trouble smile everybody set step side.\nFrom do also act star middle none. Others hot more war nothing Democrat recognize."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 490,
+    "AnnualIncome": 103568,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

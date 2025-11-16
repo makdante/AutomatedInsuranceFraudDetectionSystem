@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e9b3a0e6-7815-4149-adbf-72050fcc78c9",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-06-07",
+    "EndDate": "2026-06-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-13",
+    "Location": "38812 Christopher Ramp\nMarybury, CO 34253",
+    "Description": "Short over including moment coach. Mean arrive position. Seat how dog half. It side rule beautiful hotel new red."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 85991
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3030
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10975
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7257
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8231
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 115484,
+    "TotalApproved": 84073
+  },
+  "AdjusterDetails": {
+    "Name": "Mark Lewis",
+    "ContactInformation": {
+      "Phone": "695.791.9399",
+      "Email": "djohnson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/9fdf40ab-60d1-42b2-990a-7b17c16354ce"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Santos, Briggs and Fischer",
+    "Model": "education",
+    "Year": 2016,
+    "VIN": "7833c23f-c38e-4dd0-92df-81726dadc6c6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erika Cline",
+      "ContactInformation": {
+        "Phone": "(488)405-0498x16885",
+        "Email": "isaiahhoward@example.net"
+      },
+      "Statement": "Apply international father analysis lay memory. Choose others well major how.\nYeah picture sell exactly. Home guess use. Computer once physical smile for maybe believe."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "be9b5280-a666-4260-a6b4-623eb883497d",
+    "OfficerName": "Dwayne Lambert",
+    "ReportDetails": "Without price say institution morning. Far world call take likely. Concern social force agency garden. Deep back game me catch bank power."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 398,
+    "AnnualIncome": 154430,
+    "DebtToIncomeRatio": 0.2
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 4,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

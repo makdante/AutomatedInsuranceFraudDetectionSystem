@@ -1,0 +1,112 @@
+{
+  "ClaimID": "512d4b94-e7b2-470d-beae-597cac53fa4e",
+  "PolicyID": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+  "EffectiveDates": {
+    "StartDate": "2025-03-21",
+    "EndDate": "2026-03-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "540679a4-28ef-4808-be74-d01304fb65d7",
+    "Name": "Martha Dorsey",
+    "PolicyNumber": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+    "ContactInformation": {
+      "Phone": "385.561.2218x18763",
+      "Email": "calderondon@example.net",
+      "Address": "22938 Wright Ports\nWest Michael, MA 77489"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-12",
+    "Location": "103 Perez Via Apt. 411\nKelleyland, WI 48490",
+    "Description": "East leg respond. Enjoy trial kitchen dark direction protect her. Nothing decide own first their.\nMoney bill we theory report without clearly. Place design us affect."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4901602
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4652226
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4644129
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4519532
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4039730
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22757219,
+    "TotalApproved": 5288030
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Colon",
+    "ContactInformation": {
+      "Phone": "001-290-548-0784x6343",
+      "Email": "hamiltonshane@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d59a4cf5-4c67-4cd7-92ae-20e41be68bdb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hayes Group",
+    "Model": "national",
+    "Year": 2011,
+    "VIN": "c5f21a1f-5916-4f01-98a8-45b925d44675"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sabrina Crane",
+      "ContactInformation": {
+        "Phone": "961.470.1339",
+        "Email": "hallbrenda@example.net"
+      },
+      "Statement": "Officer bill thought respond table wrong. Decide positive total trip. They eight director save energy church people.\nOr wear beautiful such."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "151fa5da-bfd7-497e-83de-7ab61910e245",
+    "OfficerName": "Connie Barnett",
+    "ReportDetails": "Beat ever issue with. Describe hospital against although behind cold.\nAgreement whole man always data whether coach. Kitchen former agent expert."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 374,
+    "AnnualIncome": 127015,
+    "DebtToIncomeRatio": 0.53
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

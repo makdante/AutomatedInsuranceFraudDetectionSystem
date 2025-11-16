@@ -1,0 +1,112 @@
+{
+  "ClaimID": "447a0d98-0e17-4f29-afdc-ff65c7f9ec9a",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-06-27",
+    "EndDate": "2026-06-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-17",
+    "Location": "1309 Simmons Underpass\nPowellport, CA 88600",
+    "Description": "Lay provide recently form. Minute show miss off but early. Run add wall over budget past.\nSpecific new own turn approach fish. Keep choice cultural my do."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 64215
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 45123
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6411
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8857
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4764
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 129370,
+    "TotalApproved": 39443
+  },
+  "AdjusterDetails": {
+    "Name": "Marc Nelson",
+    "ContactInformation": {
+      "Phone": "001-848-279-2951x06922",
+      "Email": "matthew71@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/996aeb1b-ef81-4832-bd48-92cd03a4c9da"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Owens, Allen and Smith",
+    "Model": "argue",
+    "Year": 2013,
+    "VIN": "27bf47ff-7cd9-4ec1-9d7d-7ec859c538f8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ryan Williams",
+      "ContactInformation": {
+        "Phone": "(246)262-5943x580",
+        "Email": "baustin@example.org"
+      },
+      "Statement": "Alone serious cold in. Floor only doctor reason family one.\nActivity describe five garden article. Best board know season strategy.\nHope better girl system."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fb6ec5bd-9448-49b0-badd-619d4231d179",
+    "OfficerName": "Daniel Dean",
+    "ReportDetails": "Expert money far into key herself letter kitchen. Fight administration house visit there list. Thus actually for next."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 352,
+    "AnnualIncome": 168495,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 8,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

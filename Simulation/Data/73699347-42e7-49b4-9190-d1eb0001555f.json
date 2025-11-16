@@ -1,0 +1,112 @@
+{
+  "ClaimID": "73699347-42e7-49b4-9190-d1eb0001555f",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-07-09",
+    "EndDate": "2026-07-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-16",
+    "Location": "453 Fuller Mountains Suite 297\nCharleshaven, MA 84781",
+    "Description": "Position describe minute especially class start. Police world leader. Nor sit treatment tell mouth good Republican."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 63966
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2616
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 170346
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 144022
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1355
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 382305,
+    "TotalApproved": 168010
+  },
+  "AdjusterDetails": {
+    "Name": "Dorothy Santos",
+    "ContactInformation": {
+      "Phone": "001-228-766-9313x2238",
+      "Email": "nicoleturner@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/97ebb696-f14c-4b7a-8dcd-28eba416af36"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith Inc",
+    "Model": "expect",
+    "Year": 2009,
+    "VIN": "f37f544a-9eb9-4089-8e04-ed02e7656e37"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Shawn Hale",
+      "ContactInformation": {
+        "Phone": "850.414.8604",
+        "Email": "adriennekemp@example.com"
+      },
+      "Statement": "Recently street seek thought senior.\nInside story live effort. Son side religious point glass use.\nSong add ground tree could. After keep around party. Why relationship state low."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c0f1f600-3f92-4e3b-bc68-4dedd8058990",
+    "OfficerName": "Travis Scott",
+    "ReportDetails": "Line land why social. Also collection open not tend commercial. Send wonder blood executive according factor simple.\nShe trouble project."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 470,
+    "AnnualIncome": 140044,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

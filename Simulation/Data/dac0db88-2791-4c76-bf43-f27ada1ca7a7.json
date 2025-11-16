@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dac0db88-2791-4c76-bf43-f27ada1ca7a7",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-07-11",
+    "EndDate": "2026-07-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-25",
+    "Location": "PSC 3140, Box 7142\nAPO AP 48560",
+    "Description": "Plant knowledge six. Stay nation rock contain same inside discover someone.\nSound term trouble during instead. Oil agree thank best."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 93561
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 35448
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 197487
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 42718
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17910
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 387124,
+    "TotalApproved": 303520
+  },
+  "AdjusterDetails": {
+    "Name": "Vincent Brandt",
+    "ContactInformation": {
+      "Phone": "511-457-6599x005",
+      "Email": "amandawalsh@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/e236a2a1-1870-4606-a20c-1409f0eddd77"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Acevedo, Armstrong and Wright",
+    "Model": "series",
+    "Year": 2004,
+    "VIN": "8cdf8971-d7c5-4cf0-a8a6-cf00f44de285"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Murphy",
+      "ContactInformation": {
+        "Phone": "7308729162",
+        "Email": "crystalwright@example.com"
+      },
+      "Statement": "Already three media matter. Especially whatever value key region science.\nCouple meeting college radio experience. That suffer drug recently. Why international away tree fall and."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0800f431-1bcf-4afe-986c-58e5c2579947",
+    "OfficerName": "Ronald Taylor",
+    "ReportDetails": "Role though air time situation professional court. Test human small. Training blue themselves could center cell.\nThemselves friend type production PM. Around like discover seek."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 343,
+    "AnnualIncome": 61004,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 8,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

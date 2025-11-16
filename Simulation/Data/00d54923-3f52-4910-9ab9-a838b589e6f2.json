@@ -1,0 +1,112 @@
+{
+  "ClaimID": "00d54923-3f52-4910-9ab9-a838b589e6f2",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-10-15",
+    "EndDate": "2026-10-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-23",
+    "Location": "4511 Lisa Glens Apt. 506\nEast Catherine, CT 93912",
+    "Description": "Week west including wonder shoulder community.\nMovement interesting hope clearly agree close. Day view evidence listen cover accept."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11561
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9861
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6090
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1184
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6825
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 35521,
+    "TotalApproved": 6901
+  },
+  "AdjusterDetails": {
+    "Name": "Shannon Cruz",
+    "ContactInformation": {
+      "Phone": "488-426-9564x56727",
+      "Email": "wilsonjanet@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/47c2e032-7913-4e45-a42f-e74281d6c3ca"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hughes Ltd",
+    "Model": "support",
+    "Year": 2017,
+    "VIN": "7437abac-0071-4aee-894a-2b0d5a6f759c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Gail Walker",
+      "ContactInformation": {
+        "Phone": "+1-982-474-5239x5400",
+        "Email": "rfranklin@example.net"
+      },
+      "Statement": "Particularly rise century religious good audience. Successful boy office probably weight serious.\nReligious social whom moment green red. Scientist quite stuff according foreign ball."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e9ce06d2-c856-4774-812b-dae68ec582be",
+    "OfficerName": "Shawn Dixon",
+    "ReportDetails": "Present travel quality notice series identify past. Man quite trip board indeed action.\nDefense mouth bank act fly meeting eight politics."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 791,
+    "AnnualIncome": 79291,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "47348e3f-bafd-4ded-9782-e778087334f2",
+  "PolicyID": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+  "EffectiveDates": {
+    "StartDate": "2024-12-18",
+    "EndDate": "2025-12-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "33851d0f-ae34-4d84-9979-9c0bb345ff37",
+    "Name": "Emily Richardson",
+    "PolicyNumber": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+    "ContactInformation": {
+      "Phone": "(999)370-8402x9360",
+      "Email": "stephen63@example.com",
+      "Address": "90107 Stephen Well\nAndrewmouth, ND 46797"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-10",
+    "Location": "35850 Patterson Creek\nEast Keith, NC 26805",
+    "Description": "Manage home relationship student blood. House girl item. Sea instead firm clear lay read."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 181512
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6313
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8809
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16639
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 26335
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 239608,
+    "TotalApproved": 156441
+  },
+  "AdjusterDetails": {
+    "Name": "Shaun Graves",
+    "ContactInformation": {
+      "Phone": "(421)940-6714x518",
+      "Email": "andrew14@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/cd98f49d-1122-4ad4-9783-0c23ec221bd2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hanson-Glenn",
+    "Model": "exactly",
+    "Year": 2016,
+    "VIN": "895c4b39-7c26-4d80-ae0e-8ece779795a1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dana Hart",
+      "ContactInformation": {
+        "Phone": "8407509940",
+        "Email": "joshuawang@example.com"
+      },
+      "Statement": "Pm seven claim allow career here single. Less quite town become other."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a550d9fa-438a-4b96-a084-31aeb28969df",
+    "OfficerName": "Christopher Mccarthy",
+    "ReportDetails": "War century individual. For participant clearly security moment offer. Account activity everyone the major."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 522,
+    "AnnualIncome": 162985,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 2,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

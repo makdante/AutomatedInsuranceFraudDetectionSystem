@@ -1,0 +1,112 @@
+{
+  "ClaimID": "21bdd133-6189-4cdc-b15b-c6515a691a8b",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-09-23",
+    "EndDate": "2026-09-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-01",
+    "Location": "53721 Debra Divide Apt. 491\nAlvarezview, AS 78891",
+    "Description": "Thing end plant particularly. Few her idea ready strong herself by. Still class local quickly game.\nTreatment leader understand situation start win. Maintain song popular spring Republican stop."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5288
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3458
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 91246
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13476
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 31047
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 144515,
+    "TotalApproved": 125043
+  },
+  "AdjusterDetails": {
+    "Name": "Justin Martinez",
+    "ContactInformation": {
+      "Phone": "5406299970",
+      "Email": "scottlaura@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1d4b470e-83b8-489b-87b0-60ac86ae65c4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-09-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miles Inc",
+    "Model": "firm",
+    "Year": 2004,
+    "VIN": "cc8f422c-d3ae-422f-b389-ebe2ec9028b6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Acosta",
+      "ContactInformation": {
+        "Phone": "(933)488-9699x5256",
+        "Email": "ricesarah@example.org"
+      },
+      "Statement": "Four from personal economy stuff open small. Nothing analysis response.\nSkin majority direction involve design style box."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "82f43dec-48f5-4df5-ab0c-6a52ac64cd1e",
+    "OfficerName": "Brandon Nichols",
+    "ReportDetails": "Property debate meet the every. Accept attorney station have born water. But husband law dark sign.\nAttorney seem service huge station international. Window tell ball."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 660,
+    "AnnualIncome": 103284,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

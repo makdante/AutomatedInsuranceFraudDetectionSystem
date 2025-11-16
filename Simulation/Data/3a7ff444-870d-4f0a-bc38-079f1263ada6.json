@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3a7ff444-870d-4f0a-bc38-079f1263ada6",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2025-03-29",
+    "EndDate": "2026-03-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-01",
+    "Location": "39582 Stefanie Inlet\nJoshuamouth, TN 05398",
+    "Description": "Unit reduce little know night either. Order style plant side teach deep. Eye money particular for there. Ten east feel pass increase candidate arm."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5763
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2621
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 57030
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 96722
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14714
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 176850,
+    "TotalApproved": 167669
+  },
+  "AdjusterDetails": {
+    "Name": "Matthew Solis",
+    "ContactInformation": {
+      "Phone": "841-672-0605",
+      "Email": "marshaaron@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/f3123268-b67b-4599-a54f-e6f45ba532ae"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Diaz PLC",
+    "Model": "pick",
+    "Year": 2000,
+    "VIN": "11703761-fbfb-4054-9a7d-d18744f59ec3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michele Moore",
+      "ContactInformation": {
+        "Phone": "252-594-0010x5614",
+        "Email": "telliott@example.com"
+      },
+      "Statement": "Whose local cover camera pull. Manager personal much effect only.\nMajority father car occur perform fund media."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "193ab708-faea-4aa0-9782-98d6e0c21d54",
+    "OfficerName": "Natalie Johnson",
+    "ReportDetails": "Reveal lead leave beat race station my movement. None media possible perhaps my life theory. More about collection story enough science."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 664,
+    "AnnualIncome": 89486,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a88aa962-b620-4ac7-845c-6752e874df89",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2025-05-10",
+    "EndDate": "2026-05-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-02",
+    "Location": "52479 Rebecca Roads\nNelsontown, AK 72665",
+    "Description": "Public our impact conference however sing. Ready between increase doctor. Rest speak decade design sport thank result."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 38776
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 127214
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19758
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 57320
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15401
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 258469,
+    "TotalApproved": 157434
+  },
+  "AdjusterDetails": {
+    "Name": "Valerie Powers",
+    "ContactInformation": {
+      "Phone": "+1-751-694-1070x62060",
+      "Email": "cruzdean@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/156c7872-59c1-4749-a12e-40c754fea978"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Duarte Inc",
+    "Model": "that",
+    "Year": 2001,
+    "VIN": "de47153b-cf50-4f9e-bdfa-c817f1056def"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Justin Leach",
+      "ContactInformation": {
+        "Phone": "(317)393-4139x6787",
+        "Email": "ashleyvasquez@example.org"
+      },
+      "Statement": "Per international model. Adult American song design big beyond.\nEnd magazine personal already reality appear unit. Daughter similar bag seem. Have represent same across number open."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "37583172-cd11-4cd0-a6c6-400984cf8dfc",
+    "OfficerName": "Hannah Burke",
+    "ReportDetails": "Human enter run fear you former military. Suffer thus little economy cup expert above.\nWhole party first hot purpose enjoy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 415,
+    "AnnualIncome": 75197,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 1,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

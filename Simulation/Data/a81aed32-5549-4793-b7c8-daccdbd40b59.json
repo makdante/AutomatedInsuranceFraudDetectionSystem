@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a81aed32-5549-4793-b7c8-daccdbd40b59",
+  "PolicyID": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+  "EffectiveDates": {
+    "StartDate": "2025-07-28",
+    "EndDate": "2026-07-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "49ce8efb-716c-47d5-8d7f-00c686bd480a",
+    "Name": "Evan Russell",
+    "PolicyNumber": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+    "ContactInformation": {
+      "Phone": "546.466.7522",
+      "Email": "shawn53@example.net",
+      "Address": "6476 Holland Causeway Suite 490\nSouth Reginaborough, WV 81664"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-09",
+    "Location": "615 Derek Landing Suite 963\nSalinasfort, MP 31181",
+    "Description": "Thousand night near image senior dark dinner. Along place one attention everyone view relationship. Allow bring pull painting across. Me trial open action off staff."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 90820
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13977
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 61317
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8682
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 76071
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 250867,
+    "TotalApproved": 122668
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Fisher",
+    "ContactInformation": {
+      "Phone": "(447)875-8703x96083",
+      "Email": "bradleymario@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1b0bd5df-4a77-42d8-9bfe-04ac8fdeca17"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morse-Nguyen",
+    "Model": "including",
+    "Year": 2000,
+    "VIN": "7cd0a5ed-2673-4f30-9cc5-21d1169b3b3a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Regina Arnold",
+      "ContactInformation": {
+        "Phone": "211-999-8486x599",
+        "Email": "wbaldwin@example.com"
+      },
+      "Statement": "Instead event somebody garden figure religious.\nCurrent generation institution address traditional. Understand three write article claim describe. Security what draw certain push fast."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0f7b3a14-e39e-4b06-bda2-54a00b8f8351",
+    "OfficerName": "Jason Palmer",
+    "ReportDetails": "Whatever article light project until want usually. Case major network protect fine.\nEat help lead which security. Rock tree that data hold indicate."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 518,
+    "AnnualIncome": 189171,
+    "DebtToIncomeRatio": 0.36
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 8,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

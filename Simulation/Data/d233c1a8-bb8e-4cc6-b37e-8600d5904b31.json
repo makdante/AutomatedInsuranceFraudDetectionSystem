@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d233c1a8-bb8e-4cc6-b37e-8600d5904b31",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2024-12-05",
+    "EndDate": "2025-12-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-15",
+    "Location": "7551 Larry Knoll\nCynthiabury, TX 68486",
+    "Description": "Better story provide important. How relate six risk perform. Attack book prevent student term.\nAround involve piece learn.\nPrepare difficult into or. Cut cost let development kid owner."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8616
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 91258
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 96262
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5338
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4337
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 205811,
+    "TotalApproved": 205299
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Wall",
+    "ContactInformation": {
+      "Phone": "(326)973-7221x638",
+      "Email": "eortiz@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7ef62734-3665-4f30-b8aa-a80462484416"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith-Keith",
+    "Model": "on",
+    "Year": 2015,
+    "VIN": "bf927f39-18d0-4d21-9805-5a3e088c380b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Carrie Maldonado",
+      "ContactInformation": {
+        "Phone": "001-743-531-2439",
+        "Email": "alvarezstephen@example.org"
+      },
+      "Statement": "Court knowledge everybody that land partner. Several once thought central focus just.\nYour sport car. They hair production cell remain everybody person score. Manage character leg manage interesting."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b8aaa4d0-4f76-4a91-93ef-7204d64d9098",
+    "OfficerName": "Michael Kennedy",
+    "ReportDetails": "And event material project.\nHistory city of between wait. Consumer involve become his several reach education. Yard skin her return nice professor live."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 585,
+    "AnnualIncome": 83837,
+    "DebtToIncomeRatio": 0.36
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

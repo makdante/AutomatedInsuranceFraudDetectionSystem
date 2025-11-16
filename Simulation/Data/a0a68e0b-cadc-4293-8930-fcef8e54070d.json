@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a0a68e0b-cadc-4293-8930-fcef8e54070d",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-01-25",
+    "EndDate": "2026-01-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-22",
+    "Location": "USNS Erickson\nFPO AA 38876",
+    "Description": "Condition model practice happy break result act. Lose brother family ago loss sound draw. Enough matter authority table sound return."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12066
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3900
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27315
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8019
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6818
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 58118,
+    "TotalApproved": 48907
+  },
+  "AdjusterDetails": {
+    "Name": "Mike Barr",
+    "ContactInformation": {
+      "Phone": "(943)370-6872x245",
+      "Email": "crawfordkatie@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/6b868e89-dc08-4a01-b1fa-2bc56c8edb8c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams-Ramirez",
+    "Model": "price",
+    "Year": 2001,
+    "VIN": "a3d37132-6555-4543-a167-21d29dc4f90d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nicole Monroe",
+      "ContactInformation": {
+        "Phone": "639-639-0780x6694",
+        "Email": "julie16@example.net"
+      },
+      "Statement": "Suggest individual wife item character history. Different data case model low chair.\nControl middle instead least practice. Successful pull help defense reach."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c933c04b-2259-4bab-9eeb-85d73fb56e9a",
+    "OfficerName": "Martin Nunez",
+    "ReportDetails": "Act fill protect agreement trade good onto their. Certainly test camera next green high learn.\nReally ten happy. In control serious up. Mean key scene resource ability adult.\nMost board sell doctor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 693,
+    "AnnualIncome": 197712,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

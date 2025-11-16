@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e0b482be-a39e-46cc-a557-9a64d4ab4db7",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-02-02",
+    "EndDate": "2026-02-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-11",
+    "Location": "762 Diaz Canyon Apt. 970\nYoderburgh, VA 49973",
+    "Description": "Lay least sound civil population. Use threat bit consumer social."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13861
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10865
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 67742
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13015
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 144946
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 250429,
+    "TotalApproved": 18683
+  },
+  "AdjusterDetails": {
+    "Name": "Maria Gallagher",
+    "ContactInformation": {
+      "Phone": "001-316-982-2737x24656",
+      "Email": "jenkinskenneth@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/08cb9cf9-b9d4-4481-97b5-a1efa18c748e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stokes-Garrett",
+    "Model": "the",
+    "Year": 2017,
+    "VIN": "9ed1b2ae-7a42-4e46-9f9e-179cdb45f338"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lauren Johnson",
+      "ContactInformation": {
+        "Phone": "261-595-8976",
+        "Email": "hardybrianna@example.net"
+      },
+      "Statement": "May list director bag. Especially our skin involve."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "52d78dd4-c638-4bba-87e7-2632db78463c",
+    "OfficerName": "Christine Townsend",
+    "ReportDetails": "Sing although country simple. Thus specific ok item last table interesting."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 319,
+    "AnnualIncome": 165133,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 4,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

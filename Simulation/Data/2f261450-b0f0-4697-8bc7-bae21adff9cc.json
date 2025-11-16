@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2f261450-b0f0-4697-8bc7-bae21adff9cc",
+  "PolicyID": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+  "EffectiveDates": {
+    "StartDate": "2025-04-29",
+    "EndDate": "2026-04-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5bc871d2-36ee-4aee-bc7f-b179bb855d6f",
+    "Name": "Eric Fletcher",
+    "PolicyNumber": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+    "ContactInformation": {
+      "Phone": "243.779.0944x7212",
+      "Email": "grantjones@example.com",
+      "Address": "4468 Cunningham Islands Apt. 297\nNorth Greg, SC 48184"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-06",
+    "Location": "0317 Logan Hill\nPort Aaronport, VI 88321",
+    "Description": "Together even task identify travel community. Color family many important."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 32009
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 57186
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 28577
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 46076
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14379
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 178227,
+    "TotalApproved": 49524
+  },
+  "AdjusterDetails": {
+    "Name": "John Randall",
+    "ContactInformation": {
+      "Phone": "(223)250-1992x62030",
+      "Email": "kiddtyler@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/c5e58a90-6ca3-45bd-9233-6b4397e82d57"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones Ltd",
+    "Model": "admit",
+    "Year": 2008,
+    "VIN": "4d4ea627-b7ce-47c0-a956-1bca8f43b18e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Trevor Smith",
+      "ContactInformation": {
+        "Phone": "741.791.5650",
+        "Email": "blackburnmonica@example.org"
+      },
+      "Statement": "Area time character somebody general few defense ask. Lay network white radio Mrs. Long those at."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "50a07b63-4b51-4d33-8f7d-1e563e84c7a7",
+    "OfficerName": "Matthew Burch",
+    "ReportDetails": "Nature all indicate so voice. These write ability minute stand clear.\nMean owner direction cultural report property mind attack. Congress meeting crime trip about."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 528,
+    "AnnualIncome": 188776,
+    "DebtToIncomeRatio": 0.31
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 0,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

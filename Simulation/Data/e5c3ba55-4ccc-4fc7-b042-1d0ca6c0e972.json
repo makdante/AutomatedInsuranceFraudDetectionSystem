@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e5c3ba55-4ccc-4fc7-b042-1d0ca6c0e972",
+  "PolicyID": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+  "EffectiveDates": {
+    "StartDate": "2024-11-22",
+    "EndDate": "2025-11-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3cd8543c-a7fa-4fd5-96b8-321382511c44",
+    "Name": "Darryl Leonard",
+    "PolicyNumber": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+    "ContactInformation": {
+      "Phone": "342-367-2937",
+      "Email": "bmejia@example.net",
+      "Address": "429 Kimberly Landing\nClayburgh, AZ 73702"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-22",
+    "Location": "84286 Velez Ville Apt. 915\nPort Katherineton, NH 86815",
+    "Description": "Mean amount some actually case operation operation. Subject image beautiful ok.\nPeople level your dark condition for which stay. Rule employee risk well. Tell four attack edge ten system."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 59648
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13522
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17170
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9137
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 189018
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 288495,
+    "TotalApproved": 103169
+  },
+  "AdjusterDetails": {
+    "Name": "Calvin Pacheco",
+    "ContactInformation": {
+      "Phone": "(260)768-8758",
+      "Email": "harmonkatie@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/390b69cd-2d5e-47e8-a190-4d1899e69ed7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-22T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-27T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-01T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chang, Williams and Mendez",
+    "Model": "economy",
+    "Year": 2020,
+    "VIN": "22b107e7-7c40-437b-a275-32d3b8a8d3d8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Julie Cruz",
+      "ContactInformation": {
+        "Phone": "(645)544-2069",
+        "Email": "jessicamoore@example.net"
+      },
+      "Statement": "Stop dog quickly as. Would car Republican leave ability.\nSend professor imagine some. Others maybe contain language. Book actually material general rock hundred."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "31780a28-8f2c-433b-8a78-08f4d938cc72",
+    "OfficerName": "Mrs. Michele Davis MD",
+    "ReportDetails": "Against air develop. Discover but response position want open.\nSpecial happy bed summer. Full raise wife let management.\nArrive everybody manage hour. Local challenge send evidence maintain."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 686,
+    "AnnualIncome": 192751,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

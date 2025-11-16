@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b3d2cb16-f380-4e0b-809f-a187637ca044",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-03-12",
+    "EndDate": "2026-03-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-19",
+    "Location": "82960 Taylor Crossroad Apt. 190\nSouth Chadtown, GU 61074",
+    "Description": "Themselves trouble central church when. Teacher onto conference great project no offer.\nDetail dark appear thus."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3835
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 68924
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 35505
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 30225
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 33062
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 171551,
+    "TotalApproved": 29101
+  },
+  "AdjusterDetails": {
+    "Name": "Theresa Kirby",
+    "ContactInformation": {
+      "Phone": "(475)962-3670x8767",
+      "Email": "oshannon@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/51dcd750-97c8-4e7d-94bb-1093aa616fe9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones PLC",
+    "Model": "activity",
+    "Year": 2002,
+    "VIN": "b639cee4-7621-4d8f-9fad-ae04f9d293cd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lori Gray",
+      "ContactInformation": {
+        "Phone": "332-643-3291x233",
+        "Email": "stephanie10@example.net"
+      },
+      "Statement": "Field step become happen view voice summer. West interesting available conference store. Edge their we large pretty computer learn."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ad6f8002-9a14-4451-ac08-1500687293a3",
+    "OfficerName": "Kristi Long",
+    "ReportDetails": "Matter sea kid happy local. Style market certain three dog.\nScore investment meeting type. Simply bad cell difference top who. Quickly inside after time its well."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 305,
+    "AnnualIncome": 135521,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

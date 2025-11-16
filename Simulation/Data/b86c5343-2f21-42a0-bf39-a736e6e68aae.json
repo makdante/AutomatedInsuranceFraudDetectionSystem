@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b86c5343-2f21-42a0-bf39-a736e6e68aae",
+  "PolicyID": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+  "EffectiveDates": {
+    "StartDate": "2025-10-17",
+    "EndDate": "2026-10-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "39861407-409e-4253-9f6c-7c0f48258b61",
+    "Name": "Frank Summers",
+    "PolicyNumber": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+    "ContactInformation": {
+      "Phone": "(214)893-1385x492",
+      "Email": "johnsonsherry@example.org",
+      "Address": "630 Phillips Roads Suite 295\nSouth Suzanne, PR 08692"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-21",
+    "Location": "78594 Cunningham Flat\nStephaniefurt, GA 73045",
+    "Description": "Fast free measure thought that ahead voice. Line size decision south during since participant.\nYard budget use whatever for price. Campaign really accept. Break church apply."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4014779
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4410308
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4990992
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4084796
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4585855
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22086730,
+    "TotalApproved": 9298414
+  },
+  "AdjusterDetails": {
+    "Name": "Andrea Knight",
+    "ContactInformation": {
+      "Phone": "(662)683-2379x1693",
+      "Email": "ianderson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/de4c337a-0a42-447f-b437-47bea88db131"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-31T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chambers Inc",
+    "Model": "book",
+    "Year": 2020,
+    "VIN": "afd2d589-082b-4b9e-a90c-e1e9d1170ee2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brian Mack",
+      "ContactInformation": {
+        "Phone": "001-881-846-8631",
+        "Email": "hernandezdawn@example.com"
+      },
+      "Statement": "Develop sell quite factor both increase bill better. Show read continue end yard.\nPainting everything civil fight physical. Treat why no not."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c02e39ce-caf1-4400-8a7f-d8bcef43626b",
+    "OfficerName": "Nancy Hall",
+    "ReportDetails": "Sure best water.\nProperty wish ask. Tv your leg stuff.\nHim us they see. Condition throughout within age study return."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 500,
+    "AnnualIncome": 41724,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

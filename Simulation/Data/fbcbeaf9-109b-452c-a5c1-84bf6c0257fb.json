@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fbcbeaf9-109b-452c-a5c1-84bf6c0257fb",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-03-02",
+    "EndDate": "2026-03-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-16",
+    "Location": "3447 Katherine Plaza\nMasseyburgh, VT 31425",
+    "Description": "Heart evidence specific picture continue present wish tonight. Later language still moment ahead officer water."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12665
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 39449
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 74636
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11994
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 51606
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 190350,
+    "TotalApproved": 72770
+  },
+  "AdjusterDetails": {
+    "Name": "Robin Zavala",
+    "ContactInformation": {
+      "Phone": "001-363-322-7600x040",
+      "Email": "smithsarah@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/48f15196-62bb-4d1c-8ca3-56ce2c6e1d00"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson-Clark",
+    "Model": "eye",
+    "Year": 2010,
+    "VIN": "fb3e0d80-383a-4ce5-80b8-6be154cebfec"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jason Alvarez",
+      "ContactInformation": {
+        "Phone": "950-972-5350x330",
+        "Email": "linda82@example.com"
+      },
+      "Statement": "Care share history loss tend end. Often main source investment.\nPressure recent receive. Anything they carry shoulder care produce."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f35ff464-cabf-45c0-bdd6-c6fe16f477f4",
+    "OfficerName": "Melissa Barnett",
+    "ReportDetails": "In ahead around expert movement. Voice discussion build involve century put. Check politics property maintain front listen subject. Doctor degree season section myself up sit."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 633,
+    "AnnualIncome": 88999,
+    "DebtToIncomeRatio": 0.16
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

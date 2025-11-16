@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d0293335-8e04-4861-ad4c-def90f4c476a",
+  "PolicyID": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+  "EffectiveDates": {
+    "StartDate": "2024-12-23",
+    "EndDate": "2025-12-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eb400d1e-8ed3-4fd5-8a4b-a02804e6ce83",
+    "Name": "Dylan Lee",
+    "PolicyNumber": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+    "ContactInformation": {
+      "Phone": "976.394.8548x28663",
+      "Email": "blane@example.com",
+      "Address": "044 Briggs Way\nLake Allisonchester, FM 38872"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-02",
+    "Location": "076 Jeffrey Alley\nWest Brian, AL 75144",
+    "Description": "Kid dark avoid rise build between may should. Dream event world able third market organization. Feeling last nor during minute large save.\nLot hope style practice top."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1200
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13623
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3634
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1573
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15633
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 35663,
+    "TotalApproved": 12124
+  },
+  "AdjusterDetails": {
+    "Name": "Dustin Thompson",
+    "ContactInformation": {
+      "Phone": "+1-752-277-7931x51047",
+      "Email": "bnewman@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/adaeda3f-7a2c-48d9-bce0-c3404b1ab939"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Underwood-Carr",
+    "Model": "feel",
+    "Year": 2016,
+    "VIN": "af18a797-67b6-4391-9f21-976adefe86a8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sarah Rubio",
+      "ContactInformation": {
+        "Phone": "388-612-6885x3278",
+        "Email": "alexandercook@example.com"
+      },
+      "Statement": "Very fear phone town hard tonight hot property. This story prevent at three song. Military western feel."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "22ab2529-83b0-4f5a-ac75-74390ae031ed",
+    "OfficerName": "Kari Lewis",
+    "ReportDetails": "Approach agent I common should. Wear authority church day camera dinner. Why well seat a above measure."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 849,
+    "AnnualIncome": 168223,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

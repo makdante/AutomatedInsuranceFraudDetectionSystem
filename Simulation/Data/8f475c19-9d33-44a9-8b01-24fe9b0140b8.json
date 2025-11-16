@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8f475c19-9d33-44a9-8b01-24fe9b0140b8",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2024-12-29",
+    "EndDate": "2025-12-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-06",
+    "Location": "45766 Bender Place\nFrenchburgh, TX 44930",
+    "Description": "Edge person home use call cover model member. One create position write voice artist soldier. Nation hundred particular onto compare different."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7224
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5077
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12391
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6425
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 33208
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 64325,
+    "TotalApproved": 22977
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Carr",
+    "ContactInformation": {
+      "Phone": "(450)246-6332x1937",
+      "Email": "anna97@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e4027295-4223-48d5-8206-d03afd9d1416"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garcia, Morris and Wilson",
+    "Model": "plan",
+    "Year": 2016,
+    "VIN": "8ea1edd9-9027-4f44-b6b6-747c6c21781b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ricky Strickland",
+      "ContactInformation": {
+        "Phone": "(988)458-2737",
+        "Email": "ocooper@example.org"
+      },
+      "Statement": "Year recently level decide over. Owner cause pay. Air him discussion option yard task may.\nHealth other present drop quickly yes letter."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0d40da2a-8132-4fa1-be1b-67f703d1a3c4",
+    "OfficerName": "Jesus Rice",
+    "ReportDetails": "Player guess personal agency. Agreement western nearly early up level billion."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 467,
+    "AnnualIncome": 78009,
+    "DebtToIncomeRatio": 0.96
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 10,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

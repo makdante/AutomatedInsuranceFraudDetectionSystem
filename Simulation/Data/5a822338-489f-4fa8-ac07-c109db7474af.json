@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5a822338-489f-4fa8-ac07-c109db7474af",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-10-17",
+    "EndDate": "2026-10-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-06",
+    "Location": "012 Walsh Curve\nEast Amyborough, MH 38271",
+    "Description": "Development agree newspaper town company under. Father level believe economy."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 81195
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 35498
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13001
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 62565
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 39955
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 232214,
+    "TotalApproved": 71019
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Mcintyre PhD",
+    "ContactInformation": {
+      "Phone": "523-706-2016x2074",
+      "Email": "qmcmahon@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b429215f-5cd2-445e-b79d-039629521841"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cooper, Castillo and Washington",
+    "Model": "staff",
+    "Year": 2002,
+    "VIN": "1d7a334c-9224-44ad-99e2-e42e15e09099"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Perez",
+      "ContactInformation": {
+        "Phone": "001-507-274-4069x897",
+        "Email": "dgardner@example.org"
+      },
+      "Statement": "Them place eat energy century run door. Cause both other she your. Energy debate culture American her nice.\nPeace become region production. Maintain hope traditional until. There site science."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2f9d294c-893e-40b1-a8ef-9c670240161d",
+    "OfficerName": "Marcus Juarez",
+    "ReportDetails": "World past understand economy. Rather should value purpose argue radio.\nExist try rule read leave mention also. Around out test painting travel store risk. Face six that thousand."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 680,
+    "AnnualIncome": 58241,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

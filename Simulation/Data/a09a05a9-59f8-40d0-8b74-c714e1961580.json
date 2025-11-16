@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a09a05a9-59f8-40d0-8b74-c714e1961580",
+  "PolicyID": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+  "EffectiveDates": {
+    "StartDate": "2024-11-24",
+    "EndDate": "2025-11-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "709ee9bc-7606-4bdf-b79d-eda726a7c4fa",
+    "Name": "Heather Hall",
+    "PolicyNumber": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+    "ContactInformation": {
+      "Phone": "492.558.8377x933",
+      "Email": "ckemp@example.org",
+      "Address": "587 Elaine Underpass Suite 792\nRaymondshire, CO 15518"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-17",
+    "Location": "19827 Lawson Valleys Suite 386\nEast Annaborough, MI 30964",
+    "Description": "Instead collection dog rule near the. Wide some poor young simple simple evidence law.\nProduce measure subject contain very somebody term. Time civil capital give baby popular."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 25226
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 44744
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16548
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14987
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 38339
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 139844,
+    "TotalApproved": 37838
+  },
+  "AdjusterDetails": {
+    "Name": "Elizabeth Martinez",
+    "ContactInformation": {
+      "Phone": "+1-921-357-8350x991",
+      "Email": "bakeralexander@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/751e7fdb-20d9-4783-a610-e666d4254a22"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stanley and Sons",
+    "Model": "people",
+    "Year": 2018,
+    "VIN": "fd84f428-5d6f-4355-b94d-4f8f9c7fd073"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Brown",
+      "ContactInformation": {
+        "Phone": "+1-504-262-6743",
+        "Email": "cristina09@example.net"
+      },
+      "Statement": "Past ten election interview home others happy. Professor purpose model claim.\nSend stage right camera. Draw million least hospital person."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6df15492-e68e-4e6b-ad21-64413a0045e5",
+    "OfficerName": "Richard Ware",
+    "ReportDetails": "Yeah possible arm late. Night war least Republican.\nGuess room front else.\nLocal anything move. Ability drop quality at. Mission wonder history live."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 533,
+    "AnnualIncome": 74998,
+    "DebtToIncomeRatio": 0.86
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 9,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

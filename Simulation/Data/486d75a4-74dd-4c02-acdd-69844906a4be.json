@@ -1,0 +1,112 @@
+{
+  "ClaimID": "486d75a4-74dd-4c02-acdd-69844906a4be",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-08-02",
+    "EndDate": "2026-08-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-17",
+    "Location": "77419 Evan Pike Suite 164\nNorth Moniqueberg, VA 94673",
+    "Description": "Occur each hair finish participant chance.\nOff carry field culture exist.\nSince quite successful likely. Cell in side."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 172666
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8727
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3162
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 114983
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 71616
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 371154,
+    "TotalApproved": 282536
+  },
+  "AdjusterDetails": {
+    "Name": "Elizabeth Johnson",
+    "ContactInformation": {
+      "Phone": "308-386-4915x082",
+      "Email": "osingleton@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/3b1c9d30-ea20-410b-bfb8-b9d918496026"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Carr and Sons",
+    "Model": "audience",
+    "Year": 2011,
+    "VIN": "0bf5076e-8363-4ecd-a21e-fd436cea5aec"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Hernandez",
+      "ContactInformation": {
+        "Phone": "866.993.8585",
+        "Email": "xbennett@example.com"
+      },
+      "Statement": "Same know hand. Level process great pattern. End choice age.\nPressure process across author practice player. Weight class follow series staff."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bde15d9f-f339-4cc6-9c55-d2364d92ea63",
+    "OfficerName": "Matthew Walker",
+    "ReportDetails": "Gas professor certainly better education well school might. Recently so team happen unit forward east. These rate look million.\nLanguage send city. Resource maintain treatment produce second."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 333,
+    "AnnualIncome": 176576,
+    "DebtToIncomeRatio": 0.31
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

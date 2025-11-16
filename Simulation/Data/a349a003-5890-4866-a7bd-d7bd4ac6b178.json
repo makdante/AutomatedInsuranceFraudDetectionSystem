@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a349a003-5890-4866-a7bd-d7bd4ac6b178",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-10-22",
+    "EndDate": "2026-10-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-16",
+    "Location": "61688 Brown Rue Apt. 506\nElizabethville, RI 09476",
+    "Description": "Police team quality sometimes information sell. Happy for writer thought can hope step huge. Leader tend modern official budget mean indicate four."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10855
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 63757
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 56623
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6602
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 72219
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 210056,
+    "TotalApproved": 106964
+  },
+  "AdjusterDetails": {
+    "Name": "Kenneth Stokes",
+    "ContactInformation": {
+      "Phone": "+1-538-970-0472x5228",
+      "Email": "lhernandez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/44d82a53-61c9-443a-9c1e-ec785ff06027"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Henderson-Reed",
+    "Model": "perform",
+    "Year": 2012,
+    "VIN": "a46d1393-1beb-42ed-bacc-174fa62335e6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Victor Ho",
+      "ContactInformation": {
+        "Phone": "460.532.6669",
+        "Email": "hughesjennifer@example.net"
+      },
+      "Statement": "Here certain follow among upon. Court card system computer. Hard sure these man onto.\nSomeone little science fire at top. Throw hard candidate one."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6519795a-47fe-4647-8833-19fce8a5491b",
+    "OfficerName": "Jessica Macdonald",
+    "ReportDetails": "Doctor especially five ability. Have provide decision husband when.\nNearly receive inside various unit break. Know remember official easy executive fire."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 537,
+    "AnnualIncome": 196976,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 9,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

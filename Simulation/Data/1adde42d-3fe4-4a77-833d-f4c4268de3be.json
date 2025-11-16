@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1adde42d-3fe4-4a77-833d-f4c4268de3be",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2024-11-22",
+    "EndDate": "2025-11-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-04",
+    "Location": "56922 King Common\nMatthewshire, UT 84715",
+    "Description": "Four yeah image price clearly. Stage agency budget evidence difficult board former.\nAudience majority hair. Note statement run accept fly. Beat four college each head."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39324
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 37623
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 47770
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 83656
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 56544
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 264917,
+    "TotalApproved": 6748
+  },
+  "AdjusterDetails": {
+    "Name": "Amber King",
+    "ContactInformation": {
+      "Phone": "+1-500-405-5340x97054",
+      "Email": "juliecarey@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/789f4e92-b0d7-4200-9a6f-9a87de41bef9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Freeman Group",
+    "Model": "behavior",
+    "Year": 2013,
+    "VIN": "87bfa44e-7460-4d3d-8539-85c7b6b56d91"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Fischer",
+      "ContactInformation": {
+        "Phone": "001-352-546-2799",
+        "Email": "moniquemorgan@example.com"
+      },
+      "Statement": "Finally figure crime window. Enter law middle shake support.\nRoom know example cultural lead. Use plant free. Create whatever long society land age."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e44bef07-7f5b-4fdc-8ef8-c0e767a707d6",
+    "OfficerName": "Roberta Morrison",
+    "ReportDetails": "Ok federal may voice part. Firm early society machine.\nMiddle surface six work. Run guy four son participant. Arrive trouble situation determine certain plan claim."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 327,
+    "AnnualIncome": 153548,
+    "DebtToIncomeRatio": 0.35
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

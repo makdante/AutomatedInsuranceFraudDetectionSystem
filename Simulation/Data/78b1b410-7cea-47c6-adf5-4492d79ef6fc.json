@@ -1,0 +1,112 @@
+{
+  "ClaimID": "78b1b410-7cea-47c6-adf5-4492d79ef6fc",
+  "PolicyID": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+  "EffectiveDates": {
+    "StartDate": "2024-11-18",
+    "EndDate": "2025-11-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4034d100-7369-434a-b9ce-6c4944f22306",
+    "Name": "Katherine Chang",
+    "PolicyNumber": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+    "ContactInformation": {
+      "Phone": "001-974-300-4293",
+      "Email": "amyfarley@example.org",
+      "Address": "32411 Michael Station Suite 689\nJeffreymouth, FM 88065"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-27",
+    "Location": "40041 Tracy Falls\nNew Patrickville, IL 16646",
+    "Description": "Race find later couple push finally leg maybe. Dream hour leg even only car. Majority charge instead write approach though."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1189
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13797
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7590
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 73347
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15665
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 111588,
+    "TotalApproved": 87420
+  },
+  "AdjusterDetails": {
+    "Name": "Patricia Jackson",
+    "ContactInformation": {
+      "Phone": "(546)670-6677x3177",
+      "Email": "mcooper@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/49bc6f9a-a7a4-4dba-b27c-7ab69c5b9b23"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis, Horton and Hickman",
+    "Model": "sing",
+    "Year": 2001,
+    "VIN": "80ff5ad0-5e41-4583-97c1-bfecb5ebedbe"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Shannon Roman",
+      "ContactInformation": {
+        "Phone": "+1-775-572-9297x908",
+        "Email": "ricemichelle@example.org"
+      },
+      "Statement": "Film both turn Democrat dark between. Notice firm treatment PM middle. Save probably white building."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7dc985fa-fc9a-4f9d-b054-6ed665f0dc02",
+    "OfficerName": "Ann Rodriguez",
+    "ReportDetails": "Sign inside still only forget knowledge can operation. Important may and do. Summer player spend energy. Education as sit place test rise yes save."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 410,
+    "AnnualIncome": 49138,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

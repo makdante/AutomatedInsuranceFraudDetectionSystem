@@ -1,0 +1,112 @@
+{
+  "ClaimID": "03f05f76-d87c-4d7c-bc50-b9ae21a3103d",
+  "PolicyID": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+  "EffectiveDates": {
+    "StartDate": "2025-02-15",
+    "EndDate": "2026-02-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "36ef7374-a94b-45c8-8312-6e8562668715",
+    "Name": "Vincent Flynn",
+    "PolicyNumber": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+    "ContactInformation": {
+      "Phone": "950-852-7090",
+      "Email": "harrybryant@example.com",
+      "Address": "476 Reed Landing\nJeanettestad, VT 94361"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-18",
+    "Location": "49021 Johnson Meadows\nWaltermouth, GA 76098",
+    "Description": "Office inside decision possible my. Firm yet board.\nMinute last president. Allow good picture picture like though. Art she base few whole."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 193098
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 81017
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14130
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11301
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2665
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 302211,
+    "TotalApproved": 171959
+  },
+  "AdjusterDetails": {
+    "Name": "David Carr",
+    "ContactInformation": {
+      "Phone": "682.721.1224",
+      "Email": "tonynelson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/caaf481f-909d-4481-ba7d-48499f1a9aea"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cohen, Allen and Clark",
+    "Model": "amount",
+    "Year": 2022,
+    "VIN": "5fd24c2e-d51b-43d9-80d5-b8eb347474ca"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sabrina Stone",
+      "ContactInformation": {
+        "Phone": "336-511-4679x9286",
+        "Email": "carol56@example.net"
+      },
+      "Statement": "Adult ok food form mean care site. Speech rest should. System game establish doctor.\nFather evidence thousand. Material value drive."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "45cdc5f4-ea8e-4ad1-a5b3-9a9710058d8b",
+    "OfficerName": "Debbie Wang",
+    "ReportDetails": "Million fish research company beyond. Bring picture want wrong serious kitchen beautiful two.\nClear bed hot trade. Under student follow."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 664,
+    "AnnualIncome": 166435,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 5,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

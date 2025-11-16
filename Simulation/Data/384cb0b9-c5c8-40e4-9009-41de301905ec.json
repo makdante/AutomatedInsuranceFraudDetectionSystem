@@ -1,0 +1,112 @@
+{
+  "ClaimID": "384cb0b9-c5c8-40e4-9009-41de301905ec",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2024-12-17",
+    "EndDate": "2025-12-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-17",
+    "Location": "9824 Erin Trail Apt. 294\nCrossview, SD 51546",
+    "Description": "Perform decide factor day defense. Result future last big whose program.\nSpace everybody animal middle situation act. Beautiful fact carry develop."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14408
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 58611
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6911
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 50693
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22317
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 152940,
+    "TotalApproved": 22259
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Hopkins",
+    "ContactInformation": {
+      "Phone": "(703)679-4914x455",
+      "Email": "gary70@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/73ade76f-b92b-45b8-9456-fb1c35e5b2f4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "King Inc",
+    "Model": "fly",
+    "Year": 2008,
+    "VIN": "6a59f219-35c6-4eac-a29b-8adcf0c84b0f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Johnson",
+      "ContactInformation": {
+        "Phone": "+1-611-923-1052x3630",
+        "Email": "silvacarol@example.net"
+      },
+      "Statement": "Plan lawyer TV team people story. Probably forget including thing. Cost cultural range forward yard candidate."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1fa54938-a9f3-4a2b-b0f4-68ced916581f",
+    "OfficerName": "Jody Burnett",
+    "ReportDetails": "Point impact perhaps south protect. Food behind others. So among small food although plan impact article.\nLeft until professor by laugh at letter. Station special young."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 469,
+    "AnnualIncome": 166353,
+    "DebtToIncomeRatio": 0.44
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 6,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

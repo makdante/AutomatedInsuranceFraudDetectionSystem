@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f0712796-dd08-4f6c-8cf6-03544597ea39",
+  "PolicyID": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+  "EffectiveDates": {
+    "StartDate": "2024-12-08",
+    "EndDate": "2025-12-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "33851d0f-ae34-4d84-9979-9c0bb345ff37",
+    "Name": "Emily Richardson",
+    "PolicyNumber": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+    "ContactInformation": {
+      "Phone": "(999)370-8402x9360",
+      "Email": "stephen63@example.com",
+      "Address": "90107 Stephen Well\nAndrewmouth, ND 46797"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-15",
+    "Location": "922 Jessica Gateway Apt. 571\nYoungmouth, ME 77381",
+    "Description": "Operation describe himself herself oil quite.\nSuch seven go family know computer yourself local. Ask idea health rise around so study course."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 87391
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13017
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 43292
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17243
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2686
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 163629,
+    "TotalApproved": 30193
+  },
+  "AdjusterDetails": {
+    "Name": "Angela Duncan",
+    "ContactInformation": {
+      "Phone": "330.437.3464",
+      "Email": "qjimenez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e783338f-6b92-40ad-800c-0fee87094a94"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller-Braun",
+    "Model": "inside",
+    "Year": 2011,
+    "VIN": "ea32751d-549e-45a2-97ea-1117032297cb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jonathan Harris",
+      "ContactInformation": {
+        "Phone": "411.453.8612x621",
+        "Email": "dhill@example.net"
+      },
+      "Statement": "Eat behind over standard. Who forward full chair marriage scientist at. Amount six relate card security study join."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "06d3b090-4a46-438f-a9ff-545c748f2a8d",
+    "OfficerName": "Laurie Cunningham",
+    "ReportDetails": "Sport listen you ready. Interest give point every indicate central national. Artist sometimes son especially turn. Start fill hear reflect."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 732,
+    "AnnualIncome": 78178,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 7,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

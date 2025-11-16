@@ -1,0 +1,112 @@
+{
+  "ClaimID": "619d729f-df3f-4a26-9f96-ea04cf5f901f",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-02-26",
+    "EndDate": "2026-02-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-15",
+    "Location": "1456 Rojas Isle\nPort Brittany, AS 96978",
+    "Description": "Improve eat international model foot military. Camera cup dog teacher. Tend TV energy do. Industry available item nothing.\nSeason able range compare nation although party."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 60798
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14117
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3490
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6932
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18936
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 104273,
+    "TotalApproved": 29526
+  },
+  "AdjusterDetails": {
+    "Name": "Jill Stephenson",
+    "ContactInformation": {
+      "Phone": "+1-821-490-4963x91363",
+      "Email": "rebeccahernandez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d54b70a6-b9eb-4156-957e-370f88dd3978"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bowman and Sons",
+    "Model": "mind",
+    "Year": 2008,
+    "VIN": "b2e89ba3-442b-4e4a-955b-a53e657a4173"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Sexton",
+      "ContactInformation": {
+        "Phone": "230.495.0252",
+        "Email": "gilbertchristopher@example.com"
+      },
+      "Statement": "New author section day. Once government respond test mouth outside. Street describe college buy purpose politics. Scene decide they every task."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9b2b9576-04bc-4655-a56c-e196477bde48",
+    "OfficerName": "Heather Wong",
+    "ReportDetails": "Thousand both wife hair hotel yet enough. Attack edge might success per price."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 522,
+    "AnnualIncome": 25530,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

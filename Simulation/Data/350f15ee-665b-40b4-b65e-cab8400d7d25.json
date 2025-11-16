@@ -1,0 +1,112 @@
+{
+  "ClaimID": "350f15ee-665b-40b4-b65e-cab8400d7d25",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2024-12-03",
+    "EndDate": "2025-12-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-25",
+    "Location": "3446 Hanson Spurs\nNorth Tyler, MP 97940",
+    "Description": "Career ask oil be account. Bank catch prepare medical suffer many.\nCongress hit dog exist film. His floor blue. Scene collection soon speech describe deal note ball."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4292
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 45231
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 28221
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 73530
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7559
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 158833,
+    "TotalApproved": 87038
+  },
+  "AdjusterDetails": {
+    "Name": "Peter Lewis",
+    "ContactInformation": {
+      "Phone": "828-407-4241",
+      "Email": "jennythompson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a1885edc-b51a-4e3b-944e-abdf2d099689"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-04T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hunt, Branch and Gomez",
+    "Model": "piece",
+    "Year": 2008,
+    "VIN": "44a97846-90dd-493d-be2d-95f9d9ffb316"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathleen Rollins",
+      "ContactInformation": {
+        "Phone": "(763)871-9492x3245",
+        "Email": "michelleporter@example.org"
+      },
+      "Statement": "Because magazine red course expert personal on. Available order animal argue.\nWho institution level question go.\nChoice those employee might common despite. Body receive act small."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2f6f4daa-44aa-443a-a3f3-5308cd2c38ac",
+    "OfficerName": "Candace Crane",
+    "ReportDetails": "Organization wonder bag throw. Others inside push to would. Whether improve environmental both."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 551,
+    "AnnualIncome": 184853,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

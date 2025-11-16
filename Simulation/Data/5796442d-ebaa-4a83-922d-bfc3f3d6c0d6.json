@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5796442d-ebaa-4a83-922d-bfc3f3d6c0d6",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2024-11-21",
+    "EndDate": "2025-11-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-11",
+    "Location": "2253 Young Neck Suite 030\nNew Douglas, CT 57332",
+    "Description": "Rate guy camera report must none so. Majority any would he rise wonder state agreement. Future student hospital free religious born away probably."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 46061
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4537
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7968
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16286
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 84553
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 159405,
+    "TotalApproved": 53334
+  },
+  "AdjusterDetails": {
+    "Name": "Richard Butler",
+    "ContactInformation": {
+      "Phone": "6225546202",
+      "Email": "cameron53@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/f514cef4-de11-4539-b1ea-17bd8ee5aab5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "White-Browning",
+    "Model": "pull",
+    "Year": 2010,
+    "VIN": "3fdb622b-14f8-4b36-8e13-6ed18398e7a6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tanner Mitchell",
+      "ContactInformation": {
+        "Phone": "+1-376-831-2513x163",
+        "Email": "joseph67@example.org"
+      },
+      "Statement": "Section identify letter even. Usually question case by continue student.\nEvidence news including either. Why agency beyond debate woman necessary hold sit. View save compare travel."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "33485753-b2d4-4c1f-9f79-95ce1b7d04d2",
+    "OfficerName": "Michele Morgan",
+    "ReportDetails": "Collection lead commercial become really. Financial find foreign begin in heavy ability."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 850,
+    "AnnualIncome": 20926,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

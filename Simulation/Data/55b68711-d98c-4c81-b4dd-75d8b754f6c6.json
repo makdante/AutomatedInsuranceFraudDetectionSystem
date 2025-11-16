@@ -1,0 +1,112 @@
+{
+  "ClaimID": "55b68711-d98c-4c81-b4dd-75d8b754f6c6",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-08-20",
+    "EndDate": "2026-08-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-15",
+    "Location": "6853 Sarah Motorway Suite 074\nNicholasville, DE 24908",
+    "Description": "High source clear after tonight. Ask attention add hard answer interest.\nRest support chair area result seat almost. Language mouth reach enjoy expect charge keep."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4291142
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4634976
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4915010
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4028829
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4253402
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22123359,
+    "TotalApproved": 1411345
+  },
+  "AdjusterDetails": {
+    "Name": "Sergio Wade",
+    "ContactInformation": {
+      "Phone": "+1-368-697-3714",
+      "Email": "chadowen@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/cde74006-8d59-4c06-889d-5266d91ffce4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Duran Group",
+    "Model": "analysis",
+    "Year": 2012,
+    "VIN": "d5914287-e199-46e4-88f7-fded269daf4c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Nicholson",
+      "ContactInformation": {
+        "Phone": "(906)591-4535x469",
+        "Email": "xpayne@example.org"
+      },
+      "Statement": "Because from enjoy want another. Speak ask if. Establish themselves listen never successful might. General agreement campaign.\nTime grow black themselves can account significant."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "76180e20-1c3a-4c25-92c1-0d4ffa8f10f9",
+    "OfficerName": "Karla Downs",
+    "ReportDetails": "Although better summer thank arrive. Beat soldier impact partner month. Financial career cultural actually.\nRise surface bar establish central. Sport pressure analysis page then."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 365,
+    "AnnualIncome": 27988,
+    "DebtToIncomeRatio": 0.47
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

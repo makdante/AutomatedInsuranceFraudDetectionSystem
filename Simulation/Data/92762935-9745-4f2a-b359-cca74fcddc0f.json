@@ -1,0 +1,112 @@
+{
+  "ClaimID": "92762935-9745-4f2a-b359-cca74fcddc0f",
+  "PolicyID": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+  "EffectiveDates": {
+    "StartDate": "2025-07-10",
+    "EndDate": "2026-07-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fa402266-28f6-4a28-9984-042633fec81b",
+    "Name": "Miranda Nelson",
+    "PolicyNumber": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+    "ContactInformation": {
+      "Phone": "871.425.9645x240",
+      "Email": "iflynn@example.com",
+      "Address": "275 Lee Common\nSouth Hectorville, VI 11258"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-13",
+    "Location": "779 Elizabeth Port\nDiazhaven, MP 51264",
+    "Description": "Century none kid operation culture state himself. Training know term name argue.\nForeign main instead above. List board you. Court former run consider team."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14653
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9561
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7279
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 37580
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10454
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 79527,
+    "TotalApproved": 65588
+  },
+  "AdjusterDetails": {
+    "Name": "Tanya Thomas",
+    "ContactInformation": {
+      "Phone": "2802167957",
+      "Email": "warneramber@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/44fa4007-070d-4a78-845c-c474bc81a96a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-13T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-18T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-23T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Walker-Carter",
+    "Model": "difficult",
+    "Year": 2010,
+    "VIN": "43422aac-e0ef-4b61-81c5-ac08ebed80a2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Charles Booker",
+      "ContactInformation": {
+        "Phone": "231.887.5172",
+        "Email": "eric96@example.com"
+      },
+      "Statement": "Buy tonight fall southern almost. Model arrive both recognize.\nEight imagine let might month before community. Suggest hard important source seek serious often."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9b06273b-d7bd-434a-a503-3d6d31bfbc13",
+    "OfficerName": "Caitlyn Johnson",
+    "ReportDetails": "Man own develop none on. He force idea base. Mention ok hand benefit production sea manager.\nFocus since sport point. Foot should rich develop.\nFoot now these full. Certain trip suggest baby."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 611,
+    "AnnualIncome": 28407,
+    "DebtToIncomeRatio": 0.53
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 0,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

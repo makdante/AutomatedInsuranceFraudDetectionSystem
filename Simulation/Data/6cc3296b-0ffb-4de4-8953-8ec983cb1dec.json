@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6cc3296b-0ffb-4de4-8953-8ec983cb1dec",
+  "PolicyID": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+  "EffectiveDates": {
+    "StartDate": "2025-10-28",
+    "EndDate": "2026-10-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b3c9e4e9-a946-44a4-82a7-829df9b0425b",
+    "Name": "Madison Kim",
+    "PolicyNumber": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+    "ContactInformation": {
+      "Phone": "396-342-3629x192",
+      "Email": "alvareztina@example.com",
+      "Address": "790 Johnson Hill Apt. 614\nWongport, CO 54591"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-12",
+    "Location": "6428 Ortiz Mount Apt. 128\nSouth Bonnieview, PA 52095",
+    "Description": "Account would focus suddenly voice sign. You nearly thing tough current bit alone. Art citizen these want see woman organization."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9822
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 161515
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 26011
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3538
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6705
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 207591,
+    "TotalApproved": 138621
+  },
+  "AdjusterDetails": {
+    "Name": "Mary Edwards",
+    "ContactInformation": {
+      "Phone": "459-223-4973x70871",
+      "Email": "carterwilliam@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/9f3bb463-193b-4e95-85c2-96a0561c3ca2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Baldwin, Boone and Collier",
+    "Model": "information",
+    "Year": 2012,
+    "VIN": "68b60978-343c-4909-b1af-4706fc802188"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bryan Francis",
+      "ContactInformation": {
+        "Phone": "001-616-444-8456x61896",
+        "Email": "michael29@example.org"
+      },
+      "Statement": "Enough sense challenge area control city. Difficult nation home as. Trade yeah magazine issue exactly significant air."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cbf2b31c-696f-4c30-b6a9-659f1ea0c20f",
+    "OfficerName": "Patricia Leach",
+    "ReportDetails": "Project condition our resource leave guy. Civil save hand section religious.\nSkin month official black detail consumer serve. Million simply unit store sit operation."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 454,
+    "AnnualIncome": 136651,
+    "DebtToIncomeRatio": 0.96
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 6,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

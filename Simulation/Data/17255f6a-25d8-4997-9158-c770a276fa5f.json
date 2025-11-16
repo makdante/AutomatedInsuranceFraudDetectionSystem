@@ -1,0 +1,112 @@
+{
+  "ClaimID": "17255f6a-25d8-4997-9158-c770a276fa5f",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-02-20",
+    "EndDate": "2026-02-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-26",
+    "Location": "2021 Michael Squares Apt. 173\nBarbaraville, MO 88548",
+    "Description": "Television situation table body. On focus structure agency where tree oil.\nRepublican until town seven first. Power discover site two discuss believe couple. Series need look of real music."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 102971
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 28726
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 22543
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2043
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 145350
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 301633,
+    "TotalApproved": 86958
+  },
+  "AdjusterDetails": {
+    "Name": "Adrienne Foster",
+    "ContactInformation": {
+      "Phone": "(383)916-8093x6486",
+      "Email": "rileynicholas@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c6fee2ce-6731-44f3-98de-909c39223d5e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ruiz Group",
+    "Model": "everything",
+    "Year": 2001,
+    "VIN": "f84dc7b8-a86d-4c5d-9f46-5b456ad77316"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bryan Baker",
+      "ContactInformation": {
+        "Phone": "888.727.5313",
+        "Email": "greenescott@example.com"
+      },
+      "Statement": "Ability process close quite box minute voice. Piece exactly should education yes analysis idea. Might she national do Congress eat."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "07554cc9-2b90-435f-acb2-3239b0d27e5d",
+    "OfficerName": "Lisa Lucero",
+    "ReportDetails": "Respond friend direction already recognize. Increase modern fish memory federal coach director. Bed performance save week."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 304,
+    "AnnualIncome": 189908,
+    "DebtToIncomeRatio": 0.61
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 7,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

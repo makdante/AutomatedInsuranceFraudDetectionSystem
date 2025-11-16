@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4b436fa4-746c-4325-8504-221bd62257e3",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-05-25",
+    "EndDate": "2026-05-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-20",
+    "Location": "115 Williams Courts Suite 414\nGillespieville, ND 27048",
+    "Description": "Activity everybody between him increase bad head. Or collection at happen management enter.\nArtist sport very pay. Reach much change. Water daughter spend."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 99802
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9393
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 67442
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 37186
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5829
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 219652,
+    "TotalApproved": 103971
+  },
+  "AdjusterDetails": {
+    "Name": "Leonard Hernandez",
+    "ContactInformation": {
+      "Phone": "(865)326-6303",
+      "Email": "craigbarber@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b9fc57ee-5697-4d02-b851-b4e262ed1f8e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hill-Roth",
+    "Model": "oil",
+    "Year": 2020,
+    "VIN": "4ee18bc4-3618-4a12-964e-e70c66fddf70"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nathan Castillo",
+      "ContactInformation": {
+        "Phone": "+1-653-909-0202x225",
+        "Email": "joneschristopher@example.org"
+      },
+      "Statement": "Federal audience catch thought.\nPlan it continue determine rest position message. Leader often discussion father pretty window fly. Food site on month society gun job."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "03b5a8b3-9070-41f5-a489-e119dc9b7f2b",
+    "OfficerName": "Eduardo Spence",
+    "ReportDetails": "Long information include peace dinner. Successful community me price approach ability or. When despite heavy yeah last those fire."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 815,
+    "AnnualIncome": 40956,
+    "DebtToIncomeRatio": 0.63
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 4,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

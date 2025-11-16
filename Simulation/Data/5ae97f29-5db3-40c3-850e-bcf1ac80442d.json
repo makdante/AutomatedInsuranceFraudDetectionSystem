@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5ae97f29-5db3-40c3-850e-bcf1ac80442d",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2025-04-22",
+    "EndDate": "2026-04-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-08",
+    "Location": "880 Tina Port Suite 883\nWest Leslie, IN 16712",
+    "Description": "Turn recognize until reach. Field suddenly difference.\nHome role country black stop. Reality should shoulder still.\nCouple whatever where thing tough catch.\nAll north sort benefit. Make market grow."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 105125
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 123568
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19869
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 50681
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1305
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 300548,
+    "TotalApproved": 81765
+  },
+  "AdjusterDetails": {
+    "Name": "Bruce Elliott",
+    "ContactInformation": {
+      "Phone": "+1-248-740-9648x961",
+      "Email": "hillamber@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ad503108-41b8-47be-801c-a56e51e080d4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thompson-Jensen",
+    "Model": "today",
+    "Year": 2020,
+    "VIN": "063407a7-08f7-4691-9fa8-a8da0c5c891c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angel Waters",
+      "ContactInformation": {
+        "Phone": "001-248-436-0018x37949",
+        "Email": "ortizchristopher@example.org"
+      },
+      "Statement": "As effect bed success leader organization painting. Main small price general people often.\nSkin car production. Beyond toward piece."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "caee6ac6-b920-4a33-845b-5c730f37e9d5",
+    "OfficerName": "Michael Smith",
+    "ReportDetails": "People gas dinner behind sort. Small nation share certain drop billion example former. Record thank face get detail organization event."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 632,
+    "AnnualIncome": 25969,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 0,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8b26092a-e256-4cd2-ade2-9c714926fbe2",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-05-02",
+    "EndDate": "2026-05-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-15",
+    "Location": "658 Victoria Prairie Suite 557\nPort Carla, TN 44584",
+    "Description": "Support all important run keep. Create organization accept learn reason. Reason discuss inside read. Maybe bank near western conference agree."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 145966
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8401
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47314
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9131
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 49043
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 259855,
+    "TotalApproved": 87836
+  },
+  "AdjusterDetails": {
+    "Name": "Teresa Little",
+    "ContactInformation": {
+      "Phone": "001-336-252-0339x628",
+      "Email": "amandacalderon@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/6dcb19f9-8682-4320-be77-83867a62dea3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Oconnor Inc",
+    "Model": "return",
+    "Year": 2003,
+    "VIN": "27668632-02c0-4bc7-b79c-f5c3793499e9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Turner",
+      "ContactInformation": {
+        "Phone": "345.224.4704",
+        "Email": "leonardwilliams@example.net"
+      },
+      "Statement": "Record center his happen. Usually accept section teacher wife.\nForce final cost future. Agent thus culture know conference. Movie on when win game policy various."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "de03b685-9bff-4e77-87bb-6472697e7359",
+    "OfficerName": "Tammy Thompson",
+    "ReportDetails": "Detail quickly six picture feeling yes. Without picture democratic green. Ability moment activity particular such. Fact well play former growth."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 444,
+    "AnnualIncome": 75399,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 3,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

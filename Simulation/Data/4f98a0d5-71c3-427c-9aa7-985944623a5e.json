@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4f98a0d5-71c3-427c-9aa7-985944623a5e",
+  "PolicyID": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+  "EffectiveDates": {
+    "StartDate": "2025-06-01",
+    "EndDate": "2026-06-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "45b25f18-08b7-457c-9045-e998b2b74cef",
+    "Name": "Joshua Ryan",
+    "PolicyNumber": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+    "ContactInformation": {
+      "Phone": "(903)440-8271x3107",
+      "Email": "justin94@example.net",
+      "Address": "792 Ann Cliffs\nLake Desireebury, MD 93133"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-05",
+    "Location": "73719 Diana Mission\nWest Brianchester, MI 51441",
+    "Description": "Yet position effort able art whom. Local realize scientist baby leg whom.\nBe water develop world. Ahead development wife program upon station."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9421
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7718
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 43140
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3928
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 74724
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 138931,
+    "TotalApproved": 36177
+  },
+  "AdjusterDetails": {
+    "Name": "Lee Garcia",
+    "ContactInformation": {
+      "Phone": "+1-966-997-7674",
+      "Email": "taylor22@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/13d1af01-e1bd-4142-b3e0-a7dabf3a8111"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gray, Henry and Patrick",
+    "Model": "low",
+    "Year": 2021,
+    "VIN": "49601558-c895-4320-b76d-adea2947653b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ana Franco",
+      "ContactInformation": {
+        "Phone": "9148517077",
+        "Email": "joseph57@example.org"
+      },
+      "Statement": "Future likely age teach company laugh message size. Event father tell sit camera look three kitchen."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "44b35159-a2d8-4555-9e7a-b43910708441",
+    "OfficerName": "Kenneth Williams",
+    "ReportDetails": "Determine contain bill account. Live yourself later wife single impact."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 663,
+    "AnnualIncome": 144794,
+    "DebtToIncomeRatio": 0.65
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

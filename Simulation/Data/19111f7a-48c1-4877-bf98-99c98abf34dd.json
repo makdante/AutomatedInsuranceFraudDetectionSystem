@@ -1,0 +1,112 @@
+{
+  "ClaimID": "19111f7a-48c1-4877-bf98-99c98abf34dd",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-05-22",
+    "EndDate": "2026-05-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-06",
+    "Location": "2531 Joseph Heights Suite 461\nOneillchester, WI 45188",
+    "Description": "Resource real several put party listen those. Create practice environmental bed read whole area."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4153675
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4043935
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4160118
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4623098
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4087266
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21068092,
+    "TotalApproved": 1811008
+  },
+  "AdjusterDetails": {
+    "Name": "Eric Potter",
+    "ContactInformation": {
+      "Phone": "(735)511-4742x111",
+      "Email": "brittany79@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c1b37984-0862-441c-8d29-9fd4e42393bc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith Inc",
+    "Model": "list",
+    "Year": 2012,
+    "VIN": "3600197e-d706-49fe-a102-ee658b215ffa"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Moore",
+      "ContactInformation": {
+        "Phone": "(497)840-2522x814",
+        "Email": "crystalbrown@example.net"
+      },
+      "Statement": "Her nor hundred professor partner. Property agree model contain change for time. But next whether success hour interview any.\nReceive social door live institution dog. Other recent system common."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "31f37f7d-44f2-4022-afa4-766adb19722c",
+    "OfficerName": "Calvin Vazquez",
+    "ReportDetails": "Information instead worker try. Avoid hundred meet still. Wall ball speech kitchen through model. Choice west say."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 323,
+    "AnnualIncome": 191300,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

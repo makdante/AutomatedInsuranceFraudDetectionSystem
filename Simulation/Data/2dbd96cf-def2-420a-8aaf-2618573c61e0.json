@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2dbd96cf-def2-420a-8aaf-2618573c61e0",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-02-07",
+    "EndDate": "2026-02-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-04",
+    "Location": "PSC 9603, Box 1635\nAPO AE 82897",
+    "Description": "Degree notice story value act human Mrs. Feeling all our wait American past follow peace. South why protect wind.\nSystem opportunity level us. But crime bad then at sound."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1444
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10046
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8367
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4290
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 32132
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 56279,
+    "TotalApproved": 50690
+  },
+  "AdjusterDetails": {
+    "Name": "Katrina Gutierrez",
+    "ContactInformation": {
+      "Phone": "826.474.2555",
+      "Email": "bishoperic@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/069eb017-a1f1-499b-a597-7f9956703123"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Mcdonald",
+    "Model": "page",
+    "Year": 2018,
+    "VIN": "26f6b904-0f21-4788-b3aa-1672b24dbf34"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Linda Price",
+      "ContactInformation": {
+        "Phone": "822.819.2722",
+        "Email": "christopherwebb@example.org"
+      },
+      "Statement": "Carry type mention example modern ball. Down during sort. Whom several yes expert parent."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "53519426-58e2-419e-9ead-aa975ed0ae88",
+    "OfficerName": "Mallory Lewis",
+    "ReportDetails": "Two director hard run listen. Fund ground few per.\nPattern chair beyond so set. Health choice real so this. Fire arrive add sea American idea conference. Pass interesting set form part as."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 453,
+    "AnnualIncome": 157233,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 2,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

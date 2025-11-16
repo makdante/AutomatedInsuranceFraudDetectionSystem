@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bfdd70c4-2441-4f46-afc2-4474eb84c0d2",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-02-06",
+    "EndDate": "2026-02-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-16",
+    "Location": "91623 Harris Highway\nKellyborough, LA 43718",
+    "Description": "Wish live from. Wear director another. Official theory consumer future music change.\nSmile myself agency. Seek few color important. Go politics never feel full experience."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3949
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4613
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6583
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6910
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6344
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 28399,
+    "TotalApproved": 2071
+  },
+  "AdjusterDetails": {
+    "Name": "Walter Clark",
+    "ContactInformation": {
+      "Phone": "+1-213-223-8371x717",
+      "Email": "parkerangela@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/400e8e72-ba19-4e29-8635-bf10582e68d1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Howe, Lopez and Barnes",
+    "Model": "discussion",
+    "Year": 2015,
+    "VIN": "b44a0c03-7142-492e-b10b-d4ce866d3824"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Martin Cline",
+      "ContactInformation": {
+        "Phone": "2207575710",
+        "Email": "lleonard@example.com"
+      },
+      "Statement": "Industry number close size each. International call give. Bill conference present suddenly.\nStation business food security score woman."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ae3b5d1c-b43a-43f4-a93f-fdd06d853eca",
+    "OfficerName": "Shirley Chavez",
+    "ReportDetails": "Some tough movement hear east. Appear one night site."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 835,
+    "AnnualIncome": 146255,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 2,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

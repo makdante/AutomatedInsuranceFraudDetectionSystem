@@ -1,0 +1,112 @@
+{
+  "ClaimID": "82bb7f96-fc84-4392-87d0-1f7f855286b2",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2025-10-29",
+    "EndDate": "2026-10-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-25",
+    "Location": "509 Dylan Inlet\nJustinside, WI 71446",
+    "Description": "Learn today such cost herself head ground fund. Standard raise recognize education something.\nOthers thousand left economic seven doctor door. Against season out city name bed loss our."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8722
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17297
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6169
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 30729
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1886
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 64803,
+    "TotalApproved": 28561
+  },
+  "AdjusterDetails": {
+    "Name": "James Moore",
+    "ContactInformation": {
+      "Phone": "+1-955-595-6666",
+      "Email": "ryan97@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/8ed820dd-2d40-4e2e-a701-d06b8ed46584"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cortez PLC",
+    "Model": "tend",
+    "Year": 2012,
+    "VIN": "567a07c1-b3be-4818-8ff7-a29f12deca7c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kimberly Hampton",
+      "ContactInformation": {
+        "Phone": "9419561367",
+        "Email": "kristine26@example.com"
+      },
+      "Statement": "Knowledge mind let identify beautiful. Evening upon less investment personal end early. Sit of four marriage."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "538e154e-5de4-4cab-acc4-9450b5e3a730",
+    "OfficerName": "Stephen Jenkins",
+    "ReportDetails": "Food price protect light method know cell. Draw become all yeah federal ok program."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 771,
+    "AnnualIncome": 32329,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

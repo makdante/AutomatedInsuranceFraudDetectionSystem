@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7682952b-49b7-4694-9d24-7d0dc5204059",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2024-12-16",
+    "EndDate": "2025-12-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-27",
+    "Location": "4952 Michael Spur\nJonesbury, MS 33637",
+    "Description": "Catch instead difficult pick spring turn hotel. Hospital save policy indicate language. Every store agree report fine."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14725
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3796
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 22486
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7915
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10085
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 59007,
+    "TotalApproved": 30938
+  },
+  "AdjusterDetails": {
+    "Name": "Megan Padilla",
+    "ContactInformation": {
+      "Phone": "722.476.0719",
+      "Email": "lindabell@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e8ca4c13-dc05-4559-9ec7-2b274c5a7b30"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hunter Group",
+    "Model": "specific",
+    "Year": 2017,
+    "VIN": "85ee34b4-70aa-4e10-8656-854c4a9984e2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Adam Johnson",
+      "ContactInformation": {
+        "Phone": "001-805-551-0483x0628",
+        "Email": "julie52@example.com"
+      },
+      "Statement": "Relationship interest probably act parent animal. Top attention represent customer later attack respond. Wait upon order significant human religious.\nPast truth century situation reach."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ee5aeecf-5a33-4015-ac07-6896262f402e",
+    "OfficerName": "Kevin Mccarthy",
+    "ReportDetails": "National tax to parent course course present. Allow federal material seem.\nMeeting exactly name realize party. Image hour agency build point."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 754,
+    "AnnualIncome": 194527,
+    "DebtToIncomeRatio": 0.37
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6e428b54-b87c-4520-b93a-0b28f259f478",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-10-15",
+    "EndDate": "2026-10-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-10-03",
+    "Location": "05453 Amanda Rapids Apt. 532\nTurnerfort, CT 78057",
+    "Description": "Range need line under goal. Region school say. Agreement agency arm car theory have customer.\nPosition technology this woman. Explain already method poor. Walk parent almost short smile media."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 22694
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24979
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9214
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2069
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22561
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 81517,
+    "TotalApproved": 72459
+  },
+  "AdjusterDetails": {
+    "Name": "Maria Miller",
+    "ContactInformation": {
+      "Phone": "6308262744",
+      "Email": "brian23@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/baae99b8-39b1-425c-86f2-439d4e89f2e8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-10-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Harper, Watts and Scott",
+    "Model": "record",
+    "Year": 2022,
+    "VIN": "396b1c29-6236-4001-9b1a-f6f05d4c8309"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Eric Andrade",
+      "ContactInformation": {
+        "Phone": "001-608-836-5583x170",
+        "Email": "douglasmcdonald@example.org"
+      },
+      "Statement": "Husband relate region hit present call consider. Behind major guy table huge if so. Government after health sound add."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c69d3711-72d3-444d-82a0-e6bfe4905343",
+    "OfficerName": "Misty George",
+    "ReportDetails": "Agree new nor under. South home need scene.\nWould likely foot pass. Trouble cold community center officer. Hard blue civil war start drug popular."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 831,
+    "AnnualIncome": 37633,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

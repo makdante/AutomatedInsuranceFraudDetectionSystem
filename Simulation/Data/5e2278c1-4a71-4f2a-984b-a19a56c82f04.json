@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5e2278c1-4a71-4f2a-984b-a19a56c82f04",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2024-11-07",
+    "EndDate": "2025-11-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-16",
+    "Location": "5173 Kirsten Dale Suite 703\nJasonchester, SD 80561",
+    "Description": "Member call just speak.\nEveryone least thus serve marriage traditional. Without leave policy support. Pattern natural professor hotel than along.\nAmong threat risk. Future exactly class allow."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1120
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 38928
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13811
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4850
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2185
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 60894,
+    "TotalApproved": 35483
+  },
+  "AdjusterDetails": {
+    "Name": "Kayla Vega",
+    "ContactInformation": {
+      "Phone": "001-554-483-7797x0673",
+      "Email": "bryan00@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/bc07f395-b482-497a-9fac-68a10835b6a9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Colon Inc",
+    "Model": "team",
+    "Year": 2022,
+    "VIN": "430847d4-8dca-42d2-ac1a-967a8fff54aa"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tara Torres",
+      "ContactInformation": {
+        "Phone": "+1-720-710-1704",
+        "Email": "ashleyparker@example.net"
+      },
+      "Statement": "Decide guess around discussion.\nWater practice body professional manage among. Power treat tonight all within gun. Ten wife also which image clearly out.\nGreen food pick enjoy beyond none day energy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b9eb04c2-f6ce-4d6d-a288-5023acad8163",
+    "OfficerName": "Luis Colon",
+    "ReportDetails": "Hard the face view box first. Mind tonight pull particularly everybody. Sure later throughout also like.\nAgency small always. Half though stay toward store. Together reason benefit sell my."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 334,
+    "AnnualIncome": 168541,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

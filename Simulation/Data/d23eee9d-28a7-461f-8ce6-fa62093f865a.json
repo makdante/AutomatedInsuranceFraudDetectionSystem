@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d23eee9d-28a7-461f-8ce6-fa62093f865a",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-08-16",
+    "EndDate": "2026-08-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-22",
+    "Location": "803 Wilson Plain\nSouth Pamelachester, ND 72250",
+    "Description": "Meeting lot somebody arrive different career. Wide past main million our.\nEvery suffer remember goal. News attack hope degree gun six cell."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15332
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14641
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3098
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 153237
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5720
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 192028,
+    "TotalApproved": 98974
+  },
+  "AdjusterDetails": {
+    "Name": "Elizabeth Moore",
+    "ContactInformation": {
+      "Phone": "(367)884-8384x53996",
+      "Email": "leehicks@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/98192e77-cb1d-405e-8055-fa4d8212996d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Larson, Martin and Phillips",
+    "Model": "and",
+    "Year": 2020,
+    "VIN": "0f301235-6f57-44ee-9c7e-a1069258be11"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steven Sanchez",
+      "ContactInformation": {
+        "Phone": "821.955.3160",
+        "Email": "douglas40@example.com"
+      },
+      "Statement": "Even beat present. Far yourself stock six.\nPlant owner they only direction government citizen. Hundred between start others concern you growth."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bd78acfd-6cfc-4284-a468-4a699e72858b",
+    "OfficerName": "Mrs. Kayla Evans",
+    "ReportDetails": "Free politics population yard establish production. Dinner available claim whose family personal. Prepare science citizen job he accept hot."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 615,
+    "AnnualIncome": 56074,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 1,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

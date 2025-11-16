@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a5749425-9518-4a58-9641-a9e98275db15",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-07-24",
+    "EndDate": "2026-07-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-16",
+    "Location": "603 Baldwin Meadow\nThompsonburgh, WY 23250",
+    "Description": "Such time hard trade big describe recent. Catch specific eye speak artist prevent."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6817
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 74088
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1661
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 91728
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19309
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 193603,
+    "TotalApproved": 46385
+  },
+  "AdjusterDetails": {
+    "Name": "David Hernandez",
+    "ContactInformation": {
+      "Phone": "928-655-6812x18908",
+      "Email": "cmartin@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/225df2f5-4d4c-4a5f-9baf-473c3ccfda99"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mata, Chapman and Kane",
+    "Model": "current",
+    "Year": 2021,
+    "VIN": "cdeb088b-6394-4b6d-b92b-58ad01d5ab6f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Frank Johnson",
+      "ContactInformation": {
+        "Phone": "(664)295-2242x093",
+        "Email": "qmoran@example.com"
+      },
+      "Statement": "Note again current husband perform explain. To impact far fund with.\nSuddenly key trouble street sea these. Let time international music while."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "54ad3440-558e-4062-97a9-ce163c1c93b1",
+    "OfficerName": "Misty Brown",
+    "ReportDetails": "Foot leg affect between bar do. Far south defense collection relationship scene.\nUpon talk pattern loss. Meeting table other measure south be religious. Above could set."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 714,
+    "AnnualIncome": 135506,
+    "DebtToIncomeRatio": 0.2
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

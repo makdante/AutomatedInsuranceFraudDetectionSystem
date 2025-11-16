@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5f38a777-0b02-4fa5-b484-9fd99f13ed33",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-08-13",
+    "EndDate": "2026-08-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-11",
+    "Location": "2216 Torres Ways\nSarahside, WI 73598",
+    "Description": "Media management increase anything bill since art. Task add security relate decide.\nOut about hand accept citizen. Four move couple stand ahead especially. Model particularly happy."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 125080
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 143811
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 91479
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12273
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18029
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 390672,
+    "TotalApproved": 8870
+  },
+  "AdjusterDetails": {
+    "Name": "Kayla Hernandez",
+    "ContactInformation": {
+      "Phone": "(461)690-9660x19762",
+      "Email": "wward@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/634e6b3c-3727-4212-8659-8796d9af90fd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Holland PLC",
+    "Model": "thus",
+    "Year": 2006,
+    "VIN": "8b851d51-cb7d-44bb-8949-67d6dd415ba0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kayla Spencer",
+      "ContactInformation": {
+        "Phone": "001-639-668-6842",
+        "Email": "holttracy@example.net"
+      },
+      "Statement": "Degree brother artist success lay move. Much enjoy strong day marriage.\nDifferent question base better dream south sister do. Think throughout claim though stuff indeed remain arrive."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "00f124c1-bad3-4356-9a51-f5f30e44e785",
+    "OfficerName": "Katie Singleton",
+    "ReportDetails": "Rather home human speech. Scientist case song serve board hundred. Raise if night.\nNo store new it.\nWish collection PM hour open start culture. Another she specific whose create. Key eye such week."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 413,
+    "AnnualIncome": 93707,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

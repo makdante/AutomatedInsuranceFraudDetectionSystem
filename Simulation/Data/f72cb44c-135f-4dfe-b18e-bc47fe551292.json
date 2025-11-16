@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f72cb44c-135f-4dfe-b18e-bc47fe551292",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2024-12-05",
+    "EndDate": "2025-12-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-07",
+    "Location": "554 Daniel Fords Apt. 328\nNorth Leeview, OK 48959",
+    "Description": "Whole performance career.\nKitchen note tell pass police single several. Enter mother sometimes fight office enough region. Production vote only change information look."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8880
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 64070
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1848
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 58431
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9920
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 143149,
+    "TotalApproved": 70193
+  },
+  "AdjusterDetails": {
+    "Name": "Peter Bryant",
+    "ContactInformation": {
+      "Phone": "001-849-643-1952x295",
+      "Email": "lfletcher@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/2cedf7d4-8a34-45d4-b0a4-670dc94fa621"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ramirez PLC",
+    "Model": "front",
+    "Year": 2008,
+    "VIN": "e995f207-0b6e-4d34-917a-7bd11f38d36c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Melissa Walker",
+      "ContactInformation": {
+        "Phone": "596-587-0125x4963",
+        "Email": "robertsmith@example.net"
+      },
+      "Statement": "Truth late speak generation. Arm position source wide law. By why friend offer buy fact.\nMarket wish rise medical. People bar who interesting brother. Such whether figure best."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "217f66e9-a0e4-4278-86f7-995674be2d05",
+    "OfficerName": "Jasmine Patel",
+    "ReportDetails": "Owner per understand first class structure. From knowledge realize individual.\nStore born Congress data. Foot nor camera affect recent budget Mrs her. Performance ago begin tend."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 331,
+    "AnnualIncome": 157760,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 10,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

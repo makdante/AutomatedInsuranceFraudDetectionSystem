@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4bd78fcc-534d-45fd-9a3c-880552d72ffb",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-01-12",
+    "EndDate": "2026-01-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-30",
+    "Location": "085 Miller Circle\nEast Emily, MS 61826",
+    "Description": "Who could particular expect attack fear people. Picture wait sea.\nHowever yet mother away make argue dog. Easy personal a lot stay. Final hotel member necessary."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 41661
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11677
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1182
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 45300
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24880
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 124700,
+    "TotalApproved": 121974
+  },
+  "AdjusterDetails": {
+    "Name": "Samuel Bowen",
+    "ContactInformation": {
+      "Phone": "(391)669-3062x8327",
+      "Email": "rochahaley@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/2a42893e-5425-469f-9543-3915df3732dc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Underwood-Anderson",
+    "Model": "huge",
+    "Year": 2000,
+    "VIN": "87ef6141-0f3c-4dc4-95a7-d3234988763e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Connie Barrera",
+      "ContactInformation": {
+        "Phone": "756.621.3803x93492",
+        "Email": "zamoramackenzie@example.org"
+      },
+      "Statement": "Season learn service onto investment box. Clear economy five risk even during.\nEach citizen far key itself nothing. Edge whether mean."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e1474785-5846-46e6-b38c-e5675a005c37",
+    "OfficerName": "Nathan Scott",
+    "ReportDetails": "Heart former design according however finally.\nDetail evidence about agency three. Break former lot.\nCompare after whom bed yes. Such product we so baby."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 623,
+    "AnnualIncome": 178720,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 3,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

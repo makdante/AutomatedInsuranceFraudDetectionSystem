@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c686aeb6-3b3b-4ad1-bc18-b95a9a979952",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-10-17",
+    "EndDate": "2026-10-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-07",
+    "Location": "78554 Andre Points Suite 813\nNorth George, AZ 11057",
+    "Description": "Really different game work author author. Dog exactly along top second yes than keep. Watch read media couple him everyone. Spring per eye it company central stuff.\nDevelopment whether lawyer."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4263927
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4038948
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4907745
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4999299
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4120317
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22330236,
+    "TotalApproved": 4566667
+  },
+  "AdjusterDetails": {
+    "Name": "Kristin Wilkerson",
+    "ContactInformation": {
+      "Phone": "392-418-4902",
+      "Email": "davidnichols@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/992ca05a-a464-4af5-993a-1c1b4650dd4f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez Ltd",
+    "Model": "sound",
+    "Year": 2020,
+    "VIN": "245a98a8-81ba-4765-a255-770a632127e6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stacy Weber",
+      "ContactInformation": {
+        "Phone": "352.868.2620x452",
+        "Email": "letimothy@example.com"
+      },
+      "Statement": "Who find movie staff forward. Likely require need century who. Dark in walk seem without member.\nDecide husband start put American. Agree list appear because.\nFive upon son north time most might."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "43f30a78-746b-4d7c-9ffd-23fe9aabafb8",
+    "OfficerName": "Dr. Tonya Joseph",
+    "ReportDetails": "Rise usually medical through beat finally. Heavy seem participant he candidate.\nResult player figure member professional myself. Act speak set night discuss despite."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 451,
+    "AnnualIncome": 24861,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

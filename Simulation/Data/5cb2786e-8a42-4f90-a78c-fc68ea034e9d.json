@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5cb2786e-8a42-4f90-a78c-fc68ea034e9d",
+  "PolicyID": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+  "EffectiveDates": {
+    "StartDate": "2024-12-16",
+    "EndDate": "2025-12-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1ebb1bc-6120-42c4-a87a-be4f808197b1",
+    "Name": "Donald Smith",
+    "PolicyNumber": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+    "ContactInformation": {
+      "Phone": "675.606.3377",
+      "Email": "masonpamela@example.net",
+      "Address": "14432 Richard Vista\nNew Suzanne, TN 31994"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-21",
+    "Location": "0567 Porter Corner\nNorth Jackson, SC 04053",
+    "Description": "Rule hope sing open until personal seven. Operation nation lot. Writer imagine technology fish street. Year member international interview.\nAlong while event brother. Happen what cost head."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18312
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11342
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22871
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1565
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 24250
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 78340,
+    "TotalApproved": 34030
+  },
+  "AdjusterDetails": {
+    "Name": "Kelly Brown",
+    "ContactInformation": {
+      "Phone": "2096123959",
+      "Email": "cspencer@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/f92b5005-22a7-48a0-86e9-6b82ffe84ecf"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-31T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morgan, Li and Wallace",
+    "Model": "decade",
+    "Year": 2017,
+    "VIN": "ef5c8cb2-0c70-41ae-8e7a-87b6215b7103"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Marie Stewart",
+      "ContactInformation": {
+        "Phone": "988-834-6780",
+        "Email": "carlos18@example.net"
+      },
+      "Statement": "Husband claim fight leg against friend Mr same. Check join memory even speech action room. Way go guy cell rock. North recent imagine."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ca32b2af-d3bc-4cb9-882e-137dae3cadf7",
+    "OfficerName": "Eric Harper PhD",
+    "ReportDetails": "Rise simple where our group commercial name thus. Need good money leader then present form win."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 515,
+    "AnnualIncome": 160777,
+    "DebtToIncomeRatio": 0.31
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

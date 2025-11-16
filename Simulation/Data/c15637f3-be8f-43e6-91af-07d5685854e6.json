@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c15637f3-be8f-43e6-91af-07d5685854e6",
+  "PolicyID": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+  "EffectiveDates": {
+    "StartDate": "2025-04-29",
+    "EndDate": "2026-04-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "38d2f43b-58cf-49b2-83ed-99824c18c529",
+    "Name": "Vanessa Lam",
+    "PolicyNumber": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+    "ContactInformation": {
+      "Phone": "(659)271-4340x58512",
+      "Email": "kayleethompson@example.org",
+      "Address": "4509 Robert Haven\nNew Curtis, HI 74176"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-15",
+    "Location": "2620 Wells Valleys Suite 988\nSouth Nathanside, IN 44682",
+    "Description": "Behavior threat agent specific.\nEnter reveal whom report. Recognize probably relate opportunity option concern response administration. Rather six option great step."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 42207
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1544
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6690
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4630
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9164
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 64235,
+    "TotalApproved": 61455
+  },
+  "AdjusterDetails": {
+    "Name": "Kristina Joseph",
+    "ContactInformation": {
+      "Phone": "(603)724-7232",
+      "Email": "mgordon@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/40af5bb8-0958-44af-92cc-46814b54ed12"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith, Hood and Richardson",
+    "Model": "almost",
+    "Year": 2005,
+    "VIN": "a6ab2010-e1c1-47d0-8540-11a01e31800e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dustin Stokes",
+      "ContactInformation": {
+        "Phone": "(800)882-1884x0351",
+        "Email": "josefrancis@example.net"
+      },
+      "Statement": "Technology financial couple government marriage. Might name see every.\nUnder just successful administration subject near to. For others power statement discuss interview."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b5cee158-ae0c-435a-9e45-d410c0663a23",
+    "OfficerName": "Catherine Wiggins",
+    "ReportDetails": "Prepare leader through give none when. Save vote reflect exist amount. Question yeah vote.\nFirm memory yard soon surface option. Yard stay Democrat themselves. Marriage even eye forward."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 764,
+    "AnnualIncome": 61334,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 2,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

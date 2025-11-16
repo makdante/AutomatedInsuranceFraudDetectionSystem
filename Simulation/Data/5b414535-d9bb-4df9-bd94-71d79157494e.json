@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5b414535-d9bb-4df9-bd94-71d79157494e",
+  "PolicyID": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+  "EffectiveDates": {
+    "StartDate": "2025-10-06",
+    "EndDate": "2026-10-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8be26a6-4cb5-4164-b3db-8733f427afd7",
+    "Name": "Courtney Davis",
+    "PolicyNumber": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+    "ContactInformation": {
+      "Phone": "001-379-236-0842x2726",
+      "Email": "nicholas30@example.net",
+      "Address": "670 Lucas Vista Suite 883\nNew Carol, CO 53855"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-27",
+    "Location": "871 Lawrence Manor Apt. 470\nNew Shannon, MN 48987",
+    "Description": "Democratic reveal source difficult.\nBut main contain whose the film mind. Career person face time physical. Energy begin million article firm address."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40524
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15346
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 151593
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39385
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 30264
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 277112,
+    "TotalApproved": 109712
+  },
+  "AdjusterDetails": {
+    "Name": "Samantha Mccullough",
+    "ContactInformation": {
+      "Phone": "239-385-5408x470",
+      "Email": "claudiaalvarez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/03563b0c-32b7-4f4b-8782-a5f5c400abf6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Flores Group",
+    "Model": "people",
+    "Year": 2019,
+    "VIN": "8d76cd12-c94f-4948-a1a2-f1a837a129ed"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathleen Figueroa",
+      "ContactInformation": {
+        "Phone": "+1-598-717-9597x935",
+        "Email": "kylefowler@example.net"
+      },
+      "Statement": "Two modern start person. Learn in company easy Congress remember.\nSuffer her clear. Billion office apply or body movement.\nWork international save. Great receive also window ask will."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a147ebf5-84c0-4e80-8ebd-1840f4482315",
+    "OfficerName": "James Gibson",
+    "ReportDetails": "Agent significant after thus story. Face understand series likely.\nPower sense control. World together their treat short specific story."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 701,
+    "AnnualIncome": 176874,
+    "DebtToIncomeRatio": 0.29
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

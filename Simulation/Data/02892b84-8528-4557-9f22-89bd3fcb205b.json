@@ -1,0 +1,112 @@
+{
+  "ClaimID": "02892b84-8528-4557-9f22-89bd3fcb205b",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-10-08",
+    "EndDate": "2026-10-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-16",
+    "Location": "36834 Delgado Flat Suite 564\nSchaeferport, CT 19842",
+    "Description": "Hit most manager they foot trip. Bring south drop spend. Yard job or room focus exactly.\nCollege big ask American so price. Certain must last at class win card task."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13351
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8494
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4495
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 73159
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8688
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 108187,
+    "TotalApproved": 101499
+  },
+  "AdjusterDetails": {
+    "Name": "Stanley Wilkerson",
+    "ContactInformation": {
+      "Phone": "001-337-670-7306x1909",
+      "Email": "bhughes@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/daa7fe36-f23c-4f0a-8fdf-6011f3ce4723"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Arnold-Nichols",
+    "Model": "attack",
+    "Year": 2019,
+    "VIN": "68b7e51e-4fe0-4bdf-b2c9-0325226e86f1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Wendy Welch",
+      "ContactInformation": {
+        "Phone": "(425)247-9000",
+        "Email": "sextonmichaela@example.org"
+      },
+      "Statement": "Feeling spring land everybody unit trade else. Lawyer receive least affect street help.\nEvidence matter team ever. Example may seem fast local Republican while."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "909a9756-16ee-4e9f-8256-c7fce777050c",
+    "OfficerName": "Kristina Evans",
+    "ReportDetails": "Know conference morning perform to factor room. Religious cup investment image behind finally.\nDuring stock truth senior. Window response specific hard. Soldier paper story sort accept seat suffer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 354,
+    "AnnualIncome": 42638,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

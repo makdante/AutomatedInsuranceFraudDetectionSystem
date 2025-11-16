@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7de277d4-db62-44e6-a931-d3b5b3e7805b",
+  "PolicyID": "48e7eff0-2137-440a-aff3-8d0668e114bd",
+  "EffectiveDates": {
+    "StartDate": "2025-10-25",
+    "EndDate": "2026-10-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de07fb4c-90da-4855-a341-856e9fe8cbd8",
+    "Name": "Christopher Kim",
+    "PolicyNumber": "48e7eff0-2137-440a-aff3-8d0668e114bd",
+    "ContactInformation": {
+      "Phone": "+1-611-281-1850x1314",
+      "Email": "barbara52@example.com",
+      "Address": "286 Herrera Street Apt. 219\nNew Eric, ID 86449"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-23",
+    "Location": "7734 Reed Cliffs\nLake William, NE 37168",
+    "Description": "Hot thing city reveal site. Structure news job likely.\nJob watch piece information ok around risk training. Only fact state home hard treat. Short white draw reach garden."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7247
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12334
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47123
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15472
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13738
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 95914,
+    "TotalApproved": 20765
+  },
+  "AdjusterDetails": {
+    "Name": "Robert Jenkins",
+    "ContactInformation": {
+      "Phone": "001-322-613-9643x5008",
+      "Email": "larsenkevin@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/a29a56ea-728a-49ea-8686-6243b5741eaf"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gomez LLC",
+    "Model": "analysis",
+    "Year": 2005,
+    "VIN": "f1285509-40b2-4af1-85c0-9536d75bf5cf"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robin Moran",
+      "ContactInformation": {
+        "Phone": "001-831-997-4981x01363",
+        "Email": "john79@example.com"
+      },
+      "Statement": "Half eight worker adult body name education. Answer wide white rate result."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fd4eaacf-9b8a-4308-b965-3105de5ffd8d",
+    "OfficerName": "Teresa Norman",
+    "ReportDetails": "Song see performance trouble individual simply herself. Explain rule while bank. There cultural artist sometimes against together door."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 515,
+    "AnnualIncome": 199169,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

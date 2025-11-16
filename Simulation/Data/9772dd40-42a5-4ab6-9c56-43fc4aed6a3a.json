@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9772dd40-42a5-4ab6-9c56-43fc4aed6a3a",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-05-25",
+    "EndDate": "2026-05-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-12",
+    "Location": "926 Hunt Loaf Apt. 733\nBrownmouth, MA 74921",
+    "Description": "Program itself officer must general. Remember support sit. Force challenge very analysis should. Dark play whether responsibility recent where now."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5447
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19887
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5370
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3128
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11310
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 45142,
+    "TotalApproved": 15392
+  },
+  "AdjusterDetails": {
+    "Name": "Stacey Taylor",
+    "ContactInformation": {
+      "Phone": "950-520-6245",
+      "Email": "brittanywilkerson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/5cf54342-7fc4-4c40-a225-9245ba6f9832"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lewis-Sandoval",
+    "Model": "yard",
+    "Year": 2015,
+    "VIN": "82c36781-2c2b-4c6a-bfce-69be1c7f587f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Deborah Mcdonald",
+      "ContactInformation": {
+        "Phone": "414.579.1534x277",
+        "Email": "zclark@example.com"
+      },
+      "Statement": "Need PM decide maybe phone worker. Full know work catch movie campaign imagine. Energy politics camera risk together part.\nNo together home history single. Smile four nice make close name."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "57c82d05-9d4e-4120-97bd-5661d3e1ed9e",
+    "OfficerName": "Carmen Jones",
+    "ReportDetails": "Fire anything poor inside like.\nWriter probably develop finish model try might. Wall clearly certainly investment number collection. Fly consider officer specific same the lawyer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 764,
+    "AnnualIncome": 165584,
+    "DebtToIncomeRatio": 0.71
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

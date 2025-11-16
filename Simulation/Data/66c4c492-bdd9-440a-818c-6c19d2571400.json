@@ -1,0 +1,112 @@
+{
+  "ClaimID": "66c4c492-bdd9-440a-818c-6c19d2571400",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-06-06",
+    "EndDate": "2026-06-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-09",
+    "Location": "20912 Stephanie Canyon\nLake Frances, GU 75321",
+    "Description": "Range night because remain believe however nation. Whose administration sense may.\nPeople lead college. Word court way place plant. Tv coach none will point."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3354
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8926
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 52150
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 153740
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6158
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 224328,
+    "TotalApproved": 23606
+  },
+  "AdjusterDetails": {
+    "Name": "David Chaney",
+    "ContactInformation": {
+      "Phone": "+1-256-823-7870",
+      "Email": "abarker@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/bee34846-8336-4870-8f8b-84ccfdee3373"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hall, Mejia and Jefferson",
+    "Model": "guess",
+    "Year": 2004,
+    "VIN": "3d98d56d-49b9-4908-89e6-fa82099ca1be"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steven Jones",
+      "ContactInformation": {
+        "Phone": "+1-941-394-3804",
+        "Email": "thomasharris@example.net"
+      },
+      "Statement": "High ago reduce pass matter nearly accept. Actually religious ball president dog enter he. Recognize start explain field respond establish money occur.\nEntire reason enough wait arrive face."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6b253d42-950e-408d-b13d-c6e85e8471b9",
+    "OfficerName": "Deborah Campbell",
+    "ReportDetails": "Seem card fill pick reveal author first decade. Dinner group training wonder option short. Evidence true trip positive support can early."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 623,
+    "AnnualIncome": 111001,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 10,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

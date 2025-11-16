@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e2155ee4-a264-48c0-9374-2fbadb4d258a",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-01-01",
+    "EndDate": "2026-01-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-28",
+    "Location": "335 Robert Rapid\nEast Joshuaview, KS 32826",
+    "Description": "Especially offer fund arrive writer nice age build. Newspaper likely even simple.\nConference remember production especially factor. Democratic science father threat participant."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4707040
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4827887
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4836314
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4610419
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4498254
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 23479914,
+    "TotalApproved": 7832032
+  },
+  "AdjusterDetails": {
+    "Name": "Stephen Mcgee",
+    "ContactInformation": {
+      "Phone": "+1-843-941-5456x8002",
+      "Email": "andrewsharp@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/4f97a40a-7656-471c-b3c0-411c8a467ea3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Norton, Andrews and Macdonald",
+    "Model": "item",
+    "Year": 2009,
+    "VIN": "ced822de-9e53-40e6-8fb3-5b08c5cf44d6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Catherine Wiley",
+      "ContactInformation": {
+        "Phone": "6275314189",
+        "Email": "zpittman@example.net"
+      },
+      "Statement": "Leader deal read study several. Generation believe him sea offer news office through.\nIssue PM human attack total. Simple music skill beautiful year. Clear water generation court."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8ba38d76-6f75-42db-aea1-e7ef5ad8c67a",
+    "OfficerName": "Jennifer Martin",
+    "ReportDetails": "Thing baby heavy sit.\nClose risk body bed long edge. Weight leader story. First four pretty indicate usually matter scene trade."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 414,
+    "AnnualIncome": 155008,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

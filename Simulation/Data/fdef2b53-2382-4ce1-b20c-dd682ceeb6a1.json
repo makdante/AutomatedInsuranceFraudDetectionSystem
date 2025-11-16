@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fdef2b53-2382-4ce1-b20c-dd682ceeb6a1",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-10-27",
+    "EndDate": "2026-10-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-24",
+    "Location": "82604 Stanley Fords Suite 176\nBrooksland, PR 78023",
+    "Description": "War which about none. These seem race economy decide. World course exist cut next particularly understand.\nTurn gas work despite coach. Give gun fine soldier team according."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7994
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9451
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 42952
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 83185
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 27898
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 171480,
+    "TotalApproved": 139734
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Gonzales",
+    "ContactInformation": {
+      "Phone": "(902)553-4431x390",
+      "Email": "jaime01@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3f553174-07b7-4914-896e-2f0a56d3c651"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Reyes Inc",
+    "Model": "actually",
+    "Year": 2004,
+    "VIN": "b5337451-f935-4b8b-b884-12adefc622ff"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Virginia Hudson",
+      "ContactInformation": {
+        "Phone": "380.645.7265x33269",
+        "Email": "vasquezsarah@example.org"
+      },
+      "Statement": "Herself realize prepare. Should play could majority moment serve spring."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "91d1b21d-6b4e-49c2-a4b9-72fdfe64e091",
+    "OfficerName": "Nathan Ortiz",
+    "ReportDetails": "Bar wall road eat group never.\nNature million reduce suffer. Specific go fast health happen course.\nPhysical summer least see Mr science. Community north make across."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 724,
+    "AnnualIncome": 117667,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

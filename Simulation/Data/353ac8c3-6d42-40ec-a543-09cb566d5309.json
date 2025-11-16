@@ -1,0 +1,112 @@
+{
+  "ClaimID": "353ac8c3-6d42-40ec-a543-09cb566d5309",
+  "PolicyID": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+  "EffectiveDates": {
+    "StartDate": "2025-07-03",
+    "EndDate": "2026-07-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "33851d0f-ae34-4d84-9979-9c0bb345ff37",
+    "Name": "Emily Richardson",
+    "PolicyNumber": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+    "ContactInformation": {
+      "Phone": "(999)370-8402x9360",
+      "Email": "stephen63@example.com",
+      "Address": "90107 Stephen Well\nAndrewmouth, ND 46797"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-15",
+    "Location": "8192 Cole Creek\nOrtizhaven, UT 14760",
+    "Description": "Interesting among purpose. Model range continue laugh sea employee. Apply nor image wear success thousand professor different."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 146568
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11959
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 63261
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3273
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7092
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 232153,
+    "TotalApproved": 164925
+  },
+  "AdjusterDetails": {
+    "Name": "Cynthia Pennington",
+    "ContactInformation": {
+      "Phone": "423.907.1107",
+      "Email": "hokimberly@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/44cbfbf3-26ea-47bc-b2e1-6bcd0a287158"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Burke, Newman and Lopez",
+    "Model": "design",
+    "Year": 2002,
+    "VIN": "8fc8e01c-c55d-4245-b1ac-68e424288f63"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Donna Tucker",
+      "ContactInformation": {
+        "Phone": "801-538-6804",
+        "Email": "rmontes@example.net"
+      },
+      "Statement": "Pass leg discuss budget little. Artist author seem not throughout power improve."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c6e9a802-6fac-4d79-9754-9a60347e06bb",
+    "OfficerName": "Curtis Flynn",
+    "ReportDetails": "Team foreign cost well behavior everyone. Half physical help available whatever magazine.\nGreat attack close you. Help town he break red approach when. Party poor parent floor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 610,
+    "AnnualIncome": 188766,
+    "DebtToIncomeRatio": 0.11
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

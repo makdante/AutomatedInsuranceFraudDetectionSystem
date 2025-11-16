@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e5c07cc0-316b-4535-aabd-be6c6df1d31d",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-02-07",
+    "EndDate": "2026-02-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-29",
+    "Location": "PSC 7863, Box 2937\nAPO AA 06859",
+    "Description": "Place bar develop enjoy. Now lead charge. Cover let still student organization."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18901
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7611
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 79053
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12365
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 77680
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 195610,
+    "TotalApproved": 192992
+  },
+  "AdjusterDetails": {
+    "Name": "David Greene",
+    "ContactInformation": {
+      "Phone": "419.434.0203",
+      "Email": "alexander15@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/0cfed38e-4239-47d0-a1d8-a78828ec2a49"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Phelps, Cummings and Miles",
+    "Model": "artist",
+    "Year": 2012,
+    "VIN": "7d8b889f-4df8-468a-bdbe-56ab4a97c9ce"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "William Cortez",
+      "ContactInformation": {
+        "Phone": "5507296091",
+        "Email": "ojones@example.com"
+      },
+      "Statement": "Memory grow generation important skill budget notice. Other room air hope happen culture. Every political source pull other.\nBring through much doctor north."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "868826dc-1560-4908-be62-33906df7b08d",
+    "OfficerName": "Debra Fuentes",
+    "ReportDetails": "Now history machine high. Present agent power hand grow miss open. Deal behind focus whatever.\nWeight force make artist world modern. Home than participant Congress religious."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 603,
+    "AnnualIncome": 101529,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

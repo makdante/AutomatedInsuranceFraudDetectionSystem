@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3b203bc3-209c-498c-a0d6-ca5e491e2eeb",
+  "PolicyID": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+  "EffectiveDates": {
+    "StartDate": "2025-07-26",
+    "EndDate": "2026-07-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1ca65977-e36d-46f7-95b8-d03e34c9f672",
+    "Name": "Melissa Charles DVM",
+    "PolicyNumber": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+    "ContactInformation": {
+      "Phone": "871-833-2368x7208",
+      "Email": "scottwagner@example.org",
+      "Address": "006 Torres Neck Apt. 510\nRichardsonshire, NM 15931"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-16",
+    "Location": "Unit 4795 Box 1347\nDPO AA 27426",
+    "Description": "Total central large film. Society store attention professional. Region threat scientist hold. Oil certain alone exist budget.\nAsk father everybody ability. Surface place last build among hand."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 32306
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4757
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 103932
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18975
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6571
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 166541,
+    "TotalApproved": 111391
+  },
+  "AdjusterDetails": {
+    "Name": "David Williams",
+    "ContactInformation": {
+      "Phone": "3182388833",
+      "Email": "vicki02@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/5e240484-5140-4385-805b-164694bd670e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Burke-Robinson",
+    "Model": "through",
+    "Year": 2004,
+    "VIN": "f02ae4ca-dc19-4828-b1ec-6f8b34c6a6f7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Phillip Warner",
+      "ContactInformation": {
+        "Phone": "424.315.3294x039",
+        "Email": "bwinters@example.net"
+      },
+      "Statement": "Wrong adult take spend. Tonight visit from top player design others parent.\nMother trade he country part name onto. Their mouth arm decade tree."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d054e2af-14ff-4509-9dec-6d40e7162acf",
+    "OfficerName": "Brittany Martinez",
+    "ReportDetails": "Each still peace bank change. Type both fund movie political strong manage meeting. Nothing between address maintain imagine control understand. Tonight couple today enjoy senior."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 515,
+    "AnnualIncome": 90752,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

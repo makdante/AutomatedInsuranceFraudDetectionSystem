@@ -1,0 +1,112 @@
+{
+  "ClaimID": "63554ed9-d598-4e08-958d-1b146acc071b",
+  "PolicyID": "9a540188-2fa0-4610-a341-5130618504c6",
+  "EffectiveDates": {
+    "StartDate": "2025-03-27",
+    "EndDate": "2026-03-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5e1aef1e-7897-4f43-8b25-4f651ff5946d",
+    "Name": "Brian Vance",
+    "PolicyNumber": "9a540188-2fa0-4610-a341-5130618504c6",
+    "ContactInformation": {
+      "Phone": "630-390-2993",
+      "Email": "terriosborn@example.com",
+      "Address": "01673 Osborne Ferry Apt. 849\nRobertbury, AR 69950"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-29",
+    "Location": "50005 Mary Dam Apt. 900\nEast Susan, NJ 71195",
+    "Description": "City deal process difference away while focus. Draw wear particular civil share phone that. Turn allow million several its ten type."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 31261
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13755
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3981
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 37058
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2625
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 88680,
+    "TotalApproved": 86754
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Torres",
+    "ContactInformation": {
+      "Phone": "495-461-1917",
+      "Email": "thomas07@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/0f8fd5bc-91c0-4a3d-b705-e641bb094469"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brooks PLC",
+    "Model": "window",
+    "Year": 2005,
+    "VIN": "d42b47b8-a4be-4a8b-8712-d09b80f4d8b8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Andrew Bell",
+      "ContactInformation": {
+        "Phone": "001-874-586-8030x703",
+        "Email": "jamie59@example.net"
+      },
+      "Statement": "Increase box agency. Two conference raise individual. Thought least ago represent trouble group those kitchen.\nStation current indeed if television hot. Much somebody various local."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1c1a49c6-e800-40f6-b090-cf8463a96f08",
+    "OfficerName": "Zachary Mcgee",
+    "ReportDetails": "Might enjoy radio language never nature east. Second team main method. Baby likely never help be arm away. Over where sure story drop."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 803,
+    "AnnualIncome": 104888,
+    "DebtToIncomeRatio": 0.57
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

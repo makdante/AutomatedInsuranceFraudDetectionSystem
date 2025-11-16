@@ -1,0 +1,112 @@
+{
+  "ClaimID": "43ad16b3-cce7-43f1-821d-c093acc3f35a",
+  "PolicyID": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+  "EffectiveDates": {
+    "StartDate": "2025-10-18",
+    "EndDate": "2026-10-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d5023dd5-3c99-4647-ac91-e9ca560330de",
+    "Name": "Kevin Williams",
+    "PolicyNumber": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+    "ContactInformation": {
+      "Phone": "(620)408-9812x278",
+      "Email": "maxwell13@example.net",
+      "Address": "800 Campbell Streets Apt. 592\nWest Nicole, DE 17286"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-12",
+    "Location": "1945 Flowers Isle Apt. 624\nWest Jenniferburgh, PW 34883",
+    "Description": "Marriage among far six you seven own. Blue art onto.\nDirection mind travel deal onto student help. Foot six class night power research issue."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6318
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 30553
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 21425
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6632
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 91684
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 156612,
+    "TotalApproved": 122346
+  },
+  "AdjusterDetails": {
+    "Name": "Brenda Brooks",
+    "ContactInformation": {
+      "Phone": "7774879209",
+      "Email": "manuelmcgee@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/155fbfe9-fc32-4c27-a71d-b8fbbebaa7fa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mcdonald-Green",
+    "Model": "appear",
+    "Year": 2013,
+    "VIN": "9dfcf441-b313-436e-865e-aefd79d184dd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jason Ramirez",
+      "ContactInformation": {
+        "Phone": "001-253-379-5738",
+        "Email": "jeffrey03@example.net"
+      },
+      "Statement": "One article network your road. Talk range production late. Life thank then at senior.\nForward here memory. Along cold do institution. Low direction either information."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9984db74-49ef-4ee2-9996-ec05c0f11d46",
+    "OfficerName": "Jennifer Sanford",
+    "ReportDetails": "Vote establish until girl ten. Treat decide inside view.\nMany itself that sell relate play. Strategy reach garden old law question simply world. I deal remain."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 399,
+    "AnnualIncome": 132969,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

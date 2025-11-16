@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7fe14778-0396-4009-993f-bb9c613d3595",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2025-09-26",
+    "EndDate": "2026-09-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-15",
+    "Location": "00654 Thomas Route\nSouth Jonathan, TX 41887",
+    "Description": "Culture knowledge statement oil police. Realize brother factor. Form never with mention experience tonight site team.\nDecade mission room air explain. Security too reality maybe rock standard hot."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 54833
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39902
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15163
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3202
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6756
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 119856,
+    "TotalApproved": 1666
+  },
+  "AdjusterDetails": {
+    "Name": "Frank Brown",
+    "ContactInformation": {
+      "Phone": "+1-949-485-8274",
+      "Email": "robert57@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/68e51ec2-de28-4b48-a07b-f3b632111d47"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chavez-Martin",
+    "Model": "industry",
+    "Year": 2007,
+    "VIN": "4999ed2c-57a0-4ff3-80f8-4bac968517b8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Chris Wilson",
+      "ContactInformation": {
+        "Phone": "(716)679-6809x38121",
+        "Email": "bernardcarl@example.net"
+      },
+      "Statement": "Shoulder among safe police drug item like tell. Other prepare yourself leg amount environment at. Single store star lawyer modern wrong."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "30144f32-49a8-43a3-b137-f6b884efee32",
+    "OfficerName": "Christopher Ramirez",
+    "ReportDetails": "Hot among high recently generation.\nDegree various so present his strong heart. Toward street remember conference idea station professor.\nMove always many can care. Truth paper more body next."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 321,
+    "AnnualIncome": 74201,
+    "DebtToIncomeRatio": 0.21
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

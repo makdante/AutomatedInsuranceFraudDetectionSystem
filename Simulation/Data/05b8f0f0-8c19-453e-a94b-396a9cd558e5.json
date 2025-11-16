@@ -1,0 +1,112 @@
+{
+  "ClaimID": "05b8f0f0-8c19-453e-a94b-396a9cd558e5",
+  "PolicyID": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+  "EffectiveDates": {
+    "StartDate": "2025-04-19",
+    "EndDate": "2026-04-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eb400d1e-8ed3-4fd5-8a4b-a02804e6ce83",
+    "Name": "Dylan Lee",
+    "PolicyNumber": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+    "ContactInformation": {
+      "Phone": "976.394.8548x28663",
+      "Email": "blane@example.com",
+      "Address": "044 Briggs Way\nLake Allisonchester, FM 38872"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-01",
+    "Location": "USNS Townsend\nFPO AP 80640",
+    "Description": "Former across nearly thus well thousand. Able certainly draw. Rule majority stop media size.\nShort stand stuff direction professional small. Rate these agreement election film similar."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8090
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 66851
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 38192
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 49718
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 65722
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 228573,
+    "TotalApproved": 73844
+  },
+  "AdjusterDetails": {
+    "Name": "Joseph Forbes",
+    "ContactInformation": {
+      "Phone": "(745)471-6517x430",
+      "Email": "lauren21@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/90088a1c-21f4-4e80-8e53-be968f25d1a8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez Inc",
+    "Model": "term",
+    "Year": 2002,
+    "VIN": "3f942d0d-ab7b-48db-ab18-6dffba812e73"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Justin Wells",
+      "ContactInformation": {
+        "Phone": "663.834.3139x538",
+        "Email": "nicholaswalters@example.net"
+      },
+      "Statement": "Report yard including. Set our economy.\nNumber price edge test make short book. Far item special less attack manager true. Open million high study."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6b9194fd-0a3b-4722-8999-5e69a909e294",
+    "OfficerName": "Amy Malone",
+    "ReportDetails": "Method rather notice fly party education huge hope. Trip life age last.\nName end media total court politics. Sound run democratic. Challenge start response threat."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 597,
+    "AnnualIncome": 76762,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 4,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

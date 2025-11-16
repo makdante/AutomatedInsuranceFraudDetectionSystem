@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ea117e63-4891-4f38-8fbc-c19ca0576935",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2025-06-02",
+    "EndDate": "2026-06-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-02",
+    "Location": "818 Wise Streets Apt. 000\nChristinamouth, KS 18548",
+    "Description": "Read compare Republican. Sign nearly worker culture class. Cell picture position another cover represent.\nStart career hope you turn mind rest. Dinner like any establish reason remember officer."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 118875
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13757
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3120
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2347
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4534
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 142633,
+    "TotalApproved": 35331
+  },
+  "AdjusterDetails": {
+    "Name": "Deborah Gonzalez DVM",
+    "ContactInformation": {
+      "Phone": "001-474-347-3332",
+      "Email": "crystal62@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/af75ad48-bba1-4998-bc40-b69031e98243"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Weaver, Crawford and King",
+    "Model": "piece",
+    "Year": 2019,
+    "VIN": "0676d80a-7c80-464d-8a68-662ad6bbbabb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathleen Rogers",
+      "ContactInformation": {
+        "Phone": "245.323.2264x0392",
+        "Email": "jessicastephens@example.com"
+      },
+      "Statement": "Manage team two certainly respond half. Situation ability see try meeting reflect media. Always old its record yard if social."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3b817a57-62c1-4fd5-b542-a49e27169f76",
+    "OfficerName": "William Gomez",
+    "ReportDetails": "Lawyer action charge three part bed peace. Apply camera break.\nDespite family seek oil center. Determine benefit visit surface full task tough."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 471,
+    "AnnualIncome": 34566,
+    "DebtToIncomeRatio": 0.44
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

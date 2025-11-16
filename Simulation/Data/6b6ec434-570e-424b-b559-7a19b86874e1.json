@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6b6ec434-570e-424b-b559-7a19b86874e1",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-07-07",
+    "EndDate": "2026-07-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-23",
+    "Location": "8893 Miles Rapid\nNorth Stephanieville, GU 11813",
+    "Description": "Keep technology production tonight late tell tough.\nEverything color draw during six school conference position. Thousand chair per evening hour chair though."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4747933
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4882090
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4210966
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4589554
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4048524
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22479067,
+    "TotalApproved": 4505318
+  },
+  "AdjusterDetails": {
+    "Name": "Walter Castro",
+    "ContactInformation": {
+      "Phone": "590-712-2561x35810",
+      "Email": "mark58@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a2709b64-4d17-42d8-878e-94a1980074b1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-23T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-28T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Marsh, Allen and Cantu",
+    "Model": "civil",
+    "Year": 2000,
+    "VIN": "09727719-aea2-491c-a582-64189131d7ca"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jacqueline Williams",
+      "ContactInformation": {
+        "Phone": "878.208.1727",
+        "Email": "brightrobert@example.net"
+      },
+      "Statement": "Everyone check voice speech learn consumer open. Author recognize perhaps develop cold. Behavior understand rate admit. Song hotel involve establish.\nNeed give goal. Maybe four receive blue or."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9b4951c5-8314-4904-9282-a302e0524611",
+    "OfficerName": "Katherine Garza",
+    "ReportDetails": "Write form design big moment this factor. Various bring computer be.\nGuess discussion teach. North must she experience. Five affect nor give."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 317,
+    "AnnualIncome": 26420,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

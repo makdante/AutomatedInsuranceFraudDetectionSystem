@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f3a5f87b-a20c-4f60-9c16-b63974914368",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2025-02-04",
+    "EndDate": "2026-02-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-09",
+    "Location": "704 Higgins Shoals\nNew Kevin, GA 98158",
+    "Description": "Consumer goal reveal relationship nearly. Shoulder author west far southern heart federal. Simply have reason state policy anyone notice."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4640996
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4575124
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4059574
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4894498
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4855887
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 23026079,
+    "TotalApproved": 11333089
+  },
+  "AdjusterDetails": {
+    "Name": "Alice Weiss",
+    "ContactInformation": {
+      "Phone": "+1-618-367-6385x0794",
+      "Email": "kathleenweaver@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/5b47fba9-7ff0-49c7-afca-71b489084574"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Henry, Espinoza and Gonzales",
+    "Model": "center",
+    "Year": 2019,
+    "VIN": "454175bc-5e77-4d52-9b39-984eb2e21063"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Francisco Gilbert",
+      "ContactInformation": {
+        "Phone": "2658460089",
+        "Email": "austin92@example.net"
+      },
+      "Statement": "Their watch other since. Environment value kitchen three quickly window effort.\nHold lawyer population seat. Which worry family them table world."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "56e77dcd-a434-4389-b33a-1ac06e2576b6",
+    "OfficerName": "Kenneth Hamilton",
+    "ReportDetails": "Represent campaign little current. Prove many role. Cell them fall face occur sit.\nMain tend value prove house."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 381,
+    "AnnualIncome": 97866,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

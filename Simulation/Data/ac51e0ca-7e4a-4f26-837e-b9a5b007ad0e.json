@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ac51e0ca-7e4a-4f26-837e-b9a5b007ad0e",
+  "PolicyID": "d67278aa-bec7-4840-bfff-77f2736e2d75",
+  "EffectiveDates": {
+    "StartDate": "2025-10-24",
+    "EndDate": "2026-10-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de87a79d-3530-44de-a42d-0905617f9485",
+    "Name": "Caitlyn Sosa",
+    "PolicyNumber": "d67278aa-bec7-4840-bfff-77f2736e2d75",
+    "ContactInformation": {
+      "Phone": "904-716-2217x5949",
+      "Email": "angela15@example.net",
+      "Address": "661 Hill Heights Suite 117\nCampbellmouth, ID 00775"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-04",
+    "Location": "0449 Thomas Island\nSouth Kristen, ID 01325",
+    "Description": "Program cold main resource. Real discover class. Agency skill first really. Agree sing partner difficult majority reason."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1481
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 151412
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 41938
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9857
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37885
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 242573,
+    "TotalApproved": 131897
+  },
+  "AdjusterDetails": {
+    "Name": "Roy Flores",
+    "ContactInformation": {
+      "Phone": "725-558-6048x467",
+      "Email": "hannahbecker@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/6ad6f913-a256-4c72-b374-44c3c84359e2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Harmon-Daniels",
+    "Model": "minute",
+    "Year": 2015,
+    "VIN": "94d17999-0736-491c-b32e-e2dc8736edbb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tiffany Ayala",
+      "ContactInformation": {
+        "Phone": "+1-450-587-1560x13752",
+        "Email": "rvargas@example.net"
+      },
+      "Statement": "President once bank of military. Rock Congress night. Action foreign however behind thing bit movie tell."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "59073bd0-e14b-4d1c-b26f-3068ff6bc0c7",
+    "OfficerName": "Roger Griffin",
+    "ReportDetails": "Despite offer southern mouth game reduce window. Material western hospital thus. Have thought alone price box. Collection popular picture land world Congress."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 514,
+    "AnnualIncome": 147240,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

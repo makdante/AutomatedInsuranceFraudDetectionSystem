@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0e83f353-b244-4224-87f3-2eea4c2244c2",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2025-10-07",
+    "EndDate": "2026-10-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-06",
+    "Location": "5613 Horn Mission Suite 650\nKevinshire, VI 80998",
+    "Description": "Whom water PM. Always PM call between. Yourself movie fact how each.\nStage add those side. Bag girl again include. Pay trade food in miss test you."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 46089
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8584
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19471
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9516
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2343
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 86003,
+    "TotalApproved": 37963
+  },
+  "AdjusterDetails": {
+    "Name": "Pamela Marsh",
+    "ContactInformation": {
+      "Phone": "(243)631-9035",
+      "Email": "gilbertlawrence@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7fb75a8b-e0bd-4b2c-88dd-5661e4c15f56"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Freeman-Carpenter",
+    "Model": "perform",
+    "Year": 2022,
+    "VIN": "81712cb4-5cf2-4d2b-a8dc-b79583d24912"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Justin Mcmillan",
+      "ContactInformation": {
+        "Phone": "886-692-8795x7974",
+        "Email": "mark39@example.org"
+      },
+      "Statement": "Look walk everybody another practice black. Teach anyone next product treatment. Effect clearly require market right line sort."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4bb6efb6-314c-4bdf-9277-db93c2bced18",
+    "OfficerName": "Christine Oneal",
+    "ReportDetails": "Create I interesting never its. Worry both against would above. Hair style young suffer itself against.\nWe author theory which rest off. Project benefit listen morning."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 608,
+    "AnnualIncome": 169711,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

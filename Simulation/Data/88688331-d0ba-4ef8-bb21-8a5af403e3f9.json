@@ -1,0 +1,112 @@
+{
+  "ClaimID": "88688331-d0ba-4ef8-bb21-8a5af403e3f9",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-02-21",
+    "EndDate": "2026-02-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-31",
+    "Location": "98188 Carol Rapids Apt. 849\nSpenceside, DE 42918",
+    "Description": "Movie social glass reflect. Less speech once edge various according over pretty.\nIssue beat share."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4307819
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4704246
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4831835
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4569488
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4317568
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22730956,
+    "TotalApproved": 14991679
+  },
+  "AdjusterDetails": {
+    "Name": "Candace Garza",
+    "ContactInformation": {
+      "Phone": "(424)829-1706x263",
+      "Email": "jhall@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/afd2b15b-d002-4e29-b935-ad299ac06e73"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-31T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Baker",
+    "Model": "according",
+    "Year": 2019,
+    "VIN": "26d7c5f2-3381-44c4-8888-fc31765423be"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alicia Stewart",
+      "ContactInformation": {
+        "Phone": "(772)723-6817x316",
+        "Email": "jeremiah83@example.net"
+      },
+      "Statement": "Agreement almost television sing fly receive news. Score really house quite court party. Among agree for product.\nEmployee yes point red girl director. Leave imagine first."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "04445958-ffb1-4173-b424-ce69d14da0a5",
+    "OfficerName": "Gregory Barnett",
+    "ReportDetails": "Present turn mouth nice. During building throughout rest enter miss risk difference.\nCareer husband including face. Sea bring claim help computer TV make."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 375,
+    "AnnualIncome": 82595,
+    "DebtToIncomeRatio": 0.38
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

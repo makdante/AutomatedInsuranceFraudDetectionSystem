@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ba22cc10-9e98-41aa-88d5-423ab56c51a8",
+  "PolicyID": "6c36cc73-e207-48b9-a284-c51cf5663165",
+  "EffectiveDates": {
+    "StartDate": "2025-04-11",
+    "EndDate": "2026-04-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "193b28b0-1277-4ecb-b44b-678f0a8a54ac",
+    "Name": "Aaron Wilson",
+    "PolicyNumber": "6c36cc73-e207-48b9-a284-c51cf5663165",
+    "ContactInformation": {
+      "Phone": "4298804696",
+      "Email": "uford@example.org",
+      "Address": "70180 Jessica Ridges Suite 614\nEast Mindy, IL 04431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-16",
+    "Location": "902 David Mews Apt. 356\nLindahaven, WV 31903",
+    "Description": "Begin nice situation. Treatment score then finish American environment.\nNot want American couple consider site. Example special along middle color person."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 51322
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 25744
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8108
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 169230
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 168146
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 422550,
+    "TotalApproved": 132872
+  },
+  "AdjusterDetails": {
+    "Name": "Hayley Baker",
+    "ContactInformation": {
+      "Phone": "(752)216-7145",
+      "Email": "daniel48@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c6702251-0d90-415b-a43e-ade8d3ea9d9f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Espinoza, Berry and Morgan",
+    "Model": "project",
+    "Year": 2015,
+    "VIN": "42e5de06-0983-493d-8050-76d7b3a8e00e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christy Reeves",
+      "ContactInformation": {
+        "Phone": "664.458.0615x10328",
+        "Email": "marksanders@example.com"
+      },
+      "Statement": "Position attack exist both environmental pay we husband. Family suddenly force history though brother material.\nShow fire would magazine. Door big seven energy capital write move."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a83aacce-ed72-4e79-9fe0-87141ea0f845",
+    "OfficerName": "Charles Melton",
+    "ReportDetails": "Both open table I suddenly. North animal environment line sure."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 667,
+    "AnnualIncome": 86406,
+    "DebtToIncomeRatio": 0.44
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 2,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

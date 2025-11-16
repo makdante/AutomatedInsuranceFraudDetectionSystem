@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b24f72c0-6524-4853-a1ec-89e0b8511376",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2025-01-15",
+    "EndDate": "2026-01-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-19",
+    "Location": "2232 Wilcox Dam Apt. 845\nEast Alexandria, CT 37846",
+    "Description": "Hold able officer they like. Knowledge answer support child. Drug smile senior everything back hand list."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 120592
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3237
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 21779
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 77037
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6358
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 229003,
+    "TotalApproved": 179531
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Santiago",
+    "ContactInformation": {
+      "Phone": "9977436213",
+      "Email": "lopezryan@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3a4c7d96-16a0-4ae1-913b-0391b5f88aa8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "David, White and Smith",
+    "Model": "rate",
+    "Year": 2018,
+    "VIN": "df2c5510-d332-48ab-bae5-c17d318fa08e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brooke Hamilton",
+      "ContactInformation": {
+        "Phone": "(438)351-8716",
+        "Email": "kristine35@example.org"
+      },
+      "Statement": "Wall let environment become military effect. Check new stop eat ready. Agreement interview seven become."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "351085c5-01da-4b58-bbce-86c4705e7f5c",
+    "OfficerName": "Jodi Wallace",
+    "ReportDetails": "Professional owner last my event travel stock.\nPay pressure so kind.\nGive general campaign term director real effect. Behind student wish traditional put meeting. Travel compare purpose peace."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 659,
+    "AnnualIncome": 127074,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 10,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

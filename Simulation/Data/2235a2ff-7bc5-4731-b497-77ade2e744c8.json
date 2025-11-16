@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2235a2ff-7bc5-4731-b497-77ade2e744c8",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2025-08-14",
+    "EndDate": "2026-08-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-05",
+    "Location": "8857 Lopez Passage\nJosephbury, MH 79784",
+    "Description": "Memory green bag trial writer under lot. You international there television why suddenly. Building even pick him about note entire."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6773
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 131498
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44849
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 57116
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 85420
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 325656,
+    "TotalApproved": 229795
+  },
+  "AdjusterDetails": {
+    "Name": "Miguel Carter",
+    "ContactInformation": {
+      "Phone": "461.695.5690",
+      "Email": "ndavidson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/8afa69e0-4771-4f78-b83f-8c2911f7917e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Park Group",
+    "Model": "quickly",
+    "Year": 2014,
+    "VIN": "c1ce3860-06b9-471e-b994-6caead774e89"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Laura Smith",
+      "ContactInformation": {
+        "Phone": "001-786-218-4145x094",
+        "Email": "annachase@example.com"
+      },
+      "Statement": "System phone control program factor fish. Conference public card. Draw training window first person challenge."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d8724c82-e027-495b-b3da-a145e0eff6d7",
+    "OfficerName": "Christopher Welch",
+    "ReportDetails": "Son left arm last carry store. Five firm usually city. Month note return give full difference.\nAppear stop girl task recent forward.\nArtist father learn assume. Rather interview his under."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 638,
+    "AnnualIncome": 168237,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

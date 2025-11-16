@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9607caf8-cb2e-487c-91a3-5e17e0b59f2a",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-09-01",
+    "EndDate": "2026-09-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-21",
+    "Location": "3157 Hill Terrace\nAndersonport, AZ 00931",
+    "Description": "You method fast magazine store real. Generation water seem parent. Help though baby few."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12336
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11858
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9009
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18472
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36897
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 88572,
+    "TotalApproved": 38614
+  },
+  "AdjusterDetails": {
+    "Name": "Andrew Martin",
+    "ContactInformation": {
+      "Phone": "+1-591-323-0504x948",
+      "Email": "newtondebra@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/1ba3c4c0-3d2d-44d3-a89d-717832164c07"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-01T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Woods PLC",
+    "Model": "which",
+    "Year": 2018,
+    "VIN": "23d2adac-0e6a-4b1f-80e7-eb14420ff94e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mrs. Lisa Smith MD",
+      "ContactInformation": {
+        "Phone": "(917)265-7219x509",
+        "Email": "martinjoseph@example.net"
+      },
+      "Statement": "Radio image economic nor leader tell. City especially give product represent order."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5c07b77a-3ef4-4019-a7b4-a9e0ffc11c2d",
+    "OfficerName": "Michael Benson",
+    "ReportDetails": "Day skill have should edge. Support use talk family information.\nRecent seek his doctor. Professional start back school quickly."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 761,
+    "AnnualIncome": 99347,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 3,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

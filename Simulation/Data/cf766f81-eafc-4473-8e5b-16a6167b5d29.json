@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cf766f81-eafc-4473-8e5b-16a6167b5d29",
+  "PolicyID": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+  "EffectiveDates": {
+    "StartDate": "2025-02-25",
+    "EndDate": "2026-02-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1ca65977-e36d-46f7-95b8-d03e34c9f672",
+    "Name": "Melissa Charles DVM",
+    "PolicyNumber": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+    "ContactInformation": {
+      "Phone": "871-833-2368x7208",
+      "Email": "scottwagner@example.org",
+      "Address": "006 Torres Neck Apt. 510\nRichardsonshire, NM 15931"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-09",
+    "Location": "89759 Ray Stravenue Apt. 181\nMarkport, NC 20119",
+    "Description": "Main television region. Always source community return music network cell.\nAnother build at leave response level. Then husband mission region."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 24232
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 44951
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10291
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10690
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11146
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 101310,
+    "TotalApproved": 54550
+  },
+  "AdjusterDetails": {
+    "Name": "Brittany Decker",
+    "ContactInformation": {
+      "Phone": "001-348-694-4236",
+      "Email": "james31@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/69c68588-d833-4717-96fe-155d918f0430"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stephenson, Hobbs and Wilson",
+    "Model": "foreign",
+    "Year": 2006,
+    "VIN": "d573d1c7-f1ae-4735-a892-278cdf0510b4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Victoria Ward",
+      "ContactInformation": {
+        "Phone": "001-730-765-8125x38907",
+        "Email": "ugoodwin@example.net"
+      },
+      "Statement": "Suddenly cause community account look present prepare. Early service claim may together interest. After prevent may camera stock. Not company pick director choose building rest."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "733db172-1abd-4f86-ab0f-8fd3ff4bf165",
+    "OfficerName": "Stacey Hughes",
+    "ReportDetails": "Finish world word someone. Center many laugh report hard hope. Develop present carry body risk option."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 715,
+    "AnnualIncome": 112795,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 0,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

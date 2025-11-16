@@ -1,0 +1,112 @@
+{
+  "ClaimID": "db54a9fd-ef9a-4ef0-bbf8-2be14b9ddd64",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-01-26",
+    "EndDate": "2026-01-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-07",
+    "Location": "83071 James Dale\nWest Lawrence, NE 71606",
+    "Description": "Buy leg serious. Throw thought line act behavior challenge. Authority serious not visit stand quite. South picture opportunity certain."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13222
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9498
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13129
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13525
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4725
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 54099,
+    "TotalApproved": 42330
+  },
+  "AdjusterDetails": {
+    "Name": "Billy Marsh",
+    "ContactInformation": {
+      "Phone": "(873)831-7170",
+      "Email": "sheltonthomas@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/76e5ce5a-e935-44ea-82c3-56e70d153cf6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hicks-Thomas",
+    "Model": "time",
+    "Year": 2006,
+    "VIN": "47110682-f537-490a-889a-4d1b9057b372"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "William Welch",
+      "ContactInformation": {
+        "Phone": "759.243.9964",
+        "Email": "justin94@example.com"
+      },
+      "Statement": "Born effort eat list main occur amount generation. Customer approach card music adult. Pressure expect risk green pay know name court."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6edd3d98-b238-4988-82de-ae5e0dfb2260",
+    "OfficerName": "Jacqueline Taylor",
+    "ReportDetails": "Person international at seat represent. Near mother minute join until. House likely rule develop trade."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 736,
+    "AnnualIncome": 166056,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 0,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f39f0532-fd29-4f94-8583-aac7cfbf43c9",
+  "PolicyID": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+  "EffectiveDates": {
+    "StartDate": "2025-01-15",
+    "EndDate": "2026-01-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fe640aa1-fac6-44c1-b128-0544382d3460",
+    "Name": "Mr. John Curtis DDS",
+    "PolicyNumber": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+    "ContactInformation": {
+      "Phone": "+1-788-856-0912x412",
+      "Email": "greenlorraine@example.com",
+      "Address": "970 Ryan Green\nWest Katherine, GA 40547"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-14",
+    "Location": "491 Zachary Stream Suite 650\nHarpermouth, VA 39417",
+    "Description": "Firm town threat structure.\nNew final member school practice degree hotel. Family safe computer his respond lay door tree. Laugh game ten again real.\nCup low become discover. Yes politics both there."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 79354
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 56318
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 20405
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 157054
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4653
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 317784,
+    "TotalApproved": 55137
+  },
+  "AdjusterDetails": {
+    "Name": "William Shannon",
+    "ContactInformation": {
+      "Phone": "921.501.4685x314",
+      "Email": "tony55@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/42156222-ca7f-40f3-af6a-db20209457e4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones, Wilson and Sanchez",
+    "Model": "hospital",
+    "Year": 2015,
+    "VIN": "dd0d590a-77be-4c11-9e9a-762e3486d7cf"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Adam Hernandez",
+      "ContactInformation": {
+        "Phone": "+1-832-984-9306x7969",
+        "Email": "caitlyn49@example.net"
+      },
+      "Statement": "Thought suggest ok study question. Fly eye cause five short particular. Worker concern yes exist."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ffde98b3-b306-40ed-b84a-b1934e2ff3fa",
+    "OfficerName": "Meghan Sampson",
+    "ReportDetails": "How late green care surface. Join still natural recent purpose sign some. Oil after teacher glass build minute. Child important PM audience fund camera."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 430,
+    "AnnualIncome": 62247,
+    "DebtToIncomeRatio": 0.35
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "859554a6-c0ed-41fd-83f9-2573918e7dfb",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-10-18",
+    "EndDate": "2026-10-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-29",
+    "Location": "6926 Courtney Parkway Suite 954\nLake Laurahaven, WY 87143",
+    "Description": "Idea learn war whether drive personal hit system. Able business far federal bill put. Fine research system week want now eye."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 24246
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7640
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6920
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 33826
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4115
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 76747,
+    "TotalApproved": 21030
+  },
+  "AdjusterDetails": {
+    "Name": "Rodney Johnson",
+    "ContactInformation": {
+      "Phone": "(587)903-4981",
+      "Email": "john92@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a49b0654-801a-4162-9603-8d2cad816e5c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-04T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-09T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Meyer PLC",
+    "Model": "impact",
+    "Year": 2013,
+    "VIN": "53c6836c-4e2e-4044-9576-0c5534e910b3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lori Shannon",
+      "ContactInformation": {
+        "Phone": "001-535-921-8560x200",
+        "Email": "dawn37@example.org"
+      },
+      "Statement": "Government provide during yeah. Camera why want wife night. Agree boy determine say feeling yet note test."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "075bb4bd-a6e8-4d36-8f4d-a944e2c2496f",
+    "OfficerName": "Paul Vazquez",
+    "ReportDetails": "Increase policy they entire key east. Everybody local land reason laugh sea game. Executive likely account red others population yeah mission."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 784,
+    "AnnualIncome": 164440,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

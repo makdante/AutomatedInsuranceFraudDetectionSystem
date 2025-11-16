@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1f556b77-2f18-465a-b034-ec173d5f6b5a",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2025-01-24",
+    "EndDate": "2026-01-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-02",
+    "Location": "8366 Blevins Well\nEast Kylemouth, VI 20916",
+    "Description": "Sea seek study low cut card. School begin adult old paper customer beautiful federal.\nMoment certain ever clear majority garden. Lot born fear yeah."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4545757
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4990728
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4898834
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4658239
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4661058
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 23754616,
+    "TotalApproved": 17066389
+  },
+  "AdjusterDetails": {
+    "Name": "Loretta Watts",
+    "ContactInformation": {
+      "Phone": "9032228872",
+      "Email": "johnking@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/afe69c0d-f0a9-465b-ba6d-9e63702cde68"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martin-Reed",
+    "Model": "standard",
+    "Year": 2010,
+    "VIN": "908a9897-b97d-407d-925d-2bf13fa8b7e4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patricia Brown",
+      "ContactInformation": {
+        "Phone": "(362)515-7158x33108",
+        "Email": "ltaylor@example.net"
+      },
+      "Statement": "When hair trip upon meeting. Follow create number source within writer.\nEvidence question company risk.\nAround capital fly huge organization responsibility."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "38561983-5e0e-4e65-bb75-7f53c681f789",
+    "OfficerName": "Jeremy Rodriguez",
+    "ReportDetails": "Cover house sure hear. Source true explain young idea. Doctor relate step art store.\nArt blue watch everyone perhaps similar. Consider where compare little mouth."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 384,
+    "AnnualIncome": 185681,
+    "DebtToIncomeRatio": 0.92
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

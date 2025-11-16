@@ -1,0 +1,112 @@
+{
+  "ClaimID": "214b70cb-84a8-4fb2-a853-45b7e26cdd26",
+  "PolicyID": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+  "EffectiveDates": {
+    "StartDate": "2025-02-04",
+    "EndDate": "2026-02-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "39861407-409e-4253-9f6c-7c0f48258b61",
+    "Name": "Frank Summers",
+    "PolicyNumber": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+    "ContactInformation": {
+      "Phone": "(214)893-1385x492",
+      "Email": "johnsonsherry@example.org",
+      "Address": "630 Phillips Roads Suite 295\nSouth Suzanne, PR 08692"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-09",
+    "Location": "35449 Nicholas Cliffs Apt. 085\nJeffersonmouth, GU 03134",
+    "Description": "We at movie. More animal ten long. Hot certainly address at western attorney culture."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17727
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 47970
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 20560
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 36303
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5457
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 128017,
+    "TotalApproved": 21273
+  },
+  "AdjusterDetails": {
+    "Name": "Holly Jennings",
+    "ContactInformation": {
+      "Phone": "(861)597-2905x53367",
+      "Email": "ashley27@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/11348093-e1be-4ad2-85e6-c8ac33942c64"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moreno, Huffman and Cooke",
+    "Model": "hear",
+    "Year": 2003,
+    "VIN": "22a8d212-161e-480b-8b5c-1f58e7f9268b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nicholas Thompson",
+      "ContactInformation": {
+        "Phone": "001-319-243-7291",
+        "Email": "ydelgado@example.org"
+      },
+      "Statement": "Buy bag evidence machine.\nBecause lead senior section. Enough recognize floor speech station. Discover structure cover late adult newspaper.\nBill wide past these. Answer girl month."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2ee15e56-2b46-44e4-b704-d6c3d147efc9",
+    "OfficerName": "Sarah Miranda",
+    "ReportDetails": "Rich describe add miss support political. Last Republican against such.\nPay citizen apply. Strong room fear some unit game. Trade bill nice health both fear view."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 513,
+    "AnnualIncome": 81072,
+    "DebtToIncomeRatio": 0.35
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 4,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

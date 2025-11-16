@@ -1,0 +1,112 @@
+{
+  "ClaimID": "22abb801-fe86-40eb-9797-2a64dda6f83a",
+  "PolicyID": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+  "EffectiveDates": {
+    "StartDate": "2025-01-26",
+    "EndDate": "2026-01-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5bc871d2-36ee-4aee-bc7f-b179bb855d6f",
+    "Name": "Eric Fletcher",
+    "PolicyNumber": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+    "ContactInformation": {
+      "Phone": "243.779.0944x7212",
+      "Email": "grantjones@example.com",
+      "Address": "4468 Cunningham Islands Apt. 297\nNorth Greg, SC 48184"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-05",
+    "Location": "23161 Jason Lock Suite 443\nDerekside, NE 38602",
+    "Description": "Despite year speech line fire. Fact generation example open grow. Someone gas claim such. Card institution lead attention answer.\nSeat talk back cup."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 46005
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1678
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8967
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 24413
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1226
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 82289,
+    "TotalApproved": 52475
+  },
+  "AdjusterDetails": {
+    "Name": "Ian Wilson",
+    "ContactInformation": {
+      "Phone": "+1-489-610-7750",
+      "Email": "oconnorjoann@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c52ebfed-0751-492c-81c8-9c8d1f57f1c5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chan Group",
+    "Model": "stuff",
+    "Year": 2002,
+    "VIN": "c167ba63-8d57-4d02-bb1a-6959c99c3575"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "April Dunn",
+      "ContactInformation": {
+        "Phone": "635.482.4230x84614",
+        "Email": "amanda70@example.org"
+      },
+      "Statement": "Recognize hear third make visit forget. Music through enough yes deep.\nRead woman them blood painting tree. Cell can plan entire provide voice."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6a5370b7-6f93-4759-8d38-001ef44a9559",
+    "OfficerName": "Lisa Brooks",
+    "ReportDetails": "Investment style operation myself total. Real stuff society. Million three several yeah quite capital."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 738,
+    "AnnualIncome": 24498,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

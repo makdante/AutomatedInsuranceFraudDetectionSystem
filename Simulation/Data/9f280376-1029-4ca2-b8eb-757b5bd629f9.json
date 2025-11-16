@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9f280376-1029-4ca2-b8eb-757b5bd629f9",
+  "PolicyID": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+  "EffectiveDates": {
+    "StartDate": "2025-05-13",
+    "EndDate": "2026-05-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "94574ab1-14ef-4d7d-935c-c52f6f907b16",
+    "Name": "Brittany Perkins",
+    "PolicyNumber": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+    "ContactInformation": {
+      "Phone": "877-727-6223x0565",
+      "Email": "richard63@example.net",
+      "Address": "72556 Audrey Lake\nNathanshire, GA 57199"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-16",
+    "Location": "1636 Wayne Forest\nNorth Joshua, MT 45986",
+    "Description": "Control reflect step they. Scientist impact list today science professor. Word although health accept must quite travel. Option big central political world."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14580
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 106176
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18673
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3407
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17635
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 160471,
+    "TotalApproved": 112184
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Howard",
+    "ContactInformation": {
+      "Phone": "(922)392-5857x694",
+      "Email": "lauriebaldwin@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b5c229a8-c45e-4ab2-b29f-fa9451a6af2e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-16T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-21T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-26T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson-Mccormick",
+    "Model": "drop",
+    "Year": 2009,
+    "VIN": "34c66882-0b1e-42f1-8c2c-5fcfd835b83a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Scott Fox",
+      "ContactInformation": {
+        "Phone": "+1-907-567-9479x335",
+        "Email": "rachel40@example.com"
+      },
+      "Statement": "Others bring her brother. Challenge ground international pick.\nSystem science foot only center which far top. Either relationship film dark."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fe6924e5-ceeb-4eb6-80f7-b5b63d8accc2",
+    "OfficerName": "David Johnson",
+    "ReportDetails": "Adult kind gun such girl goal term end. Garden American resource fear risk put loss play.\nEffort late test sometimes art. Organization bank response."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 615,
+    "AnnualIncome": 25517,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 0,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7a9bd90b-6cf5-42c3-9fbd-a51b017882d1",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2025-10-22",
+    "EndDate": "2026-10-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-12",
+    "Location": "7599 Jason Gardens Suite 583\nWest Angelastad, NV 18555",
+    "Description": "Treat indeed building box use. Once there agree month action individual. Red rise world.\nFilm police million of. Instead professional guess become budget itself. Budget call it base my then reason."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 34246
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9220
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18050
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 76125
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 19686
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 157327,
+    "TotalApproved": 74745
+  },
+  "AdjusterDetails": {
+    "Name": "Roy Rosales",
+    "ContactInformation": {
+      "Phone": "994.857.0990",
+      "Email": "daniel20@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/9c5558dd-6fcd-4fc1-8d2e-13f61bc0447c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clark Group",
+    "Model": "one",
+    "Year": 2017,
+    "VIN": "fccfb53c-21cf-4cd4-8e2c-b251ef74056c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jamie Evans",
+      "ContactInformation": {
+        "Phone": "3179596441",
+        "Email": "ashleyherrera@example.org"
+      },
+      "Statement": "Office together laugh security issue leader commercial. Challenge war unit among. Over home certain look great. Especially religious issue figure across run."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2bf0e3c2-c5a9-493b-9a69-715d3ad29f42",
+    "OfficerName": "Laura Levy",
+    "ReportDetails": "Itself project boy read environment partner local important. Top mother theory already suggest this animal else. Think vote break decide trial about suffer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 412,
+    "AnnualIncome": 163336,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

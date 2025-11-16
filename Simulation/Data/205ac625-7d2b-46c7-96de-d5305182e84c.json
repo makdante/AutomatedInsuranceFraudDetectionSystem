@@ -1,0 +1,112 @@
+{
+  "ClaimID": "205ac625-7d2b-46c7-96de-d5305182e84c",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-03-14",
+    "EndDate": "2026-03-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-25",
+    "Location": "1054 Lowery Extension Suite 519\nHostad, AK 89268",
+    "Description": "Life every guess tonight resource into business land.\nFind skill support long large surface. Heavy mother might month operation music main including. Over both us war result want plant."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 84355
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 61676
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3904
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4910
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16082
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 170927,
+    "TotalApproved": 57703
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Ward",
+    "ContactInformation": {
+      "Phone": "562-868-2714x6109",
+      "Email": "everettdustin@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/43585e70-add8-41f3-955c-9f201f79c389"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Collins Ltd",
+    "Model": "role",
+    "Year": 2021,
+    "VIN": "51d4330e-1491-49b7-95b0-0258d64f3275"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christine Brown",
+      "ContactInformation": {
+        "Phone": "5433882873",
+        "Email": "kevinhorn@example.org"
+      },
+      "Statement": "Executive sea head professor moment against edge we. Service never movie. Class down staff culture.\nGood apply along everyone office receive have. Artist little five room responsibility politics."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d22c20bc-c5af-4a3f-9f61-b958f966059a",
+    "OfficerName": "Dr. Jasmine Henderson",
+    "ReportDetails": "My boy cause so book east people let. Modern this hotel to.\nHotel effort would everyone. Within side condition wait behind along door."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 600,
+    "AnnualIncome": 120089,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

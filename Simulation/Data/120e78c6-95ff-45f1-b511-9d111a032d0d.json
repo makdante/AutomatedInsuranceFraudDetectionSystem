@@ -1,0 +1,112 @@
+{
+  "ClaimID": "120e78c6-95ff-45f1-b511-9d111a032d0d",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2024-11-10",
+    "EndDate": "2025-11-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2024-11-19",
+    "Location": "329 Wheeler Meadow Apt. 021\nEmilyhaven, NH 88631",
+    "Description": "Nor poor big capital course very where. Choice capital catch big reach answer. Each consider talk level environment.\nVarious term tree save along newspaper. Because stop no performance establish."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14469
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15173
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8856
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 62194
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 42828
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 143520,
+    "TotalApproved": 76743
+  },
+  "AdjusterDetails": {
+    "Name": "Katherine Mclaughlin",
+    "ContactInformation": {
+      "Phone": "001-809-770-7524x529",
+      "Email": "ecurtis@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/594535c2-bc41-453c-acde-e572236d63e3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2024-11-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2024-11-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2024-11-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thompson LLC",
+    "Model": "back",
+    "Year": 2010,
+    "VIN": "323724cc-2045-460f-8f3c-5144f12a9491"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Mcintyre",
+      "ContactInformation": {
+        "Phone": "(487)222-2646x6377",
+        "Email": "ykim@example.org"
+      },
+      "Statement": "Democrat challenge lay those top. Describe offer another.\nSpring author work decade brother us.\nVote read quickly write make main. Happen big air test participant main late."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "82b88499-7a48-4bae-9651-5ec50c81f9fa",
+    "OfficerName": "Tiffany Coleman",
+    "ReportDetails": "Join late seem bank former ability. History we hard per example provide him thought. North edge still institution before kitchen science."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 709,
+    "AnnualIncome": 60541,
+    "DebtToIncomeRatio": 0.71
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "006c2d4a-c634-4594-a945-43b0cb2b2720",
+  "PolicyID": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+  "EffectiveDates": {
+    "StartDate": "2025-07-07",
+    "EndDate": "2026-07-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "709ee9bc-7606-4bdf-b79d-eda726a7c4fa",
+    "Name": "Heather Hall",
+    "PolicyNumber": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+    "ContactInformation": {
+      "Phone": "492.558.8377x933",
+      "Email": "ckemp@example.org",
+      "Address": "587 Elaine Underpass Suite 792\nRaymondshire, CO 15518"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-17",
+    "Location": "407 Stanley Cove\nSouth Timothystad, WV 22952",
+    "Description": "Central mean police according reason nation. Writer practice simply perform author fact claim.\nMemory simple here agent. Cultural TV road quality partner occur. Window easy involve."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 30971
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7133
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9126
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 92207
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14754
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 154191,
+    "TotalApproved": 59499
+  },
+  "AdjusterDetails": {
+    "Name": "Greg Stevens",
+    "ContactInformation": {
+      "Phone": "653-312-8888",
+      "Email": "tashagarcia@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/8448fcc2-e85f-4467-9239-cd25f3cb7f1b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith-Jones",
+    "Model": "suddenly",
+    "Year": 2000,
+    "VIN": "98e035a5-9acb-4fa0-8b4b-e37be90a6a51"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Johnson",
+      "ContactInformation": {
+        "Phone": "+1-576-641-5820x46826",
+        "Email": "kenneth30@example.net"
+      },
+      "Statement": "Country political boy administration. Rich occur community finish. Will throw way citizen training."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3583ea64-d64a-4c54-89b1-298b6433eb76",
+    "OfficerName": "Christopher Morris",
+    "ReportDetails": "Many sure late plant subject. There wear pattern Mrs.\nSport accept identify wind perform necessary. Speech yourself green believe commercial open thousand. Red property any popular."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 652,
+    "AnnualIncome": 46041,
+    "DebtToIncomeRatio": 0.18
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

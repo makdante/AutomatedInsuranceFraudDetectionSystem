@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8a4f0546-986a-42d4-ae7f-2cd80e8355c2",
+  "PolicyID": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+  "EffectiveDates": {
+    "StartDate": "2025-09-08",
+    "EndDate": "2026-09-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "06e8f248-48e5-4910-a342-a071a62ec409",
+    "Name": "Brenda Fitzgerald",
+    "PolicyNumber": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+    "ContactInformation": {
+      "Phone": "+1-542-640-7974",
+      "Email": "khamilton@example.org",
+      "Address": "16393 Melissa Shoal Apt. 662\nHernandezview, NC 46498"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-07",
+    "Location": "8509 Gordon Branch\nSmithton, NE 10237",
+    "Description": "Article garden across turn eye simply. Less down until enjoy technology so summer.\nRich idea season others realize instead happy dinner."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 161012
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 41991
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14200
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 34325
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10826
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 262354,
+    "TotalApproved": 112769
+  },
+  "AdjusterDetails": {
+    "Name": "Tina Robinson",
+    "ContactInformation": {
+      "Phone": "993-871-2765x8072",
+      "Email": "joshua47@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/d5117c1e-fcd8-47f1-838a-6fc0750512b0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wells Inc",
+    "Model": "them",
+    "Year": 2010,
+    "VIN": "877b6017-fb66-4179-b7f6-e6bf9929c736"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Thornton",
+      "ContactInformation": {
+        "Phone": "920.258.5834",
+        "Email": "robert53@example.net"
+      },
+      "Statement": "School sound station. Yeah just culture successful.\nGoal produce scientist social. Protect between the player. Also dinner fund ago song section."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "571ebb13-75fa-4521-9929-eda2404f5963",
+    "OfficerName": "Christine Gray",
+    "ReportDetails": "Peace number include join window green important. Allow defense along if wife.\nLot better respond. Property defense your final blood reveal. Security ok result quickly actually thus lead."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 416,
+    "AnnualIncome": 178104,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

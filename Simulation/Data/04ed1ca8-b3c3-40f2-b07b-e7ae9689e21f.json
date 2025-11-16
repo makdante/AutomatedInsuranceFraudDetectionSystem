@@ -1,0 +1,112 @@
+{
+  "ClaimID": "04ed1ca8-b3c3-40f2-b07b-e7ae9689e21f",
+  "PolicyID": "c3c97e20-9916-4009-b655-6b300f90d80a",
+  "EffectiveDates": {
+    "StartDate": "2025-02-18",
+    "EndDate": "2026-02-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "053ca69a-366f-4375-961c-7efc9aef3ba5",
+    "Name": "Dalton Davis",
+    "PolicyNumber": "c3c97e20-9916-4009-b655-6b300f90d80a",
+    "ContactInformation": {
+      "Phone": "333.559.0778",
+      "Email": "nancy30@example.org",
+      "Address": "5703 Aaron Lane\nSouth Matthew, MH 99089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-28",
+    "Location": "966 Ruben Squares\nBurtonview, TX 62877",
+    "Description": "Everyone according understand collection ground. Name southern heavy eye again college."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18571
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 154390
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4151
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9737
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5737
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 192586,
+    "TotalApproved": 151021
+  },
+  "AdjusterDetails": {
+    "Name": "Cassandra Murphy",
+    "ContactInformation": {
+      "Phone": "001-891-631-1179x5287",
+      "Email": "carriesharp@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4c1138fd-4899-4c03-b444-dc82570a9ee6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rose, Carter and Morris",
+    "Model": "any",
+    "Year": 2022,
+    "VIN": "ed4bfea5-d641-4df7-8122-f607d4f7e18a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kristine Sanchez",
+      "ContactInformation": {
+        "Phone": "001-371-974-9504",
+        "Email": "brownevelyn@example.com"
+      },
+      "Statement": "Join fact north.\nLow trouble environment do receive. Same often information rise."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8c3535aa-ee6d-4c9c-b99b-4ba762ccb4da",
+    "OfficerName": "Michelle May",
+    "ReportDetails": "Rise or much break successful two together. Very write training art expect her."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 613,
+    "AnnualIncome": 91051,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 10,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

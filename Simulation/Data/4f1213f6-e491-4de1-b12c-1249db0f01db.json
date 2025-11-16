@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4f1213f6-e491-4de1-b12c-1249db0f01db",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2024-12-03",
+    "EndDate": "2025-12-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-15",
+    "Location": "9774 Merritt Fort\nParksbury, PR 72082",
+    "Description": "Explain claim road type. Kitchen which wrong sense carry media. Statement major establish someone of job. Son sound little protect item."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7983
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 21435
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 64899
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 69462
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 79074
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 242853,
+    "TotalApproved": 203121
+  },
+  "AdjusterDetails": {
+    "Name": "Crystal Scott",
+    "ContactInformation": {
+      "Phone": "485-853-7709x17519",
+      "Email": "portersteven@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/2df582bc-e2b5-49ac-9fec-795ca41108bd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Becker, Ware and Wilson",
+    "Model": "get",
+    "Year": 2005,
+    "VIN": "034f2193-3dac-4936-a45c-798d10e731e3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "William Nguyen",
+      "ContactInformation": {
+        "Phone": "322-787-8316",
+        "Email": "blackbenjamin@example.com"
+      },
+      "Statement": "Article also loss ready decision finish. Color doctor lead mouth he.\nPartner decision way agency along fact. Hotel sense yard I. Natural trial brother place forget pretty."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7ef8a85d-bcaf-4fd8-84a7-65e48237db65",
+    "OfficerName": "Sheila Reynolds",
+    "ReportDetails": "Fall off let put around force finish still. Shoulder never spend already focus. Walk from get still evening.\nCultural travel occur drug risk plant case. Certain door people."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 352,
+    "AnnualIncome": 33020,
+    "DebtToIncomeRatio": 0.78
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 0,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

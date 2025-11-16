@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a771fe74-48f3-4149-8f74-d9fe7d799b97",
+  "PolicyID": "be1a056e-41f2-4711-a855-46173d7d2368",
+  "EffectiveDates": {
+    "StartDate": "2025-09-08",
+    "EndDate": "2026-09-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a46d411e-9ab9-4ed4-914f-2da09d0b8a29",
+    "Name": "Christopher Shaw",
+    "PolicyNumber": "be1a056e-41f2-4711-a855-46173d7d2368",
+    "ContactInformation": {
+      "Phone": "407.948.6080x1895",
+      "Email": "thomaswatson@example.com",
+      "Address": "27329 Dean Locks Suite 317\nLake Jasonhaven, WY 37967"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-18",
+    "Location": "69363 Gonzalez Crest\nWilsonview, AL 02167",
+    "Description": "Total to full situation chair address others.\nTonight drug possible wife. Fast lead approach add where plan increase piece.\nAuthor public physical nice already. East pass national into tell."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19535
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 42787
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 28830
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 34440
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11007
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 136599,
+    "TotalApproved": 36409
+  },
+  "AdjusterDetails": {
+    "Name": "Sylvia Ellis",
+    "ContactInformation": {
+      "Phone": "(402)591-2425x645",
+      "Email": "wsanchez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ff82a6fa-5519-401a-8935-630ef6bede97"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hall-Castillo",
+    "Model": "these",
+    "Year": 2015,
+    "VIN": "b1d50e44-b2a6-4e39-acff-5a26f701ed4e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tiffany Howe",
+      "ContactInformation": {
+        "Phone": "+1-970-904-6312",
+        "Email": "kmoses@example.org"
+      },
+      "Statement": "Radio fund method state according the. Theory major ago late town group back. Usually someone hope shake rise light."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b876781c-9717-4de7-8053-0331ae1ece08",
+    "OfficerName": "Kelly Hayes",
+    "ReportDetails": "Support family man example around hear color. Land nearly specific inside only.\nArticle several international light serious feel. Why reach leave study."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 645,
+    "AnnualIncome": 112978,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 4,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

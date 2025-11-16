@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e038ad3e-03de-4b4f-99c9-801f873b0373",
+  "PolicyID": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+  "EffectiveDates": {
+    "StartDate": "2025-05-07",
+    "EndDate": "2026-05-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fc97abc-4961-491f-a4b1-12068641ded7",
+    "Name": "Mark Macias",
+    "PolicyNumber": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+    "ContactInformation": {
+      "Phone": "520-436-5997x9756",
+      "Email": "aaron79@example.org",
+      "Address": "537 Scott Unions Suite 245\nBrianfurt, WA 46172"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-21",
+    "Location": "994 Katrina Rapid\nBradymouth, UT 87888",
+    "Description": "Father dog letter consumer describe almost summer. Something defense night bank amount different. Skill these kind experience single strategy.\nSing past rich."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4145481
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4074052
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4776795
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4240223
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4297704
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21534255,
+    "TotalApproved": 6149694
+  },
+  "AdjusterDetails": {
+    "Name": "Karen Carlson",
+    "ContactInformation": {
+      "Phone": "253.991.7477x5986",
+      "Email": "justin36@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b35970ec-55da-4645-ab40-7f16739148f2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-31T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson-Porter",
+    "Model": "past",
+    "Year": 2002,
+    "VIN": "6c52652f-c147-41ab-a845-b0f6cd16491b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Denise Hicks",
+      "ContactInformation": {
+        "Phone": "854-800-6404",
+        "Email": "davidsondiane@example.org"
+      },
+      "Statement": "Agency claim he determine computer term. First already drop instead report recognize. Technology happen significant site.\nCost save item near. What thought should history crime remember."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "68e020cc-7afb-4985-a715-01d05599f145",
+    "OfficerName": "Edwin Arnold",
+    "ReportDetails": "Unit behavior vote instead right particular but. Open term authority now first knowledge."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 383,
+    "AnnualIncome": 95538,
+    "DebtToIncomeRatio": 0.86
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "67dad5c5-894c-41ca-9b2f-756aba47e326",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2025-02-14",
+    "EndDate": "2026-02-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-06",
+    "Location": "98001 Jimmy Creek\nPort Maxbury, SD 90458",
+    "Description": "Smile board listen choose PM oil. Concern across political purpose. Republican movie occur suggest. Wear everything our could remain what."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27841
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 64022
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 29324
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5625
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44475
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 171287,
+    "TotalApproved": 5973
+  },
+  "AdjusterDetails": {
+    "Name": "Javier Ellis",
+    "ContactInformation": {
+      "Phone": "704.344.9103x512",
+      "Email": "robynkim@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/f9343c9b-4403-44eb-bf44-57b12a72bc0b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Collins, Weeks and Fletcher",
+    "Model": "art",
+    "Year": 2017,
+    "VIN": "b2312215-5080-4ef4-9811-70a6aad24cf8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Bruce",
+      "ContactInformation": {
+        "Phone": "594-274-7020",
+        "Email": "esmith@example.org"
+      },
+      "Statement": "Show thousand ok seven day growth son. Successful certainly eat.\nAt despite brother. Source fish audience world low."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5714d22c-9268-4386-b705-a9c7cfa46663",
+    "OfficerName": "Molly Morales",
+    "ReportDetails": "Receive always opportunity cold. Young buy visit begin experience government language too. Much figure weight raise baby American.\nOwn thought thank its interest. Method beyond stop purpose."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 702,
+    "AnnualIncome": 72645,
+    "DebtToIncomeRatio": 0.98
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

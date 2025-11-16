@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fe2da6e2-7554-49b8-8a58-13b2df1fad8e",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-03-31",
+    "EndDate": "2026-03-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-17",
+    "Location": "050 Kathryn Isle Apt. 678\nNorth Dawn, DE 45354",
+    "Description": "Dark guess teach whom human. Report everything size decision what beautiful identify. Medical opportunity rate soldier lose agency."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 98317
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4576
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11195
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37272
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10233
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 161593,
+    "TotalApproved": 78079
+  },
+  "AdjusterDetails": {
+    "Name": "Karl Schmitt",
+    "ContactInformation": {
+      "Phone": "(340)942-3721x457",
+      "Email": "tammywest@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/fe8b7aa4-38db-494c-84a5-51f458ac057e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Palmer and Sons",
+    "Model": "machine",
+    "Year": 2011,
+    "VIN": "a9fa3642-e857-45d3-b844-b63cb9090160"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Andrew Williams",
+      "ContactInformation": {
+        "Phone": "922-745-5343",
+        "Email": "msmith@example.org"
+      },
+      "Statement": "Front bad open poor star project. Draw machine employee war call region guy. Able camera hard camera store."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8d41eaaa-82e9-437a-a375-baa71c893cd9",
+    "OfficerName": "Michael Lowe",
+    "ReportDetails": "Station unit think drug. Campaign plant space including seven over let grow. Drop avoid Republican.\nWide report once during.\nCivil out particularly decision statement. Future loss hair probably."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 536,
+    "AnnualIncome": 53070,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 0,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

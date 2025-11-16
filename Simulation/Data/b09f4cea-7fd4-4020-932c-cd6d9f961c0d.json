@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b09f4cea-7fd4-4020-932c-cd6d9f961c0d",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2025-02-03",
+    "EndDate": "2026-02-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-17",
+    "Location": "USNS Ortiz\nFPO AE 11935",
+    "Description": "Start amount everybody whatever scientist body various. Raise growth lead cost either production between late."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 37980
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 34639
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 116823
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18426
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 43339
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 251207,
+    "TotalApproved": 130528
+  },
+  "AdjusterDetails": {
+    "Name": "Morgan Henderson",
+    "ContactInformation": {
+      "Phone": "940.657.8271x7351",
+      "Email": "courtney94@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/abffcc91-8312-49d7-850c-172743744557"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Reeves-Allen",
+    "Model": "four",
+    "Year": 2001,
+    "VIN": "8e90e4cb-b77e-496c-8c8f-24f18d819848"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Shelby Hunt",
+      "ContactInformation": {
+        "Phone": "001-953-813-9521x285",
+        "Email": "trobinson@example.com"
+      },
+      "Statement": "Cup system safe rich that. Be word language challenge mind. Customer southern statement involve democratic heavy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3415025e-2888-47f5-a16b-1a030a1ddca7",
+    "OfficerName": "Tony Simmons",
+    "ReportDetails": "The bank game concern. Enough citizen white clearly prevent poor entire carry. Note tough wall throughout drive.\nQuite hit magazine new trial yard win decade. Policy floor teacher present father."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 703,
+    "AnnualIncome": 122279,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 10,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

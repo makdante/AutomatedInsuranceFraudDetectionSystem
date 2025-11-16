@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9b96e265-c822-4194-93df-0e603cb93f54",
+  "PolicyID": "48e7eff0-2137-440a-aff3-8d0668e114bd",
+  "EffectiveDates": {
+    "StartDate": "2024-12-09",
+    "EndDate": "2025-12-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de07fb4c-90da-4855-a341-856e9fe8cbd8",
+    "Name": "Christopher Kim",
+    "PolicyNumber": "48e7eff0-2137-440a-aff3-8d0668e114bd",
+    "ContactInformation": {
+      "Phone": "+1-611-281-1850x1314",
+      "Email": "barbara52@example.com",
+      "Address": "286 Herrera Street Apt. 219\nNew Eric, ID 86449"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-01",
+    "Location": "371 Jeremy Inlet Apt. 523\nLake Donna, DE 46117",
+    "Description": "Charge cell wish stop resource. Each necessary anything receive.\nNear recognize by. Need serve yard particular race. Second challenge heavy beautiful."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 160895
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 32924
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 37972
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5475
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6667
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 243933,
+    "TotalApproved": 146112
+  },
+  "AdjusterDetails": {
+    "Name": "Steven Griffith",
+    "ContactInformation": {
+      "Phone": "(378)369-1493",
+      "Email": "karenglenn@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a4aad078-fe99-4d52-9ebd-95a35c2a2234"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lindsey Inc",
+    "Model": "each",
+    "Year": 2021,
+    "VIN": "5edaa16e-27a5-4a3b-9166-3685d363f646"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erin Hart",
+      "ContactInformation": {
+        "Phone": "001-314-223-3872x75687",
+        "Email": "danielle29@example.com"
+      },
+      "Statement": "Environmental fast across defense former. Ok write remain work ten.\nSociety kind member work later on majority. Thank father defense lay."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "48c65001-30cc-4b5e-9d8a-7157d15425ba",
+    "OfficerName": "Amber Olson",
+    "ReportDetails": "Issue black speech event play notice market. Bag son direction life. Article after deep. These even suggest suffer voice."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 841,
+    "AnnualIncome": 55453,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

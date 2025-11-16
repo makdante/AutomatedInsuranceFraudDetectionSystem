@@ -1,0 +1,112 @@
+{
+  "ClaimID": "24f21fdb-1e61-46f9-bc1b-9070eb5339d8",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-06-19",
+    "EndDate": "2026-06-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-20",
+    "Location": "4792 Ashley Place\nWest Justin, UT 24704",
+    "Description": "Believe worry key mouth street. Treatment help air. Next rate then resource. South shake teacher might fish sing data."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 89960
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19229
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 169417
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19952
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 149286
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 447844,
+    "TotalApproved": 176383
+  },
+  "AdjusterDetails": {
+    "Name": "Joseph Edwards",
+    "ContactInformation": {
+      "Phone": "660-563-2325",
+      "Email": "hstewart@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c3f4ecf6-6967-4ca2-9ed8-31416ad43f35"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lee, Walker and Escobar",
+    "Model": "significant",
+    "Year": 2013,
+    "VIN": "19da983f-ba2e-41cb-8aeb-84dba3988fa5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Taylor Bailey",
+      "ContactInformation": {
+        "Phone": "948.699.2243",
+        "Email": "nathan76@example.org"
+      },
+      "Statement": "Short big Republican well. Avoid entire citizen dog know anything ask.\nServe level soon data fear resource than. Choose girl threat bill hard true camera. Film senior bring they argue model."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ed2a51fa-519c-4a24-a7ee-a157b35567d5",
+    "OfficerName": "Shannon Lewis",
+    "ReportDetails": "Hard represent break quickly. Sell institution almost event cause wind food.\nBudget order camera high rich result give. When civil probably message education open fish human."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 343,
+    "AnnualIncome": 106172,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "38a32079-73bd-4989-a2c4-0ca81bce08d5",
+  "PolicyID": "f56b721d-77fb-4659-8280-faefc114b152",
+  "EffectiveDates": {
+    "StartDate": "2025-10-15",
+    "EndDate": "2026-10-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "9df24105-b696-442a-969e-d25b0cebdfb9",
+    "Name": "Jonathan Santos",
+    "PolicyNumber": "f56b721d-77fb-4659-8280-faefc114b152",
+    "ContactInformation": {
+      "Phone": "001-871-292-7838x249",
+      "Email": "bneal@example.org",
+      "Address": "46543 Jamie Burg Suite 969\nSarahfort, VI 92099"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-19",
+    "Location": "59273 Cooper Fork\nSusanport, MS 67808",
+    "Description": "Official task fight pretty own decide make. Wrong unit impact billion ball recent responsibility."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8128
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15109
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7275
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6964
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 31542
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 69018,
+    "TotalApproved": 4266
+  },
+  "AdjusterDetails": {
+    "Name": "Christina Stokes",
+    "ContactInformation": {
+      "Phone": "(785)287-5587x00128",
+      "Email": "pparrish@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/9be5a19a-3d50-4d6a-9d61-e0c9af0e5f3c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-09-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Austin, Small and Schultz",
+    "Model": "right",
+    "Year": 2003,
+    "VIN": "83eaa093-40e7-4771-83f6-43957f8f0aea"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angela Griffin",
+      "ContactInformation": {
+        "Phone": "781.674.9004",
+        "Email": "ivaughn@example.com"
+      },
+      "Statement": "Couple blue indeed while everyone exactly. Discussion lay human produce might organization eight. Tend party their respond business plan east. Without seven day physical cold turn."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ae09203a-ac06-4017-b660-4217da510798",
+    "OfficerName": "Jonathan Diaz",
+    "ReportDetails": "Every design send response return. Sister program surface avoid trial store.\nFew school clearly wife middle though."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 631,
+    "AnnualIncome": 166097,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

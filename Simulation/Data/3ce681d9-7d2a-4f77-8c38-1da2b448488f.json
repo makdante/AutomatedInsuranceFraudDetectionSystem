@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3ce681d9-7d2a-4f77-8c38-1da2b448488f",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-02-28",
+    "EndDate": "2026-02-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-29",
+    "Location": "915 Carly Circles Apt. 617\nNorth Aprilville, PW 43384",
+    "Description": "Production foot should claim say how so. Present story good choice. Center food well."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6845
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 76127
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17384
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 58852
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7785
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 166993,
+    "TotalApproved": 126491
+  },
+  "AdjusterDetails": {
+    "Name": "Bryan Craig",
+    "ContactInformation": {
+      "Phone": "240-973-4802",
+      "Email": "fletchermatthew@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/dce6f094-5d70-4e48-a590-8afbcdea5a6f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith-Baldwin",
+    "Model": "reach",
+    "Year": 2015,
+    "VIN": "a19a3b11-58c2-4e27-bf65-cab103bbe7a8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Austin Johnson",
+      "ContactInformation": {
+        "Phone": "001-856-553-8653x24814",
+        "Email": "lewismelissa@example.com"
+      },
+      "Statement": "Author difficult hotel remember want team. Of particular above player evening color.\nWell forward our note. Enjoy turn respond pick draw cost discuss. Budget less attention some."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6e467325-fc0f-434d-983c-c20606506142",
+    "OfficerName": "Carrie Carrillo",
+    "ReportDetails": "Spring thousand factor institution pull purpose who. Feel rise benefit plan paper process. Modern sound firm tonight fact issue magazine."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 753,
+    "AnnualIncome": 154716,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 9,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

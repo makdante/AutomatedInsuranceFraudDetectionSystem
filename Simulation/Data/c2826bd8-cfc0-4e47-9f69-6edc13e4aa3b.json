@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c2826bd8-cfc0-4e47-9f69-6edc13e4aa3b",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-08-18",
+    "EndDate": "2026-08-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-27",
+    "Location": "USNS Hill\nFPO AA 82993",
+    "Description": "Indeed hit or throw break top. International mother deal Democrat or article next much.\nProvide minute age method full wrong stop able. Ok senior medical hear."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 68562
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 99239
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19801
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 93006
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7880
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 288488,
+    "TotalApproved": 163999
+  },
+  "AdjusterDetails": {
+    "Name": "Jacqueline Watts",
+    "ContactInformation": {
+      "Phone": "437.688.7408",
+      "Email": "william80@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/2a84d64c-5a52-4a4d-9933-791b7306d3d2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rodriguez-White",
+    "Model": "poor",
+    "Year": 2006,
+    "VIN": "6f658f59-cecc-4180-848b-424ee72b15e3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tammie Stone",
+      "ContactInformation": {
+        "Phone": "001-290-569-3193x948",
+        "Email": "nharmon@example.net"
+      },
+      "Statement": "Meeting clear behind space prove open test most. Well pick expect person. Various record group example right.\nInterview will with challenge wonder about middle. Bring term issue ever maybe account."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4750da74-67fb-4f92-bf6c-7d910f5df65f",
+    "OfficerName": "Kevin Lewis",
+    "ReportDetails": "Yourself ok against star product under against.\nExplain bed feeling century church listen skin. Method short chance program yet."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 462,
+    "AnnualIncome": 183438,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 8,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

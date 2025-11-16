@@ -1,0 +1,112 @@
+{
+  "ClaimID": "74381048-5a2d-42ec-b6ac-6be77d0cf3c2",
+  "PolicyID": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+  "EffectiveDates": {
+    "StartDate": "2025-04-26",
+    "EndDate": "2026-04-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "38d2f43b-58cf-49b2-83ed-99824c18c529",
+    "Name": "Vanessa Lam",
+    "PolicyNumber": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+    "ContactInformation": {
+      "Phone": "(659)271-4340x58512",
+      "Email": "kayleethompson@example.org",
+      "Address": "4509 Robert Haven\nNew Curtis, HI 74176"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-01",
+    "Location": "999 Julian Curve Apt. 552\nEast Reginaport, MS 65905",
+    "Description": "Center kitchen college short arrive without.\nWho wait avoid field. Central vote police agreement discussion value four. Sea also claim but wish character."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17339
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 41007
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 27665
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 23774
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5589
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 115374,
+    "TotalApproved": 88165
+  },
+  "AdjusterDetails": {
+    "Name": "Amy Hart",
+    "ContactInformation": {
+      "Phone": "+1-838-877-3626",
+      "Email": "paulgross@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/408484b3-bf4b-4e35-8d2f-31d4ada98ecd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bass-Walker",
+    "Model": "rule",
+    "Year": 2011,
+    "VIN": "2a52f3d6-c66a-4704-a3b3-08229052e442"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Dudley",
+      "ContactInformation": {
+        "Phone": "487-502-0912x233",
+        "Email": "brownalex@example.com"
+      },
+      "Statement": "Whatever discover might at none traditional. Research never hundred various section moment then. Can son charge room power down."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "39eab72f-799a-4ac5-874f-d19bab22d017",
+    "OfficerName": "Francis Stewart",
+    "ReportDetails": "Student happen too radio. Stuff around less.\nGet memory return ahead while take.\nOver school during fall live can. Somebody physical traditional again college service."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 717,
+    "AnnualIncome": 55204,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 4,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

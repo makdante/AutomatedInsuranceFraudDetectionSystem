@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0035f8c8-fe70-446a-aa20-6550e658669f",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-10-05",
+    "EndDate": "2026-10-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-17",
+    "Location": "17529 Jones Crossroad\nNew Eddie, AS 70353",
+    "Description": "Entire commercial wife field beyond race. Civil music scientist whose. Life act people hospital single.\nProduct international security. Statement affect Democrat stage quickly federal."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5614
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 75908
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8573
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 166564
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 78588
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 335247,
+    "TotalApproved": 264821
+  },
+  "AdjusterDetails": {
+    "Name": "Margaret Cardenas",
+    "ContactInformation": {
+      "Phone": "(295)219-9986",
+      "Email": "loriwilliams@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/ea0fb590-ffe6-4f1b-95cf-3c54251aad39"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Key, Jones and Barber",
+    "Model": "perform",
+    "Year": 2020,
+    "VIN": "b184ec44-9612-44fb-8073-b7f8a491368e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Melissa Hamilton",
+      "ContactInformation": {
+        "Phone": "(270)292-0290x6210",
+        "Email": "john72@example.com"
+      },
+      "Statement": "Him country base money current establish. Finish player move. Project yes stuff second reach sound."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0bb850f2-ea6e-456a-84d3-599300e76f73",
+    "OfficerName": "Christopher Cherry",
+    "ReportDetails": "Crime participant compare brother. Contain figure bit might goal market. Small control Democrat despite mission car.\nCulture matter difficult. Soldier likely effect among cold whether customer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 531,
+    "AnnualIncome": 84199,
+    "DebtToIncomeRatio": 0.62
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 0,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6ef72f5c-56d3-48ac-8bd7-998ba0aad168",
+  "PolicyID": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+  "EffectiveDates": {
+    "StartDate": "2025-04-20",
+    "EndDate": "2026-04-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fe640aa1-fac6-44c1-b128-0544382d3460",
+    "Name": "Mr. John Curtis DDS",
+    "PolicyNumber": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+    "ContactInformation": {
+      "Phone": "+1-788-856-0912x412",
+      "Email": "greenlorraine@example.com",
+      "Address": "970 Ryan Green\nWest Katherine, GA 40547"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-13",
+    "Location": "6970 Long Squares Apt. 219\nMatthewfurt, MT 24242",
+    "Description": "Give analysis under time. Share near yard collection act. Certain certain western whole.\nOn school partner speech truth remain serve. So rule recognize north most."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 21929
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 20481
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13368
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 116396
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5987
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 178161,
+    "TotalApproved": 60697
+  },
+  "AdjusterDetails": {
+    "Name": "Taylor Roberts",
+    "ContactInformation": {
+      "Phone": "(770)913-4422",
+      "Email": "james80@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/0dc61ff1-c7ac-49e8-b4a4-49973f20261a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Singleton Inc",
+    "Model": "value",
+    "Year": 2008,
+    "VIN": "6c377852-89bf-45f1-a001-677840a70b7f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bethany Jones",
+      "ContactInformation": {
+        "Phone": "(791)357-1312",
+        "Email": "hbailey@example.com"
+      },
+      "Statement": "South subject they similar send middle. Number place Republican.\nModel before pass light director space want. Inside sea night pattern."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6970e073-d95b-4f7c-9745-7ed3de8349f6",
+    "OfficerName": "Selena Humphrey",
+    "ReportDetails": "Population knowledge collection change. But whose court less character majority pressure. Thing TV capital soon record even they."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 850,
+    "AnnualIncome": 97767,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

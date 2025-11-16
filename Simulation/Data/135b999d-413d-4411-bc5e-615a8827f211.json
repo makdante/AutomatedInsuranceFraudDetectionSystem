@@ -1,0 +1,112 @@
+{
+  "ClaimID": "135b999d-413d-4411-bc5e-615a8827f211",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-05-06",
+    "EndDate": "2026-05-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-24",
+    "Location": "20533 Reilly Lodge\nBrianmouth, ID 08167",
+    "Description": "Fight six heart sea. Ever window why water bit single."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12847
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2645
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19607
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 198353
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17640
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 251092,
+    "TotalApproved": 36105
+  },
+  "AdjusterDetails": {
+    "Name": "Lynn Martinez",
+    "ContactInformation": {
+      "Phone": "598.934.6665",
+      "Email": "jacobsthomas@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d37542ef-e481-430c-a321-19919b8a4606"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-24T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-29T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-04T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hudson-White",
+    "Model": "leader",
+    "Year": 2020,
+    "VIN": "ba4e4b94-2016-4906-bfb5-0e78bc65a238"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Maria Nelson",
+      "ContactInformation": {
+        "Phone": "472-549-2940x616",
+        "Email": "craig72@example.net"
+      },
+      "Statement": "Both boy bank ready do. Bring community anything center word discussion. Western million peace peace.\nHair kind everything out company room oil country. Bring purpose with finish even even evidence."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b27fc274-754d-4c6b-a812-57161ac6152c",
+    "OfficerName": "Crystal Finley",
+    "ReportDetails": "Traditional one enter ago stage be onto animal. Company best note. Somebody skill investment.\nEverything exist her meet that traditional."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 633,
+    "AnnualIncome": 191269,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

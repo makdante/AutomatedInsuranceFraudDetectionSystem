@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d92bba93-d757-4a11-b69f-18c8cb090d3f",
+  "PolicyID": "9a540188-2fa0-4610-a341-5130618504c6",
+  "EffectiveDates": {
+    "StartDate": "2025-01-07",
+    "EndDate": "2026-01-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5e1aef1e-7897-4f43-8b25-4f651ff5946d",
+    "Name": "Brian Vance",
+    "PolicyNumber": "9a540188-2fa0-4610-a341-5130618504c6",
+    "ContactInformation": {
+      "Phone": "630-390-2993",
+      "Email": "terriosborn@example.com",
+      "Address": "01673 Osborne Ferry Apt. 849\nRobertbury, AR 69950"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-16",
+    "Location": "2974 Karen Knolls\nDanielport, GA 67178",
+    "Description": "Store quality already beat. Finally again arm growth poor send. Group week dream teacher later our.\nBy six size simple high think. Prevent stock public series."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2394
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5033
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12167
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15171
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19989
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 54754,
+    "TotalApproved": 34691
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Moore",
+    "ContactInformation": {
+      "Phone": "4824878096",
+      "Email": "yromero@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/afb6afcc-b441-4145-b771-1b697ce3e18a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Flores PLC",
+    "Model": "radio",
+    "Year": 2022,
+    "VIN": "e8710b94-ebd0-450a-8e33-0217c4547205"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jacqueline Dominguez",
+      "ContactInformation": {
+        "Phone": "467.643.2916x09012",
+        "Email": "zcamacho@example.org"
+      },
+      "Statement": "Yes be adult someone. Suffer economic want meet.\nDegree more question both real concern back.\nQuickly fly make card couple. Probably laugh significant off entire role."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1c4434f5-63e4-43ef-859a-edbff0441d8b",
+    "OfficerName": "Chelsea Cox",
+    "ReportDetails": "A institution capital course own girl. American only need everyone popular. Personal become return plant class."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 564,
+    "AnnualIncome": 63943,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

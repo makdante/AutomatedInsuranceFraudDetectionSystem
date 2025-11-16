@@ -1,0 +1,112 @@
+{
+  "ClaimID": "deccd383-3c22-4990-b1ab-38583ed45b03",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-08-01",
+    "EndDate": "2026-08-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-05",
+    "Location": "8222 Donald Hollow Suite 860\nLisafort, WA 61626",
+    "Description": "Ago call school entire allow talk leg. Off every idea billion may low us certainly."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8256
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1044
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9235
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 40577
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2251
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 61363,
+    "TotalApproved": 48960
+  },
+  "AdjusterDetails": {
+    "Name": "Samantha Murphy",
+    "ContactInformation": {
+      "Phone": "(285)560-9213",
+      "Email": "browngregory@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/9048490f-7709-4def-84a2-44b5d3330f95"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Duncan Inc",
+    "Model": "real",
+    "Year": 2015,
+    "VIN": "f8dc177a-3226-4a4c-bfb3-856a753c5448"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jack Montgomery",
+      "ContactInformation": {
+        "Phone": "304.928.9403x36221",
+        "Email": "hbrooks@example.net"
+      },
+      "Statement": "At member hold thing stock activity. Center report become appear world red.\nTown over religious option great half. Speech wait lay we assume price. Thus performance carry man way value."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6af185ce-7d47-445c-a5b0-44a53270ed35",
+    "OfficerName": "Charles Fuller",
+    "ReportDetails": "Standard act sea exactly increase. Charge whatever nice image late rise during. Traditional director move debate behavior can civil. True training drive design while parent."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 714,
+    "AnnualIncome": 72349,
+    "DebtToIncomeRatio": 0.86
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 3,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

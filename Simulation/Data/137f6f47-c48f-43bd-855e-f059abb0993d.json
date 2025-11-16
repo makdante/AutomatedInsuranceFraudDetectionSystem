@@ -1,0 +1,112 @@
+{
+  "ClaimID": "137f6f47-c48f-43bd-855e-f059abb0993d",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-04-22",
+    "EndDate": "2026-04-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-26",
+    "Location": "USCGC Thomas\nFPO AA 59673",
+    "Description": "Executive chance democratic dinner. Least Republican edge seem could knowledge to. Than rock expect foreign detail. Reach face listen news."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 35270
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 81499
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1324
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1510
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4289
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 123892,
+    "TotalApproved": 64022
+  },
+  "AdjusterDetails": {
+    "Name": "Carly Dixon",
+    "ContactInformation": {
+      "Phone": "775-808-4936x003",
+      "Email": "martin52@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/85facab1-9eba-4bc5-a887-4d0e155dc77a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mendoza LLC",
+    "Model": "on",
+    "Year": 2020,
+    "VIN": "092a3554-a97b-45d0-9a61-362237f010d4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Shawn Dean",
+      "ContactInformation": {
+        "Phone": "559-400-7056x41324",
+        "Email": "wchandler@example.com"
+      },
+      "Statement": "Money because cultural large trial. Ask machine behind close edge.\nStart lay computer skin fish have. Hotel movement political music because artist."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b3195657-dbcb-43f2-96d7-163095f76855",
+    "OfficerName": "Matthew Dunn",
+    "ReportDetails": "Five heart bag know. Everything stand me window firm color agreement. Interest even police control foreign official conference.\nStill instead appear. Next culture example production officer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 818,
+    "AnnualIncome": 139287,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

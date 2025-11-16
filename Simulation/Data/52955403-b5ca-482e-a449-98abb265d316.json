@@ -1,0 +1,112 @@
+{
+  "ClaimID": "52955403-b5ca-482e-a449-98abb265d316",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-09-26",
+    "EndDate": "2026-09-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-15",
+    "Location": "0951 Kyle Run\nMontoyabury, MS 98277",
+    "Description": "Standard ability keep police. Walk discuss reflect difference. Side worry data surface serve.\nOnce improve scene evening morning blood enough. Human become point."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2622
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18396
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19021
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 21229
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 30540
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 91808,
+    "TotalApproved": 32708
+  },
+  "AdjusterDetails": {
+    "Name": "James Jones",
+    "ContactInformation": {
+      "Phone": "001-678-919-7368x71722",
+      "Email": "mramirez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/92683a59-88b2-4330-a8f3-2f09b8c5f4fa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Collins, Watts and Malone",
+    "Model": "worry",
+    "Year": 2008,
+    "VIN": "dcfe4e68-47f0-4adf-a279-ab6a66e7c390"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebecca Williams",
+      "ContactInformation": {
+        "Phone": "(920)850-5344",
+        "Email": "joshua30@example.com"
+      },
+      "Statement": "Item travel support bank could senior threat. Cause relate cost kitchen around anything know. Civil prevent down arrive read."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7f8ffa47-a31b-454a-b35c-25203145859c",
+    "OfficerName": "Marc Williams",
+    "ReportDetails": "Foreign garden why education life case. Nation in week environmental. Despite me statement other fact."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 597,
+    "AnnualIncome": 89803,
+    "DebtToIncomeRatio": 0.5
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 5,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8d6ba5ae-b9ec-440c-908c-2016d4299103",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-04-26",
+    "EndDate": "2026-04-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-03",
+    "Location": "694 Joan Trace\nJamiemouth, UT 23769",
+    "Description": "Car any chair necessary agency. Watch question long attention attack worker.\nAmerican down behavior eye simply produce. That item color store."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 56278
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 72293
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 54036
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7530
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 95236
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 285373,
+    "TotalApproved": 93375
+  },
+  "AdjusterDetails": {
+    "Name": "Kristen Johnson",
+    "ContactInformation": {
+      "Phone": "001-562-865-3350x24892",
+      "Email": "joelramirez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/3e215e5a-ff36-469f-bb38-9b86a483eb3b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gordon, Ross and Hale",
+    "Model": "late",
+    "Year": 2014,
+    "VIN": "7acdeb9b-689d-4e56-862b-d4583e286ba9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Crystal Stokes",
+      "ContactInformation": {
+        "Phone": "552-419-9648x0097",
+        "Email": "amaynard@example.com"
+      },
+      "Statement": "Sound police huge foreign. Keep author political fact source.\nMan sometimes step. Other relationship guy executive.\nContinue ever report feel. Give trade policy both western."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "814da0fa-145e-4dd5-b3d9-ca5316d51b37",
+    "OfficerName": "John Bryant",
+    "ReportDetails": "Type radio meeting training prepare public news their. Course race law let seem. Partner security sell gas born fish. Example sit ok across visit."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 698,
+    "AnnualIncome": 187130,
+    "DebtToIncomeRatio": 0.47
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

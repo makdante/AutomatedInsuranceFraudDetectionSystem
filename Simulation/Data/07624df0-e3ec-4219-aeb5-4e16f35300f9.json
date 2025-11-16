@@ -1,0 +1,112 @@
+{
+  "ClaimID": "07624df0-e3ec-4219-aeb5-4e16f35300f9",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-08-26",
+    "EndDate": "2026-08-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-18",
+    "Location": "720 Victoria Fort\nSouth Timothyhaven, GA 64120",
+    "Description": "Else get board fund market approach allow. Air exactly organization he hold. Be also water field suffer find quality.\nSimply military admit. Know can bit contain when serious. Here election quickly."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 76672
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 34363
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11770
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1913
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 60115
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 184833,
+    "TotalApproved": 95304
+  },
+  "AdjusterDetails": {
+    "Name": "Jordan Jones",
+    "ContactInformation": {
+      "Phone": "(236)582-5269x28154",
+      "Email": "john74@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/91624ae1-72eb-4d94-aaef-4cb99cf381e4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hawkins, Patel and Ho",
+    "Model": "hear",
+    "Year": 2002,
+    "VIN": "3ca4936c-0e9f-4ec2-9af8-fbdce552dd80"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Claudia Chase",
+      "ContactInformation": {
+        "Phone": "(400)864-7432x309",
+        "Email": "nashkimberly@example.net"
+      },
+      "Statement": "Agreement past resource what join red high. Public gun standard identify pull continue major short. Sound cause physical determine again since audience."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4001f453-23dd-4af4-b91b-e41a041cbc90",
+    "OfficerName": "Cheryl Reese",
+    "ReportDetails": "Sound reality back like beat section suffer. Member bank add fine.\nDirection write enough maintain stage too our. Lose table consumer but popular consider. Cut act event."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 681,
+    "AnnualIncome": 184514,
+    "DebtToIncomeRatio": 0.74
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 1,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

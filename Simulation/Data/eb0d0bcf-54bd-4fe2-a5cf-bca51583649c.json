@@ -1,0 +1,112 @@
+{
+  "ClaimID": "eb0d0bcf-54bd-4fe2-a5cf-bca51583649c",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-08-04",
+    "EndDate": "2026-08-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-27",
+    "Location": "56037 Davis Rue Suite 253\nNorth Erinchester, MS 10089",
+    "Description": "Operation throughout fast. Young guy size expert.\nWrite seat speak network give loss. Write reflect the throw dinner. Hair me film."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 175809
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15813
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 84196
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 39873
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 57063
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 372754,
+    "TotalApproved": 162647
+  },
+  "AdjusterDetails": {
+    "Name": "Shannon Williams",
+    "ContactInformation": {
+      "Phone": "+1-801-667-5059",
+      "Email": "myersdiane@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c9acf8e4-99c5-49fc-8419-2f166d9ebcca"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Baker PLC",
+    "Model": "if",
+    "Year": 2012,
+    "VIN": "7c5a7a04-88e9-47bf-b375-f2d3c31bc49d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tina Sanchez",
+      "ContactInformation": {
+        "Phone": "642.429.8049x30950",
+        "Email": "daniel28@example.com"
+      },
+      "Statement": "History trouble doctor find behind listen. Sing of appear under continue national PM. Traditional yeah thing serve civil girl."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7d3247b4-93c9-4b94-ab8f-bfd88a645e2c",
+    "OfficerName": "Stephen Adams",
+    "ReportDetails": "Another low improve I decision sister hear. Political perform black will. Vote street have light stage too. Party idea peace color."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 565,
+    "AnnualIncome": 199660,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 1,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d954f61a-1342-4fc1-b81b-b23890a7bac3",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-05-18",
+    "EndDate": "2026-05-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-27",
+    "Location": "4880 Joshua Throughway\nNewmanfort, OH 09438",
+    "Description": "Forget well claim state example trouble score. Car may job nice then plan large.\nIndividual coach happen no out. Believe age then. Surface act house class."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5765
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5203
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1365
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12482
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 109155
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 133970,
+    "TotalApproved": 40973
+  },
+  "AdjusterDetails": {
+    "Name": "Tina Jackson",
+    "ContactInformation": {
+      "Phone": "368-212-0852x8384",
+      "Email": "travis49@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/41dedb5d-ddd4-4453-94c6-8029c168ffc1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Huerta, King and Miller",
+    "Model": "they",
+    "Year": 2018,
+    "VIN": "90743b80-b547-4321-bb8d-7a8d630c27e0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joel Parker",
+      "ContactInformation": {
+        "Phone": "543.313.7020",
+        "Email": "sandra02@example.net"
+      },
+      "Statement": "Get alone allow son real oil international. Deal debate still begin leg save peace support. Listen fund herself avoid along music."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c9e00444-8bc6-4bbb-a26b-db2e79fe3e36",
+    "OfficerName": "Brittany Nunez",
+    "ReportDetails": "Matter decade able run treatment author behavior.\nCell the song house western both space. Development nothing network show owner."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 550,
+    "AnnualIncome": 112544,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

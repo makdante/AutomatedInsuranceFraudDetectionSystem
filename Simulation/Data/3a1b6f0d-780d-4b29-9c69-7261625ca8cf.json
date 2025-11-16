@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3a1b6f0d-780d-4b29-9c69-7261625ca8cf",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-04-04",
+    "EndDate": "2026-04-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-07",
+    "Location": "1926 John Via\nCarolburgh, NM 25119",
+    "Description": "Structure there child however teach method purpose. Kitchen she ground. Imagine similar production himself maybe. Buy get street machine together."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 80196
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 95155
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 19307
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30829
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47227
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 272714,
+    "TotalApproved": 260884
+  },
+  "AdjusterDetails": {
+    "Name": "Amanda Morgan",
+    "ContactInformation": {
+      "Phone": "+1-553-680-1290x93506",
+      "Email": "jdavis@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/f3171d13-a472-46e1-b7e6-aa738114d20d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Calhoun-Caldwell",
+    "Model": "property",
+    "Year": 2016,
+    "VIN": "e30e8eb1-7f20-4b73-8788-239808beaf92"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Sanders",
+      "ContactInformation": {
+        "Phone": "636-441-9287x31915",
+        "Email": "pnguyen@example.net"
+      },
+      "Statement": "Condition person nothing poor improve road believe. Fast suffer back argue best north. Pay city consider go success he pick.\nPersonal idea agent area probably keep various."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3168d728-3ab7-41eb-a01c-5ccdf0f141d4",
+    "OfficerName": "Sharon Mccormick",
+    "ReportDetails": "Shake can choose begin soon. Look whether cultural when sister. Truth month large these himself place his."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 760,
+    "AnnualIncome": 180603,
+    "DebtToIncomeRatio": 0.36
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 1,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

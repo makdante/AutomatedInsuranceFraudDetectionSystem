@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5f281963-11c9-4afe-a6ba-9fff9f075229",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2025-10-22",
+    "EndDate": "2026-10-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-24",
+    "Location": "9090 Karen Rue Suite 647\nGalvanburgh, MI 64914",
+    "Description": "Poor data especially traditional. Light year reveal marriage rise value tree draw.\nWish wide market military several. Note ability effort treat thousand."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4292361
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4328622
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4806263
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4005531
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4842881
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22275658,
+    "TotalApproved": 6569775
+  },
+  "AdjusterDetails": {
+    "Name": "Laurie Johnson",
+    "ContactInformation": {
+      "Phone": "001-324-819-8832x63396",
+      "Email": "sarah33@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b05f9634-e9fe-43ba-b678-60e2292898a4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-24T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Holmes, Morrow and Patterson",
+    "Model": "begin",
+    "Year": 2004,
+    "VIN": "699615f7-7495-400a-bd8c-ea6640c6ffbf"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amy Williams",
+      "ContactInformation": {
+        "Phone": "+1-445-331-0269x7202",
+        "Email": "chase23@example.com"
+      },
+      "Statement": "Wonder hospital population. West end practice marriage.\nAlmost mouth true heavy. Nation can war cost."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1478d30a-0f8a-4727-ab73-865d40f4d6bb",
+    "OfficerName": "Alan Melendez",
+    "ReportDetails": "Nearly trouble late fill perhaps change hit. Forget arrive identify collection news several. Improve nor trouble Democrat enjoy rich him. Rich run ask company apply where hear."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 440,
+    "AnnualIncome": 135010,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

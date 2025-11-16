@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9a0f29ac-ce6f-49b1-af4a-93ef8c3224d6",
+  "PolicyID": "500b8392-3ef4-475f-a0d6-15c142970199",
+  "EffectiveDates": {
+    "StartDate": "2024-11-22",
+    "EndDate": "2025-11-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0e2c98cc-0459-4a1f-b201-c0c324374a25",
+    "Name": "Brittany Watson",
+    "PolicyNumber": "500b8392-3ef4-475f-a0d6-15c142970199",
+    "ContactInformation": {
+      "Phone": "001-690-266-5439",
+      "Email": "jasonjames@example.org",
+      "Address": "66736 Antonio Valley\nWest Kristy, FL 30721"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-22",
+    "Location": "897 Dean Freeway Apt. 086\nHarrisville, NV 46587",
+    "Description": "Husband either he name. Tend international increase media throughout. Remain quality recently hour assume. Baby simple claim station responsibility think."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4513
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 56294
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 40241
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 62901
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 77333
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 241282,
+    "TotalApproved": 31101
+  },
+  "AdjusterDetails": {
+    "Name": "Ashley Johnson",
+    "ContactInformation": {
+      "Phone": "2052638274",
+      "Email": "leonard95@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/faacf62a-72c6-4962-8b35-31eb4c431c7d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-22T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-27T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-01T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ford LLC",
+    "Model": "official",
+    "Year": 2017,
+    "VIN": "5894b06d-9bb1-4c98-bf27-36e7bf25e2ab"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Timothy Watson",
+      "ContactInformation": {
+        "Phone": "(535)976-9131x134",
+        "Email": "shelly72@example.com"
+      },
+      "Statement": "Lead change within sea eye seek base. Result perhaps total keep old. Treatment loss type region benefit.\nInterest condition night suffer trial air woman. Hit maintain sign cost fight."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "350460c7-378d-454d-8672-58d26b3992f7",
+    "OfficerName": "James Martinez",
+    "ReportDetails": "Deal more interest mean today. Remain him respond part around argue.\nWide air Congress watch. Great four poor add hold owner exactly. Whose because western on interest."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 463,
+    "AnnualIncome": 65077,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 3,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

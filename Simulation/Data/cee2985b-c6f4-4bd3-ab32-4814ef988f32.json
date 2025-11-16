@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cee2985b-c6f4-4bd3-ab32-4814ef988f32",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-05-29",
+    "EndDate": "2026-05-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-02",
+    "Location": "8062 Price Mountains\nWest Juliachester, NM 17458",
+    "Description": "Difference pull edge leg station sell bit. Listen already what cost news sing.\nDinner law act gas. Including reach different our."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4168756
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4412221
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4872791
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4299117
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4897296
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22650181,
+    "TotalApproved": 20404536
+  },
+  "AdjusterDetails": {
+    "Name": "Sheila Smith",
+    "ContactInformation": {
+      "Phone": "001-669-658-4973",
+      "Email": "crystal29@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/daf23fce-7434-4dbd-8f4a-27783de49451"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Murphy-Ellison",
+    "Model": "account",
+    "Year": 2005,
+    "VIN": "753fac68-98a0-457c-87eb-8a2a7b109c60"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Trevor Reyes",
+      "ContactInformation": {
+        "Phone": "575.486.2610",
+        "Email": "justinharper@example.net"
+      },
+      "Statement": "Into enjoy central herself painting bed last. Provide school visit sport listen. Evidence great stage military full car."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7d12bb1a-de11-419f-96be-b65eb584982e",
+    "OfficerName": "Kyle Lewis",
+    "ReportDetails": "Choose window eat whom. Again issue full green.\nFrom would church beyond item owner. Staff agreement improve voice present. Reality education whom firm."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 350,
+    "AnnualIncome": 56636,
+    "DebtToIncomeRatio": 0.37
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 8,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

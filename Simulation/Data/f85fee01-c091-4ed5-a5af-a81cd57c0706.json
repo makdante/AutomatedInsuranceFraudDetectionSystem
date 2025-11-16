@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f85fee01-c091-4ed5-a5af-a81cd57c0706",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2025-08-05",
+    "EndDate": "2026-08-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-17",
+    "Location": "6983 Patricia Neck Suite 608\nPort Matthew, CA 88706",
+    "Description": "Above conference sense type become degree woman. Throughout great outside enter such popular relate. Hundred throughout may month."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17508
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2147
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1556
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9651
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15586
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 46448,
+    "TotalApproved": 11364
+  },
+  "AdjusterDetails": {
+    "Name": "Christina Kennedy",
+    "ContactInformation": {
+      "Phone": "273.903.0179x3945",
+      "Email": "johnny83@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1195e525-37b0-4406-95f8-0771a7174bff"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ferguson-Miller",
+    "Model": "couple",
+    "Year": 2003,
+    "VIN": "b94f947b-5a72-4f92-8684-3710ca73db6a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joseph Johnson",
+      "ContactInformation": {
+        "Phone": "5984548793",
+        "Email": "deborah59@example.net"
+      },
+      "Statement": "Never opportunity stage evidence election game. Final note network general state.\nBar smile computer many per heart accept. Raise social national Democrat third parent physical."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a1bdafa1-6f4a-4868-b2ea-b4cb8f24daaf",
+    "OfficerName": "Miranda Lopez",
+    "ReportDetails": "Term lead politics everybody example write. Back easy low save seem boy. Young camera style media side.\nNumber particularly game popular book level. Like government table best moment relate TV."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 446,
+    "AnnualIncome": 37607,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

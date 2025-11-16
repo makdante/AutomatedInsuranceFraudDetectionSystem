@@ -1,0 +1,112 @@
+{
+  "ClaimID": "74286144-cd26-4544-9eb2-cd38a9d52854",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2025-07-14",
+    "EndDate": "2026-07-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-19",
+    "Location": "PSC 0177, Box 6321\nAPO AP 01865",
+    "Description": "Enter experience either. Into body wide least left. Apply modern book research allow rise throw stock.\nCountry direction design both. Stage kitchen ten yes."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3584
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18968
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 143949
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 156916
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17056
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 340473,
+    "TotalApproved": 219841
+  },
+  "AdjusterDetails": {
+    "Name": "Meghan Tapia",
+    "ContactInformation": {
+      "Phone": "(967)362-4918x4521",
+      "Email": "hmurphy@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/218619f1-3230-450d-9661-0f10af47a7e7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Phillips Ltd",
+    "Model": "which",
+    "Year": 2005,
+    "VIN": "b04a74d2-ebd6-491a-83da-5dedc754cd70"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cassandra Clay",
+      "ContactInformation": {
+        "Phone": "8339000376",
+        "Email": "milesjulie@example.net"
+      },
+      "Statement": "Deal charge its indicate tough set particularly. Glass begin chance body dark to summer.\nFederal figure born share behind service nor address."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "66a90fc5-ec52-4941-a2d2-2d74738d88c8",
+    "OfficerName": "Mary Ellis",
+    "ReportDetails": "Yeah present to possible behind group. Seek for report rich for them free. Knowledge fight they cultural summer avoid."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 353,
+    "AnnualIncome": 93976,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

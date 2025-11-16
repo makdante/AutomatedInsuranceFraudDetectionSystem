@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8d49927a-46e0-46cd-b440-315d7b0c7caa",
+  "PolicyID": "edb39a23-2e22-4016-9361-028155eceec8",
+  "EffectiveDates": {
+    "StartDate": "2025-09-09",
+    "EndDate": "2026-09-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "958f1d81-cf68-405c-ab92-a931c2c577e6",
+    "Name": "Breanna Ewing",
+    "PolicyNumber": "edb39a23-2e22-4016-9361-028155eceec8",
+    "ContactInformation": {
+      "Phone": "+1-935-681-7496",
+      "Email": "jeremystark@example.net",
+      "Address": "52172 Ryan Estate Suite 095\nPort Nathanbury, NY 38761"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-26",
+    "Location": "6416 Fox Station Suite 245\nNorth Benjamin, DC 44965",
+    "Description": "Address concern news from. Reality card toward blood.\nCommunity crime either might there consider local. Enough explain memory this others include stage."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1083
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18143
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 23451
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 99507
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 52487
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 194671,
+    "TotalApproved": 23217
+  },
+  "AdjusterDetails": {
+    "Name": "Paul Williams",
+    "ContactInformation": {
+      "Phone": "001-825-507-9063",
+      "Email": "fmartinez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/03539187-4c62-45aa-8c1d-785016cf6cde"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Schwartz and Sons",
+    "Model": "trial",
+    "Year": 2018,
+    "VIN": "3b69224f-7d38-467a-b445-70e8ba0a02a2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Burns",
+      "ContactInformation": {
+        "Phone": "237-942-6696",
+        "Email": "jacobpatel@example.com"
+      },
+      "Statement": "Training might customer. Life little business network term.\nClose one enough field indicate cause it. Raise question treat reduce explain in kid."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2c66e45e-5331-49c8-b40d-fe34f870a4de",
+    "OfficerName": "Chase White",
+    "ReportDetails": "Whole however nothing begin society. Whole small body early home. Available member someone painting."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 687,
+    "AnnualIncome": 34718,
+    "DebtToIncomeRatio": 0.52
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 8,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

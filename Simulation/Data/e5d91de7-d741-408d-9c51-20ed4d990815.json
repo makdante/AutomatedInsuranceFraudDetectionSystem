@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e5d91de7-d741-408d-9c51-20ed4d990815",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-09-18",
+    "EndDate": "2026-09-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-03",
+    "Location": "216 Adams Trafficway\nEast Madisonland, GA 63336",
+    "Description": "Word how central carry plant difficult together worker.\nLanguage threat student. Plant adult different hotel bit record be.\nDiscussion middle return fear."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12594
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 113425
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14860
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8937
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11343
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 161159,
+    "TotalApproved": 44569
+  },
+  "AdjusterDetails": {
+    "Name": "Valerie Burnett",
+    "ContactInformation": {
+      "Phone": "524-807-6232x67853",
+      "Email": "abbotteric@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/774738be-db44-43cd-b430-5439172635f0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson-Holt",
+    "Model": "thank",
+    "Year": 2003,
+    "VIN": "4fde9fda-7e0d-448a-96a5-ad76f5512754"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Victoria Smith",
+      "ContactInformation": {
+        "Phone": "001-799-498-1362",
+        "Email": "aaron81@example.org"
+      },
+      "Statement": "Close use test quite serve couple. Lose option run. Someone south if street prepare.\nBehind student keep near though. With air likely part expert better."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b3982d47-36c3-4612-865a-28d74b26e3eb",
+    "OfficerName": "Linda Roberson",
+    "ReportDetails": "Job nature up public want build various fire. Sense already approach life coach price."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 704,
+    "AnnualIncome": 133577,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 1,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

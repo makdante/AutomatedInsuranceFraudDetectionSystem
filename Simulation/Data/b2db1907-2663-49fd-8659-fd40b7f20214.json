@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b2db1907-2663-49fd-8659-fd40b7f20214",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-01-05",
+    "EndDate": "2026-01-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-04",
+    "Location": "7797 Perez Garden\nWilkinsville, AZ 88879",
+    "Description": "Itself baby ball thank. Day report low herself stock away account."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2218
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 27758
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1654
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 76673
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3355
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 111658,
+    "TotalApproved": 46285
+  },
+  "AdjusterDetails": {
+    "Name": "Loretta Johnson",
+    "ContactInformation": {
+      "Phone": "+1-322-288-0580",
+      "Email": "ghaley@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/8592532b-a011-4587-aceb-bf6d97cfdb3d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thomas-Mclaughlin",
+    "Model": "recognize",
+    "Year": 2009,
+    "VIN": "dc790b2a-8eaf-43be-9fc8-02d7832f1c54"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jason Johnston",
+      "ContactInformation": {
+        "Phone": "+1-913-341-1163x723",
+        "Email": "matthewmcmahon@example.com"
+      },
+      "Statement": "Attention wait final property activity. Plan surface right growth cause only wonder.\nFactor suggest blue mention. Theory born difference."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0338aa9d-86a6-4dd3-b1c8-2e3142b47112",
+    "OfficerName": "Sara Williams",
+    "ReportDetails": "Situation nothing writer.\nConcern table speak argue last budget how. Material probably manager.\nInteresting wish science major law response. Camera field fear."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 826,
+    "AnnualIncome": 50665,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

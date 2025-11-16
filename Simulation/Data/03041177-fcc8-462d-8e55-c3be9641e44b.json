@@ -1,0 +1,112 @@
+{
+  "ClaimID": "03041177-fcc8-462d-8e55-c3be9641e44b",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-03-06",
+    "EndDate": "2026-03-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-22",
+    "Location": "1216 Garcia Springs\nNorth Gregoryland, NV 78830",
+    "Description": "Movement artist ground marriage cover use interesting. Attention want key work economy imagine appear."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3927
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10521
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8121
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 60120
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 57034
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 139723,
+    "TotalApproved": 76270
+  },
+  "AdjusterDetails": {
+    "Name": "Ann Roberson",
+    "ContactInformation": {
+      "Phone": "589.371.5629x7644",
+      "Email": "harrisisabella@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b3992f8f-5748-4039-8247-a86be2a3471d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Scott, White and Wood",
+    "Model": "sure",
+    "Year": 2014,
+    "VIN": "9b9d4ccf-3875-4821-907c-52f9163d4e41"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Keith Edwards",
+      "ContactInformation": {
+        "Phone": "+1-762-308-7692x33290",
+        "Email": "hgarrett@example.net"
+      },
+      "Statement": "Training blue those any trip serve. Song strong top begin subject series seek. Early nothing probably wonder trip.\nSport at me fly purpose policy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fba6014e-6d50-487b-a53f-8f8d257480b2",
+    "OfficerName": "Kelly Little",
+    "ReportDetails": "Even indicate fire property example. Firm he drug ok majority listen. Deep occur do listen whatever.\nGame you after make seven agency. Its rock add true claim gun."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 772,
+    "AnnualIncome": 22600,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

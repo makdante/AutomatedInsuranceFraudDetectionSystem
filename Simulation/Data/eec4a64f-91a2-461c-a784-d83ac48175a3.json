@@ -1,0 +1,112 @@
+{
+  "ClaimID": "eec4a64f-91a2-461c-a784-d83ac48175a3",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-01-30",
+    "EndDate": "2026-01-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-31",
+    "Location": "09966 Terri Bridge Apt. 623\nAndersonmouth, OR 54010",
+    "Description": "Stock even worry medical movement stage. Front culture risk. Speech put long after prevent cup."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 20624
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12753
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 53210
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7387
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3982
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 97956,
+    "TotalApproved": 72810
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica West",
+    "ContactInformation": {
+      "Phone": "577.989.8374x789",
+      "Email": "tina88@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e60fb66d-7e6a-43db-bf34-4f789e8cf548"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller, Carlson and Patel",
+    "Model": "doctor",
+    "Year": 2014,
+    "VIN": "4c316acb-2cad-4bed-8741-bdd86af869b1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brendan Smith",
+      "ContactInformation": {
+        "Phone": "(393)506-3406x173",
+        "Email": "fshah@example.net"
+      },
+      "Statement": "Start land will television determine participant. Heavy heavy so painting. Former lot walk issue."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4342bbc3-5d41-4960-9d33-64bcdf5b66a6",
+    "OfficerName": "Jose Kaiser",
+    "ReportDetails": "Phone break price certain art.\nPressure experience fear sign cost particular cost real. Fly quality staff task company painting.\nSometimes this authority practice break. List to rate position."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 599,
+    "AnnualIncome": 105881,
+    "DebtToIncomeRatio": 0.56
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 4,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

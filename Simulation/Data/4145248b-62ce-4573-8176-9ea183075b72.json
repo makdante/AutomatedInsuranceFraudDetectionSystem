@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4145248b-62ce-4573-8176-9ea183075b72",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-04-28",
+    "EndDate": "2026-04-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-28",
+    "Location": "4705 Moore Turnpike Apt. 608\nBraunside, WA 39261",
+    "Description": "Anyone dark firm security if popular mother. Often professor long arrive. Pass him picture stop often. Behind thank coach mean protect."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7991
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 21023
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17567
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 144130
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1893
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 192604,
+    "TotalApproved": 128384
+  },
+  "AdjusterDetails": {
+    "Name": "Tristan Pratt",
+    "ContactInformation": {
+      "Phone": "(617)227-0286x65120",
+      "Email": "kyle29@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/93f918b2-1a4e-43a7-8e56-d3b3fa6ca0b0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Price, Carroll and Smith",
+    "Model": "area",
+    "Year": 2017,
+    "VIN": "590f6b3b-d84a-40e3-8781-08a04ea1908c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mr. Terry Mora",
+      "ContactInformation": {
+        "Phone": "(435)786-3836",
+        "Email": "patricia98@example.net"
+      },
+      "Statement": "Heart eat technology help. Serious food writer member.\nTreatment simple pay law blood. Including thank film huge.\nIts camera buy field."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "923745d3-4ab4-4c7d-971b-d97db7e02288",
+    "OfficerName": "Denise Torres",
+    "ReportDetails": "Keep human test role move within collection. Place for spend for.\nSon bad score administration see cut raise college. Without race factor somebody paper who. Series small seem hair who."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 592,
+    "AnnualIncome": 141445,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

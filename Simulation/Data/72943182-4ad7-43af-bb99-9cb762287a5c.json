@@ -1,0 +1,112 @@
+{
+  "ClaimID": "72943182-4ad7-43af-bb99-9cb762287a5c",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2025-03-07",
+    "EndDate": "2026-03-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-09",
+    "Location": "5685 Lee Mission\nWest Christopherfort, VI 03574",
+    "Description": "Force green company if. Reflect hope couple measure. Happen student their course notice send.\nNational free pattern. Anyone baby data one past."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7313
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 78229
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 51852
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 61515
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17627
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 216536,
+    "TotalApproved": 119026
+  },
+  "AdjusterDetails": {
+    "Name": "Paige Alexander",
+    "ContactInformation": {
+      "Phone": "995.984.2574x45317",
+      "Email": "williamsmikayla@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/0734d940-dfc7-4cc7-8595-0ab654ab889d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Young-Hurst",
+    "Model": "everyone",
+    "Year": 2012,
+    "VIN": "fbe05adb-4e76-42e8-bbaf-0f86e923ba64"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nancy Murphy",
+      "ContactInformation": {
+        "Phone": "387.252.8927",
+        "Email": "lisajohnson@example.org"
+      },
+      "Statement": "Place house exactly manage Mrs bed. This according friend six itself arm.\nEast per rest animal meet team. Down administration although north."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "72f9d988-d1f7-438b-9103-eb79215c593f",
+    "OfficerName": "Calvin Perry",
+    "ReportDetails": "Ever deal around traditional run act. Goal then not challenge too anything."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 543,
+    "AnnualIncome": 159511,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "186c87ac-c8dc-493d-971b-074bab3afe58",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-05-19",
+    "EndDate": "2026-05-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-28",
+    "Location": "USNV Hinton\nFPO AP 31947",
+    "Description": "Quality increase grow.\nSerious for will more away computer. Then economic few center. Represent process perhaps government.\nRecent east skill there."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 94242
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 159494
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 20495
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3634
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 33343
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 311208,
+    "TotalApproved": 181297
+  },
+  "AdjusterDetails": {
+    "Name": "Nicole Price",
+    "ContactInformation": {
+      "Phone": "238-525-7316",
+      "Email": "barnessamuel@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/fd02466d-3c92-415a-b045-507ef31fb7f7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Larson, Rosario and Mason",
+    "Model": "bag",
+    "Year": 2009,
+    "VIN": "76538601-f14b-479d-a1d0-c89da005a54d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Daniel Sullivan",
+      "ContactInformation": {
+        "Phone": "001-673-839-7753x48832",
+        "Email": "jjohnson@example.net"
+      },
+      "Statement": "Generation safe specific Mr. Bad technology knowledge laugh wrong race.\nWell population society good so. Whether arm campaign teacher. Everything professor personal contain cultural mission."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "01ac04a7-88de-4fa9-a264-29670e498b2a",
+    "OfficerName": "Jeffrey Scott MD",
+    "ReportDetails": "Claim remember best attorney skill. Them as later can college site from. Baby example teach two force."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 709,
+    "AnnualIncome": 107516,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

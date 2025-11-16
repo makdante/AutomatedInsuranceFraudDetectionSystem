@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a4e8ea1a-aa3e-45b2-abbe-f723b33dbc70",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-04-27",
+    "EndDate": "2026-04-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-17",
+    "Location": "315 Joan Flat Apt. 822\nAngelicabury, AR 67241",
+    "Description": "Listen big wind perhaps. Particularly hit expert beat family for. He defense for me total.\nConference man everything course fall energy you. Participant usually stage professor they group still."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19972
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 31116
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2737
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 114427
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40488
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 208740,
+    "TotalApproved": 132154
+  },
+  "AdjusterDetails": {
+    "Name": "Mark Miller",
+    "ContactInformation": {
+      "Phone": "001-965-743-2697x124",
+      "Email": "gphillips@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/e8139444-98e9-4eba-89cc-f1f652658490"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bennett, Boyd and Nunez",
+    "Model": "fine",
+    "Year": 2009,
+    "VIN": "098e3b54-0e43-4be2-a6e6-776902ccdde6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathleen Scott",
+      "ContactInformation": {
+        "Phone": "375.561.2224x144",
+        "Email": "mwelch@example.net"
+      },
+      "Statement": "Officer several shoulder fine. Effect information mean mission trouble together how. Feel scene however want glass.\nMention key outside no future seven care. Will property approach."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "edb2e431-7fde-419f-8364-228eddbb7247",
+    "OfficerName": "Jo Gilbert",
+    "ReportDetails": "Save design research take manage medical. Management statement rule. Possible house general beyond my. Game again ability decade drop when organization."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 517,
+    "AnnualIncome": 190629,
+    "DebtToIncomeRatio": 0.62
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

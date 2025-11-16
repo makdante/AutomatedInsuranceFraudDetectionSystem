@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9e8c8e35-dbe0-4ef8-902c-8b0071805d91",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-08-09",
+    "EndDate": "2026-08-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-09",
+    "Location": "44127 Byrd Terrace\nDouglasview, DE 19664",
+    "Description": "Poor feeling safe claim must chance education action. Design me yet mission approach true need. Huge late cell doctor."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 107805
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 10792
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 149156
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39077
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1673
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 308503,
+    "TotalApproved": 220903
+  },
+  "AdjusterDetails": {
+    "Name": "Nathan Silva",
+    "ContactInformation": {
+      "Phone": "001-668-223-6715",
+      "Email": "johnthompson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/89390e01-5f3b-4006-8762-0df378d3b67f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rodriguez and Sons",
+    "Model": "blue",
+    "Year": 2020,
+    "VIN": "b27d1172-278d-4fbe-ae6f-d29fa0b80435"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cameron Chase",
+      "ContactInformation": {
+        "Phone": "001-766-684-9245x51181",
+        "Email": "huntervance@example.com"
+      },
+      "Statement": "Similar few recognize same. Guess agent foot test game.\nHome summer future power agree.\nOffer attention nor opportunity. Name better two available high than party."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "48f1ea36-f733-4e55-b4fe-4a2a97b61610",
+    "OfficerName": "Alexander Roy",
+    "ReportDetails": "Explain rise carry democratic Democrat land song author. Small including beyond however.\nLocal wish office line fear road. Site economy head carry."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 451,
+    "AnnualIncome": 71962,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 0,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

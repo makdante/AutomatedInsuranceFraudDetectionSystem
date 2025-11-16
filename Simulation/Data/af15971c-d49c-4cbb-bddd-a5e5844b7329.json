@@ -1,0 +1,112 @@
+{
+  "ClaimID": "af15971c-d49c-4cbb-bddd-a5e5844b7329",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-10-06",
+    "EndDate": "2026-10-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-06",
+    "Location": "12611 Baird Hill Suite 515\nNew Christopher, VA 38442",
+    "Description": "In staff see anything resource their decision. Sometimes thing usually add western now. Past end rich either author. Professor time short form child treat."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 28894
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 115563
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 66219
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6941
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 47882
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 265499,
+    "TotalApproved": 78587
+  },
+  "AdjusterDetails": {
+    "Name": "Corey Jensen",
+    "ContactInformation": {
+      "Phone": "(452)246-5804x53245",
+      "Email": "ktran@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/28c8d4c3-6c4c-4f36-aff6-f71aeb5967ff"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gregory, Madden and Tucker",
+    "Model": "community",
+    "Year": 2003,
+    "VIN": "90d7e83b-1b48-4976-bd6b-9535646b7557"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Ward",
+      "ContactInformation": {
+        "Phone": "(781)627-3232x948",
+        "Email": "malonedavid@example.net"
+      },
+      "Statement": "Think learn community understand TV car treat. At she heart space manage themselves."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9c054c47-fa0c-4198-9a1b-13a67a2e43f2",
+    "OfficerName": "Alexander Dorsey",
+    "ReportDetails": "Upon poor bank no deep. Among add guess carry skill everybody."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 615,
+    "AnnualIncome": 111238,
+    "DebtToIncomeRatio": 0.11
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

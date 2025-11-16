@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1a774286-3c7b-46f3-b697-405f7fdf1dd7",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2025-04-09",
+    "EndDate": "2026-04-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-17",
+    "Location": "78036 Lori Extension Apt. 837\nSouth Chelseahaven, KY 96991",
+    "Description": "This value night top place. Baby east often important large consumer pretty. Probably yourself eye north many doctor arm step."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 97547
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15816
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 63303
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12576
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 48783
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 238025,
+    "TotalApproved": 19205
+  },
+  "AdjusterDetails": {
+    "Name": "William Estrada DDS",
+    "ContactInformation": {
+      "Phone": "438-659-3036x96748",
+      "Email": "ugonzalez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1eaa4bcf-ee29-4cb4-885e-2af7d201ab27"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Erickson-Hale",
+    "Model": "face",
+    "Year": 2015,
+    "VIN": "68a22208-f94a-4ae0-a853-c72437222eef"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Leonard Mitchell",
+      "ContactInformation": {
+        "Phone": "931-424-7449x7211",
+        "Email": "donnaparker@example.org"
+      },
+      "Statement": "Here again answer effort sort energy method. Structure woman have father. Interest she bank claim view."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c9ad02dd-e756-4ed9-82a9-b3700f47923b",
+    "OfficerName": "Sharon Mcdonald",
+    "ReportDetails": "Country several oil music head between. Positive somebody wind left cultural. Would whom oil serious.\nHimself fish lose also leader game name. Message song authority wear."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 339,
+    "AnnualIncome": 130115,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

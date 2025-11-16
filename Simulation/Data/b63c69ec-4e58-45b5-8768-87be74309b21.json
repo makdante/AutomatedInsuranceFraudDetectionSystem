@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b63c69ec-4e58-45b5-8768-87be74309b21",
+  "PolicyID": "433b7880-f7af-4e36-9012-5c5e793028d5",
+  "EffectiveDates": {
+    "StartDate": "2024-12-27",
+    "EndDate": "2025-12-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3906d06d-d7b8-494f-879b-a72d5db680f8",
+    "Name": "William West",
+    "PolicyNumber": "433b7880-f7af-4e36-9012-5c5e793028d5",
+    "ContactInformation": {
+      "Phone": "5878895828",
+      "Email": "johnmorris@example.net",
+      "Address": "1914 Lyons Green\nDavisbury, NY 54164"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-14",
+    "Location": "123 Dean Fields\nNew Reginaldmouth, GU 59191",
+    "Description": "True firm past sound section full these. Leader recently land memory.\nReach most collection hand reach eat PM exist. Network edge seek dinner."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11595
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 161229
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8053
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3543
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15840
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 200260,
+    "TotalApproved": 182180
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Hall",
+    "ContactInformation": {
+      "Phone": "(304)599-4383",
+      "Email": "staffordsteve@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/07bc08b4-2028-4803-b700-5d077b49fb18"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Walker, Reese and Clark",
+    "Model": "successful",
+    "Year": 2009,
+    "VIN": "d6383d4a-8823-4953-849d-15e9254c44af"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ronald Perez",
+      "ContactInformation": {
+        "Phone": "600.745.8146x618",
+        "Email": "ishannon@example.net"
+      },
+      "Statement": "Believe become family side old new need. Could city foot.\nOrganization month boy store item use talk. Yeah after check language box garden believe key."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b1df0a9b-8e2c-4504-9eb1-e69fe84b6e1a",
+    "OfficerName": "Mary Boyd",
+    "ReportDetails": "Catch term on car own always best. Foreign cultural traditional table. Nor purpose program probably instead involve however.\nMorning reflect these book factor. Last strategy usually their box."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 626,
+    "AnnualIncome": 125791,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

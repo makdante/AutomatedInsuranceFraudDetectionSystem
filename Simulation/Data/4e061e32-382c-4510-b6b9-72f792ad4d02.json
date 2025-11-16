@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4e061e32-382c-4510-b6b9-72f792ad4d02",
+  "PolicyID": "615dd311-61f1-4d66-9081-93d8b1a30832",
+  "EffectiveDates": {
+    "StartDate": "2024-11-02",
+    "EndDate": "2025-11-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "413855ef-2e2d-4b8e-b2fc-330be891114b",
+    "Name": "Amy Barnes",
+    "PolicyNumber": "615dd311-61f1-4d66-9081-93d8b1a30832",
+    "ContactInformation": {
+      "Phone": "(281)531-1709x697",
+      "Email": "monicacarroll@example.org",
+      "Address": "2310 Leslie Drive Suite 947\nSimsbury, VI 28289"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-09",
+    "Location": "1477 Peter Mountain Suite 393\nNatalieland, MD 20406",
+    "Description": "Language identify floor place seem five. Soon blue set physical policy no child. Fine might case song especially.\nLet back Mrs billion thank item drug. Personal gun similar big."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 30599
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11320
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3795
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 98235
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 31176
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 175125,
+    "TotalApproved": 81197
+  },
+  "AdjusterDetails": {
+    "Name": "David Burnett",
+    "ContactInformation": {
+      "Phone": "(806)537-7540x27907",
+      "Email": "bartonkyle@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/857c008e-5c57-4c5f-8fff-f0f371eadd50"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rios-Rodriguez",
+    "Model": "small",
+    "Year": 2011,
+    "VIN": "cd050b31-1104-4bb2-87c3-87f00947545d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angela Gonzalez",
+      "ContactInformation": {
+        "Phone": "359.777.9081x50344",
+        "Email": "kanebrad@example.net"
+      },
+      "Statement": "Year ability long away week authority lawyer. Clear nor suggest reflect meet deep. Available world drive marriage owner vote skill."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9bdaf38d-185a-4c4a-b74b-f786166f0ead",
+    "OfficerName": "David Stephens",
+    "ReportDetails": "Exactly your language book because. Blue outside catch debate may protect break. Them event picture interesting current choice than."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 389,
+    "AnnualIncome": 118660,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 8,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

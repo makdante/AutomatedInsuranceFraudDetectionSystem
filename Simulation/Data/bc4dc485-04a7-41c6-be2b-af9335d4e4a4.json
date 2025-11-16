@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bc4dc485-04a7-41c6-be2b-af9335d4e4a4",
+  "PolicyID": "f56b721d-77fb-4659-8280-faefc114b152",
+  "EffectiveDates": {
+    "StartDate": "2025-05-18",
+    "EndDate": "2026-05-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "9df24105-b696-442a-969e-d25b0cebdfb9",
+    "Name": "Jonathan Santos",
+    "PolicyNumber": "f56b721d-77fb-4659-8280-faefc114b152",
+    "ContactInformation": {
+      "Phone": "001-871-292-7838x249",
+      "Email": "bneal@example.org",
+      "Address": "46543 Jamie Burg Suite 969\nSarahfort, VI 92099"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-09",
+    "Location": "138 Angela Trafficway\nNew Seanshire, NC 61945",
+    "Description": "Call design population child left specific. Same coach sense rule beautiful have garden.\nOffice test lay."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9066
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 69962
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 33540
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19913
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 78044
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 210525,
+    "TotalApproved": 44813
+  },
+  "AdjusterDetails": {
+    "Name": "Susan Palmer",
+    "ContactInformation": {
+      "Phone": "463-956-1809x463",
+      "Email": "fcordova@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/2045e2cf-4eab-4f03-b9b9-e602a1857896"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gonzalez, Glover and Reynolds",
+    "Model": "brother",
+    "Year": 2005,
+    "VIN": "1695000c-b446-4ebc-8450-91d029ac48f0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Gomez",
+      "ContactInformation": {
+        "Phone": "447-394-3688",
+        "Email": "justingonzales@example.org"
+      },
+      "Statement": "Production present see provide. Kind discussion commercial opportunity wish.\nPrevent shoulder degree student long. Home guy church about.\nRule join environmental identify."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e3c79ae7-e68c-4873-98f3-bbf65e5e5de0",
+    "OfficerName": "Brian Nguyen",
+    "ReportDetails": "Training perform position every. Ever doctor natural prevent off."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 329,
+    "AnnualIncome": 103964,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 1,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "de15c2d8-48c9-4898-b759-c09320848570",
+  "PolicyID": "edb39a23-2e22-4016-9361-028155eceec8",
+  "EffectiveDates": {
+    "StartDate": "2025-08-13",
+    "EndDate": "2026-08-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "958f1d81-cf68-405c-ab92-a931c2c577e6",
+    "Name": "Breanna Ewing",
+    "PolicyNumber": "edb39a23-2e22-4016-9361-028155eceec8",
+    "ContactInformation": {
+      "Phone": "+1-935-681-7496",
+      "Email": "jeremystark@example.net",
+      "Address": "52172 Ryan Estate Suite 095\nPort Nathanbury, NY 38761"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-06",
+    "Location": "3542 Novak Ranch Suite 732\nWest Julia, KS 55114",
+    "Description": "Network blue fall seek site. Almost white need idea who realize. Red box follow behind small place few.\nKind customer style. Choose know movie within.\nGoal summer pattern where particular."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4532124
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4034556
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4757180
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4772943
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4488849
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22585652,
+    "TotalApproved": 9095667
+  },
+  "AdjusterDetails": {
+    "Name": "Dana Johns MD",
+    "ContactInformation": {
+      "Phone": "(356)679-7799",
+      "Email": "ggriffith@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/8496f661-61f0-4061-8d27-8c3b2d21d305"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lee Ltd",
+    "Model": "popular",
+    "Year": 2004,
+    "VIN": "c3f8da10-d071-489c-8c3a-3f3d27c47a95"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jodi Carson",
+      "ContactInformation": {
+        "Phone": "9944805315",
+        "Email": "judydixon@example.com"
+      },
+      "Statement": "Street every wish wall wrong although leader seat.\nDirection issue behind most military. Soldier instead development seat young later forget. Right beyond generation suffer hit respond."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6c609a2d-df97-4381-b672-268825f8bdec",
+    "OfficerName": "Blake Ayers",
+    "ReportDetails": "Remain decision news every. Case choose natural billion hospital crime.\nMaterial many or. Politics arm building no list. Sound suggest house later standard. Whatever prepare enjoy half."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 397,
+    "AnnualIncome": 195354,
+    "DebtToIncomeRatio": 0.26
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 10,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

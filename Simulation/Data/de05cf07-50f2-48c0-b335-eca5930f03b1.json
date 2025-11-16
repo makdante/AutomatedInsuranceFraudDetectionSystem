@@ -1,0 +1,112 @@
+{
+  "ClaimID": "de05cf07-50f2-48c0-b335-eca5930f03b1",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-06-03",
+    "EndDate": "2026-06-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-20",
+    "Location": "9863 Jonathan Unions Apt. 007\nEast David, WI 37123",
+    "Description": "Understand mission together no her. Course son perform close daughter walk."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11587
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16080
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30985
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12540
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3297
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 74489,
+    "TotalApproved": 73035
+  },
+  "AdjusterDetails": {
+    "Name": "Willie Vincent",
+    "ContactInformation": {
+      "Phone": "247.321.7059",
+      "Email": "madison42@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/fd2def14-b9f0-4408-9389-23edd0206826"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gonzalez-Randolph",
+    "Model": "way",
+    "Year": 2013,
+    "VIN": "5833619d-5417-4532-985a-e7bc153ee192"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mrs. Brenda Shepherd",
+      "ContactInformation": {
+        "Phone": "339-574-8208x36415",
+        "Email": "yfoster@example.org"
+      },
+      "Statement": "Reveal wait this summer movement body. Leave friend threat continue.\nFall full benefit address. Soon day attorney. Base ask foreign be try behind."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5a8fad6f-d2a2-4bf6-b54f-8eca7449d65d",
+    "OfficerName": "Loretta Edwards",
+    "ReportDetails": "Think bed far pick mind single. Why material city wide claim her woman.\nClearly clear office trade. Popular according parent positive. Property gun course voice."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 643,
+    "AnnualIncome": 105682,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 8,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

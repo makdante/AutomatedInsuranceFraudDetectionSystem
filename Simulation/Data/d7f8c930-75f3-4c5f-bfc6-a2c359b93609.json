@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d7f8c930-75f3-4c5f-bfc6-a2c359b93609",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-08-04",
+    "EndDate": "2026-08-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-07",
+    "Location": "593 William Alley Apt. 871\nPort Jillland, MT 57948",
+    "Description": "Word space season husband drive break. Thought level with head government place view push.\nPattern bar inside star design. Design beat want doctor want difficult light."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4254520
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4408436
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4282216
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4765698
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4461224
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22172094,
+    "TotalApproved": 15922091
+  },
+  "AdjusterDetails": {
+    "Name": "Kathleen Hudson",
+    "ContactInformation": {
+      "Phone": "(836)864-6556x165",
+      "Email": "caleb39@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/67dbaafd-82a7-4f68-96aa-468fe4c1a6b5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Oneal, Elliott and Pierce",
+    "Model": "wide",
+    "Year": 2016,
+    "VIN": "c6a44298-c9b9-4180-864b-fff5638bffd0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kim Morris",
+      "ContactInformation": {
+        "Phone": "847-802-9579x5677",
+        "Email": "pamela03@example.org"
+      },
+      "Statement": "Blood knowledge season let minute first none yes. Southern although model well whatever lead evening concern."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d2ab2288-1be5-40d6-bb74-b0690297fcd7",
+    "OfficerName": "Charlene Butler",
+    "ReportDetails": "Stay laugh human young finally policy scene.\nCare measure lot."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 461,
+    "AnnualIncome": 158492,
+    "DebtToIncomeRatio": 0.23
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

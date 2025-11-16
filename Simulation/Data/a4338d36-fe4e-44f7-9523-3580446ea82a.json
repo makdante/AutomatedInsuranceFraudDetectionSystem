@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a4338d36-fe4e-44f7-9523-3580446ea82a",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-10-28",
+    "EndDate": "2026-10-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-10",
+    "Location": "2295 Rachel Via Apt. 943\nNicolefurt, CO 75505",
+    "Description": "Trip act worker American letter present. Either able reach should thank life music. Stand recognize organization surface. Measure mention place also suddenly responsibility eight worry."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39727
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2892
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39251
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 142192
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19913
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 243975,
+    "TotalApproved": 26176
+  },
+  "AdjusterDetails": {
+    "Name": "Stephen Murphy",
+    "ContactInformation": {
+      "Phone": "324-716-6599",
+      "Email": "callahanrebecca@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/50f95338-0072-4e4b-8be1-be7a1bcd80a5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Parks-Brewer",
+    "Model": "trade",
+    "Year": 2014,
+    "VIN": "f922c1b5-0b29-4253-b108-24ab3a8654cd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jason Brown",
+      "ContactInformation": {
+        "Phone": "510-404-8042x213",
+        "Email": "jeffrey90@example.net"
+      },
+      "Statement": "Site each still wall hour free. May article purpose create surface design. Fear whether development member."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b2c65175-917a-4262-8d5f-e79c7f08feb1",
+    "OfficerName": "Michelle Carson",
+    "ReportDetails": "Skill statement herself choose. Near foot figure weight.\nInteresting final Congress president fire. Media create investment test generation teacher black. Arm gun only effect grow few."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 670,
+    "AnnualIncome": 105081,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

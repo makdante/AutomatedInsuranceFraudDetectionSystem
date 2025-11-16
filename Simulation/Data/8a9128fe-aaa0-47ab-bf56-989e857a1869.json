@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8a9128fe-aaa0-47ab-bf56-989e857a1869",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-06-15",
+    "EndDate": "2026-06-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-04",
+    "Location": "619 Anderson Harbors\nEast Kathryntown, TN 55776",
+    "Description": "Interesting public race along. Kid interview seek box above respond. Available herself include family population job whose."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8804
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 40577
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1252
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7478
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 48867
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 106978,
+    "TotalApproved": 59912
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Pearson",
+    "ContactInformation": {
+      "Phone": "735-462-5596x30506",
+      "Email": "adavis@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/ad06313c-26a6-4d5b-a9b2-6788c2cd2b47"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bell Inc",
+    "Model": "improve",
+    "Year": 2014,
+    "VIN": "a52226a2-3084-4e11-85d1-822316546341"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Holly Thompson",
+      "ContactInformation": {
+        "Phone": "001-234-278-9857x710",
+        "Email": "johnmartin@example.com"
+      },
+      "Statement": "It officer lot writer standard individual able figure. Everything national music.\nCrime evidence Congress early. Happen common personal since."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e27c1080-cc25-419b-b1b3-bca255bbdc8a",
+    "OfficerName": "Michael Campbell",
+    "ReportDetails": "Bag relationship as realize majority strategy nice dog. Eight Mrs just assume."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 800,
+    "AnnualIncome": 63380,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

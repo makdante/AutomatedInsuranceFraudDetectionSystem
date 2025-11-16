@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4ccc9213-bf0c-4621-bdf6-5d9ebfc45a59",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-01-10",
+    "EndDate": "2026-01-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-29",
+    "Location": "66861 Smith Mill\nEast Danashire, ID 93199",
+    "Description": "Consumer them line may. Build start lay hot bank of approach. Use factor market face well.\nNorth recent admit with us. Long such myself power. Plan role discuss more forward.\nNor do amount others."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7899
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24896
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 71791
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24121
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7582
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 136289,
+    "TotalApproved": 13488
+  },
+  "AdjusterDetails": {
+    "Name": "Derrick Ibarra",
+    "ContactInformation": {
+      "Phone": "(701)280-9836x800",
+      "Email": "bishopangela@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/0ccaf28c-9cee-4bf1-8d3b-fe0cfa907075"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Deleon Ltd",
+    "Model": "within",
+    "Year": 2013,
+    "VIN": "8fb16f4f-5684-45a3-a46b-9975c178c83d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Danielle Bates",
+      "ContactInformation": {
+        "Phone": "667-290-9155x24264",
+        "Email": "douglasvasquez@example.net"
+      },
+      "Statement": "Above not offer protect save. Impact rule eye value. Attorney go year exactly. Office whole government soon fear.\nConference most center. School drive team. See test message usually low."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "005b4a1a-e4d9-415f-9741-86970f720a49",
+    "OfficerName": "Mikayla Young",
+    "ReportDetails": "Your able your step now property ten. I know give drug bad social.\nServe physical radio church discuss allow point. Never late together between organization. Deep sell report card rather."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 660,
+    "AnnualIncome": 142390,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 7,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

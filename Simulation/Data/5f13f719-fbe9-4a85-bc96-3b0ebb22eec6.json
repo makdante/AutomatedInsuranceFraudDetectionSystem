@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5f13f719-fbe9-4a85-bc96-3b0ebb22eec6",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2024-12-03",
+    "EndDate": "2025-12-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-03",
+    "Location": "21191 Hayes Cape\nWelchshire, GU 34108",
+    "Description": "Move way cause war. Themselves drop people lawyer poor fill.\nWorld idea through. Heavy prevent guy media.\nAnyone cover test claim their push year stand. I buy tend certainly fund tough some."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8734
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4257
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 34319
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6566
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 75383
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 129259,
+    "TotalApproved": 8193
+  },
+  "AdjusterDetails": {
+    "Name": "Rachel Brooks",
+    "ContactInformation": {
+      "Phone": "830-886-0004x5186",
+      "Email": "oliviarussell@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c3c1e25e-7034-44d0-8d44-ed20db689731"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Barnes, Figueroa and Archer",
+    "Model": "perhaps",
+    "Year": 2013,
+    "VIN": "42a5ee18-58d5-4fb9-a1fe-84889de33336"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Zachary Stokes",
+      "ContactInformation": {
+        "Phone": "001-333-797-3764x16341",
+        "Email": "snelson@example.net"
+      },
+      "Statement": "Language rest face not war statement amount. Phone defense ask happen position cell myself safe. Lawyer get view member health face. Letter boy main about."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c812fa29-5123-4e43-9380-a14ceef0292f",
+    "OfficerName": "Katherine Lane",
+    "ReportDetails": "Least most major within. Move anything weight center.\nThemselves authority nature rule. Whom raise buy student hope. Large across performance player worry central rest."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 591,
+    "AnnualIncome": 32469,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

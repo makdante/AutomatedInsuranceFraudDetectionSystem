@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1ed679a6-ff58-4807-b111-2a35b2d9859f",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-06-04",
+    "EndDate": "2026-06-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-16",
+    "Location": "3644 Rebecca Summit Apt. 072\nKrististad, TN 66798",
+    "Description": "Could lay street suddenly dinner bank cultural. Cover show relate add move option television. Such son free his source set success store."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 27681
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 80958
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 19520
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 84015
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 70150
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 282324,
+    "TotalApproved": 149913
+  },
+  "AdjusterDetails": {
+    "Name": "Matthew Bailey",
+    "ContactInformation": {
+      "Phone": "5054839529",
+      "Email": "onealdesiree@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/042d0ed8-b986-42db-9dda-75f8ec8e03af"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Young Group",
+    "Model": "week",
+    "Year": 2009,
+    "VIN": "7e54b081-2460-4d0a-b421-3411dc6bfd68"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Marisa Guerrero",
+      "ContactInformation": {
+        "Phone": "360.741.8801",
+        "Email": "braunoscar@example.net"
+      },
+      "Statement": "Future interview network television decision myself explain. Author window box shoulder discover office effect.\nInvestment free exactly film marriage usually."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "aa9064a5-b58a-45f4-922f-e72b6c701c46",
+    "OfficerName": "James David",
+    "ReportDetails": "Take bank positive result. Treatment foot eight water.\nWith itself build window. Book worry task believe gas result record. Head training man accept."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 635,
+    "AnnualIncome": 185960,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

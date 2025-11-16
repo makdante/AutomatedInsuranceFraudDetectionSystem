@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1ddfe6b1-0de1-4c87-b0e0-9b6eb6fd6f5e",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-05-23",
+    "EndDate": "2026-05-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-24",
+    "Location": "90633 Steve Pine Apt. 597\nWest Randybury, SD 53316",
+    "Description": "Direction pressure theory off budget everyone specific. Continue take thousand heart and finish stop. Cut office key Democrat."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 145136
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 92184
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8370
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 139501
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18948
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 404139,
+    "TotalApproved": 401555
+  },
+  "AdjusterDetails": {
+    "Name": "Mr. James Riley",
+    "ContactInformation": {
+      "Phone": "4282525529",
+      "Email": "kaylee80@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c3871315-2abb-4160-8e42-5b6e086a2c2a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-24T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-29T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller LLC",
+    "Model": "sing",
+    "Year": 2008,
+    "VIN": "bb583774-d047-4858-af47-612d252e34f8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Devin Bailey",
+      "ContactInformation": {
+        "Phone": "243.872.8527",
+        "Email": "bradleyvillanueva@example.com"
+      },
+      "Statement": "Door key leader order among. Majority couple anyone standard lead marriage after. Number available agreement majority continue."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bfa33a96-1ea6-4490-a39a-651ef4121c6d",
+    "OfficerName": "Joshua Gonzalez",
+    "ReportDetails": "School discussion specific. Fight although begin team sure month necessary.\nTown when thousand whose term task. Whatever identify sell day certainly. Trouble whose past tonight pattern avoid a once."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 711,
+    "AnnualIncome": 164161,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 8,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

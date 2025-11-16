@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8e2aa580-6f32-4f26-8f6f-9e3440481313",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-03-24",
+    "EndDate": "2026-03-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-14",
+    "Location": "4515 Hill Crescent\nRodriguezland, CT 06139",
+    "Description": "South feeling without coach serious. Simply amount keep. Authority movement happy bank full trial. Above tree look.\nAuthority by key reach. Carry ability suffer include."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5948
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3074
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2942
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7220
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 56048
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 75232,
+    "TotalApproved": 68655
+  },
+  "AdjusterDetails": {
+    "Name": "Alicia Sanchez",
+    "ContactInformation": {
+      "Phone": "+1-608-230-8223x2875",
+      "Email": "nfernandez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/0d8597ef-96a7-4790-b6b4-0ea2dee46d94"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Burch-Gutierrez",
+    "Model": "structure",
+    "Year": 2010,
+    "VIN": "70ac3547-962d-4fb4-a71f-1c37e51f945b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Marshall",
+      "ContactInformation": {
+        "Phone": "363-372-8853",
+        "Email": "daniel90@example.com"
+      },
+      "Statement": "Serious effect success. Somebody physical second however quite person feeling. Everything while town read site like fact."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1d994a11-48ed-4874-b2a9-8220a4f78c09",
+    "OfficerName": "Laura Parker",
+    "ReportDetails": "Talk none travel explain. Business ask support event he.\nOil meeting upon. Early reflect range chair.\nScience down decide simply. Its along entire finish. Relate fear mean meet hear bad learn."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 509,
+    "AnnualIncome": 116706,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

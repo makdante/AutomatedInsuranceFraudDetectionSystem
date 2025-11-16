@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2a8777c3-a383-4c96-a446-9f41cddaf6fb",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-01-18",
+    "EndDate": "2026-01-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-11",
+    "Location": "4151 Brian Prairie\nNorth Rebeccaborough, NJ 99934",
+    "Description": "Activity believe want hot. Third news rise camera.\nGreat modern ok. Cultural list why week side. Ask national professor everyone every involve. Part land gas surface leave."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11200
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 48556
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12779
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 46957
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 23032
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 142524,
+    "TotalApproved": 70013
+  },
+  "AdjusterDetails": {
+    "Name": "Cody Chapman",
+    "ContactInformation": {
+      "Phone": "001-901-668-5594x738",
+      "Email": "floresrobert@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/6a351728-7443-4b48-ac16-60ae5ded1b8a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hopkins-Taylor",
+    "Model": "evidence",
+    "Year": 2019,
+    "VIN": "3c2089b7-5f17-4db4-b283-100e111b5d3d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erika Anthony",
+      "ContactInformation": {
+        "Phone": "+1-626-452-2710x1791",
+        "Email": "jennifer51@example.net"
+      },
+      "Statement": "Something man wait west political. Expect run ready will.\nWalk discussion first with agree remain quite none. Sea one matter security popular."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b07530d0-3d1a-4a3d-8b87-8ea7a1f8b198",
+    "OfficerName": "Carol Martinez",
+    "ReportDetails": "Step save likely we guy mean. Experience exactly price go role check.\nWhile enjoy word take author. Sometimes keep begin world avoid campaign most. Agent inside surface see receive pretty."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 365,
+    "AnnualIncome": 124338,
+    "DebtToIncomeRatio": 0.81
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 5,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "27a94379-474e-4b20-8403-2e0c6c4edf45",
+  "PolicyID": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+  "EffectiveDates": {
+    "StartDate": "2025-05-27",
+    "EndDate": "2026-05-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "49ce8efb-716c-47d5-8d7f-00c686bd480a",
+    "Name": "Evan Russell",
+    "PolicyNumber": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+    "ContactInformation": {
+      "Phone": "546.466.7522",
+      "Email": "shawn53@example.net",
+      "Address": "6476 Holland Causeway Suite 490\nSouth Reginaborough, WV 81664"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-27",
+    "Location": "5534 Sarah Dam\nWest Jamesland, MP 54020",
+    "Description": "You family hospital skill. Student attack everybody film nice whose guy.\nOther look hair serve eat. Fire around newspaper lead wrong among. Trouble green receive especially well."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27317
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 45578
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 61847
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30139
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12119
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 177000,
+    "TotalApproved": 119186
+  },
+  "AdjusterDetails": {
+    "Name": "James Foster",
+    "ContactInformation": {
+      "Phone": "824-572-3805x4575",
+      "Email": "tarajones@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/aca30ee4-d7d9-4e52-9410-dc674275db12"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Tyler, Martin and Solomon",
+    "Model": "another",
+    "Year": 2022,
+    "VIN": "91767616-9b6d-4fa5-89b9-2db074dfac52"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mitchell Jones",
+      "ContactInformation": {
+        "Phone": "001-898-559-9941x7529",
+        "Email": "benjamin43@example.com"
+      },
+      "Statement": "Break to low approach share. Partner since I these reduce.\nEnd take magazine Democrat war here sister. Very serve leg skill worker election because each."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "beae164d-7a34-4bc9-8b72-7668de96d8bc",
+    "OfficerName": "Maria Christian",
+    "ReportDetails": "Theory several all seek month resource each. Little identify their compare.\nMember require medical institution. Significant training chance pay wish close event."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 657,
+    "AnnualIncome": 53970,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

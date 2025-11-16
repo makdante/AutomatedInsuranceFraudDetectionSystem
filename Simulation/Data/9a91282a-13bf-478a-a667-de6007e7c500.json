@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9a91282a-13bf-478a-a667-de6007e7c500",
+  "PolicyID": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+  "EffectiveDates": {
+    "StartDate": "2025-07-24",
+    "EndDate": "2026-07-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "49ce8efb-716c-47d5-8d7f-00c686bd480a",
+    "Name": "Evan Russell",
+    "PolicyNumber": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+    "ContactInformation": {
+      "Phone": "546.466.7522",
+      "Email": "shawn53@example.net",
+      "Address": "6476 Holland Causeway Suite 490\nSouth Reginaborough, WV 81664"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-28",
+    "Location": "Unit 9242 Box 5530\nDPO AA 75551",
+    "Description": "Size must require keep popular never seven. Any land meet include conference gun artist gun.\nStation career side improve. Several who else education drop front husband."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 91602
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 181315
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12738
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12361
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7732
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 305748,
+    "TotalApproved": 19843
+  },
+  "AdjusterDetails": {
+    "Name": "Claire Cunningham",
+    "ContactInformation": {
+      "Phone": "593.385.4990",
+      "Email": "renee26@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/df18bcb6-6eac-43cd-b260-47b8a80cd02c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Baldwin Ltd",
+    "Model": "increase",
+    "Year": 2007,
+    "VIN": "e0bc4989-25dc-4493-abb5-1e66bbd4c269"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patrick Mitchell",
+      "ContactInformation": {
+        "Phone": "+1-626-808-4656",
+        "Email": "jared59@example.com"
+      },
+      "Statement": "Left discover mean traditional sea. Room those job capital every over food maintain. Very media police exactly drug."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a26f7c3e-3045-4b3e-b8aa-b5d7ded5ceae",
+    "OfficerName": "Louis Love",
+    "ReportDetails": "International conference draw. Word six protect into note today.\nLeast physical design hospital. Boy will notice charge two far charge."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 753,
+    "AnnualIncome": 27841,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

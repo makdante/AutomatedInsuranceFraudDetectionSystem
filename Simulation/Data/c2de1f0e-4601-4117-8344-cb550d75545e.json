@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c2de1f0e-4601-4117-8344-cb550d75545e",
+  "PolicyID": "e01c2861-e918-4ae4-b175-eac63e64b712",
+  "EffectiveDates": {
+    "StartDate": "2025-01-04",
+    "EndDate": "2026-01-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1f06f531-9f80-407c-9bfc-00b75ccf8e58",
+    "Name": "Nathaniel Jenkins",
+    "PolicyNumber": "e01c2861-e918-4ae4-b175-eac63e64b712",
+    "ContactInformation": {
+      "Phone": "548.395.1156x414",
+      "Email": "bridgeskristen@example.com",
+      "Address": "5340 Neal Trace\nNew Julia, KS 86257"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-16",
+    "Location": "437 Carter Junction\nSouth Jasonburgh, MN 49813",
+    "Description": "Send like about serious these. Street whose coach director simply purpose best. Oil claim explain candidate money better."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15783
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 175259
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17468
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2532
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 28231
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 239273,
+    "TotalApproved": 49427
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Jones",
+    "ContactInformation": {
+      "Phone": "001-224-654-6861x992",
+      "Email": "zevans@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/659afaf4-53c3-4ca6-b64f-c6fc078968f3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-16T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-21T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-26T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wall-Obrien",
+    "Model": "artist",
+    "Year": 2020,
+    "VIN": "e4895589-ce5c-4ebc-a18b-2e22deb05512"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joanna Tucker",
+      "ContactInformation": {
+        "Phone": "765-650-6889x3765",
+        "Email": "jessica38@example.com"
+      },
+      "Statement": "Trouble cold discover my public per. Door class break.\nWill treatment type for result treatment series reduce. Include despite real boy white American. Which push most from everybody."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a12e10d6-1378-4c40-8eea-50a951c243ed",
+    "OfficerName": "Alex Washington",
+    "ReportDetails": "Sport always east personal. Exactly provide son rather difference moment. Enjoy tonight set.\nOk charge but girl whether. Decision finish without."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 488,
+    "AnnualIncome": 35450,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

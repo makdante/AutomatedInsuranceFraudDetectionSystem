@@ -1,0 +1,112 @@
+{
+  "ClaimID": "66234a4e-2ae2-4028-b7db-6d78a383b80e",
+  "PolicyID": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+  "EffectiveDates": {
+    "StartDate": "2025-04-15",
+    "EndDate": "2026-04-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "45b25f18-08b7-457c-9045-e998b2b74cef",
+    "Name": "Joshua Ryan",
+    "PolicyNumber": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+    "ContactInformation": {
+      "Phone": "(903)440-8271x3107",
+      "Email": "justin94@example.net",
+      "Address": "792 Ann Cliffs\nLake Desireebury, MD 93133"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-13",
+    "Location": "8599 Samuel Vista\nWhitemouth, MD 51582",
+    "Description": "Follow door term study increase daughter. Education building third choice Republican. Include perform city leader all edge.\nFilm very discover value may character before break."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4220548
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4842070
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4004548
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4062923
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4409843
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21539932,
+    "TotalApproved": 20658088
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Lowe",
+    "ContactInformation": {
+      "Phone": "+1-506-565-1360",
+      "Email": "shelbyvincent@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/54fc0866-d63f-4961-ab31-aaa627748446"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-13T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-18T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-23T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Underwood Inc",
+    "Model": "research",
+    "Year": 2005,
+    "VIN": "5de86e20-5885-4b63-840f-9821256dec46"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Garcia",
+      "ContactInformation": {
+        "Phone": "544-254-3849",
+        "Email": "kaitlynjohnson@example.com"
+      },
+      "Statement": "Enough issue wall car crime. Amount of say do mouth data.\nContinue number six could Congress simple two toward. Ahead despite difference management term special wear."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3f97aef1-422d-4ab3-ad2a-08f361ced45e",
+    "OfficerName": "Kimberly Williams",
+    "ReportDetails": "Little magazine glass never. Third its bring.\nRange price their thought letter court land dinner. Particularly painting with summer. Who choice seven."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 448,
+    "AnnualIncome": 195107,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "43ea32e6-7b03-4b3e-8ce4-af646d7dc8a1",
+  "PolicyID": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+  "EffectiveDates": {
+    "StartDate": "2025-10-19",
+    "EndDate": "2026-10-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1ebb1bc-6120-42c4-a87a-be4f808197b1",
+    "Name": "Donald Smith",
+    "PolicyNumber": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+    "ContactInformation": {
+      "Phone": "675.606.3377",
+      "Email": "masonpamela@example.net",
+      "Address": "14432 Richard Vista\nNew Suzanne, TN 31994"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-25",
+    "Location": "559 Vanessa Green\nScotttown, NY 41870",
+    "Description": "Kitchen west court nearly beyond impact source. Quite enter enough reveal. Loss want prevent later little.\nHave born arrive agree learn. Me part eye. Threat not song focus never."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11265
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13595
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6168
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 92329
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5568
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 128925,
+    "TotalApproved": 104009
+  },
+  "AdjusterDetails": {
+    "Name": "Lucas Dougherty",
+    "ContactInformation": {
+      "Phone": "476-386-1644x582",
+      "Email": "leslieguerra@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/20ca7713-6afc-443f-b943-2ca199945ccd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Shaffer, Miller and Ramirez",
+    "Model": "ability",
+    "Year": 2016,
+    "VIN": "13e0e9c9-b47b-4a35-bc3d-6209c336a3b8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Teresa Howell",
+      "ContactInformation": {
+        "Phone": "726-880-7646x41158",
+        "Email": "saunderskevin@example.net"
+      },
+      "Statement": "Black soon friend important take push raise. Especially say small TV.\nMany cover professor those create company several cut. Per protect director place western."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "dd1753bf-6342-45ef-998f-ab15eb57ab16",
+    "OfficerName": "Randy Parker",
+    "ReportDetails": "Arm left body page. Likely positive company pay necessary analysis.\nExecutive address member also of become young expect. Build call top bit discuss."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 554,
+    "AnnualIncome": 88362,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

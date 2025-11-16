@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7a0c677b-f3b7-408d-824d-2ff21da228aa",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-08-14",
+    "EndDate": "2026-08-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-19",
+    "Location": "63489 Combs Lodge\nHancockland, MN 34011",
+    "Description": "Town art concern suffer think everybody practice. Hot message key hair might site community. Beat degree way back collection news popular."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4692
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 127322
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 58878
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 96669
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3882
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 291443,
+    "TotalApproved": 11264
+  },
+  "AdjusterDetails": {
+    "Name": "Renee Harris",
+    "ContactInformation": {
+      "Phone": "(803)630-1684x07131",
+      "Email": "vanessa02@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/3f76deb6-3a7a-485d-a529-12fa3e425bc9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Baker, Gordon and Dudley",
+    "Model": "plan",
+    "Year": 2006,
+    "VIN": "c1eeac16-6bf5-41e6-8df4-e68e75d0a9e3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sarah Herman",
+      "ContactInformation": {
+        "Phone": "560-331-4943x6603",
+        "Email": "cathybates@example.org"
+      },
+      "Statement": "Nice can way loss million after. Agreement case true away spring pass girl design.\nImagine put security stage do what view building. Decision central after wish beyond outside."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "eb754833-37c1-448d-a152-e9c5b5e69401",
+    "OfficerName": "Derek Moreno",
+    "ReportDetails": "Area thank at article. Evening budget food son thought professional lose. Yeah cost else listen sure consumer.\nOur opportunity deal. Student expert challenge group author key heavy month."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 671,
+    "AnnualIncome": 147930,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

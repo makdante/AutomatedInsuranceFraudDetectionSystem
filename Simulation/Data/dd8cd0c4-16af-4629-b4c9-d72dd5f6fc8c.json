@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dd8cd0c4-16af-4629-b4c9-d72dd5f6fc8c",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2025-08-16",
+    "EndDate": "2026-08-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-27",
+    "Location": "168 Jeremy Plaza Apt. 976\nUnderwoodmouth, NH 12810",
+    "Description": "Player more wide need begin. Hard agent something see process small.\nRepublican question use election. Ahead main house."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8360
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 81704
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 98050
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2808
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2213
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 193135,
+    "TotalApproved": 139899
+  },
+  "AdjusterDetails": {
+    "Name": "Lauren Johnson",
+    "ContactInformation": {
+      "Phone": "001-508-978-5629x16307",
+      "Email": "karendavis@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/5958eabe-d55e-44dc-b825-93fa2460993e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gutierrez LLC",
+    "Model": "music",
+    "Year": 2021,
+    "VIN": "a32c2e0e-e9df-4c7a-9b29-750eb69bf891"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patrick Wood",
+      "ContactInformation": {
+        "Phone": "(371)635-5730x22890",
+        "Email": "zlogan@example.com"
+      },
+      "Statement": "Relationship life study position face.\nHalf my bed up. Son goal leave better reason suddenly good.\nUnderstand truth contain respond add. Less site change special night board just."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "22bb2110-f64c-41a1-8cd7-37ae9b05c3f4",
+    "OfficerName": "Colleen Kramer",
+    "ReportDetails": "Smile really despite task. List thank hard painting event anyone."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 364,
+    "AnnualIncome": 86708,
+    "DebtToIncomeRatio": 0.52
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 8,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

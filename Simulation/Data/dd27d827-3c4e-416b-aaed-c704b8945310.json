@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dd27d827-3c4e-416b-aaed-c704b8945310",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2024-12-10",
+    "EndDate": "2025-12-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-06",
+    "Location": "87745 Andersen Estate Apt. 455\nPort Ryan, WA 68348",
+    "Description": "Range yourself thought six real air head. Door prepare drop. Family until report be itself door.\nInstitution consumer environmental protect spend either. Anyone computer now will source step young."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 23810
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8149
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 66771
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7321
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 28560
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 134611,
+    "TotalApproved": 116859
+  },
+  "AdjusterDetails": {
+    "Name": "Amy Moore",
+    "ContactInformation": {
+      "Phone": "001-883-762-8896x00778",
+      "Email": "katherineperez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/9ae4c898-fd21-41d6-ae01-94116032af44"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Goodwin-Johnson",
+    "Model": "alone",
+    "Year": 2000,
+    "VIN": "477ab5b9-e823-4e65-9465-d24ac974feb0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Melinda Marsh",
+      "ContactInformation": {
+        "Phone": "787-764-5551",
+        "Email": "oduffy@example.com"
+      },
+      "Statement": "Fight change light. Too indeed table fire truth say more. Somebody discover season view win.\nAudience be happen including modern. Choice edge see wrong floor among bring."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "69f1cfea-d966-452d-bb1c-3ae30fabe258",
+    "OfficerName": "Stephen Graves",
+    "ReportDetails": "Market speak result tax not traditional. Win wide edge idea table thus. Guess under forward director end.\nAdd big seem base better buy. Media politics new grow perform suffer firm."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 300,
+    "AnnualIncome": 132185,
+    "DebtToIncomeRatio": 0.86
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

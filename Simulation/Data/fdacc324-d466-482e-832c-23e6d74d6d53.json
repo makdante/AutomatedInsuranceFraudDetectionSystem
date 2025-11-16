@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fdacc324-d466-482e-832c-23e6d74d6d53",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-02-23",
+    "EndDate": "2026-02-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-08",
+    "Location": "1529 Hayes Curve Apt. 007\nSeanburgh, CT 91640",
+    "Description": "Understand born represent under. Method this though put challenge include community station."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 54624
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 109946
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 52644
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2583
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 50353
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 270150,
+    "TotalApproved": 264000
+  },
+  "AdjusterDetails": {
+    "Name": "Kathleen Strickland",
+    "ContactInformation": {
+      "Phone": "826.207.8979x1443",
+      "Email": "kimberlyfranklin@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/9c49e796-299b-452f-9a34-993f6d593f62"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Powell, Nelson and Higgins",
+    "Model": "dinner",
+    "Year": 2017,
+    "VIN": "d9221485-df06-4cf7-95d6-a7426a204e6d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Melissa Hamilton",
+      "ContactInformation": {
+        "Phone": "527-747-3486",
+        "Email": "paul68@example.net"
+      },
+      "Statement": "Else pass college ahead series. Another movie already into sing site test I. Continue fine each then suddenly position. Worker serve black mission chair."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ccae98e4-d8f4-4ad2-a0bd-4a8c5f64a670",
+    "OfficerName": "Jennifer Pham",
+    "ReportDetails": "Week upon life commercial approach. Number degree young stop.\nDesign indeed name chance structure system. Near occur possible nothing loss later. School benefit available."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 748,
+    "AnnualIncome": 89411,
+    "DebtToIncomeRatio": 0.63
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

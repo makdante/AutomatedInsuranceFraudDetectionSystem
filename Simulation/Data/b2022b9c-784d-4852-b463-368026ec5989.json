@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b2022b9c-784d-4852-b463-368026ec5989",
+  "PolicyID": "9a540188-2fa0-4610-a341-5130618504c6",
+  "EffectiveDates": {
+    "StartDate": "2025-05-12",
+    "EndDate": "2026-05-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5e1aef1e-7897-4f43-8b25-4f651ff5946d",
+    "Name": "Brian Vance",
+    "PolicyNumber": "9a540188-2fa0-4610-a341-5130618504c6",
+    "ContactInformation": {
+      "Phone": "630-390-2993",
+      "Email": "terriosborn@example.com",
+      "Address": "01673 Osborne Ferry Apt. 849\nRobertbury, AR 69950"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-28",
+    "Location": "30593 Alexander View\nSimmonsstad, HI 51931",
+    "Description": "Fish forward hour radio serious. Suddenly thus number card. Cover determine because.\nDaughter old husband news. Kind fast man approach economy stay. Event beyond cost type ok note family."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4787
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4589
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 42103
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13636
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8362
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 73477,
+    "TotalApproved": 43400
+  },
+  "AdjusterDetails": {
+    "Name": "Dawn Wright",
+    "ContactInformation": {
+      "Phone": "5563226529",
+      "Email": "hking@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/fee97e06-d14c-49b4-8210-23858efb2058"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams-Gonzalez",
+    "Model": "head",
+    "Year": 2020,
+    "VIN": "d5037d99-4a1e-4d93-8a36-43447e73ad72"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Thomas Baker",
+      "ContactInformation": {
+        "Phone": "+1-312-826-1387x287",
+        "Email": "michael88@example.org"
+      },
+      "Statement": "Reason water really since. Thought put stuff part real reflect citizen. Three green soon news month.\nSouth brother daughter. Success indicate southern care too heart paper."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6be614a7-54df-4e1c-873c-fc30c6b79b14",
+    "OfficerName": "Donna Riley",
+    "ReportDetails": "Every great international science game capital know. Respond option majority house up choose sign. Trade collection member how letter family case light. Wife half safe me of."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 661,
+    "AnnualIncome": 182483,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

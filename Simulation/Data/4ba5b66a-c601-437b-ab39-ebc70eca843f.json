@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4ba5b66a-c601-437b-ab39-ebc70eca843f",
+  "PolicyID": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+  "EffectiveDates": {
+    "StartDate": "2025-02-13",
+    "EndDate": "2026-02-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "342b380f-5b25-4a6f-a462-2fa1c3057fc2",
+    "Name": "Kayla Wilson",
+    "PolicyNumber": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+    "ContactInformation": {
+      "Phone": "432-340-1587",
+      "Email": "jonathan54@example.com",
+      "Address": "25321 Lopez Stream\nPort Amandaside, MT 41311"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-01",
+    "Location": "54341 Susan Pines Apt. 055\nEricchester, OR 17814",
+    "Description": "Must country discover mind one artist accept. Your strong amount firm call. Foreign including instead power member.\nProtect speech first."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4337364
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4486006
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4478961
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4569433
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4692876
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22564640,
+    "TotalApproved": 14395523
+  },
+  "AdjusterDetails": {
+    "Name": "Julie Alvarez",
+    "ContactInformation": {
+      "Phone": "001-934-963-4649",
+      "Email": "xsharp@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/2458bea1-b24e-48ee-8fa9-52bb12284907"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis-Larson",
+    "Model": "machine",
+    "Year": 2001,
+    "VIN": "b389881c-4464-456e-b330-f1610f40a661"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Julie Craig",
+      "ContactInformation": {
+        "Phone": "(324)673-7838",
+        "Email": "madelinemercer@example.net"
+      },
+      "Statement": "Establish simple contain cup never PM fill. Worry common represent event woman.\nFull science difference talk town only. Best walk reveal activity."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6a2d4e7f-2ef6-4a42-ae16-9e28fb9d86b4",
+    "OfficerName": "Glenn Davis",
+    "ReportDetails": "Find perhaps far own catch. Open radio voice green money pick. Later heavy building. Attorney measure provide herself market.\nPhysical body page kind easy I. Century actually remember increase."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 436,
+    "AnnualIncome": 144685,
+    "DebtToIncomeRatio": 0.74
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "74598878-3f58-4c78-ae77-70d3bfd37698",
+  "PolicyID": "edb39a23-2e22-4016-9361-028155eceec8",
+  "EffectiveDates": {
+    "StartDate": "2025-02-25",
+    "EndDate": "2026-02-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "958f1d81-cf68-405c-ab92-a931c2c577e6",
+    "Name": "Breanna Ewing",
+    "PolicyNumber": "edb39a23-2e22-4016-9361-028155eceec8",
+    "ContactInformation": {
+      "Phone": "+1-935-681-7496",
+      "Email": "jeremystark@example.net",
+      "Address": "52172 Ryan Estate Suite 095\nPort Nathanbury, NY 38761"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-28",
+    "Location": "2776 Mcneil Overpass Suite 535\nJohnberg, NY 08559",
+    "Description": "Store season work expert serious sure explain. Indicate trip life blue.\nInteresting use paper know minute. Tend goal short hair class push assume."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7993
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 55294
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4056
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 36588
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 89812
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 193743,
+    "TotalApproved": 7289
+  },
+  "AdjusterDetails": {
+    "Name": "Denise Fisher",
+    "ContactInformation": {
+      "Phone": "247-796-6813",
+      "Email": "pmarshall@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/223b8b24-f48b-4541-9bb7-ccd5e554a95a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jacobs PLC",
+    "Model": "argue",
+    "Year": 2012,
+    "VIN": "109f0c3d-4bb4-4725-9de7-9dcdace83127"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kyle Thomas",
+      "ContactInformation": {
+        "Phone": "892.443.6682x137",
+        "Email": "donnahoward@example.com"
+      },
+      "Statement": "Focus describe nor toward on protect get community. Billion us born fact available. Church also history affect PM."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b3d08eb5-b9d5-4602-a2fe-344237b6153f",
+    "OfficerName": "Christopher Brown",
+    "ReportDetails": "Remember not under whole tree easy task. Interview interest level especially. Which small amount as even. Happy direction future statement.\nRock better heavy outside. Well such catch."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 659,
+    "AnnualIncome": 138535,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

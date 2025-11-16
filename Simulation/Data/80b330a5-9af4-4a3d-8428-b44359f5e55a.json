@@ -1,0 +1,112 @@
+{
+  "ClaimID": "80b330a5-9af4-4a3d-8428-b44359f5e55a",
+  "PolicyID": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+  "EffectiveDates": {
+    "StartDate": "2024-12-25",
+    "EndDate": "2025-12-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fa402266-28f6-4a28-9984-042633fec81b",
+    "Name": "Miranda Nelson",
+    "PolicyNumber": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+    "ContactInformation": {
+      "Phone": "871.425.9645x240",
+      "Email": "iflynn@example.com",
+      "Address": "275 Lee Common\nSouth Hectorville, VI 11258"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-15",
+    "Location": "04739 Vasquez Cove Apt. 441\nLake Codyshire, KS 43339",
+    "Description": "Event window training. Huge senior modern believe site. Finish such view their natural think anything commercial."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3375
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 54123
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 103383
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10440
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 39870
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 211191,
+    "TotalApproved": 81921
+  },
+  "AdjusterDetails": {
+    "Name": "Jacqueline Smith",
+    "ContactInformation": {
+      "Phone": "4647880967",
+      "Email": "eringuzman@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/dce24fd7-929b-456d-9392-be80f24b0e15"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mendoza, Jones and Ewing",
+    "Model": "PM",
+    "Year": 2021,
+    "VIN": "39d9682d-33c0-427a-ad31-dc55577a0add"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Olivia Wood",
+      "ContactInformation": {
+        "Phone": "529.210.3717x486",
+        "Email": "trevormurray@example.org"
+      },
+      "Statement": "Result worker where close institution control. Only note action present center. Draw game compare plan."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "13dc3f90-b462-4658-9a18-244ea0571061",
+    "OfficerName": "Carrie Powell",
+    "ReportDetails": "Goal at soldier then learn next.\nThem simple cup activity garden cell. Article understand more kid. Offer investment back up six admit."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 497,
+    "AnnualIncome": 97346,
+    "DebtToIncomeRatio": 0.63
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 4,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

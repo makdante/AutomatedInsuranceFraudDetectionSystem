@@ -1,0 +1,112 @@
+{
+  "ClaimID": "755d3155-03c8-451b-8abc-781e30f27644",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-08-09",
+    "EndDate": "2026-08-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-13",
+    "Location": "68799 Susan Place\nNew Danielle, TX 48320",
+    "Description": "Cut investment east thank carry. Task future career include poor prove may. Catch them article record policy. Own focus join sense realize important trade table."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4153
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14396
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5296
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10583
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1795
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 36223,
+    "TotalApproved": 9465
+  },
+  "AdjusterDetails": {
+    "Name": "Karen Brady",
+    "ContactInformation": {
+      "Phone": "643-531-7147",
+      "Email": "jeffreymartin@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b2ad0923-0c9c-45d4-a587-d4c71d959508"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-13T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-18T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-23T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Murphy, King and Maddox",
+    "Model": "cup",
+    "Year": 2022,
+    "VIN": "e46356b0-8722-4f95-9b14-8897fda1d0da"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Katherine Wilson",
+      "ContactInformation": {
+        "Phone": "(979)372-1415",
+        "Email": "thomaslee@example.com"
+      },
+      "Statement": "Leave visit yeah sign card visit. Baby once score trip media identify.\nStart difficult exist. Hold four help everyone item. Cultural letter too space produce."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "27c36731-fa13-4944-8793-3248cc64fafa",
+    "OfficerName": "Morgan Armstrong",
+    "ReportDetails": "Grow maintain student him. Minute model personal yeah radio. Shake give Democrat nation today dinner.\nEarly ago land democratic friend why there truth. Apply early oil young strong."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 526,
+    "AnnualIncome": 41815,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

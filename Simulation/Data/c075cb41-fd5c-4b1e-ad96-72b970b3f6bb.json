@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c075cb41-fd5c-4b1e-ad96-72b970b3f6bb",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-07-01",
+    "EndDate": "2026-07-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-15",
+    "Location": "4377 Riddle Brook Apt. 493\nEast David, MT 87995",
+    "Description": "Hard arrive billion state if. Myself suggest add senior. Onto piece discover lose beautiful safe."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8381
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5704
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 20672
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36835
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9054
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 80646,
+    "TotalApproved": 65693
+  },
+  "AdjusterDetails": {
+    "Name": "Mary Hunter",
+    "ContactInformation": {
+      "Phone": "5704861096",
+      "Email": "rebecca73@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/12b3f3af-74b7-4aa9-b171-76a773b3e415"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bolton-Ford",
+    "Model": "experience",
+    "Year": 2021,
+    "VIN": "5b12b2d2-657b-48d5-b8cb-0719860dff57"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Chris Mcpherson",
+      "ContactInformation": {
+        "Phone": "580-909-9325x4812",
+        "Email": "ibuchanan@example.org"
+      },
+      "Statement": "South page mind speech. Partner happy control six.\nLive poor himself finish myself room crime fact. Wide like involve right have how present see.\nSometimes need catch loss well."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5178ea70-d17e-4244-a804-5114c85dc75a",
+    "OfficerName": "Kathleen Ramirez",
+    "ReportDetails": "Baby return oil personal. Whose scene rate agent benefit. Stand process experience husband."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 707,
+    "AnnualIncome": 136947,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 8,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

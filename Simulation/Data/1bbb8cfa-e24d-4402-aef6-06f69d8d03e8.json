@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1bbb8cfa-e24d-4402-aef6-06f69d8d03e8",
+  "PolicyID": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+  "EffectiveDates": {
+    "StartDate": "2025-01-10",
+    "EndDate": "2026-01-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7aeb67d8-8b5a-402f-b03b-33f51f2939f2",
+    "Name": "Susan Best",
+    "PolicyNumber": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+    "ContactInformation": {
+      "Phone": "272-361-9751",
+      "Email": "adamfigueroa@example.net",
+      "Address": "604 Sims Circle Suite 384\nNorth Anthonystad, WA 82430"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-23",
+    "Location": "10153 Wilson View\nMaureenburgh, OH 48810",
+    "Description": "Ok probably skill according reveal. Begin good whom well bit one. Child something attention school out."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4448816
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4018969
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4204609
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4523630
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4858875
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22054899,
+    "TotalApproved": 1972566
+  },
+  "AdjusterDetails": {
+    "Name": "Sharon Reed",
+    "ContactInformation": {
+      "Phone": "+1-600-719-9985x927",
+      "Email": "alexandravargas@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/63451814-a9fc-493f-97e1-fbda5c20b49b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-23T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-28T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cannon, Smith and Patton",
+    "Model": "oil",
+    "Year": 2016,
+    "VIN": "f1e8a3af-b744-4a74-a5e7-4de9380d0dd0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mary Callahan",
+      "ContactInformation": {
+        "Phone": "001-782-849-6622x0169",
+        "Email": "emoore@example.net"
+      },
+      "Statement": "Thousand employee stop worry shoulder medical play challenge. Growth offer son four bad. Available effort difference expect a. Magazine control major ability low."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9e3c04bc-98be-4f9d-b025-29899a29fd9a",
+    "OfficerName": "Kyle Ellis",
+    "ReportDetails": "Believe far record move site. Turn class likely describe lay.\nCourt start forward local son quickly happy. Simple local character property matter."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 318,
+    "AnnualIncome": 42690,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

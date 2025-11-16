@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4ad32a83-4618-4317-a2be-a2820b8d0aa0",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2024-12-31",
+    "EndDate": "2025-12-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-13",
+    "Location": "5166 Ronald Centers Apt. 833\nDaltonside, OR 00828",
+    "Description": "Campaign PM Mr suffer show chair institution why. Office best suffer right learn environment.\nWeek analysis general detail. Common dog upon generation these."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 170452
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 155746
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 60725
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 95338
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 145558
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 627819,
+    "TotalApproved": 247591
+  },
+  "AdjusterDetails": {
+    "Name": "Ronnie Middleton",
+    "ContactInformation": {
+      "Phone": "001-785-502-2594x964",
+      "Email": "carolynsimmons@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d379378f-936e-40b9-bf67-6525d4312820"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Graham-Scott",
+    "Model": "important",
+    "Year": 2017,
+    "VIN": "17f538d5-7c20-491e-bd26-3ee0d1b02a85"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bradley Perez",
+      "ContactInformation": {
+        "Phone": "7542102689",
+        "Email": "willie68@example.com"
+      },
+      "Statement": "Account break subject avoid. Image similar position side employee carry. Reality kind me.\nMachine strong billion. Company owner without chair. Central player pull live quality much several."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "036ffb9d-3600-478d-ae4b-7a2085c0a592",
+    "OfficerName": "Robert Dixon",
+    "ReportDetails": "Can nor some realize. Fact public free research.\nExperience baby few thank agency. Financial stay edge including participant western. Society course especially game."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 815,
+    "AnnualIncome": 109237,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

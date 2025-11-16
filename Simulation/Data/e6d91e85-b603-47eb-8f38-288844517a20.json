@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e6d91e85-b603-47eb-8f38-288844517a20",
+  "PolicyID": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+  "EffectiveDates": {
+    "StartDate": "2025-09-13",
+    "EndDate": "2026-09-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "8bf8aa8f-31d8-4904-928a-c411bab56c37",
+    "Name": "Kathleen Wilson",
+    "PolicyNumber": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+    "ContactInformation": {
+      "Phone": "3889435835",
+      "Email": "angie46@example.net",
+      "Address": "24489 Brady Mews Suite 377\nNew Susanmouth, NM 88090"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-29",
+    "Location": "9256 Arnold Alley\nLake Carolynshire, MH 20324",
+    "Description": "Generation as perform resource difficult general form they. Focus season last bill create all gun. Evening history season experience."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3160
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5835
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8124
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 199545
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8700
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 225364,
+    "TotalApproved": 152552
+  },
+  "AdjusterDetails": {
+    "Name": "Elizabeth Hunter",
+    "ContactInformation": {
+      "Phone": "(511)673-5733",
+      "Email": "amybradley@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/6d4c3e2f-081a-4a5c-8be6-8b469cacf7a7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clark-Stone",
+    "Model": "there",
+    "Year": 2009,
+    "VIN": "79bf5ba3-087d-412b-8d3f-5efed3a1f285"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brandon Carroll",
+      "ContactInformation": {
+        "Phone": "+1-736-236-1495x3520",
+        "Email": "clarktina@example.org"
+      },
+      "Statement": "Seat capital answer chair. Particularly writer fall build.\nCertainly man it people field tax soon.\nTake cell add pretty. Inside magazine ask leg later month culture."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "81a7ddee-8f0c-496b-8140-079b2e92d4f2",
+    "OfficerName": "Natalie Juarez",
+    "ReportDetails": "Education rather news similar care international. Together role character turn. Every over there information rather.\nSure eye religious that read. Teach pretty consumer middle right every personal."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 522,
+    "AnnualIncome": 94148,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 4,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "922cd64b-878b-442b-95e2-9ab5a374100f",
+  "PolicyID": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+  "EffectiveDates": {
+    "StartDate": "2025-09-27",
+    "EndDate": "2026-09-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "45b25f18-08b7-457c-9045-e998b2b74cef",
+    "Name": "Joshua Ryan",
+    "PolicyNumber": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+    "ContactInformation": {
+      "Phone": "(903)440-8271x3107",
+      "Email": "justin94@example.net",
+      "Address": "792 Ann Cliffs\nLake Desireebury, MD 93133"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-06",
+    "Location": "4433 Robert Corners Apt. 885\nWest Brianfurt, OK 09988",
+    "Description": "Help agree save ready prepare. Tend produce simply task news expect administration. Left for mother direction.\nDo plant add player medical side large. Art real line Democrat long century age."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14331
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9117
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2225
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7240
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 99101
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 132014,
+    "TotalApproved": 17958
+  },
+  "AdjusterDetails": {
+    "Name": "Holly Mccall",
+    "ContactInformation": {
+      "Phone": "5405843394",
+      "Email": "tsanchez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a35939b5-ecd9-4e0f-b5b3-28c8afe71d40"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Harding-Harrison",
+    "Model": "owner",
+    "Year": 2009,
+    "VIN": "a7f88eef-3d9f-4a60-83c7-6e3d9c65fe3b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "William Rodriguez",
+      "ContactInformation": {
+        "Phone": "849.295.1816",
+        "Email": "jamesrussell@example.org"
+      },
+      "Statement": "Tv box character. Down paper people cold sense ability purpose fall. Affect go cover consumer finally.\nAway score difficult week. Far those which really program. Should remain prevent."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f6ffebe0-0287-42a9-b809-caee7a59e6b1",
+    "OfficerName": "Benjamin Black",
+    "ReportDetails": "Occur series energy charge yeah scene remember. Available good however within drug experience decade.\nGreen exactly other service near. While guess staff most edge."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 353,
+    "AnnualIncome": 164196,
+    "DebtToIncomeRatio": 0.62
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

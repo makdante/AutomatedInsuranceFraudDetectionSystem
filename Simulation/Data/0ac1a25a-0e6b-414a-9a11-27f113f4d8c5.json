@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0ac1a25a-0e6b-414a-9a11-27f113f4d8c5",
+  "PolicyID": "9a540188-2fa0-4610-a341-5130618504c6",
+  "EffectiveDates": {
+    "StartDate": "2024-11-03",
+    "EndDate": "2025-11-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5e1aef1e-7897-4f43-8b25-4f651ff5946d",
+    "Name": "Brian Vance",
+    "PolicyNumber": "9a540188-2fa0-4610-a341-5130618504c6",
+    "ContactInformation": {
+      "Phone": "630-390-2993",
+      "Email": "terriosborn@example.com",
+      "Address": "01673 Osborne Ferry Apt. 849\nRobertbury, AR 69950"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-19",
+    "Location": "483 Hernandez Springs\nNew Jamieport, ME 01864",
+    "Description": "Mind fish member and.\nSkill stay international with heart less. Research task we mean personal benefit."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13569
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 90724
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 137042
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9244
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 76301
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 326880,
+    "TotalApproved": 128932
+  },
+  "AdjusterDetails": {
+    "Name": "Rachel Spears",
+    "ContactInformation": {
+      "Phone": "+1-341-330-7401x3163",
+      "Email": "megan11@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/cc929052-c0d1-4525-ab2b-cbd50f3f4922"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Charles, Phillips and Taylor",
+    "Model": "drug",
+    "Year": 2017,
+    "VIN": "a590c2c6-3889-4b14-a37f-32a24c5699dd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Laura Goodman",
+      "ContactInformation": {
+        "Phone": "001-781-303-8610x581",
+        "Email": "heather81@example.com"
+      },
+      "Statement": "Long present cause it. Lawyer summer expert father debate my.\nCharge without provide. Challenge sometimes through get. Thousand performance include dark action guy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9696d69a-f6a6-4f2d-b897-7351219edcc6",
+    "OfficerName": "Justin Padilla",
+    "ReportDetails": "Cup south also identify help audience who. Quickly message must subject hard. Activity charge spring strong kitchen college situation."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 419,
+    "AnnualIncome": 108085,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

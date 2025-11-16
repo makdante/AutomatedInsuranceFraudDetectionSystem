@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1f400755-cc11-41ca-bbee-1b571b32a668",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-01-18",
+    "EndDate": "2026-01-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-02",
+    "Location": "19489 Katelyn Orchard Apt. 008\nLake John, WY 87144",
+    "Description": "Teacher sign book change man. Since their message day public meeting whatever.\nAfter box program near. Film sign bill leader low. Just health memory set leader. Number type respond court."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 32590
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1841
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 136449
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 53678
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 106477
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 331035,
+    "TotalApproved": 229069
+  },
+  "AdjusterDetails": {
+    "Name": "Kelly Fields",
+    "ContactInformation": {
+      "Phone": "001-860-347-3110",
+      "Email": "amy31@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c1b414d4-394f-4bcd-aae3-63edf9014cdd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cooper-Rice",
+    "Model": "serious",
+    "Year": 2015,
+    "VIN": "07f9bd23-44a2-4f1f-a0d5-9034cae7c718"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Newton",
+      "ContactInformation": {
+        "Phone": "923-978-6453x1769",
+        "Email": "jennifermoore@example.org"
+      },
+      "Statement": "Prevent deep other through. Series might rate character air project garden sit.\nAttorney even mind age concern structure it. Knowledge note my accept.\nGrow individual court break blue teacher bad."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7bf6074b-997b-4a90-b48d-4c6eb9d191b5",
+    "OfficerName": "Michael Day",
+    "ReportDetails": "Director power food white maybe. Doctor consider five science.\nFall hour people head. Full lose recognize tell role prevent almost second. There fire study language."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 413,
+    "AnnualIncome": 61862,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 4,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

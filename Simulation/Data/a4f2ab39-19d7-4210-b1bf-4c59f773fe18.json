@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a4f2ab39-19d7-4210-b1bf-4c59f773fe18",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-10-21",
+    "EndDate": "2026-10-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-03",
+    "Location": "189 Lane Isle Suite 863\nByrdland, MO 10206",
+    "Description": "Meeting two seat although yeah single like.\nDeal rest several current data body writer. Cell unit our.\nFactor current she government ahead stand. Simple else itself sea campaign."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9661
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2215
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4881
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9153
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 84239
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 110149,
+    "TotalApproved": 31715
+  },
+  "AdjusterDetails": {
+    "Name": "Anthony Jordan",
+    "ContactInformation": {
+      "Phone": "001-755-303-8772x656",
+      "Email": "williamespinoza@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/37a0c9fe-7c9b-4852-b242-745c10a64354"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Dillon-Wang",
+    "Model": "use",
+    "Year": 2009,
+    "VIN": "e84af179-ce3b-4084-8c42-d50ec354d937"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Justin Carter",
+      "ContactInformation": {
+        "Phone": "+1-952-870-6575x329",
+        "Email": "geaton@example.org"
+      },
+      "Statement": "Next student national young daughter build customer. Director response green major.\nBefore relate art discover be section region foreign. Network concern probably. Than everybody by song end."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f228e647-a3bb-4726-a95d-486d22df68ca",
+    "OfficerName": "Ann Moran",
+    "ReportDetails": "Into real explain guy wall. Beyond camera significant born film. Also opportunity many whom myself. Career us available through I case."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 568,
+    "AnnualIncome": 27600,
+    "DebtToIncomeRatio": 0.16
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 1,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

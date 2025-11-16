@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4b9ae1c9-75c5-4c88-972c-562dc07deaa0",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-02-02",
+    "EndDate": "2026-02-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-06",
+    "Location": "070 David Summit Suite 935\nWest Jamesville, NV 19327",
+    "Description": "Leader bit beyond hospital per instead bit. Talk save example carry. Head religious feel first newspaper.\nHim war drive professional turn can feeling."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 87034
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 150044
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39893
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10672
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 31750
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 319393,
+    "TotalApproved": 43985
+  },
+  "AdjusterDetails": {
+    "Name": "Kara Green",
+    "ContactInformation": {
+      "Phone": "001-568-397-7779x7421",
+      "Email": "dawnevans@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/618cf55f-6389-4f60-a847-2b84a9e45bd2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith, Torres and Edwards",
+    "Model": "possible",
+    "Year": 2015,
+    "VIN": "545a395e-9fe1-4cd1-8ba1-8ec8d6d525b0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Maria Scott",
+      "ContactInformation": {
+        "Phone": "905.525.1427x45930",
+        "Email": "brandonjensen@example.com"
+      },
+      "Statement": "Sister available book thousand. Family any difference contain.\nIn fill still lead.\nAlong throw early person pick. Piece reflect phone.\nBorn anyone follow brother center mean happy activity."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7dd474f7-de4b-45db-b65b-843408e5d2e0",
+    "OfficerName": "Alexis Gibbs",
+    "ReportDetails": "Now key chair civil you character approach. Role shoulder suggest attention meeting. Hotel book of parent."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 337,
+    "AnnualIncome": 152538,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 1,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

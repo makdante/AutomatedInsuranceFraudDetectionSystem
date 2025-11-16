@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8565e7e9-cecd-4b07-9332-ba987a6befd0",
+  "PolicyID": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+  "EffectiveDates": {
+    "StartDate": "2025-07-12",
+    "EndDate": "2026-07-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1ca65977-e36d-46f7-95b8-d03e34c9f672",
+    "Name": "Melissa Charles DVM",
+    "PolicyNumber": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+    "ContactInformation": {
+      "Phone": "871-833-2368x7208",
+      "Email": "scottwagner@example.org",
+      "Address": "006 Torres Neck Apt. 510\nRichardsonshire, NM 15931"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-31",
+    "Location": "5911 Mcdaniel Row Apt. 537\nSouth Heather, IN 68456",
+    "Description": "From my recent understand option our ten. Former character drive environmental scientist institution give. Yard word realize doctor.\nTeam leg whatever say throw win well."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1460
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8923
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19128
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 22176
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 163648
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 215335,
+    "TotalApproved": 207545
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Thomas",
+    "ContactInformation": {
+      "Phone": "(731)976-9734x5932",
+      "Email": "cameronjames@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/9bbf71e3-7f1e-4b88-b2b3-0b5ac8d16f2e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lee PLC",
+    "Model": "mind",
+    "Year": 2017,
+    "VIN": "18e22e6a-ca11-4cc5-833f-5fc7b3e9cd19"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brian Hall",
+      "ContactInformation": {
+        "Phone": "791-413-1959x08537",
+        "Email": "mwolfe@example.org"
+      },
+      "Statement": "Only value management city government like serious. Their knowledge billion really."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bfc8dddf-1c92-4da7-bab1-e7a0ec8225fc",
+    "OfficerName": "Monica Craig",
+    "ReportDetails": "At would seem trade a. Main hear whose find fish. Notice they father stuff.\nInteresting cold TV thank approach wall. Per entire son choice line cover.\nGarden let indeed citizen film."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 397,
+    "AnnualIncome": 42358,
+    "DebtToIncomeRatio": 0.86
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

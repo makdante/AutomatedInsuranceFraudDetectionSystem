@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bb3e9ff4-526f-4c6d-83ed-07a252a2e5b6",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2025-10-01",
+    "EndDate": "2026-10-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-30",
+    "Location": "755 Ferguson Village\nMunozshire, AK 31330",
+    "Description": "Mind tend kind truth. Challenge certainly maintain way letter. Grow clearly follow."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 89279
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 32036
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 25778
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7282
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1167
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 155542,
+    "TotalApproved": 11200
+  },
+  "AdjusterDetails": {
+    "Name": "Randall Robinson",
+    "ContactInformation": {
+      "Phone": "302.701.3228",
+      "Email": "karaharris@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/87a692d0-b9f1-4155-882c-3bddd745c61c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Crane-Shannon",
+    "Model": "race",
+    "Year": 2009,
+    "VIN": "5d9d72ff-e9a7-4c75-bb4f-f225bb0022eb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Monica Harrington",
+      "ContactInformation": {
+        "Phone": "726.434.4284",
+        "Email": "osbornekimberly@example.org"
+      },
+      "Statement": "Standard technology friend local many do. Worker what where agreement investment yeah.\nImpact society international many prove money.\nPower resource husband. Mind for tonight deal until."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "267477ce-1324-49f8-ac7c-0a5019659014",
+    "OfficerName": "Brett Mullen",
+    "ReportDetails": "Professional find suddenly general. Financial one thought growth.\nCommercial plan reality. Fast ok where into movement."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 737,
+    "AnnualIncome": 82820,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 0,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

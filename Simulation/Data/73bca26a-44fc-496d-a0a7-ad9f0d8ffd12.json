@@ -1,0 +1,112 @@
+{
+  "ClaimID": "73bca26a-44fc-496d-a0a7-ad9f0d8ffd12",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-10-10",
+    "EndDate": "2026-10-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-19",
+    "Location": "88661 Figueroa Mission\nJoneschester, AL 88972",
+    "Description": "Study figure charge goal stock.\nThrow increase camera. Strong draw as answer future science public. Country end including fund father analysis only necessary."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4030655
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4458746
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4491170
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4068511
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4374285
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 21423367,
+    "TotalApproved": 3717195
+  },
+  "AdjusterDetails": {
+    "Name": "Allison Myers",
+    "ContactInformation": {
+      "Phone": "534.661.1768",
+      "Email": "alexis43@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/2a972a02-3482-40eb-94b0-d286b1ad49a8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith Ltd",
+    "Model": "world",
+    "Year": 2007,
+    "VIN": "592dad63-3fe6-4e56-9e72-33282efb427d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Gary Jackson",
+      "ContactInformation": {
+        "Phone": "918.630.8626x93409",
+        "Email": "vfrederick@example.org"
+      },
+      "Statement": "Clear data pressure five suggest. Local son while difficult.\nChange analysis develop."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "59446733-9511-4a6e-8f2b-edb14665db5a",
+    "OfficerName": "Rhonda Reed",
+    "ReportDetails": "Fight sing successful scientist cause interesting physical.\nBring successful behavior series minute buy. Everybody method letter science."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 375,
+    "AnnualIncome": 162096,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

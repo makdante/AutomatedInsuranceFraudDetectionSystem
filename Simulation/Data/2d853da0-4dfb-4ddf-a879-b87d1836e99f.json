@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2d853da0-4dfb-4ddf-a879-b87d1836e99f",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-01-16",
+    "EndDate": "2026-01-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-02",
+    "Location": "68087 Lewis Estate\nMitchellhaven, MP 44246",
+    "Description": "Ahead appear including kitchen surface choice. Beat star money account home quite. Artist office possible million building itself.\nDuring management because. Late herself those social."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 59829
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8320
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 59613
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5872
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 20322
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 153956,
+    "TotalApproved": 75025
+  },
+  "AdjusterDetails": {
+    "Name": "Nicholas Horton",
+    "ContactInformation": {
+      "Phone": "+1-277-351-7237",
+      "Email": "mfrederick@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/61c125e5-3e34-41b4-b9be-167a636a685a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Young Group",
+    "Model": "win",
+    "Year": 2015,
+    "VIN": "b99ddf29-7fe7-4670-adf8-5241f3914dab"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Darryl Wright",
+      "ContactInformation": {
+        "Phone": "515-826-6223",
+        "Email": "bakersteven@example.net"
+      },
+      "Statement": "You would suggest series. Employee on relationship. Strong one agency main task scientist.\nBack opportunity woman me unit rest."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c09a789e-6613-46c2-b668-eee87b6aac69",
+    "OfficerName": "Jeremy Bell",
+    "ReportDetails": "Along country according nothing year. Social production bill mouth cell.\nPeace month certain. Hear everything success draw many rather scientist. Performance face knowledge science who."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 388,
+    "AnnualIncome": 71235,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 7,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

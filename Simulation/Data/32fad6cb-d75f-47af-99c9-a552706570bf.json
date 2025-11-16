@@ -1,0 +1,112 @@
+{
+  "ClaimID": "32fad6cb-d75f-47af-99c9-a552706570bf",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-07-25",
+    "EndDate": "2026-07-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-04",
+    "Location": "45575 Morgan Circle Suite 145\nPort Williamshire, CT 67839",
+    "Description": "Student blood during argue say hit. Special memory despite court. Far size study reach team."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14665
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 47954
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13100
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 64496
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2341
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 142556,
+    "TotalApproved": 117238
+  },
+  "AdjusterDetails": {
+    "Name": "Cody Love",
+    "ContactInformation": {
+      "Phone": "(634)779-3124",
+      "Email": "justincummings@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a338d2cf-7ac8-4a01-a9a1-c38da437e905"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Torres, Brady and Johnson",
+    "Model": "allow",
+    "Year": 2010,
+    "VIN": "d71bbaa8-cde7-493d-8ae5-4a7d5755cb85"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joseph Farley",
+      "ContactInformation": {
+        "Phone": "865.515.4299x89827",
+        "Email": "jblake@example.net"
+      },
+      "Statement": "Result beyond mother throw use. Hold science quality toward."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c6bb9371-00a3-41e2-ac42-9168957ddde0",
+    "OfficerName": "Donald Taylor",
+    "ReportDetails": "Begin after myself science employee often edge."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 378,
+    "AnnualIncome": 58744,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 5,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

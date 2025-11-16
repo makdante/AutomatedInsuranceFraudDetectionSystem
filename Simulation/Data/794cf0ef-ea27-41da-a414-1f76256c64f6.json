@@ -1,0 +1,112 @@
+{
+  "ClaimID": "794cf0ef-ea27-41da-a414-1f76256c64f6",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2024-12-28",
+    "EndDate": "2025-12-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-13",
+    "Location": "30840 Austin Oval Apt. 130\nGonzalezchester, WA 12125",
+    "Description": "Expert brother themselves toward very wonder fine. Article worker off bank finally.\nEat crime billion night capital section. Marriage service daughter ground analysis focus."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 98622
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 38372
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 21995
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 193972
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7331
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 360292,
+    "TotalApproved": 314194
+  },
+  "AdjusterDetails": {
+    "Name": "James Anderson",
+    "ContactInformation": {
+      "Phone": "(262)454-0540x56234",
+      "Email": "popeheidi@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b34e15da-b36f-498b-a533-9028ca374117"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-13T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-18T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-23T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hunt, Butler and Lara",
+    "Model": "tonight",
+    "Year": 2021,
+    "VIN": "4009e024-7a38-47aa-94bc-cfa99a4b20e2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steven Ortiz",
+      "ContactInformation": {
+        "Phone": "(831)845-3712x901",
+        "Email": "christina59@example.net"
+      },
+      "Statement": "Someone local hit medical floor hold something. Food family direction. Important who reach son.\nOrganization simple most. Base our figure individual interview throw teach."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "560ba9c1-67a1-4470-96ae-1901f9a25a1b",
+    "OfficerName": "Jacqueline Silva",
+    "ReportDetails": "Someone water matter trip shake of into. Staff later whole six. Left last role national wife."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 569,
+    "AnnualIncome": 143395,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

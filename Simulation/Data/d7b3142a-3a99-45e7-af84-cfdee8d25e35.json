@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d7b3142a-3a99-45e7-af84-cfdee8d25e35",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2025-05-14",
+    "EndDate": "2026-05-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-11",
+    "Location": "5994 Jonathan Mews\nMichaelmouth, KY 89978",
+    "Description": "Behind bad range voice before just bed. Oil now maintain occur company car. Social might reduce attorney successful."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 139904
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3041
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16159
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 88069
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 49949
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 297122,
+    "TotalApproved": 295837
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Sims",
+    "ContactInformation": {
+      "Phone": "676-354-0114",
+      "Email": "deborah35@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d5b8ca14-54a1-4ca7-a7bc-b55e974f74fc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sanford and Sons",
+    "Model": "country",
+    "Year": 2013,
+    "VIN": "9a95b881-6592-4d06-914b-bbf60adca8c4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lawrence Butler",
+      "ContactInformation": {
+        "Phone": "001-358-259-6594",
+        "Email": "elizabeth18@example.org"
+      },
+      "Statement": "Government occur woman hard how save. Apply wonder magazine natural entire. Student change learn but."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "34fef25c-33e8-41e0-a01d-a610ba83a284",
+    "OfficerName": "Breanna Rodriguez",
+    "ReportDetails": "Country throw radio section. Book everybody center explain though mother. Rich matter art determine condition development.\nNews size how against."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 840,
+    "AnnualIncome": 29358,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

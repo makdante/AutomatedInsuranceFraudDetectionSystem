@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0d4591b2-2960-4ace-a2bb-cd6a58a2ac52",
+  "PolicyID": "fa233a67-087f-4a81-aa85-03cb75220f66",
+  "EffectiveDates": {
+    "StartDate": "2025-03-18",
+    "EndDate": "2026-03-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0cc54510-0118-43f1-bb14-decc3fb19e8e",
+    "Name": "Daniel Novak",
+    "PolicyNumber": "fa233a67-087f-4a81-aa85-03cb75220f66",
+    "ContactInformation": {
+      "Phone": "531-516-8947",
+      "Email": "rogerssteven@example.com",
+      "Address": "51262 Davis Knoll\nLake Elizabeth, AZ 16893"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-14",
+    "Location": "32673 Melinda Mountain\nLaurenside, ND 36722",
+    "Description": "Policy involve mother rather arrive. Various east girl arm. Reveal so per take building side week.\nDrug his treatment wide each enough standard. Young us thus boy population."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4816
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8048
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12144
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39437
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6157
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 70602,
+    "TotalApproved": 29562
+  },
+  "AdjusterDetails": {
+    "Name": "John Hall",
+    "ContactInformation": {
+      "Phone": "623-739-2899x091",
+      "Email": "drogers@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/725a65d4-e215-40a6-9e5e-cb025210f631"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Yoder-White",
+    "Model": "stop",
+    "Year": 2015,
+    "VIN": "304fd304-ff8e-46cc-93ea-9d9e66fd84ed"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Chambers",
+      "ContactInformation": {
+        "Phone": "438-537-5539x0802",
+        "Email": "mary86@example.com"
+      },
+      "Statement": "Often along five every current. Yeah you office laugh threat guess. Case of bag traditional your drug piece. Seven they forward value human with."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "189b45ee-edec-46ec-8578-88ad6a15b96a",
+    "OfficerName": "Krista Mcdonald",
+    "ReportDetails": "Must prove research make behavior according. Indicate fly here situation special enter rule. Such late wall line."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 442,
+    "AnnualIncome": 94931,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

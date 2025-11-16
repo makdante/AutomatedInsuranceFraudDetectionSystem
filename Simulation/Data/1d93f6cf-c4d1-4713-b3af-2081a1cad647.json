@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1d93f6cf-c4d1-4713-b3af-2081a1cad647",
+  "PolicyID": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+  "EffectiveDates": {
+    "StartDate": "2025-09-04",
+    "EndDate": "2026-09-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3cd8543c-a7fa-4fd5-96b8-321382511c44",
+    "Name": "Darryl Leonard",
+    "PolicyNumber": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+    "ContactInformation": {
+      "Phone": "342-367-2937",
+      "Email": "bmejia@example.net",
+      "Address": "429 Kimberly Landing\nClayburgh, AZ 73702"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-04",
+    "Location": "7362 Jason Forge\nElizabethchester, GA 65508",
+    "Description": "Life season discover provide usually total beyond fear. Study build various thank hear human attention.\nSimple work let. Beyond worker international same week."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2328
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16723
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44014
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 50361
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 63626
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 177052,
+    "TotalApproved": 105979
+  },
+  "AdjusterDetails": {
+    "Name": "Anne Richardson",
+    "ContactInformation": {
+      "Phone": "590-940-0893x99016",
+      "Email": "fnelson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b144e8c0-05cf-45a2-b292-6e52c40e895c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gay, Hogan and Cooper",
+    "Model": "they",
+    "Year": 2002,
+    "VIN": "38bbba60-6584-4a91-a0c9-bc1f9a9fbf36"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bryan Galloway",
+      "ContactInformation": {
+        "Phone": "4787952397",
+        "Email": "ann70@example.com"
+      },
+      "Statement": "Improve not recent view simply west remember yes. Skill they mind job. While wrong like benefit story recently between."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f1bb297e-cd26-42b9-9eab-36b0e19b7427",
+    "OfficerName": "Brett Stevens",
+    "ReportDetails": "Same be notice actually fast positive. Fine second ten push. System between question idea.\nExpert better media perhaps there dream quality. Hotel training join live."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 719,
+    "AnnualIncome": 163653,
+    "DebtToIncomeRatio": 0.16
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 10,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

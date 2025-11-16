@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b53e9aa1-ad87-432e-b9ef-175d26ada41a",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-10-10",
+    "EndDate": "2026-10-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-12",
+    "Location": "1610 Meza Rapids\nNew Todd, NC 03259",
+    "Description": "Shake laugh despite tax forward off real ahead. Free choose could including shoulder. Newspaper interview white include finally special safe. Good shake message beyond thing style agree spring."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 126915
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8290
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1841
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17590
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1410
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 156046,
+    "TotalApproved": 98226
+  },
+  "AdjusterDetails": {
+    "Name": "Emily Russell",
+    "ContactInformation": {
+      "Phone": "001-603-624-4768",
+      "Email": "johnsonlinda@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b380e89b-41ef-45e5-b52c-2d3ed837c344"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mcconnell-Herring",
+    "Model": "push",
+    "Year": 2018,
+    "VIN": "29ee9a58-0adc-47fd-b41f-39c8568c379f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Edgar Johnson",
+      "ContactInformation": {
+        "Phone": "(816)743-8068",
+        "Email": "rwheeler@example.net"
+      },
+      "Statement": "None stuff trade president. Practice machine rate eight popular.\nPossible finish pretty hope.\nIndicate television who support determine theory give."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "42053405-f6b8-4fe9-a10f-e7e3b9b56358",
+    "OfficerName": "Brittany Hughes",
+    "ReportDetails": "Peace certain small. Some region blue live admit.\nThree mouth next begin treatment town capital bed. Account necessary use summer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 788,
+    "AnnualIncome": 35218,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 1,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

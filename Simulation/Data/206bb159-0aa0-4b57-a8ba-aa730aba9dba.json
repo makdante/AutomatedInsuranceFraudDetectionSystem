@@ -1,0 +1,112 @@
+{
+  "ClaimID": "206bb159-0aa0-4b57-a8ba-aa730aba9dba",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-06-20",
+    "EndDate": "2026-06-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-24",
+    "Location": "41770 Jones Bypass\nJacobmouth, AL 84817",
+    "Description": "Hear it south finish concern.\nOperation still face thousand rather reflect. Remember item one affect positive account soldier race. Ahead goal capital member professor care."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 67591
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2203
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 30212
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 30700
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 176627
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 307333,
+    "TotalApproved": 4574
+  },
+  "AdjusterDetails": {
+    "Name": "Samuel Holmes",
+    "ContactInformation": {
+      "Phone": "+1-905-579-8756",
+      "Email": "scottmorales@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a2c7b2b5-87c0-4fcc-a6d2-e795ab82ca4f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-24T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-29T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-04T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilcox and Sons",
+    "Model": "choice",
+    "Year": 2019,
+    "VIN": "767626b7-1939-48a5-8d80-e989bcfe1fab"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anita Perry",
+      "ContactInformation": {
+        "Phone": "672-269-4716",
+        "Email": "linda72@example.com"
+      },
+      "Statement": "Tend sort indeed art south.\nStation lead build show hospital edge. Song whether speech. Conference meet wife benefit affect thousand. Foot you rate continue."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "52e39ef8-06b3-4549-a325-1bc759b63c0c",
+    "OfficerName": "Heather Randall",
+    "ReportDetails": "Society go them individual trouble. Benefit stuff section yeah involve consider.\nUnder short school statement as hope. Develop thousand music teacher."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 719,
+    "AnnualIncome": 56441,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

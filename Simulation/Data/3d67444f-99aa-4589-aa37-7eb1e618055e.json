@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3d67444f-99aa-4589-aa37-7eb1e618055e",
+  "PolicyID": "6c36cc73-e207-48b9-a284-c51cf5663165",
+  "EffectiveDates": {
+    "StartDate": "2025-10-09",
+    "EndDate": "2026-10-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "193b28b0-1277-4ecb-b44b-678f0a8a54ac",
+    "Name": "Aaron Wilson",
+    "PolicyNumber": "6c36cc73-e207-48b9-a284-c51cf5663165",
+    "ContactInformation": {
+      "Phone": "4298804696",
+      "Email": "uford@example.org",
+      "Address": "70180 Jessica Ridges Suite 614\nEast Mindy, IL 04431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-22",
+    "Location": "70166 Candace Skyway Apt. 519\nAllenhaven, WI 56575",
+    "Description": "Lawyer consider moment by. Face despite position behavior executive. Rich still against manage education history.\nAny leg cell return often."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14566
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11476
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6944
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6831
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 91981
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 131798,
+    "TotalApproved": 99260
+  },
+  "AdjusterDetails": {
+    "Name": "Brandy Moody",
+    "ContactInformation": {
+      "Phone": "+1-971-234-2662x929",
+      "Email": "georgejames@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/90fa1c27-5c24-4131-b136-2a266b9c2a29"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morrow-Evans",
+    "Model": "no",
+    "Year": 2009,
+    "VIN": "6f8609c5-1ba3-49fb-b2a0-6821cf7cea52"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mitchell Brown",
+      "ContactInformation": {
+        "Phone": "001-280-885-9654x95167",
+        "Email": "ajones@example.net"
+      },
+      "Statement": "Amount suggest early mind ready once public. Least fund guy be. Able also social various budget now.\nRecently recent seek. Four fight perhaps treat happen. Event between strong court let."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "13061b84-3f75-4f54-a92a-956663109ca3",
+    "OfficerName": "Donald Meyer",
+    "ReportDetails": "City father often what including need also. Responsibility data condition exactly hour more raise. Arrive step window."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 447,
+    "AnnualIncome": 115828,
+    "DebtToIncomeRatio": 0.81
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 2,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

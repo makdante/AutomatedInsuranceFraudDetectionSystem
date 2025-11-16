@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f9383ade-95b7-463f-80a4-502656c7bd52",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-06-06",
+    "EndDate": "2026-06-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-03",
+    "Location": "91946 Bush Ridges\nSouth Nancyton, MS 73571",
+    "Description": "Color reality hair property cup.\nNational professional report wait information how. Clear true front than whatever. Bill its call forward decision car sing."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4964
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7494
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6559
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3601
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17614
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 40232,
+    "TotalApproved": 6565
+  },
+  "AdjusterDetails": {
+    "Name": "Karen Torres",
+    "ContactInformation": {
+      "Phone": "282-777-6206",
+      "Email": "johnsonbrandon@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/3287af01-b0f5-41a7-99cf-20f3f421bbde"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hughes-Jacobson",
+    "Model": "relate",
+    "Year": 2001,
+    "VIN": "bd04af3b-477a-40a7-a0ca-0db7a165a2b1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mario Jones",
+      "ContactInformation": {
+        "Phone": "+1-233-519-2623",
+        "Email": "joshuamyers@example.org"
+      },
+      "Statement": "Popular share whom page pull necessary. Age source TV first. Only catch administration national on.\nRepresent reason require material such final. Key finally population main assume cultural."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "194cbed7-d976-4318-8bcb-0b46140f75fc",
+    "OfficerName": "Janet Ballard",
+    "ReportDetails": "Deal man method two. Color already price cause one. Growth present laugh color."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 711,
+    "AnnualIncome": 126518,
+    "DebtToIncomeRatio": 0.92
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 0,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8382cf20-5a8c-4a19-8b03-b44d81e78748",
+  "PolicyID": "615dd311-61f1-4d66-9081-93d8b1a30832",
+  "EffectiveDates": {
+    "StartDate": "2025-02-09",
+    "EndDate": "2026-02-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "413855ef-2e2d-4b8e-b2fc-330be891114b",
+    "Name": "Amy Barnes",
+    "PolicyNumber": "615dd311-61f1-4d66-9081-93d8b1a30832",
+    "ContactInformation": {
+      "Phone": "(281)531-1709x697",
+      "Email": "monicacarroll@example.org",
+      "Address": "2310 Leslie Drive Suite 947\nSimsbury, VI 28289"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-19",
+    "Location": "973 Adrienne Ville\nLuceroside, GA 75419",
+    "Description": "Check company risk body. Out less wish process.\nSubject wide subject deal measure responsibility above. Capital return close knowledge exactly cut."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5423
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8977
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 35152
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1897
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 57725
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 109174,
+    "TotalApproved": 69588
+  },
+  "AdjusterDetails": {
+    "Name": "Thomas Palmer",
+    "ContactInformation": {
+      "Phone": "+1-388-586-7824x20826",
+      "Email": "jennifer82@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/bc65f9e3-6991-4dd6-bc63-a68559b38738"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown, Knapp and Gibbs",
+    "Model": "rather",
+    "Year": 2001,
+    "VIN": "0350eb26-043c-4304-b515-fe38a1ab66d1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jasmine Schneider",
+      "ContactInformation": {
+        "Phone": "001-389-701-5530",
+        "Email": "jonathanroberts@example.com"
+      },
+      "Statement": "Type teach less. Security sit bit stage Democrat age."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1a83e732-9bb2-4538-8473-09ef009c5158",
+    "OfficerName": "Tyrone Chandler",
+    "ReportDetails": "Might kind trade manager identify give kitchen. Room address everybody marriage.\nBag similar start it score. Still human recent four once. Society heart deep."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 362,
+    "AnnualIncome": 77367,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "62e39e76-1c25-4210-905d-bc2700f63373",
+  "PolicyID": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+  "EffectiveDates": {
+    "StartDate": "2025-07-12",
+    "EndDate": "2026-07-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ac5a31ca-3bdd-4c10-bf6a-ce868133ec66",
+    "Name": "James Gilbert",
+    "PolicyNumber": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+    "ContactInformation": {
+      "Phone": "2675986394",
+      "Email": "lmontes@example.org",
+      "Address": "52161 Young Shoals Suite 547\nStevenberg, MT 96015"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-05",
+    "Location": "4806 Evelyn Lodge Suite 887\nWelchstad, SD 63915",
+    "Description": "Sing keep rate oil court usually. Appear later least there message. Explain art visit."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2771
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 84491
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4951
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18615
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 76532
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 187360,
+    "TotalApproved": 10013
+  },
+  "AdjusterDetails": {
+    "Name": "Angela Miller",
+    "ContactInformation": {
+      "Phone": "(878)488-9805x340",
+      "Email": "amberwarren@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/1c84b641-3261-40c0-9a8e-af43f79045ea"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stuart Ltd",
+    "Model": "understand",
+    "Year": 2014,
+    "VIN": "b035bf28-91f4-4c73-ae06-d0b0083a791e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Greene",
+      "ContactInformation": {
+        "Phone": "+1-883-598-4913x7719",
+        "Email": "mtran@example.net"
+      },
+      "Statement": "Wife out catch offer director. Industry task owner professional.\nContinue manager without theory from star myself budget. Particularly interest your recently matter rise."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bc016ea3-7d2a-4f0e-99a7-e0e1b8cc448a",
+    "OfficerName": "Nicole Scott",
+    "ReportDetails": "Technology speech election book short. Risk out increase time. More travel attention might vote.\nCenter research fall. Eye either good somebody."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 529,
+    "AnnualIncome": 163064,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 10,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

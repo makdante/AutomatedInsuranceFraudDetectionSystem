@@ -1,0 +1,112 @@
+{
+  "ClaimID": "147a0ebe-9e15-4b86-bb14-9dc3bd2b5777",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-01-19",
+    "EndDate": "2026-01-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-22",
+    "Location": "7986 Timothy Spur Suite 644\nRichardburgh, IN 84144",
+    "Description": "School exist perform front. Fall Mrs almost individual prepare number boy.\nPush politics when exist weight morning former positive. Son happy through account. By up green low foreign perhaps pick."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14510
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 36967
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 43274
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14531
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 31490
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 140772,
+    "TotalApproved": 48024
+  },
+  "AdjusterDetails": {
+    "Name": "Chloe Chen",
+    "ContactInformation": {
+      "Phone": "+1-642-315-8453x15459",
+      "Email": "jay85@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/be1010f9-85d4-4238-ad64-dd14d89983b8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lewis-Rodriguez",
+    "Model": "camera",
+    "Year": 2003,
+    "VIN": "374b6f4c-3e01-46b4-b295-d4ef66a1f0a5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ronald Green",
+      "ContactInformation": {
+        "Phone": "+1-219-912-6662",
+        "Email": "michaeltaylor@example.org"
+      },
+      "Statement": "Something newspaper same white buy serious seven. Training yet rule leg guy college.\nSociety reduce strategy collection. Director person religious show clear."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a7416514-2682-4ebf-b4a7-f1744096aef2",
+    "OfficerName": "April Wright",
+    "ReportDetails": "What none Congress need. Line century apply economy know down every.\nHis capital perform cell worry another listen. Them what not modern turn.\nOffer cell response military case."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 408,
+    "AnnualIncome": 85389,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

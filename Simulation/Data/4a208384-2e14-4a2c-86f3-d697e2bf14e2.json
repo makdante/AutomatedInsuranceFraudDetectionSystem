@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4a208384-2e14-4a2c-86f3-d697e2bf14e2",
+  "PolicyID": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+  "EffectiveDates": {
+    "StartDate": "2025-05-30",
+    "EndDate": "2026-05-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "342b380f-5b25-4a6f-a462-2fa1c3057fc2",
+    "Name": "Kayla Wilson",
+    "PolicyNumber": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+    "ContactInformation": {
+      "Phone": "432-340-1587",
+      "Email": "jonathan54@example.com",
+      "Address": "25321 Lopez Stream\nPort Amandaside, MT 41311"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-05",
+    "Location": "938 Price Street\nCarsontown, NM 75935",
+    "Description": "Our some between outside TV well whole. For hold western understand model study purpose production.\nMany prevent seek situation scene he blood. Explain room skill government."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 156318
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9823
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18722
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 45669
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10517
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 241049,
+    "TotalApproved": 67863
+  },
+  "AdjusterDetails": {
+    "Name": "Courtney Raymond",
+    "ContactInformation": {
+      "Phone": "+1-617-653-7860x9082",
+      "Email": "jodijones@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/eaf4127b-a204-4779-8278-226991a7833c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Schmitt, Reed and Romero",
+    "Model": "win",
+    "Year": 2021,
+    "VIN": "ac8eae6e-e205-4490-88d3-608dd4d2cf63"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ryan Bailey",
+      "ContactInformation": {
+        "Phone": "001-613-459-6487x98806",
+        "Email": "codyroth@example.org"
+      },
+      "Statement": "Them allow agreement apply. His boy employee significant just.\nYourself family theory middle better sort. Character with although form."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5535baa8-f5fc-4e29-b81b-4c744fe99168",
+    "OfficerName": "Adam Campbell",
+    "ReportDetails": "Eat meeting up. Environment like ground little to remain. Fast buy energy activity. Wrong understand nature.\nFund door attention side job.\nMore yes ahead. Other those set quite attorney arm."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 381,
+    "AnnualIncome": 168673,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

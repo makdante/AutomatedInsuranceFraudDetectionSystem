@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ad4e0fc6-27bb-456d-b809-de615c496771",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2024-11-20",
+    "EndDate": "2025-11-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-12",
+    "Location": "643 David View\nLake Courtney, MO 97373",
+    "Description": "Today address step write factor reality weight. Back individual wind culture."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 62586
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2524
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 35117
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9522
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1576
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 111325,
+    "TotalApproved": 109028
+  },
+  "AdjusterDetails": {
+    "Name": "Teresa Ross",
+    "ContactInformation": {
+      "Phone": "472.539.2624x263",
+      "Email": "garzacynthia@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/05a228de-d49a-4277-8443-136653f95066"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bradshaw Ltd",
+    "Model": "effect",
+    "Year": 2005,
+    "VIN": "d38ea93e-683a-4800-bcde-ca16c12e1953"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sean Thompson",
+      "ContactInformation": {
+        "Phone": "550.310.8718x8256",
+        "Email": "evansdean@example.com"
+      },
+      "Statement": "A vote house during bit decide task. Owner government create deal college.\nPick newspaper watch get feel prevent.\nResource figure medical west note. Resource product standard sea support clearly."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4afb6d44-5288-4031-b060-59739dfbc75e",
+    "OfficerName": "Robert Barnett",
+    "ReportDetails": "Else building free. Young high ten because home sing buy. Rise manager often.\nOther both myself hit program go test. Something myself evening and trial player. Treatment western become continue."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 486,
+    "AnnualIncome": 96593,
+    "DebtToIncomeRatio": 0.92
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

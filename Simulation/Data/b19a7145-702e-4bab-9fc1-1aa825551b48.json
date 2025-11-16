@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b19a7145-702e-4bab-9fc1-1aa825551b48",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-01-26",
+    "EndDate": "2026-01-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-21",
+    "Location": "05819 Brown Squares\nChristianborough, WV 22037",
+    "Description": "Authority certain American seem. Arrive despite suddenly hundred.\nProduct for green several help bag. Million these other why anyone. Thus common collection move determine dinner before Mr."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15237
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5774
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 184657
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 62901
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9727
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 278296,
+    "TotalApproved": 53243
+  },
+  "AdjusterDetails": {
+    "Name": "Alexander Wilson",
+    "ContactInformation": {
+      "Phone": "781.385.3501x911",
+      "Email": "stevenerickson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/6ec948fa-3bfa-4a15-8cce-031a47df0fb0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rodriguez-Davis",
+    "Model": "different",
+    "Year": 2021,
+    "VIN": "1f4f387c-2e6d-4750-95a4-fe493ff241cd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nicole Miller",
+      "ContactInformation": {
+        "Phone": "+1-961-360-5670",
+        "Email": "aliciamontgomery@example.com"
+      },
+      "Statement": "Sing hotel blood man us foreign. But require stock drive week member brother. Better defense join kind cold. Follow prepare describe run."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "17114d65-d87c-4cc3-8bc3-b5d94a011b8f",
+    "OfficerName": "Amy Carter",
+    "ReportDetails": "Example under interesting find whole throw million.\nLawyer civil writer candidate option standard. Lose note assume strategy we at chance reach."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 496,
+    "AnnualIncome": 168583,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4ae71fab-2d8c-4930-9a23-9cbadd572bb8",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-01-15",
+    "EndDate": "2026-01-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-13",
+    "Location": "158 Kerri Mission Suite 156\nBakerside, ID 90564",
+    "Description": "Series source carry exist. Forget society start newspaper goal reason. Movement whatever create source room together."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 47041
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 129060
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5553
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 27055
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44603
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 253312,
+    "TotalApproved": 51706
+  },
+  "AdjusterDetails": {
+    "Name": "Jeffrey Andrews",
+    "ContactInformation": {
+      "Phone": "+1-889-276-5105",
+      "Email": "tschultz@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1bf9ab3f-c827-441e-a009-96711ac0dd0b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hicks-Cooper",
+    "Model": "list",
+    "Year": 2005,
+    "VIN": "03032608-337a-42ca-b4e5-2fa0c42f5adc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "William Burns",
+      "ContactInformation": {
+        "Phone": "768-865-7504x949",
+        "Email": "sshaw@example.com"
+      },
+      "Statement": "Police record especially break necessary. Whom affect everything current chair daughter power.\nBlue report pass cup trade ok camera. Moment win including crime past visit. During resource power week."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d934d635-c2f3-48c7-9afa-2b182c9e8999",
+    "OfficerName": "Alec Payne",
+    "ReportDetails": "Her recognize before tend trial boy. Effect condition each art hour stop. Can hard between notice nor particularly free."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 682,
+    "AnnualIncome": 199493,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 10,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

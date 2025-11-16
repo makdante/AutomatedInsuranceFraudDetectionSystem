@@ -1,0 +1,112 @@
+{
+  "ClaimID": "65285d95-02e6-4b79-a828-88d173234d66",
+  "PolicyID": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+  "EffectiveDates": {
+    "StartDate": "2024-12-26",
+    "EndDate": "2025-12-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e56ba82b-16a1-4c4b-8176-cdb7f4257046",
+    "Name": "Allen Calderon",
+    "PolicyNumber": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+    "ContactInformation": {
+      "Phone": "358.830.4879x08843",
+      "Email": "timothyjones@example.com",
+      "Address": "255 Larry Lights Apt. 555\nNorth Nathanbury, MO 09424"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-19",
+    "Location": "31274 Christopher Fall\nNorth Briannaport, WA 71898",
+    "Description": "Whom direction protect behind know and consider cover. Heart stop month. Finish agency someone wall or.\nAttack of even opportunity including under. My president end future glass may some always."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7387
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9019
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1547
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 34516
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 31206
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 83675,
+    "TotalApproved": 23684
+  },
+  "AdjusterDetails": {
+    "Name": "Daniel Allen",
+    "ContactInformation": {
+      "Phone": "593-551-2774",
+      "Email": "wmoran@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/98d9e6ae-b032-42fd-8961-2c2355ef69cb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Parker, Villarreal and Brown",
+    "Model": "budget",
+    "Year": 2011,
+    "VIN": "dd049bad-5682-4e02-8adc-d3997b34017c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Gary Henderson",
+      "ContactInformation": {
+        "Phone": "243.265.9398x8613",
+        "Email": "nicholas24@example.com"
+      },
+      "Statement": "Strategy billion class head moment ok establish. While which sound peace result traditional sea economy.\nEverybody out young while. Choice occur marriage majority. Why local them memory sign boy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d8ce1414-ab94-4174-a9c7-404ced29ca63",
+    "OfficerName": "Alexandra Barry",
+    "ReportDetails": "On east system effort wind data. Box seem test others white scientist sell. Enter language reason."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 342,
+    "AnnualIncome": 183266,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 0,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

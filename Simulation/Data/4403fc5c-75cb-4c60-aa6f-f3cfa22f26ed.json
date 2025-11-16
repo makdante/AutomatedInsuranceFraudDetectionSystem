@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4403fc5c-75cb-4c60-aa6f-f3cfa22f26ed",
+  "PolicyID": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+  "EffectiveDates": {
+    "StartDate": "2025-02-07",
+    "EndDate": "2026-02-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4034d100-7369-434a-b9ce-6c4944f22306",
+    "Name": "Katherine Chang",
+    "PolicyNumber": "2e5aad00-bac2-4fae-a192-68875e9b6084",
+    "ContactInformation": {
+      "Phone": "001-974-300-4293",
+      "Email": "amyfarley@example.org",
+      "Address": "32411 Michael Station Suite 689\nJeffreymouth, FM 88065"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-24",
+    "Location": "505 Ian Spurs Apt. 825\nJacksonside, RI 14910",
+    "Description": "Return material poor administration bill. Share example mention clearly resource social. Fire benefit realize four price issue deal.\nScene appear just nor. Collection large blood last color."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1485
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9396
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11840
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2787
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 199436
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 224944,
+    "TotalApproved": 94514
+  },
+  "AdjusterDetails": {
+    "Name": "Sarah Walsh",
+    "ContactInformation": {
+      "Phone": "515.425.2367x195",
+      "Email": "sethsimon@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b91e0dd6-baec-4005-8087-b446786aca72"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Howe, Wood and Wilson",
+    "Model": "grow",
+    "Year": 2006,
+    "VIN": "93c16aff-742d-4815-a0fa-d791c3b50f0c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christina Robinson",
+      "ContactInformation": {
+        "Phone": "280.824.0779x81330",
+        "Email": "tuckerjames@example.com"
+      },
+      "Statement": "Where north trouble several discuss stop. Democratic little age number media ready.\nLeader reduce government without spend."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a108901c-9e8e-4e43-804e-3607b73b723a",
+    "OfficerName": "Carl Whitehead",
+    "ReportDetails": "Let hit there heart use. Stage although simple three.\nCourse Mrs push someone lawyer. Approach middle often expect stop."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 436,
+    "AnnualIncome": 50291,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 2,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cfffc877-21cf-4f00-b742-ff8fad8953c7",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2025-10-23",
+    "EndDate": "2026-10-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-21",
+    "Location": "86950 Allen Green\nWhiteshire, FM 84498",
+    "Description": "Wonder attack enough note. Ask fill clearly our.\nFollow evidence for way conference need car. Fight into foreign moment serve we."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4810399
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4792554
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4631509
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4082210
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4010293
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22326965,
+    "TotalApproved": 7966450
+  },
+  "AdjusterDetails": {
+    "Name": "Ana Sanchez",
+    "ContactInformation": {
+      "Phone": "001-402-952-7889x070",
+      "Email": "rachel03@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/650037f1-8cbd-4cd0-be04-55d617c6a465"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-31T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Atkins-Armstrong",
+    "Model": "fire",
+    "Year": 2022,
+    "VIN": "76d52c26-6b15-46d7-a8b2-16d74e049d1c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Karen Padilla",
+      "ContactInformation": {
+        "Phone": "8065805236",
+        "Email": "jonathan28@example.com"
+      },
+      "Statement": "Indeed ready it.\nPerhaps public news Democrat owner stock season. Himself others ok true old.\nLaugh raise ok. Each war protect section here nor. Artist worry public current during garden security."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "06e95494-2d60-4c3a-9d97-8e05b4f01658",
+    "OfficerName": "Paul Wilson",
+    "ReportDetails": "Front vote white space race politics. This find increase hundred.\nResult now employee right control open.\nHouse truth stuff watch he. Future certain design customer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 500,
+    "AnnualIncome": 159338,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

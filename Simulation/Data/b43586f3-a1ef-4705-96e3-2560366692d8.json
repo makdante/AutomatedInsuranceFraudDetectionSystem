@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b43586f3-a1ef-4705-96e3-2560366692d8",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-02-01",
+    "EndDate": "2026-02-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-12",
+    "Location": "23754 Vincent Radial\nGordonville, MD 18075",
+    "Description": "Main eight last change pay anyone beautiful enjoy. Away vote indeed indeed animal there perform. In assume thank book tonight activity point."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17831
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9647
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9083
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6701
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30536
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 73798,
+    "TotalApproved": 27229
+  },
+  "AdjusterDetails": {
+    "Name": "David Garcia",
+    "ContactInformation": {
+      "Phone": "562-522-4680",
+      "Email": "susanthompson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e77cdd92-0bd6-4727-9e0c-6a731592defa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wagner, Bray and Marshall",
+    "Model": "control",
+    "Year": 2014,
+    "VIN": "5eded346-9dfd-4f34-886b-8514623b4096"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Riley",
+      "ContactInformation": {
+        "Phone": "5287903790",
+        "Email": "matthew03@example.com"
+      },
+      "Statement": "Room rate attorney feeling apply. Often pretty establish hotel community manage news me."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "65b3b986-36ed-428f-9908-76ef8a53c61d",
+    "OfficerName": "Edward Valdez",
+    "ReportDetails": "Cover son window lawyer series age. Dog require improve generation network movie. Century fill economic official.\nGive half probably each myself page. Mission picture candidate minute."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 702,
+    "AnnualIncome": 66466,
+    "DebtToIncomeRatio": 0.81
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 2,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

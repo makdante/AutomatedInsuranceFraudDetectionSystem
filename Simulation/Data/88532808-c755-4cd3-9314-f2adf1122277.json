@@ -1,0 +1,112 @@
+{
+  "ClaimID": "88532808-c755-4cd3-9314-f2adf1122277",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2025-07-29",
+    "EndDate": "2026-07-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-26",
+    "Location": "48994 Miller Road Apt. 546\nNew Sharonchester, TX 89494",
+    "Description": "After prepare direction blood floor range itself.\nChange table director maintain realize important war. Project rule decade wait if sign film. Theory difference big."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 42325
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11212
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6222
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 45150
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 183585
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 288494,
+    "TotalApproved": 201841
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Hebert",
+    "ContactInformation": {
+      "Phone": "(863)797-4391x108",
+      "Email": "annette61@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c94cec45-c10d-4da5-9401-ed47ac2c9e8a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Walter-Taylor",
+    "Model": "mother",
+    "Year": 2010,
+    "VIN": "f199293e-eeb9-4bba-83be-4e7f23f18276"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Blanchard",
+      "ContactInformation": {
+        "Phone": "692-375-6212x9665",
+        "Email": "justinwilliams@example.net"
+      },
+      "Statement": "Enjoy owner notice sister government. Per dog fly and bed federal every. Investment among result stay.\nBit manage investment number. About base senior color."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "61588049-5379-430d-840b-d3838a2a6976",
+    "OfficerName": "Crystal Young",
+    "ReportDetails": "Paper character music between stand some nothing. Expert eight beat water though.\nReady often only marriage mission. Style station including describe fund. Page themselves response its avoid bar."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 336,
+    "AnnualIncome": 20684,
+    "DebtToIncomeRatio": 0.26
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 1,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

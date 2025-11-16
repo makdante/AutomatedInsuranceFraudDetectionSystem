@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8a8dbd37-267e-4012-ae95-2a69c8380c7a",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2024-11-27",
+    "EndDate": "2025-11-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-14",
+    "Location": "739 Brianna Ridges Apt. 017\nLake Patriciaburgh, AL 78075",
+    "Description": "Write thus tonight. Head accept wall themselves defense parent agency necessary.\nResult another book guess paper. Pick outside senior."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2741
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17865
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 141781
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 46498
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 32689
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 241574,
+    "TotalApproved": 230930
+  },
+  "AdjusterDetails": {
+    "Name": "Pam Edwards",
+    "ContactInformation": {
+      "Phone": "(736)392-4741x974",
+      "Email": "rfreeman@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/726d9a86-c5f3-430f-8488-ca921363fa4c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Peck-Shepard",
+    "Model": "everything",
+    "Year": 2022,
+    "VIN": "331061e2-fd57-476e-a554-cc9c8e3efcbc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stephanie Wu",
+      "ContactInformation": {
+        "Phone": "001-610-623-0783x131",
+        "Email": "ystokes@example.net"
+      },
+      "Statement": "Project wall year one find cut study. View between fire threat laugh soldier.\nFormer go realize evening. Increase quite go would."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0d1d2d94-57d9-4cfe-99fb-64b1f602ed04",
+    "OfficerName": "Evan Gallegos",
+    "ReportDetails": "Same country phone conference stay remain rest from. School just clear though want right north choose. Or low well physical."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 329,
+    "AnnualIncome": 108713,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

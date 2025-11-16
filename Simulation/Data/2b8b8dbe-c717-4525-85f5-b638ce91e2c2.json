@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2b8b8dbe-c717-4525-85f5-b638ce91e2c2",
+  "PolicyID": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+  "EffectiveDates": {
+    "StartDate": "2025-01-20",
+    "EndDate": "2026-01-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "36ef7374-a94b-45c8-8312-6e8562668715",
+    "Name": "Vincent Flynn",
+    "PolicyNumber": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+    "ContactInformation": {
+      "Phone": "950-852-7090",
+      "Email": "harrybryant@example.com",
+      "Address": "476 Reed Landing\nJeanettestad, VT 94361"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-12",
+    "Location": "USCGC Williams\nFPO AE 94747",
+    "Description": "Trade control leave last white mean. Hope then still statement fill science argue."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7385
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13607
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 150735
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 144513
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 46689
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 362929,
+    "TotalApproved": 92584
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Ross",
+    "ContactInformation": {
+      "Phone": "546.971.8512x684",
+      "Email": "williamsbrian@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b78cbdab-6fb2-4391-9d4c-50922d7f431e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Yates Group",
+    "Model": "whatever",
+    "Year": 2002,
+    "VIN": "7b7cce3f-a4c7-445d-990e-6612a2df862a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Veronica Jones",
+      "ContactInformation": {
+        "Phone": "937-700-5428x847",
+        "Email": "mcfarlandaudrey@example.com"
+      },
+      "Statement": "Write stage suddenly political concern. Operation leg glass play inside. Trial better peace.\nIdea cut every change director. Care often continue about hot himself bar. Despite top tree share."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3f66533c-4fb3-4b8e-90a3-d98f97d63d0b",
+    "OfficerName": "Margaret Guzman DDS",
+    "ReportDetails": "Could identify few develop social from. Responsibility hear letter note thousand season wear. Play probably perhaps agency issue boy education window. Heart writer future five."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 593,
+    "AnnualIncome": 151143,
+    "DebtToIncomeRatio": 0.51
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

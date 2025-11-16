@@ -1,0 +1,112 @@
+{
+  "ClaimID": "628e7f09-0138-4f02-9242-dacd34e93e0d",
+  "PolicyID": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+  "EffectiveDates": {
+    "StartDate": "2025-06-12",
+    "EndDate": "2026-06-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "39861407-409e-4253-9f6c-7c0f48258b61",
+    "Name": "Frank Summers",
+    "PolicyNumber": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+    "ContactInformation": {
+      "Phone": "(214)893-1385x492",
+      "Email": "johnsonsherry@example.org",
+      "Address": "630 Phillips Roads Suite 295\nSouth Suzanne, PR 08692"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-22",
+    "Location": "PSC 6546, Box 7074\nAPO AA 01635",
+    "Description": "Include because name key miss left. Brother window develop theory office check. Not those long animal."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4612313
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4857021
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4215838
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4355954
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4097285
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22138411,
+    "TotalApproved": 6125448
+  },
+  "AdjusterDetails": {
+    "Name": "Nathaniel Scott",
+    "ContactInformation": {
+      "Phone": "423.299.1446x20561",
+      "Email": "laurenhughes@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/dc1a68ee-cd8f-45d0-92e3-c8404eb95248"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-22T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-27T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-02T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wheeler LLC",
+    "Model": "they",
+    "Year": 2006,
+    "VIN": "6a17289b-9f44-4105-9a45-85021c12650b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kaitlin Bright",
+      "ContactInformation": {
+        "Phone": "001-254-345-3997x941",
+        "Email": "spencertricia@example.org"
+      },
+      "Statement": "Nothing smile help speak material start. Collection practice ground off.\nCountry within prevent agent billion. Item use her still high. Game daughter firm until first third."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9f6c3ade-3cae-44eb-9533-d8e1e3e8e04a",
+    "OfficerName": "Connor King",
+    "ReportDetails": "Become good spend. Standard teach walk may allow scene.\nHowever science let position. Mrs yet my admit yeah ever. Manage technology whole area suddenly kid Republican."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 484,
+    "AnnualIncome": 66104,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8163ea2f-41da-4b01-bec2-de7eb647cef6",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2024-12-12",
+    "EndDate": "2025-12-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-25",
+    "Location": "206 Connie Pass\nLake Samueltown, NC 77108",
+    "Description": "Want that plan production part present. There work listen least. Quality game approach provide sound."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8639
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 184468
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 79099
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5103
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 33779
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 311088,
+    "TotalApproved": 178708
+  },
+  "AdjusterDetails": {
+    "Name": "Kathryn Garcia",
+    "ContactInformation": {
+      "Phone": "487-645-2346x2528",
+      "Email": "whiteryan@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/85d4a867-4e93-41ba-b657-c0f77c2b6b36"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hall-Robinson",
+    "Model": "analysis",
+    "Year": 2014,
+    "VIN": "11d28827-53e6-40b4-918c-b6a81a33a3fd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amanda Miller",
+      "ContactInformation": {
+        "Phone": "596.235.4731",
+        "Email": "tracynichols@example.org"
+      },
+      "Statement": "Someone network sit collection whatever. Mr particular worker majority determine stay. Happen plan seem arm blue."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7cd10d0c-0488-4684-b0bd-9a77567f5113",
+    "OfficerName": "Kelly Castro",
+    "ReportDetails": "Keep test effort develop. Structure bed involve approach these. Describe field keep affect way affect from price."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 759,
+    "AnnualIncome": 86989,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 0,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0b4997e9-166d-4635-ab52-86014ca271a2",
+  "PolicyID": "9a540188-2fa0-4610-a341-5130618504c6",
+  "EffectiveDates": {
+    "StartDate": "2024-12-24",
+    "EndDate": "2025-12-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5e1aef1e-7897-4f43-8b25-4f651ff5946d",
+    "Name": "Brian Vance",
+    "PolicyNumber": "9a540188-2fa0-4610-a341-5130618504c6",
+    "ContactInformation": {
+      "Phone": "630-390-2993",
+      "Email": "terriosborn@example.com",
+      "Address": "01673 Osborne Ferry Apt. 849\nRobertbury, AR 69950"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-12",
+    "Location": "65885 Brown Crossing Apt. 285\nSouth Coreymouth, FM 61683",
+    "Description": "Assume west western forward fact. Size change get forget.\nTrade card alone evening build certain couple."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6335
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2147
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 98835
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3445
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17185
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 127947,
+    "TotalApproved": 103112
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Robinson Jr.",
+    "ContactInformation": {
+      "Phone": "420-200-9790x98510",
+      "Email": "michelle45@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/2cd77c08-b94c-4345-b037-c3fc9daf4a60"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Roberts PLC",
+    "Model": "sometimes",
+    "Year": 2009,
+    "VIN": "eda2412e-cc1c-400d-83c0-3d79e24cbd63"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anna Huber",
+      "ContactInformation": {
+        "Phone": "693.809.4306x44811",
+        "Email": "yfarmer@example.org"
+      },
+      "Statement": "Where kitchen interest dinner reveal quite. Eat long conference training want board. Argue black likely share.\nKind production add entire party. Stay finally idea month."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c667200b-cc4e-47da-aa9f-b2784e7ec500",
+    "OfficerName": "Jacqueline Lopez",
+    "ReportDetails": "Health check along guy. Simply discuss charge subject people ground good.\nSpring news something movie sport. Quality film yes keep American. Nearly identify compare area."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 554,
+    "AnnualIncome": 138994,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

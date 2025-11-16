@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3ea64780-fd3a-46f0-8df9-0bb48edf6f7a",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2025-04-01",
+    "EndDate": "2026-04-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-10",
+    "Location": "6508 Johnson Valley\nHenryfurt, NE 04301",
+    "Description": "Glass in scientist but him relate north.\nFall specific line drug nor front. Well today standard prove sit."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4000
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 74166
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 112381
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 57998
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3021
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 251566,
+    "TotalApproved": 232813
+  },
+  "AdjusterDetails": {
+    "Name": "Shelby Donovan",
+    "ContactInformation": {
+      "Phone": "927.651.8306x199",
+      "Email": "ernestsmith@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/9c62e9aa-9820-4742-8f47-a2533942c5f0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mckee LLC",
+    "Model": "hair",
+    "Year": 2006,
+    "VIN": "6f2b8bc9-e98f-4c9f-bb2a-a5844dde6d8d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kristin Yang",
+      "ContactInformation": {
+        "Phone": "449.555.9455x237",
+        "Email": "jonesethan@example.com"
+      },
+      "Statement": "Society fish artist start bill already growth. Project green anyone view oil.\nVery generation lay should. Ability bad rise race. Spring toward force federal southern fine own."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c9290646-788d-4559-bee8-a611976172b0",
+    "OfficerName": "Carl Peterson",
+    "ReportDetails": "Garden total article ground product feel those science. Animal raise process method.\nMuch sea we draw less. Manage surface culture method serious free."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 809,
+    "AnnualIncome": 198242,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 8,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

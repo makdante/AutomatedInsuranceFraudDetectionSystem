@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c06c3352-120f-4fbe-be7d-51f6f998b89e",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2025-06-08",
+    "EndDate": "2026-06-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-03",
+    "Location": "99922 Daniel Port\nNew Seanfurt, GU 21881",
+    "Description": "Station front skill should. Draw guy road strong very media. Minute along Congress boy talk bill.\nRock young firm. Reflect development campaign sure arrive. Worker too realize score figure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 157825
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 99252
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19369
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 67360
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2868
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 346674,
+    "TotalApproved": 294479
+  },
+  "AdjusterDetails": {
+    "Name": "Derek Le",
+    "ContactInformation": {
+      "Phone": "001-469-484-5217x79183",
+      "Email": "fjohnson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d8713d31-aea4-47aa-8a5d-ac7b664a3006"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez, Shannon and Marshall",
+    "Model": "seem",
+    "Year": 2016,
+    "VIN": "306028ec-cdb7-4bea-b9d1-f7e27b7ab458"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stephen Ford",
+      "ContactInformation": {
+        "Phone": "001-337-306-1977x78072",
+        "Email": "welchanita@example.com"
+      },
+      "Statement": "Marriage prepare husband power argue. True nation senior brother move friend environmental. Up but recognize doctor certain what medical difficult."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f51f2f34-bff2-433c-9fb4-441187fc9cc7",
+    "OfficerName": "Stephen Nelson",
+    "ReportDetails": "Nature toward tough my similar. Actually upon time evening both structure. Medical yes look."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 665,
+    "AnnualIncome": 156123,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 5,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

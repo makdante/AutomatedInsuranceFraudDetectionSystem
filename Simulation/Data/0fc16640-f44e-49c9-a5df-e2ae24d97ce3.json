@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0fc16640-f44e-49c9-a5df-e2ae24d97ce3",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2024-12-22",
+    "EndDate": "2025-12-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-17",
+    "Location": "19555 Park Grove Apt. 497\nHenrychester, NJ 43833",
+    "Description": "If include actually poor safe. Public foot I car.\nDream organization million from. Add hot special item article. Act wear including sure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6601
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 56683
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11670
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5477
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2654
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 83085,
+    "TotalApproved": 23844
+  },
+  "AdjusterDetails": {
+    "Name": "Sally Hurst",
+    "ContactInformation": {
+      "Phone": "(306)947-5442x498",
+      "Email": "paultyler@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/18bafd63-7583-473e-b70c-e14dbcdac1f9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bell and Sons",
+    "Model": "reduce",
+    "Year": 2022,
+    "VIN": "8f78da5f-6259-4efa-93ac-a7432384ddfd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Vanessa Gill",
+      "ContactInformation": {
+        "Phone": "+1-719-940-9451",
+        "Email": "tamara11@example.com"
+      },
+      "Statement": "Prepare well voice wide cold. Ever measure between level realize late occur think.\nProbably prevent break we character true candidate American."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5687c794-3e47-478c-b737-7b0fd9ea851a",
+    "OfficerName": "Christopher Phillips",
+    "ReportDetails": "End around sense. About approach build back country. Member significant score reflect amount watch citizen."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 643,
+    "AnnualIncome": 119428,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 3,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ee42a84d-e73c-4635-94c7-08931fbb523d",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2025-03-16",
+    "EndDate": "2026-03-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-15",
+    "Location": "829 Johnson Hills\nDonnachester, OH 67751",
+    "Description": "Easy note food hold market budget major. Consider baby catch bank. Bad more fish who resource.\nSee manager prevent best thus specific. Hear believe economy create decide."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3388
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 83222
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3792
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5174
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 32057
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 127633,
+    "TotalApproved": 65881
+  },
+  "AdjusterDetails": {
+    "Name": "Charles Morgan",
+    "ContactInformation": {
+      "Phone": "949.921.9223",
+      "Email": "kimberly00@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/053dd78e-fe06-4c3e-8078-4c6240faba90"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Armstrong-Tyler",
+    "Model": "fire",
+    "Year": 2011,
+    "VIN": "b974ff42-2dc8-4366-b671-d9687deb3a71"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jean Watkins",
+      "ContactInformation": {
+        "Phone": "578-610-5855x54394",
+        "Email": "nealdiane@example.net"
+      },
+      "Statement": "State out serious hundred. Baby behind future goal number bank consider.\nAdministration indicate believe cultural family huge very. Boy they thank career. Fear also thousand show to him young."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2c5f24b5-4b29-408e-9c0a-7e6e170c931f",
+    "OfficerName": "Wayne Atkinson",
+    "ReportDetails": "Perform though moment heart per attorney eight.\nCard our among seat thought common. Audience generation customer sometimes new join resource."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 786,
+    "AnnualIncome": 20086,
+    "DebtToIncomeRatio": 0.38
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 2,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

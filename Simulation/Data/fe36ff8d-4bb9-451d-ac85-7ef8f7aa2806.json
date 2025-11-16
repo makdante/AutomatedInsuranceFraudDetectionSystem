@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fe36ff8d-4bb9-451d-ac85-7ef8f7aa2806",
+  "PolicyID": "9a540188-2fa0-4610-a341-5130618504c6",
+  "EffectiveDates": {
+    "StartDate": "2025-05-01",
+    "EndDate": "2026-05-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5e1aef1e-7897-4f43-8b25-4f651ff5946d",
+    "Name": "Brian Vance",
+    "PolicyNumber": "9a540188-2fa0-4610-a341-5130618504c6",
+    "ContactInformation": {
+      "Phone": "630-390-2993",
+      "Email": "terriosborn@example.com",
+      "Address": "01673 Osborne Ferry Apt. 849\nRobertbury, AR 69950"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-31",
+    "Location": "71886 Tracy Pass\nYoungside, KY 77164",
+    "Description": "Ability run tell left pay. Reduce almost significant which return almost education."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 54121
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 47069
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 75755
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9439
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10684
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 197068,
+    "TotalApproved": 10017
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Diaz",
+    "ContactInformation": {
+      "Phone": "(225)952-2172",
+      "Email": "ruben67@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/7356fbe1-1d8b-46f7-8a81-1ed232c62694"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams, Keller and Vang",
+    "Model": "key",
+    "Year": 2004,
+    "VIN": "e568fabc-141f-4146-8946-a7985f602c0a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Garrett Morris",
+      "ContactInformation": {
+        "Phone": "246-227-4892x9468",
+        "Email": "taylorjeff@example.com"
+      },
+      "Statement": "Development growth official behavior himself example.\nPressure final right test century support growth since. Lawyer religious too. Threat purpose six front late near bad."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8c483cec-8bdf-427e-8322-3b7566cb2418",
+    "OfficerName": "Debra Ruiz",
+    "ReportDetails": "Read machine baby production reason. Expert fight activity line war spring run. It someone agent practice. Which hear truth speech share minute election."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 828,
+    "AnnualIncome": 72011,
+    "DebtToIncomeRatio": 0.78
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

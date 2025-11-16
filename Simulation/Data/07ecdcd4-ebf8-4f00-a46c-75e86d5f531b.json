@@ -1,0 +1,112 @@
+{
+  "ClaimID": "07ecdcd4-ebf8-4f00-a46c-75e86d5f531b",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2025-05-17",
+    "EndDate": "2026-05-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-26",
+    "Location": "041 Rebecca Cliffs Suite 310\nErikton, TX 93519",
+    "Description": "Black woman apply note early majority. Hear father anything my nation. Foot member particular.\nCertain every main would pressure start. Bag car our respond it.\nPer mouth picture area huge."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9715
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15679
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 99618
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4976
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39960
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 169948,
+    "TotalApproved": 143870
+  },
+  "AdjusterDetails": {
+    "Name": "Deanna Patterson",
+    "ContactInformation": {
+      "Phone": "(993)390-1822",
+      "Email": "neaton@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/f349cae1-c94a-477e-a680-866ee6721759"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson-Booth",
+    "Model": "other",
+    "Year": 2005,
+    "VIN": "fe77ef3c-a23d-4cbb-b9d4-0c84ecf5d9b4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alexander Scott",
+      "ContactInformation": {
+        "Phone": "833-726-2826",
+        "Email": "zcook@example.net"
+      },
+      "Statement": "Hard medical without what chair final data. Trade until color without feel.\nPretty together spend difficult community peace. Enter food section take social month charge. Who data size car."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b227f99c-d70c-49d0-9a79-9e64f0ee2a1f",
+    "OfficerName": "Brittney Holder",
+    "ReportDetails": "Class heavy TV debate stay why consumer. Kid student everyone else choice lay.\nWithout father cause by voice last likely. Mr leave future foot."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 498,
+    "AnnualIncome": 115573,
+    "DebtToIncomeRatio": 0.89
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 8,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

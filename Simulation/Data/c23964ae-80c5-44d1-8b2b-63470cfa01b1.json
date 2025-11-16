@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c23964ae-80c5-44d1-8b2b-63470cfa01b1",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2025-03-01",
+    "EndDate": "2026-03-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-12",
+    "Location": "4506 Patrick Parks\nNew Patrickstad, KS 75187",
+    "Description": "Ok sister relationship suffer finally dinner. For talk feel want. Continue car reason red."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5012
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3673
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1456
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3625
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 82483
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 96249,
+    "TotalApproved": 82397
+  },
+  "AdjusterDetails": {
+    "Name": "Dr. Mark Brown",
+    "ContactInformation": {
+      "Phone": "767-988-3714x661",
+      "Email": "qadams@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/43839203-9334-4fda-94ce-facd79455db8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brooks PLC",
+    "Model": "wait",
+    "Year": 2020,
+    "VIN": "1a6cc4e9-2947-4b4c-8d91-2209e9c12f95"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Washington",
+      "ContactInformation": {
+        "Phone": "(203)860-1890",
+        "Email": "jameskarl@example.net"
+      },
+      "Statement": "Practice believe begin statement evidence strategy fill north. Analysis guess property movie claim environment. Western president partner whole it."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "18b15a0b-a85d-4c11-9ada-abfd6c13da17",
+    "OfficerName": "Darrell Byrd",
+    "ReportDetails": "Result skin hit establish health choice bar.\nLife group remember to. Mind admit me place never response firm thousand."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 384,
+    "AnnualIncome": 68891,
+    "DebtToIncomeRatio": 0.72
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 4,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

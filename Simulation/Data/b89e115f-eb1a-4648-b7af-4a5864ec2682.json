@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b89e115f-eb1a-4648-b7af-4a5864ec2682",
+  "PolicyID": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+  "EffectiveDates": {
+    "StartDate": "2025-10-18",
+    "EndDate": "2026-10-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba82c3bd-9d46-4b0e-b555-5005238e858f",
+    "Name": "Kimberly Perez",
+    "PolicyNumber": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+    "ContactInformation": {
+      "Phone": "001-609-229-9683x29012",
+      "Email": "nicholsbenjamin@example.com",
+      "Address": "81438 Berry Squares Apt. 214\nSarahtown, CA 13161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-15",
+    "Location": "91215 Anderson River\nCookville, CA 48235",
+    "Description": "Without join stuff receive. Whatever word natural style.\nDream education evidence election most body until dark.\nBorn card discussion nor. Leader fall share."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13206
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9378
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7443
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7016
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12981
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 50024,
+    "TotalApproved": 26144
+  },
+  "AdjusterDetails": {
+    "Name": "Ashley Miller",
+    "ContactInformation": {
+      "Phone": "382-310-2715x5782",
+      "Email": "perezeric@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/221e3c18-39a6-4999-a240-a52f48665e94"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Santiago-Espinoza",
+    "Model": "cause",
+    "Year": 2017,
+    "VIN": "be8305f2-9a07-4f16-be15-721ca63f52d9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Donald Fitzpatrick",
+      "ContactInformation": {
+        "Phone": "+1-736-524-4471x8844",
+        "Email": "pblack@example.net"
+      },
+      "Statement": "Popular glass can all across government close. Respond perhaps wind blood firm about. Late heavy across his cut."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b18bffb4-4bf6-4864-8147-867ae9ad01b4",
+    "OfficerName": "Robert Wilson",
+    "ReportDetails": "Indeed game method crime him. Collection week require physical myself either customer.\nPer notice truth compare scene. Never will thought herself take."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 656,
+    "AnnualIncome": 72558,
+    "DebtToIncomeRatio": 0.74
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

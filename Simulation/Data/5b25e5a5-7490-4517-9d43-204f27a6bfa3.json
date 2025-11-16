@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5b25e5a5-7490-4517-9d43-204f27a6bfa3",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2025-05-27",
+    "EndDate": "2026-05-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-02",
+    "Location": "072 Joseph Ridges Apt. 981\nMclaughlinstad, FL 94977",
+    "Description": "Tough artist economy your population environment cultural.\nRecent require move budget. Region maintain system box book role. Maintain scene wait."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 178108
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7442
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 53214
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 97547
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7372
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 343683,
+    "TotalApproved": 306261
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Miller",
+    "ContactInformation": {
+      "Phone": "+1-402-644-1400x001",
+      "Email": "jennifer95@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/deff2b63-99dc-406b-a101-6c14e7aba576"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ramirez Group",
+    "Model": "scientist",
+    "Year": 2019,
+    "VIN": "293bf0d0-34ba-4d6c-ab80-722a22b46e01"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebecca Gallegos",
+      "ContactInformation": {
+        "Phone": "3892754801",
+        "Email": "vanessasullivan@example.net"
+      },
+      "Statement": "Nothing course strategy first laugh actually. Amount own certainly performance hard education evening.\nCulture special benefit morning. Sell budget bed music ready letter pay out."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2e2e1d74-65ff-4466-ac63-3d0662462c50",
+    "OfficerName": "William Foster",
+    "ReportDetails": "Per every quickly face. Produce turn she admit account city simple. Growth benefit side tough century land claim.\nSee occur accept protect loss trouble. Development card move election."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 595,
+    "AnnualIncome": 183953,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 1,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

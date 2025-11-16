@@ -1,0 +1,112 @@
+{
+  "ClaimID": "83297a12-0df0-4fef-b4fa-5278de029a0b",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2025-01-11",
+    "EndDate": "2026-01-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-11",
+    "Location": "7584 Lisa Views\nWest John, KY 53512",
+    "Description": "Next bad item cell rate form simple. Write scientist their everybody person country. Thank answer hotel several."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 60704
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 64363
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13835
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 136640
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1908
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 277450,
+    "TotalApproved": 141382
+  },
+  "AdjusterDetails": {
+    "Name": "Richard Carter",
+    "ContactInformation": {
+      "Phone": "001-300-769-6383x64755",
+      "Email": "ssmith@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/92930709-bd93-477c-b992-5bec41202f5e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "James, Powell and Parker",
+    "Model": "thought",
+    "Year": 2005,
+    "VIN": "f5758551-248c-4a29-9728-fa91401da927"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Teresa Walker",
+      "ContactInformation": {
+        "Phone": "3716898136",
+        "Email": "maryanderson@example.org"
+      },
+      "Statement": "Return population once cup senior. Clearly effort simply man region Mrs cause. Recent control once walk improve. Necessary message table once that vote."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "dbb7cdc4-f738-4e9c-84c9-d036ece809a9",
+    "OfficerName": "Diana Wright",
+    "ReportDetails": "Study scene try. Tv attack boy second state indeed hospital story. Thank before imagine floor stage look answer none."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 747,
+    "AnnualIncome": 57558,
+    "DebtToIncomeRatio": 1.0
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

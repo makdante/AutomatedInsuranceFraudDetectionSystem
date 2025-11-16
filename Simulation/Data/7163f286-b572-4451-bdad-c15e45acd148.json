@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7163f286-b572-4451-bdad-c15e45acd148",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2024-12-08",
+    "EndDate": "2025-12-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-23",
+    "Location": "024 Stanley Flats Suite 464\nPort Calvinfurt, PW 28824",
+    "Description": "Line business sense thing life improve increase. Daughter hair north something. Well general firm because."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 102125
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7216
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17923
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18086
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 37990
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 183340,
+    "TotalApproved": 26173
+  },
+  "AdjusterDetails": {
+    "Name": "Melanie Pratt",
+    "ContactInformation": {
+      "Phone": "638-757-4356",
+      "Email": "rthompson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e14a653a-f292-4c24-9081-e6d16efd0757"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lewis PLC",
+    "Model": "dark",
+    "Year": 2022,
+    "VIN": "919d7a22-4d5f-4c01-8c13-0aa5e0ad6228"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sarah Lopez",
+      "ContactInformation": {
+        "Phone": "+1-842-301-6217",
+        "Email": "douglasosborn@example.net"
+      },
+      "Statement": "Indicate recent although left. Believe sing five set.\nMany early network race. Girl animal account huge control according pretty. What break executive religious against pay often."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8d9f0d64-c260-48b0-905c-72bd0e17d8d9",
+    "OfficerName": "Eric Snyder MD",
+    "ReportDetails": "Total tough stage why family nice significant position. Information special program beat seek second local. Box become practice."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 773,
+    "AnnualIncome": 80310,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

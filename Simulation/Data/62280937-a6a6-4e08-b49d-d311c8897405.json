@@ -1,0 +1,112 @@
+{
+  "ClaimID": "62280937-a6a6-4e08-b49d-d311c8897405",
+  "PolicyID": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+  "EffectiveDates": {
+    "StartDate": "2025-10-27",
+    "EndDate": "2026-10-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "49ce8efb-716c-47d5-8d7f-00c686bd480a",
+    "Name": "Evan Russell",
+    "PolicyNumber": "17084fe1-0add-4233-91d8-7f1ac34bee5b",
+    "ContactInformation": {
+      "Phone": "546.466.7522",
+      "Email": "shawn53@example.net",
+      "Address": "6476 Holland Causeway Suite 490\nSouth Reginaborough, WV 81664"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-01",
+    "Location": "877 Robert Meadows Suite 050\nNorth Mark, LA 66426",
+    "Description": "Management air smile world customer room marriage. Old rock trade continue note usually another.\nWoman large consumer mouth bit which mouth. Drop once stay head sort personal suggest read."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 112820
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4317
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 165591
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 75412
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6207
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 364347,
+    "TotalApproved": 101143
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Scott",
+    "ContactInformation": {
+      "Phone": "+1-802-571-1545x620",
+      "Email": "jimjordan@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/78978cf9-2551-45e6-a11b-5d068f44480a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Franklin, Diaz and Crane",
+    "Model": "it",
+    "Year": 2011,
+    "VIN": "17f5ce8a-c2c3-49e6-b05b-43df60eb496f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Manning",
+      "ContactInformation": {
+        "Phone": "641-969-0313",
+        "Email": "rodriguezscott@example.org"
+      },
+      "Statement": "Result young pick effect rather source. Officer smile choose poor. Agree product seem may one good news.\nAnimal around garden. Whether great suggest current. Form wrong main drug them four."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6ee5e361-a438-4725-a356-69fc31158fa2",
+    "OfficerName": "Jacob Gonzalez",
+    "ReportDetails": "Expect difference suggest animal. Easy sometimes page hospital whose.\nScene hour movement during. Soldier indeed attention land enter. Face word concern speech."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 716,
+    "AnnualIncome": 108517,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 5,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

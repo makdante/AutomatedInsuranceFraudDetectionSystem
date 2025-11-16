@@ -1,0 +1,112 @@
+{
+  "ClaimID": "266725a3-55f3-4313-900f-f71a10fcee32",
+  "PolicyID": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+  "EffectiveDates": {
+    "StartDate": "2025-06-08",
+    "EndDate": "2026-06-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "33851d0f-ae34-4d84-9979-9c0bb345ff37",
+    "Name": "Emily Richardson",
+    "PolicyNumber": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+    "ContactInformation": {
+      "Phone": "(999)370-8402x9360",
+      "Email": "stephen63@example.com",
+      "Address": "90107 Stephen Well\nAndrewmouth, ND 46797"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-10",
+    "Location": "3280 Martin Island\nMurrayland, IL 17489",
+    "Description": "Knowledge get speech fast perhaps. Sister major first those campaign.\nSmile kitchen doctor future news big with. How forget east thought. Front dream reveal western provide."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4890530
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4806447
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4810558
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4658453
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4707439
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 23873427,
+    "TotalApproved": 11346696
+  },
+  "AdjusterDetails": {
+    "Name": "Robert Duarte",
+    "ContactInformation": {
+      "Phone": "001-763-512-1471x016",
+      "Email": "davidterry@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/7220a5c7-7e35-4935-abae-26ced6a70e37"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Velez Ltd",
+    "Model": "machine",
+    "Year": 2010,
+    "VIN": "3486545c-9066-46c8-993a-095c263ecc43"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Kelley",
+      "ContactInformation": {
+        "Phone": "4508847885",
+        "Email": "mrodgers@example.com"
+      },
+      "Statement": "Prove positive need during it. Use morning sit.\nIndeed action city yet I why resource. Address general always discussion marriage main. Paper environment assume approach."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "57016f63-301d-4fdc-a1a7-a29a090ee91b",
+    "OfficerName": "Eric Pope",
+    "ReportDetails": "Mouth attorney fill prove truth. Camera news that difficult guess.\nAlways quickly then than recognize so series. Speech commercial learn hold."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 438,
+    "AnnualIncome": 46106,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 6,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

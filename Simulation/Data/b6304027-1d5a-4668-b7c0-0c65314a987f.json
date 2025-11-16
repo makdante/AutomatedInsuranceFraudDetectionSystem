@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b6304027-1d5a-4668-b7c0-0c65314a987f",
+  "PolicyID": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+  "EffectiveDates": {
+    "StartDate": "2025-03-13",
+    "EndDate": "2026-03-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1ca65977-e36d-46f7-95b8-d03e34c9f672",
+    "Name": "Melissa Charles DVM",
+    "PolicyNumber": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+    "ContactInformation": {
+      "Phone": "871-833-2368x7208",
+      "Email": "scottwagner@example.org",
+      "Address": "006 Torres Neck Apt. 510\nRichardsonshire, NM 15931"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-31",
+    "Location": "6928 Allen Locks\nBrianberg, MP 61415",
+    "Description": "Significant option great. Almost surface wind own officer education."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8868
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5328
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19653
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 58379
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 21733
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 113961,
+    "TotalApproved": 15150
+  },
+  "AdjusterDetails": {
+    "Name": "Rhonda Bishop",
+    "ContactInformation": {
+      "Phone": "(577)981-5099",
+      "Email": "tmiller@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/7c652a80-e7da-4f1e-a546-73dce0b4df9a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Russell LLC",
+    "Model": "computer",
+    "Year": 2014,
+    "VIN": "ec2adb2b-0655-409a-91ae-2c2389975d3a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Schmidt",
+      "ContactInformation": {
+        "Phone": "352-971-6835",
+        "Email": "jwhite@example.net"
+      },
+      "Statement": "Break help color girl outside detail.\nDevelop herself cell baby theory. Hair person two. Tonight bed write herself respond plant.\nCentury clear pass director the. Current save bit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1de3e9c6-f510-40d3-9c97-07778f95e57a",
+    "OfficerName": "Victoria Jones",
+    "ReportDetails": "Prove debate sell act. Often as medical attack series watch raise. Increase nor team spring everybody soldier life."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 637,
+    "AnnualIncome": 157184,
+    "DebtToIncomeRatio": 0.56
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

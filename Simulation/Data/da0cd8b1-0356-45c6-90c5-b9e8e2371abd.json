@@ -1,0 +1,112 @@
+{
+  "ClaimID": "da0cd8b1-0356-45c6-90c5-b9e8e2371abd",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-05-05",
+    "EndDate": "2026-05-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-25",
+    "Location": "3737 Steven Motorway\nIsabellaborough, MS 32298",
+    "Description": "Power since important. Later trouble agent spend least. A plant couple develop recently range.\nCommercial purpose once spend. Day project section hit."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4852
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7703
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7358
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7352
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1342
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 28607,
+    "TotalApproved": 6942
+  },
+  "AdjusterDetails": {
+    "Name": "Daniel Walker",
+    "ContactInformation": {
+      "Phone": "617-803-8086x619",
+      "Email": "fwilliams@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/e9962892-04ac-439d-b041-ec552cd435ea"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith, Salazar and Ray",
+    "Model": "laugh",
+    "Year": 2007,
+    "VIN": "ab033c25-326c-4193-b45a-38803b854992"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brandon Roberts",
+      "ContactInformation": {
+        "Phone": "383.729.6448",
+        "Email": "victorialopez@example.com"
+      },
+      "Statement": "Her call form worry oil leader quickly task. According foreign spend ago identify. Travel sister ever bad concern choose however. Hear check think include player."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6459beab-3ae7-4d82-a70b-7c0ec88de281",
+    "OfficerName": "Terry Joyce",
+    "ReportDetails": "Beat trade couple positive how girl wall society. City several part me officer question and drug.\nBody along wind form occur physical.\nLaw he various them race. Lead bad trip food."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 765,
+    "AnnualIncome": 185802,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

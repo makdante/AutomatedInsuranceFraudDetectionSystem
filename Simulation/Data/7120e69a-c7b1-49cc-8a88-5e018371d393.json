@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7120e69a-c7b1-49cc-8a88-5e018371d393",
+  "PolicyID": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+  "EffectiveDates": {
+    "StartDate": "2025-03-06",
+    "EndDate": "2026-03-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "342b380f-5b25-4a6f-a462-2fa1c3057fc2",
+    "Name": "Kayla Wilson",
+    "PolicyNumber": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+    "ContactInformation": {
+      "Phone": "432-340-1587",
+      "Email": "jonathan54@example.com",
+      "Address": "25321 Lopez Stream\nPort Amandaside, MT 41311"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-19",
+    "Location": "5380 Nicholas Glens Apt. 280\nTaylorton, NY 98521",
+    "Description": "Floor people common education than help. Tv door city marriage."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7098
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18050
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13891
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 155599
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5909
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 200547,
+    "TotalApproved": 120742
+  },
+  "AdjusterDetails": {
+    "Name": "Laura King",
+    "ContactInformation": {
+      "Phone": "001-872-344-4668x0182",
+      "Email": "matthew97@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/2c9c0a16-a6c2-4e8a-815b-afcf36b38658"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hoffman, Peterson and Hill",
+    "Model": "style",
+    "Year": 2022,
+    "VIN": "db28cdfe-f0cf-4665-8690-cc80c56de6e5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Gregory Gentry",
+      "ContactInformation": {
+        "Phone": "(679)575-1484x27303",
+        "Email": "bduncan@example.com"
+      },
+      "Statement": "Various yes knowledge market. Student smile reality type above success lose various.\nBetter husband read piece third professor. Reflect edge public."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c5a90a28-1b99-4fc5-8c61-db5fd3befa60",
+    "OfficerName": "Regina White",
+    "ReportDetails": "Represent physical main impact product. Lawyer car include both major.\nWest safe significant. Just way eye however rise concern."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 763,
+    "AnnualIncome": 74972,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 5,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

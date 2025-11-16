@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ec1fca14-a767-43b7-afcb-e24e51496415",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-03-30",
+    "EndDate": "2026-03-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-13",
+    "Location": "374 Charles Parkway Apt. 480\nMarkmouth, VA 47040",
+    "Description": "Collection record their. Result audience single address foreign. Get road court partner."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4197320
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4174292
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4411547
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4389408
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4459779
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21632346,
+    "TotalApproved": 11997508
+  },
+  "AdjusterDetails": {
+    "Name": "Cameron Burton",
+    "ContactInformation": {
+      "Phone": "(704)442-7965",
+      "Email": "craigmorgan@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/bb015167-1516-4f20-a200-2ce8a9fed20f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-13T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-18T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-23T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Carroll and Sons",
+    "Model": "probably",
+    "Year": 2002,
+    "VIN": "975d7554-79a4-416c-b056-4de0553ba904"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Frank Horne",
+      "ContactInformation": {
+        "Phone": "7874126641",
+        "Email": "whitecynthia@example.com"
+      },
+      "Statement": "Response range campaign garden name state after. Real design people toward first their sister. Team kid meet realize."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "22e4a4f2-bf17-4118-a942-8efce3c41204",
+    "OfficerName": "James Adams",
+    "ReportDetails": "Capital brother should. Article them voice morning next peace knowledge staff. Form popular war.\nLay water occur son. Garden none opportunity song. Quickly old although save."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 313,
+    "AnnualIncome": 52051,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

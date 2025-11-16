@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9d4552be-5e72-4033-b2b4-7130516b513c",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2025-08-02",
+    "EndDate": "2026-08-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-04",
+    "Location": "5289 Natasha Meadow Apt. 625\nPort Ryanmouth, NC 81889",
+    "Description": "Girl budget somebody experience bed idea. Local cover mouth above relate.\nMatter technology listen deep public need.\nForget politics today can. Other week executive bad human simply let."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4587846
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4563042
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4584106
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4495306
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4048593
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22278893,
+    "TotalApproved": 15570834
+  },
+  "AdjusterDetails": {
+    "Name": "Christine Chung",
+    "ContactInformation": {
+      "Phone": "414.261.7892",
+      "Email": "sharon99@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1c48d83a-e078-4109-a453-0cdab404dc0c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis-Robbins",
+    "Model": "author",
+    "Year": 2010,
+    "VIN": "0e0a1c85-da80-4a02-8918-9b0aed0fdb78"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Morris",
+      "ContactInformation": {
+        "Phone": "001-592-504-7881x2214",
+        "Email": "parker55@example.net"
+      },
+      "Statement": "Add road push seat result. Contain able these example staff drive work.\nWater figure serve data like I. Would final game wonder share debate team. Alone white meeting follow perhaps product."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "42073e10-e4ac-437d-a919-06261e762c98",
+    "OfficerName": "Justin Webb",
+    "ReportDetails": "Although interesting reflect under take military TV. Listen thing six. Entire nice former perhaps keep. Better particular clearly within general list quickly."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 400,
+    "AnnualIncome": 85196,
+    "DebtToIncomeRatio": 0.6
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

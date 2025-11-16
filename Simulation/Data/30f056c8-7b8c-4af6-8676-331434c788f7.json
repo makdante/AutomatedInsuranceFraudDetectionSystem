@@ -1,0 +1,112 @@
+{
+  "ClaimID": "30f056c8-7b8c-4af6-8676-331434c788f7",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-09-04",
+    "EndDate": "2026-09-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-19",
+    "Location": "43265 Robert Land Suite 856\nPort Jonathanshire, SC 49046",
+    "Description": "Simply he allow mind provide partner rise. Both arrive industry blood true. Find new us finally.\nTell Democrat born human truth management. Party security sort protect event hope area."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1272
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3691
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2130
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 126707
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 20299
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 154099,
+    "TotalApproved": 47142
+  },
+  "AdjusterDetails": {
+    "Name": "Valerie Daniel",
+    "ContactInformation": {
+      "Phone": "001-648-819-6019x841",
+      "Email": "beckerangela@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/79a36d3b-295c-43f5-abeb-5fe897b69218"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hunt-Levy",
+    "Model": "discover",
+    "Year": 2015,
+    "VIN": "b8321df2-d489-4ac8-b33d-bc47ceb37459"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ronald Roberts",
+      "ContactInformation": {
+        "Phone": "(857)872-5140x9987",
+        "Email": "clarkmonica@example.org"
+      },
+      "Statement": "Hospital hospital possible. Meet including everyone east movie yes. Everyone boy much threat real tonight.\nMovie method late. Father ten sense instead. Begin class trade involve could."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a69ca626-7d8e-4853-a44d-71f121535aac",
+    "OfficerName": "Karen Valdez",
+    "ReportDetails": "Leader heavy during pull. Kitchen be election short.\nDream yeah mind receive. Door analysis see thus hold.\nIdentify cell and some. Area always both."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 530,
+    "AnnualIncome": 91512,
+    "DebtToIncomeRatio": 0.2
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 8,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

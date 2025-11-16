@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dccfec3c-579e-4cb2-bbbd-b9c45b4f59b6",
+  "PolicyID": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+  "EffectiveDates": {
+    "StartDate": "2025-07-31",
+    "EndDate": "2026-07-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1ca65977-e36d-46f7-95b8-d03e34c9f672",
+    "Name": "Melissa Charles DVM",
+    "PolicyNumber": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+    "ContactInformation": {
+      "Phone": "871-833-2368x7208",
+      "Email": "scottwagner@example.org",
+      "Address": "006 Torres Neck Apt. 510\nRichardsonshire, NM 15931"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-15",
+    "Location": "6080 Goodwin Avenue\nNorth Joebury, AR 50063",
+    "Description": "Send nature car woman weight Congress until. Candidate or whom send cover front.\nUs hour development live myself per. Present middle economic a bring any. Talk record game worry let whom."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2502
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 122745
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10019
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13408
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7468
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 156142,
+    "TotalApproved": 12625
+  },
+  "AdjusterDetails": {
+    "Name": "Theodore Lee",
+    "ContactInformation": {
+      "Phone": "8764912217",
+      "Email": "amason@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a17460f8-1b55-4620-8254-80c6c13ec95f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Boone, Williamson and Spencer",
+    "Model": "stuff",
+    "Year": 2010,
+    "VIN": "aad7f4a2-9953-4833-ae03-cb849f669ab1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Allen",
+      "ContactInformation": {
+        "Phone": "+1-341-563-5872x3829",
+        "Email": "ortizanthony@example.com"
+      },
+      "Statement": "Level entire heavy author sound executive.\nResearch list likely skill official thought. It fear budget individual interview factor. Newspaper because hit Democrat."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "189d429e-bcb9-47dd-8edc-be8239f24d00",
+    "OfficerName": "Karen White",
+    "ReportDetails": "Walk child two subject realize there west I. Sister deep physical only wife program."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 771,
+    "AnnualIncome": 91161,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5b48542e-f415-4d71-92a3-14cfa7b2b1c0",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-04-29",
+    "EndDate": "2026-04-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-16",
+    "Location": "05923 Ward Land Apt. 181\nRyanmouth, MN 52519",
+    "Description": "Close appear thousand act employee part. Many yeah bed different sport whether. Movement common fight past very bad cut."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1148
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11885
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 70261
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5227
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 42282
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 130803,
+    "TotalApproved": 57878
+  },
+  "AdjusterDetails": {
+    "Name": "Emily Turner",
+    "ContactInformation": {
+      "Phone": "+1-431-628-3743x2044",
+      "Email": "andrew06@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/bb2f2bd5-d0ff-4e5f-bc7a-2288f473fa8c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hall Inc",
+    "Model": "also",
+    "Year": 2005,
+    "VIN": "4a81bbeb-5b91-44d1-ba6e-9ea3556140b0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Raymond Roberts",
+      "ContactInformation": {
+        "Phone": "(980)970-0186x8762",
+        "Email": "kirsten86@example.org"
+      },
+      "Statement": "Remember speech build suggest. Doctor information professional student company decision special. Question day recently believe part audience start."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9b96a472-21f0-47db-b859-7ac9b7275940",
+    "OfficerName": "Kylie Davis",
+    "ReportDetails": "Option behavior easy paper air high school.\nDream thing argue decision source. Country rock stand no represent. Example including appear buy child professor. Your recent be."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 374,
+    "AnnualIncome": 57867,
+    "DebtToIncomeRatio": 0.52
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d1ad6ded-c42e-44b8-bf69-f2f0726ce56f",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-09-17",
+    "EndDate": "2026-09-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-30",
+    "Location": "29986 Torres Islands\nLake Jenniferland, MO 47510",
+    "Description": "Table drive rock later hospital.\nBehind last she north. Statement probably finish act both question. Table summer card exist can stock forward. Public food campaign."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4129
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5674
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7778
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1563
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 32950
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 52094,
+    "TotalApproved": 15364
+  },
+  "AdjusterDetails": {
+    "Name": "Gary Moore",
+    "ContactInformation": {
+      "Phone": "6757768052",
+      "Email": "pbrown@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/dc3aae12-60af-40f9-8190-462e312692a8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Landry, Martinez and Fields",
+    "Model": "these",
+    "Year": 2007,
+    "VIN": "764c80f7-2ca3-4daa-95fb-3a7f39da63bb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Harper",
+      "ContactInformation": {
+        "Phone": "527-361-6573x67366",
+        "Email": "eatoncharles@example.net"
+      },
+      "Statement": "Thought consumer you carry current itself rule. Similar establish fire represent evidence stock. Along leader simple him. About quality ground."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9f372247-eff7-40da-8277-bc6035d9ef2d",
+    "OfficerName": "Malik Parks",
+    "ReportDetails": "Trouble treat condition. Themselves skill compare identify data heart. Hope billion kind threat.\nMajor teacher plan tax. Third near computer miss body have. Station letter stand level boy."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 711,
+    "AnnualIncome": 112721,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

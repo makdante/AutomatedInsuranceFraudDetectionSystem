@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0193d4b0-d4ff-4dd9-bdf1-1795dfb9c8a6",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-06-12",
+    "EndDate": "2026-06-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-29",
+    "Location": "865 Martin Cape Apt. 487\nLake Seanport, FL 35853",
+    "Description": "This attack return everybody open. Smile popular identify last next spring.\nStudent already seek stay. Reason manage authority gun state mind behavior place."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8849
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2287
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 82920
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 81947
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4006
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 180009,
+    "TotalApproved": 53152
+  },
+  "AdjusterDetails": {
+    "Name": "Kimberly Carter",
+    "ContactInformation": {
+      "Phone": "001-942-550-8018x3679",
+      "Email": "paulaswanson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/11e315ff-db2a-4c8e-ab4b-a3508699af61"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mejia PLC",
+    "Model": "hope",
+    "Year": 2012,
+    "VIN": "3853a6d3-2d37-45e7-993f-09d5849782ab"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nancy Blackwell",
+      "ContactInformation": {
+        "Phone": "221.703.6034",
+        "Email": "laura76@example.org"
+      },
+      "Statement": "Behind son attention share. For sure because age from capital administration play.\nFigure later laugh. Attorney sport occur speak hard draw wide act."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d4228b48-bed4-4f8f-a4e6-c2a0c755bd00",
+    "OfficerName": "Ryan Moran",
+    "ReportDetails": "Compare cause anything chance future huge. Thus dog charge lot where trip. Teacher apply happen fall like."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 787,
+    "AnnualIncome": 196275,
+    "DebtToIncomeRatio": 0.99
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

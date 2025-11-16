@@ -1,0 +1,112 @@
+{
+  "ClaimID": "48be5b4b-2c34-40da-9756-e4339ee3630a",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2024-12-09",
+    "EndDate": "2025-12-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-07",
+    "Location": "6022 Kathy Well\nPort Patricia, GU 94466",
+    "Description": "Order agree amount blood pass growth. Own turn pattern wide quickly.\nResearch radio kid there trouble opportunity least carry. Send main avoid seven the form."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 23821
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9753
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6849
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40472
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17443
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 98338,
+    "TotalApproved": 60846
+  },
+  "AdjusterDetails": {
+    "Name": "Tony Myers",
+    "ContactInformation": {
+      "Phone": "5035907825",
+      "Email": "kristina39@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/9f0b32de-6809-4397-a2bd-e7c09c4d0155"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clark, Ellis and Norris",
+    "Model": "live",
+    "Year": 2002,
+    "VIN": "63803de6-78fb-418c-8f93-4cac941435d5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Stephenson",
+      "ContactInformation": {
+        "Phone": "+1-926-862-9340x983",
+        "Email": "dpalmer@example.com"
+      },
+      "Statement": "Step environmental allow safe. Oil interview effect.\nFly tough story. Attack away ten."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4c32576d-e76b-459f-81c7-08fd09ce6418",
+    "OfficerName": "George Francis",
+    "ReportDetails": "Practice factor want relationship language voice. Everything interest far black. Record from list explain."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 648,
+    "AnnualIncome": 163964,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

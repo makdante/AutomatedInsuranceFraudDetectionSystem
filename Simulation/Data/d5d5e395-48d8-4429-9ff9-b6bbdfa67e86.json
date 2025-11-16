@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d5d5e395-48d8-4429-9ff9-b6bbdfa67e86",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2025-09-12",
+    "EndDate": "2026-09-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-23",
+    "Location": "62225 Ramos Brooks Suite 379\nRyanland, MN 48339",
+    "Description": "Evening nice business value agree soon arrive. System west nearly those investment. Dog street cover author. Catch five begin support least."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 185856
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2122
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 34183
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 113463
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2320
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 337944,
+    "TotalApproved": 91214
+  },
+  "AdjusterDetails": {
+    "Name": "Mr. Kevin Mccoy Jr.",
+    "ContactInformation": {
+      "Phone": "3559546947",
+      "Email": "leahdavis@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/617ee165-76ad-4ec2-af15-1b2510765f34"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hahn, Schneider and George",
+    "Model": "both",
+    "Year": 2010,
+    "VIN": "cd00cf5f-ab1a-4f00-8f5e-0b5fdc61e1f3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Estes",
+      "ContactInformation": {
+        "Phone": "8126173814",
+        "Email": "yujason@example.com"
+      },
+      "Statement": "Son bring since summer vote. So run help yet consumer what.\nThing energy board protect other until major.\nChair east exactly help value. Run year environmental full."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "beb889d2-0e83-44d6-96ce-6ab42d8bebab",
+    "OfficerName": "Christopher Francis",
+    "ReportDetails": "Lay enjoy summer. Realize game either challenge center late.\nDiscuss international article age moment idea. Real allow air pressure dream write which. Writer raise million administration free."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 549,
+    "AnnualIncome": 190068,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 4,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

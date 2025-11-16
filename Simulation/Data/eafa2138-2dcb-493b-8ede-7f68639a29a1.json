@@ -1,0 +1,112 @@
+{
+  "ClaimID": "eafa2138-2dcb-493b-8ede-7f68639a29a1",
+  "PolicyID": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+  "EffectiveDates": {
+    "StartDate": "2025-05-25",
+    "EndDate": "2026-05-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a5e374d7-2a89-4722-82f7-28a28bbdcbf0",
+    "Name": "Evan Fernandez",
+    "PolicyNumber": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+    "ContactInformation": {
+      "Phone": "797-592-5686x43438",
+      "Email": "helen96@example.com",
+      "Address": "70847 Acevedo Path Suite 052\nEast Jason, CO 07830"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-27",
+    "Location": "94286 David Square Apt. 464\nGarrettchester, AR 26395",
+    "Description": "Left mean represent identify answer into bag. Alone floor can use difference economic.\nIdentify treat security decade room per customer. Without these pattern black success."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 46663
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 73733
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8848
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 74573
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 73956
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 277773,
+    "TotalApproved": 235546
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Galvan",
+    "ContactInformation": {
+      "Phone": "2982871152",
+      "Email": "mitchellkatherine@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/83cc8680-1696-4944-9a3a-3cab136bfd8e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Vega Ltd",
+    "Model": "drug",
+    "Year": 2012,
+    "VIN": "3e30799b-8ab0-4bd8-9c7f-e3cfadecb7e1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jason Pierce",
+      "ContactInformation": {
+        "Phone": "894-396-5216x02004",
+        "Email": "richardsongeorge@example.net"
+      },
+      "Statement": "Machine friend reduce stuff. Consider wrong minute stay perhaps similar have. Man into difference.\nResource chair girl. Describe real likely born drug put report."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "89b71ae5-7129-4235-af43-6396a01bd782",
+    "OfficerName": "Derek Brady",
+    "ReportDetails": "Score brother game more charge bring. Cost after sort understand head partner. Never create avoid action tough. Magazine foreign data statement."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 499,
+    "AnnualIncome": 50643,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

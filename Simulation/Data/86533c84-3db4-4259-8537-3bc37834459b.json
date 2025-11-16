@@ -1,0 +1,112 @@
+{
+  "ClaimID": "86533c84-3db4-4259-8537-3bc37834459b",
+  "PolicyID": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+  "EffectiveDates": {
+    "StartDate": "2025-03-14",
+    "EndDate": "2026-03-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "342b380f-5b25-4a6f-a462-2fa1c3057fc2",
+    "Name": "Kayla Wilson",
+    "PolicyNumber": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+    "ContactInformation": {
+      "Phone": "432-340-1587",
+      "Email": "jonathan54@example.com",
+      "Address": "25321 Lopez Stream\nPort Amandaside, MT 41311"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-12",
+    "Location": "PSC 9156, Box 5737\nAPO AE 04358",
+    "Description": "Long democratic by research property hot. Answer argue few."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4965585
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4417756
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4428111
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4417173
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4590413
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22819038,
+    "TotalApproved": 10892950
+  },
+  "AdjusterDetails": {
+    "Name": "David Hernandez",
+    "ContactInformation": {
+      "Phone": "+1-531-928-3803x64364",
+      "Email": "vgarza@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/eb216669-2d03-4321-bd10-156cd78a558d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Choi-Woods",
+    "Model": "present",
+    "Year": 2015,
+    "VIN": "d2b860dd-1766-4952-99da-dc412ddcebb4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Andrew Estrada",
+      "ContactInformation": {
+        "Phone": "+1-740-334-0052x697",
+        "Email": "jonathon87@example.com"
+      },
+      "Statement": "She should somebody early even. Impact home here thousand book wall after."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2e8ae868-42b5-4b80-b164-6d844b6a5f02",
+    "OfficerName": "Alyssa Bryant",
+    "ReportDetails": "Week federal here including. Person food fall place.\nEnvironmental painting executive real even quickly alone. Unit international day involve sing. Congress mother note pass throw natural."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 371,
+    "AnnualIncome": 44436,
+    "DebtToIncomeRatio": 0.31
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

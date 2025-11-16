@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d7632587-9eaf-4b9e-8aed-baf9aee06570",
+  "PolicyID": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+  "EffectiveDates": {
+    "StartDate": "2025-05-23",
+    "EndDate": "2026-05-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "47c5522b-b804-4bac-b21c-da33d60d70fd",
+    "Name": "Richard Conway",
+    "PolicyNumber": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+    "ContactInformation": {
+      "Phone": "581-212-2861x494",
+      "Email": "usimpson@example.com",
+      "Address": "4097 Welch Harbors Apt. 346\nNorth Jacobside, IA 43728"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-03",
+    "Location": "9648 Jennifer Park\nDaltonfort, DC 09714",
+    "Description": "But present stand talk early view. Group job machine heavy current.\nSix citizen light. Whose little hear agent charge however. Soon nice loss.\nNews finish not real include poor professor."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4313
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22179
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14662
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3685
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4943
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 49782,
+    "TotalApproved": 3254
+  },
+  "AdjusterDetails": {
+    "Name": "Daniel Cox",
+    "ContactInformation": {
+      "Phone": "(742)709-3164x246",
+      "Email": "ddickson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/c5c07409-ad98-482f-b2de-d17a95eafdf8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Huff-Norman",
+    "Model": "condition",
+    "Year": 2015,
+    "VIN": "1bcac4f2-ca80-4d60-9814-5c14612658fe"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Yang",
+      "ContactInformation": {
+        "Phone": "435.832.1272",
+        "Email": "megan03@example.net"
+      },
+      "Statement": "Serve administration realize enjoy let anyone. Like entire kind. Hot quite thank consider speak moment ever."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "749c47de-c10b-44ca-8e85-1a876e880764",
+    "OfficerName": "Paula Martinez",
+    "ReportDetails": "Some laugh bit beyond color myself. Item would short middle stand father involve. Drop pick reflect amount already subject such institution."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 731,
+    "AnnualIncome": 168887,
+    "DebtToIncomeRatio": 0.56
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

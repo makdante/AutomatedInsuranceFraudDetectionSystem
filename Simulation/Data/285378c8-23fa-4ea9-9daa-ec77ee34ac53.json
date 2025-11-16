@@ -1,0 +1,112 @@
+{
+  "ClaimID": "285378c8-23fa-4ea9-9daa-ec77ee34ac53",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2024-12-12",
+    "EndDate": "2025-12-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-26",
+    "Location": "97775 Wood Highway\nNorth Sandrahaven, TN 77889",
+    "Description": "Would group name relate myself lawyer. Friend guess college wear though describe like. Dinner so rich attorney send management once much.\nSignificant significant training western rate also age."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4517638
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4075531
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4730923
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4875973
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4614429
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22814494,
+    "TotalApproved": 4289091
+  },
+  "AdjusterDetails": {
+    "Name": "Rhonda Eaton",
+    "ContactInformation": {
+      "Phone": "968.280.6222x378",
+      "Email": "rosszachary@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/01df5963-d5f9-4dc2-b9c6-08f01da9418e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-31T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rogers PLC",
+    "Model": "method",
+    "Year": 2022,
+    "VIN": "88779a72-c684-4207-8aab-79042f34f70a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Padilla IV",
+      "ContactInformation": {
+        "Phone": "001-575-245-1935x6825",
+        "Email": "jessicajohnson@example.com"
+      },
+      "Statement": "Single quite rest most standard side hand impact.\nMany light fast. Save sport participant. Easy employee among director produce left.\nLevel degree blood reduce. Enough heavy unit budget see fall."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5a6f45a6-8a9e-4f7c-98c3-b20affa4cf15",
+    "OfficerName": "Joe Flynn",
+    "ReportDetails": "When board head financial personal them personal pattern. Sense audience serious.\nLand successful actually minute question color news. Thus player local bar. Say herself produce sort score."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 362,
+    "AnnualIncome": 161707,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

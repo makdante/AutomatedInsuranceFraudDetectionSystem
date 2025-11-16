@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d65409d3-53ad-4964-b641-f9c16d6c35f4",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2025-07-16",
+    "EndDate": "2026-07-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-22",
+    "Location": "5758 Orozco Brooks Suite 728\nLucasmouth, IL 55722",
+    "Description": "Ball save true draw north challenge like first. Issue page act girl level clearly see. Perform yet religious someone kitchen.\nPurpose window during should. Blue fight effect drive."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 109416
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 177574
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10874
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44959
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 128616
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 471439,
+    "TotalApproved": 226746
+  },
+  "AdjusterDetails": {
+    "Name": "Sara Torres",
+    "ContactInformation": {
+      "Phone": "628.409.6985x928",
+      "Email": "heathermiller@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1bd71920-545d-43b1-ba2e-9d085cb7b836"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez Ltd",
+    "Model": "chance",
+    "Year": 2012,
+    "VIN": "08d56aa1-4208-4c94-af2d-9190223f7c32"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Karen Foster",
+      "ContactInformation": {
+        "Phone": "+1-310-944-0453x719",
+        "Email": "qtravis@example.org"
+      },
+      "Statement": "Way whole class result. Popular where find pay.\nAffect while former detail. Few television down buy majority eat police. Interview society material official."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bf7541bb-e5ae-4c92-936b-471e6cc28e72",
+    "OfficerName": "John Savage",
+    "ReportDetails": "Local television skill list wait yard. Campaign total red hair. Property cost option million rock member."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 497,
+    "AnnualIncome": 96120,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

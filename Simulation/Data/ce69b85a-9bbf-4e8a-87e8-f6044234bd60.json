@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ce69b85a-9bbf-4e8a-87e8-f6044234bd60",
+  "PolicyID": "f56b721d-77fb-4659-8280-faefc114b152",
+  "EffectiveDates": {
+    "StartDate": "2025-08-25",
+    "EndDate": "2026-08-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "9df24105-b696-442a-969e-d25b0cebdfb9",
+    "Name": "Jonathan Santos",
+    "PolicyNumber": "f56b721d-77fb-4659-8280-faefc114b152",
+    "ContactInformation": {
+      "Phone": "001-871-292-7838x249",
+      "Email": "bneal@example.org",
+      "Address": "46543 Jamie Burg Suite 969\nSarahfort, VI 92099"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-20",
+    "Location": "0275 Murphy Cove Suite 283\nWest Teresa, PW 48610",
+    "Description": "What rule series than suddenly other hope. Campaign how physical billion although successful another."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 96233
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7075
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 33368
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15488
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6535
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 158699,
+    "TotalApproved": 53934
+  },
+  "AdjusterDetails": {
+    "Name": "Martin Crawford",
+    "ContactInformation": {
+      "Phone": "734.312.6083x296",
+      "Email": "jeffreylee@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/72fcff5d-55cd-4f3a-8b26-d21e119d05b5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Spencer Group",
+    "Model": "system",
+    "Year": 2000,
+    "VIN": "8eea9fc2-db11-4bfd-b44f-51887360d5e5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Casey Huber",
+      "ContactInformation": {
+        "Phone": "612-339-2619",
+        "Email": "patrickanderson@example.net"
+      },
+      "Statement": "Parent group way country building though. Ask employee work standard individual matter.\nInteresting some nor sit. Stage recently author why in."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5c027be6-4cf6-4221-92cc-027c76233b33",
+    "OfficerName": "Barbara Bradford",
+    "ReportDetails": "Capital most national fish. Beyond establish authority serve message maintain. Today especially store."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 674,
+    "AnnualIncome": 76545,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

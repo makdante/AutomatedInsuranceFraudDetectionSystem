@@ -1,0 +1,112 @@
+{
+  "ClaimID": "93a213ea-05b8-4bec-a15d-f32278fd062c",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2025-04-05",
+    "EndDate": "2026-04-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-19",
+    "Location": "64714 Chan Lodge\nPort Cristina, CO 06865",
+    "Description": "Sister reality ahead together check deal manage small. Wind than attention. Scene left sea out she. Administration surface include course learn."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2908
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47370
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 112816
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19380
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 31047
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 213521,
+    "TotalApproved": 198913
+  },
+  "AdjusterDetails": {
+    "Name": "Crystal Paul",
+    "ContactInformation": {
+      "Phone": "(635)276-1495x1307",
+      "Email": "atorres@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/52c31665-cd03-4521-bb4a-3b7d0ea65f7b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Erickson, Andrews and Holmes",
+    "Model": "box",
+    "Year": 2004,
+    "VIN": "d864128d-29a8-424f-8bc5-0c76595734e8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Emma Howe",
+      "ContactInformation": {
+        "Phone": "(443)572-4510",
+        "Email": "barbermatthew@example.com"
+      },
+      "Statement": "Not between know social story least eight staff. Old main entire image see item collection. Crime nature price develop include.\nChange today blood support exactly. Level wait way decision our."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6d426090-ae74-4c5b-9abf-a4d6e22c7805",
+    "OfficerName": "Amy Carlson",
+    "ReportDetails": "Picture hold charge our work listen.\nGirl century blood friend either explain protect arrive. Now politics sell current sense two medical."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 807,
+    "AnnualIncome": 29178,
+    "DebtToIncomeRatio": 0.35
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e014c97c-a14e-4fa3-8935-a3c31f12f67c",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-01-25",
+    "EndDate": "2026-01-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-29",
+    "Location": "4731 Cassandra Corner Apt. 441\nLake Michael, MH 11039",
+    "Description": "System business move song democratic high. If professor life agency level. Trip business hot people stay same loss speech."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 32442
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 194415
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15178
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 162124
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 54545
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 458704,
+    "TotalApproved": 312872
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Williams",
+    "ContactInformation": {
+      "Phone": "455-926-3682",
+      "Email": "sarah45@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/9ff3f2d1-9f2a-4dd2-ab77-46a48ac9f476"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Dunn PLC",
+    "Model": "guy",
+    "Year": 2022,
+    "VIN": "fe35502d-dac8-4b81-8775-750a6ac4eff8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joshua Wade",
+      "ContactInformation": {
+        "Phone": "001-495-603-4725x21282",
+        "Email": "jamesmitchell@example.org"
+      },
+      "Statement": "Yes reason reflect.\nTree worker enjoy crime. Long move character. Night actually hair resource idea. Reason main both resource couple."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "23b4ae49-39cc-47ca-83d5-4b6f2a3d45ad",
+    "OfficerName": "Scott Nguyen",
+    "ReportDetails": "Community just reduce here hotel bring land. Attention finish economy voice develop discussion least.\nTelevision hear common enough yard. Either expect serious rise serious receive."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 391,
+    "AnnualIncome": 151092,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 5,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

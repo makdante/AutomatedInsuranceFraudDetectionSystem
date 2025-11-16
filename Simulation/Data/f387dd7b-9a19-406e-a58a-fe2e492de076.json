@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f387dd7b-9a19-406e-a58a-fe2e492de076",
+  "PolicyID": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+  "EffectiveDates": {
+    "StartDate": "2025-01-10",
+    "EndDate": "2026-01-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "36ef7374-a94b-45c8-8312-6e8562668715",
+    "Name": "Vincent Flynn",
+    "PolicyNumber": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+    "ContactInformation": {
+      "Phone": "950-852-7090",
+      "Email": "harrybryant@example.com",
+      "Address": "476 Reed Landing\nJeanettestad, VT 94361"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-21",
+    "Location": "23290 Robinson Island Suite 717\nColeton, GA 27458",
+    "Description": "Someone off weight. Participant plant several myself condition.\nEstablish line read phone beyond take admit. Use remember kid respond American."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 49330
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 166268
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 131320
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8396
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 77598
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 432912,
+    "TotalApproved": 289359
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Jackson",
+    "ContactInformation": {
+      "Phone": "960-804-1116x1612",
+      "Email": "newmanerin@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/f0f780fa-a857-4d21-ba66-722af950f6b1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-31T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Webb, Kent and Zavala",
+    "Model": "ball",
+    "Year": 2011,
+    "VIN": "3cd7d105-0c31-4701-b717-72a82d9f0495"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lisa Aguilar",
+      "ContactInformation": {
+        "Phone": "(988)891-1530x0566",
+        "Email": "gdorsey@example.net"
+      },
+      "Statement": "Newspaper service activity whom. Upon firm pattern pattern. Trip hit with serve international.\nShake although maybe woman perform memory woman today. Hot edge easy realize ask through."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f5a0aad0-2209-462a-9e06-c994ab227386",
+    "OfficerName": "Melissa Velazquez",
+    "ReportDetails": "Let stop strong eye why. Approach man test white other.\nManagement medical whom condition. Add current others institution large single."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 797,
+    "AnnualIncome": 173297,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 2,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

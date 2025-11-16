@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7aabd568-924f-4108-8b16-bfd86844fad2",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-01-01",
+    "EndDate": "2026-01-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-14",
+    "Location": "420 Brandy Isle\nWest Melindaton, NC 42371",
+    "Description": "Player chance also who. Add purpose explain common admit near. Around lot truth old fish effort relate. Half deal foot approach situation."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4023156
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4309281
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4624904
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4983230
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4438730
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22379301,
+    "TotalApproved": 9487223
+  },
+  "AdjusterDetails": {
+    "Name": "Larry Lam",
+    "ContactInformation": {
+      "Phone": "001-553-358-6750x9185",
+      "Email": "matthewjackson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/bbab5304-8dc9-4d7a-8738-ed057aa223db"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gregory, Norman and Rhodes",
+    "Model": "town",
+    "Year": 2022,
+    "VIN": "4ff3942a-46ad-4322-8271-90cfcb3ed80f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Decker",
+      "ContactInformation": {
+        "Phone": "(893)231-8870",
+        "Email": "johnstonhaley@example.org"
+      },
+      "Statement": "By involve white level phone. Politics staff under open. West economy space by sport.\nWhere force thing move budget anyone. Story buy science time sense crime."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f138de74-2b5e-4df6-b6e7-b04b81f4fc76",
+    "OfficerName": "Linda Wolf",
+    "ReportDetails": "Candidate home room tend rule attention. Future apply agency pick. Computer bar pay discuss arrive college want."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 393,
+    "AnnualIncome": 93961,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 6,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "86603837-6f8e-43cf-a154-c52a0dd5f907",
+  "PolicyID": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+  "EffectiveDates": {
+    "StartDate": "2025-07-04",
+    "EndDate": "2026-07-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d5023dd5-3c99-4647-ac91-e9ca560330de",
+    "Name": "Kevin Williams",
+    "PolicyNumber": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+    "ContactInformation": {
+      "Phone": "(620)408-9812x278",
+      "Email": "maxwell13@example.net",
+      "Address": "800 Campbell Streets Apt. 592\nWest Nicole, DE 17286"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-20",
+    "Location": "53504 Jennifer Parks Apt. 018\nSpencertown, AS 17583",
+    "Description": "Everybody opportunity morning nice among just cut east. Effect push Congress huge sound such.\nLess use response yet. International health ten feeling mention defense."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 41270
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1744
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 34739
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 91075
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 189969
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 358797,
+    "TotalApproved": 131106
+  },
+  "AdjusterDetails": {
+    "Name": "Rachel Johnson",
+    "ContactInformation": {
+      "Phone": "(445)439-3400",
+      "Email": "amy45@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1a30f14a-0929-43bd-9c2c-c14babb3f848"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-20T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-25T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-30T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Suarez, Fischer and Brooks",
+    "Model": "its",
+    "Year": 2022,
+    "VIN": "1f0ea56f-4124-42cf-920e-c8fe7a82a298"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Douglas Page",
+      "ContactInformation": {
+        "Phone": "+1-577-407-2353",
+        "Email": "catherine59@example.com"
+      },
+      "Statement": "Actually prepare wear story office notice war fight. Everything everybody against degree large support happy Democrat. Generation television record whether tax care push south."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "86571b3e-879c-4b9e-ae12-7d6998326171",
+    "OfficerName": "Joseph Mason",
+    "ReportDetails": "Partner face agent ground somebody. His fear consumer special nature.\nBillion make just project sport. Participant laugh process fast."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 708,
+    "AnnualIncome": 83901,
+    "DebtToIncomeRatio": 0.38
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

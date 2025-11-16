@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cf6bd0a8-e8e9-4558-b854-d89c59d42138",
+  "PolicyID": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+  "EffectiveDates": {
+    "StartDate": "2025-09-01",
+    "EndDate": "2026-09-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d5023dd5-3c99-4647-ac91-e9ca560330de",
+    "Name": "Kevin Williams",
+    "PolicyNumber": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+    "ContactInformation": {
+      "Phone": "(620)408-9812x278",
+      "Email": "maxwell13@example.net",
+      "Address": "800 Campbell Streets Apt. 592\nWest Nicole, DE 17286"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-08",
+    "Location": "1032 Patricia Ridges Suite 620\nMillerville, LA 58318",
+    "Description": "Foreign section like recent.\nSingle might together direction light black. Tell news walk loss three day. Eight industry ready large professional establish economy test."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 27776
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 67742
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1644
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18382
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 87480
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 203024,
+    "TotalApproved": 186173
+  },
+  "AdjusterDetails": {
+    "Name": "Daniel Campbell",
+    "ContactInformation": {
+      "Phone": "+1-366-593-7764x00922",
+      "Email": "jacobharper@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/f70edabb-4542-4972-af15-95e30310bb9f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith-Elliott",
+    "Model": "talk",
+    "Year": 2022,
+    "VIN": "d28b742f-cd17-4fdc-842a-407a06ef686e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bill Daniel",
+      "ContactInformation": {
+        "Phone": "+1-733-531-3444x47427",
+        "Email": "sdavis@example.net"
+      },
+      "Statement": "Relationship draw or should then character. Face pay food later popular together recent."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "55fe99b4-6714-431a-9d57-234113e0ac20",
+    "OfficerName": "Austin Edwards",
+    "ReportDetails": "Size protect pretty. Discuss happy stage. Dream billion measure indicate already forward production."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 342,
+    "AnnualIncome": 192836,
+    "DebtToIncomeRatio": 0.56
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

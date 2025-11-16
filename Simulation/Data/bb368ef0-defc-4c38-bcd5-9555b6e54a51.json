@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bb368ef0-defc-4c38-bcd5-9555b6e54a51",
+  "PolicyID": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+  "EffectiveDates": {
+    "StartDate": "2025-06-29",
+    "EndDate": "2026-06-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d0bedd16-f201-4197-b8d7-b2d8d318b1a8",
+    "Name": "David Mcintosh",
+    "PolicyNumber": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+    "ContactInformation": {
+      "Phone": "+1-504-327-8426x072",
+      "Email": "moyeranthony@example.com",
+      "Address": "2867 Burton Land Suite 894\nSouth Brittanyside, DE 10957"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-13",
+    "Location": "4430 Barker Shore\nJacobsbury, IA 09435",
+    "Description": "Find soon reveal none president that many. Lead certain car even suddenly front watch drive. Animal focus certainly across music sea."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 138619
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16851
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9185
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9038
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 56233
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 229926,
+    "TotalApproved": 135424
+  },
+  "AdjusterDetails": {
+    "Name": "Deanna Caldwell",
+    "ContactInformation": {
+      "Phone": "6728346435",
+      "Email": "matthewsjessica@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4ec55ee9-447a-4f2f-93e8-4cd47eb20c09"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-13T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-18T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-23T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Simmons, Mcneil and Odonnell",
+    "Model": "author",
+    "Year": 2020,
+    "VIN": "c71ca5d1-11a5-482a-8151-59ab67295b05"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stephanie Davenport",
+      "ContactInformation": {
+        "Phone": "001-564-621-9063",
+        "Email": "victoria02@example.net"
+      },
+      "Statement": "Number audience cultural care. Toward begin policy yet popular prepare.\nVery food top. Man idea local indicate today skin page.\nAway through drive finish baby pay dream. Company southern table."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "95b04e72-bed4-4914-9a38-a9dab3341633",
+    "OfficerName": "Matthew Knapp",
+    "ReportDetails": "Who picture camera upon them. Include much executive artist talk fine.\nPolicy go dinner group affect director. Partner score push administration show must."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 521,
+    "AnnualIncome": 84929,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 4,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

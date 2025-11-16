@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0833121f-655f-4c1f-9c33-7f347e053e29",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-04-03",
+    "EndDate": "2026-04-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-29",
+    "Location": "336 Eric Bridge\nNew Jose, NY 14710",
+    "Description": "Window war knowledge century order public. Student matter create why."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 45956
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5917
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9075
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17836
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9211
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 87995,
+    "TotalApproved": 85247
+  },
+  "AdjusterDetails": {
+    "Name": "Jose Miller",
+    "ContactInformation": {
+      "Phone": "+1-981-868-2719x0391",
+      "Email": "mmayer@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/fa543497-70fe-43e4-9ed3-eb1fa7bb7194"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ortiz-Anderson",
+    "Model": "quality",
+    "Year": 2014,
+    "VIN": "4ac4be60-20fa-4d58-9e88-1e361ad63fd5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amanda Morton",
+      "ContactInformation": {
+        "Phone": "309-699-2814x4126",
+        "Email": "efoster@example.com"
+      },
+      "Statement": "Travel send writer no clear again. Whose nice side would fish after. Station maybe artist set now form cause.\nHere start property sense news far. Huge worry I indeed late nothing."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4737c824-ce2e-43c6-aa07-c62ce1b1eae8",
+    "OfficerName": "Annette Tucker",
+    "ReportDetails": "Actually participant step hospital power democratic.\nGlass street feel. Discussion foreign newspaper industry."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 588,
+    "AnnualIncome": 154267,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

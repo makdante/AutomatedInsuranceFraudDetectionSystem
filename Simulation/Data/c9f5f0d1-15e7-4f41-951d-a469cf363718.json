@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c9f5f0d1-15e7-4f41-951d-a469cf363718",
+  "PolicyID": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+  "EffectiveDates": {
+    "StartDate": "2025-02-18",
+    "EndDate": "2026-02-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "342b380f-5b25-4a6f-a462-2fa1c3057fc2",
+    "Name": "Kayla Wilson",
+    "PolicyNumber": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+    "ContactInformation": {
+      "Phone": "432-340-1587",
+      "Email": "jonathan54@example.com",
+      "Address": "25321 Lopez Stream\nPort Amandaside, MT 41311"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-15",
+    "Location": "Unit 7340 Box 7376\nDPO AP 52222",
+    "Description": "Lawyer clearly among sign. Education likely letter year education stand long pull. Himself address under boy.\nPossible grow cold investment hear room recognize himself. Evidence third so rise."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15262
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16197
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6584
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8370
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13709
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 60122,
+    "TotalApproved": 55318
+  },
+  "AdjusterDetails": {
+    "Name": "Kelly Gibson",
+    "ContactInformation": {
+      "Phone": "(846)807-7991x767",
+      "Email": "brubio@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ed7646e2-1e9c-4bbf-9a33-d91e385edd59"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Morales, Mcdowell and King",
+    "Model": "than",
+    "Year": 2007,
+    "VIN": "8476fc16-4b0c-420b-9b47-b7017313479e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sara Kirby",
+      "ContactInformation": {
+        "Phone": "+1-501-244-6311x13888",
+        "Email": "stephenramirez@example.com"
+      },
+      "Statement": "Account sense art hold. Official actually return send. Want clear rule account more available argue consider.\nStructure they old treat laugh ball me. Six describe window thought."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d9fce872-ce5b-4b8b-9eca-84274f7d5986",
+    "OfficerName": "William Wiggins",
+    "ReportDetails": "Less no cause ask whom someone fund. Mind huge hand mission where. Doctor suddenly particularly use push my."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 716,
+    "AnnualIncome": 27757,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 1,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5737b362-cf3d-4503-bb9e-64b46bb527c5",
+  "PolicyID": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+  "EffectiveDates": {
+    "StartDate": "2025-01-20",
+    "EndDate": "2026-01-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "99c198b5-d0aa-48d3-94c9-959f2a44263a",
+    "Name": "Bethany Rose",
+    "PolicyNumber": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+    "ContactInformation": {
+      "Phone": "(715)908-5515x619",
+      "Email": "heather19@example.com",
+      "Address": "5993 Snow Manor Suite 784\nCherylton, KY 35335"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-11",
+    "Location": "371 Spears Haven\nPort Larry, MO 30430",
+    "Description": "Religious measure forget. Somebody material thousand increase until teach.\nAccount position letter eye. House girl real thus piece. Pay man building should entire go wear know."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 40669
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 78796
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 50386
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10363
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 50694
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 230908,
+    "TotalApproved": 90155
+  },
+  "AdjusterDetails": {
+    "Name": "Anthony Douglas",
+    "ContactInformation": {
+      "Phone": "756.301.0089x722",
+      "Email": "williamwiley@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1ba1d4d6-a614-4a03-a6d2-d0a0b120f18d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gaines Group",
+    "Model": "read",
+    "Year": 2019,
+    "VIN": "33f35c31-8a58-47fd-b09b-fd544c96bc2b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Paul Moyer",
+      "ContactInformation": {
+        "Phone": "(210)517-7012x96975",
+        "Email": "hsmith@example.com"
+      },
+      "Statement": "Consider product effort season measure visit onto. Particularly walk without travel be late draw.\nBoth family outside race hotel TV among toward. Evidence would its must paper. Until wear kind beat."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9344143a-41b2-4ffe-8784-3c934bf3e342",
+    "OfficerName": "Gerald Cabrera",
+    "ReportDetails": "Fast husband pattern plant. Soldier security go determine hotel red method. Foreign third another energy development article."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 367,
+    "AnnualIncome": 191542,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "94478139-98f4-46ee-9395-9008416d8535",
+  "PolicyID": "c3c97e20-9916-4009-b655-6b300f90d80a",
+  "EffectiveDates": {
+    "StartDate": "2025-04-02",
+    "EndDate": "2026-04-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "053ca69a-366f-4375-961c-7efc9aef3ba5",
+    "Name": "Dalton Davis",
+    "PolicyNumber": "c3c97e20-9916-4009-b655-6b300f90d80a",
+    "ContactInformation": {
+      "Phone": "333.559.0778",
+      "Email": "nancy30@example.org",
+      "Address": "5703 Aaron Lane\nSouth Matthew, MH 99089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-15",
+    "Location": "00437 Joseph Land Suite 474\nSarahtown, OR 40535",
+    "Description": "Charge play yard on end where heart possible. Investment receive party PM. Level myself kind give character. Enough similar into station."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 26923
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8179
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 68380
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4971
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 102368
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 210821,
+    "TotalApproved": 29914
+  },
+  "AdjusterDetails": {
+    "Name": "Emily Price",
+    "ContactInformation": {
+      "Phone": "001-484-278-5184x725",
+      "Email": "gdixon@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ffac7879-f0db-43cf-a77c-bc0c68281ee8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Vargas-Hoffman",
+    "Model": "page",
+    "Year": 2005,
+    "VIN": "dc669df4-506d-4dfe-b61f-dfdbf2f44c18"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Justin Young",
+      "ContactInformation": {
+        "Phone": "001-509-572-4608x34852",
+        "Email": "victoriarodriguez@example.com"
+      },
+      "Statement": "Minute security my book figure here program care. Hospital raise least edge entire remain leader.\nSell painting three air. Probably gas try girl. On above table standard think."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "74335d56-c301-4a67-878b-00b3d8440102",
+    "OfficerName": "Troy Blackwell",
+    "ReportDetails": "Church note big deep. Tend star mind support.\nCertainly and we three sound. Happen story fill.\nYourself prevent trade chance table interest foot. Across doctor kind window lawyer rather."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 475,
+    "AnnualIncome": 194202,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 1,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

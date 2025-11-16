@@ -1,0 +1,112 @@
+{
+  "ClaimID": "41514eea-49c8-42c0-8730-2f5e16a14201",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2025-07-11",
+    "EndDate": "2026-07-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-02",
+    "Location": "264 James Expressway Apt. 571\nNew Sandy, VT 22596",
+    "Description": "Science us sit position might where herself find. Would whether role name help.\nMoment scientist involve school yard late serve. Head dog majority remain top mouth event."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2350
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7132
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 70395
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3415
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5434
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 88726,
+    "TotalApproved": 18112
+  },
+  "AdjusterDetails": {
+    "Name": "Denise Simmons",
+    "ContactInformation": {
+      "Phone": "+1-588-701-9828x7866",
+      "Email": "lance92@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/8cb23393-f564-4b5c-8f38-f639e422b9d1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown, Brown and Mitchell",
+    "Model": "way",
+    "Year": 2013,
+    "VIN": "23728e68-187a-40e7-9d8c-714ee3d43267"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jorge Buckley",
+      "ContactInformation": {
+        "Phone": "7662210571",
+        "Email": "tjefferson@example.net"
+      },
+      "Statement": "Machine out local sign else close. Him medical sense only.\nI appear current or father. Car artist deep majority he. Well he ever candidate move chair almost."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c90207ee-db13-43f8-9401-583503efe3a8",
+    "OfficerName": "Jerry Lewis",
+    "ReportDetails": "And beautiful meet color court group policy. Key and door around.\nReflect account economic suggest. Set relationship crime house away. Able really lead show one. Hold bar ball."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 768,
+    "AnnualIncome": 142226,
+    "DebtToIncomeRatio": 0.83
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 9,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

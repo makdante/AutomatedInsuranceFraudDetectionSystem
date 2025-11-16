@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2b81e7a4-c586-404c-a954-669386888b34",
+  "PolicyID": "6c36cc73-e207-48b9-a284-c51cf5663165",
+  "EffectiveDates": {
+    "StartDate": "2025-01-14",
+    "EndDate": "2026-01-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "193b28b0-1277-4ecb-b44b-678f0a8a54ac",
+    "Name": "Aaron Wilson",
+    "PolicyNumber": "6c36cc73-e207-48b9-a284-c51cf5663165",
+    "ContactInformation": {
+      "Phone": "4298804696",
+      "Email": "uford@example.org",
+      "Address": "70180 Jessica Ridges Suite 614\nEast Mindy, IL 04431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-10",
+    "Location": "278 Brenda Fork Suite 193\nBethanyville, MI 87140",
+    "Description": "Design study serve national institution design. Environmental look book difficult court phone.\nProbably weight research policy strong capital."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 157596
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 48243
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6650
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 49464
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11634
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 273587,
+    "TotalApproved": 125958
+  },
+  "AdjusterDetails": {
+    "Name": "Carolyn Gardner",
+    "ContactInformation": {
+      "Phone": "+1-259-625-9650x474",
+      "Email": "westmarcus@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4b18f668-f8d2-45ed-aa4f-716ad394ba20"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Aguirre-Osborne",
+    "Model": "decade",
+    "Year": 2002,
+    "VIN": "15126e23-036a-42cc-b036-684c8d1078fb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Carter",
+      "ContactInformation": {
+        "Phone": "751.999.0192",
+        "Email": "gailmatthews@example.com"
+      },
+      "Statement": "Ask simply whom out. Alone top culture entire gas.\nDifference ability store condition.\nPm speak dark produce. Career own value manage short treat turn."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f21cab9b-8e49-4bad-87e6-256101a4249c",
+    "OfficerName": "William Archer",
+    "ReportDetails": "Agreement voice eat fire letter into hard. Politics provide data service.\nKitchen may young. Someone ago like though two responsibility where field. Next along prepare rather claim."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 646,
+    "AnnualIncome": 184933,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

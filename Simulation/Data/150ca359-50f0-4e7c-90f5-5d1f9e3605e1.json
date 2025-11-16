@@ -1,0 +1,112 @@
+{
+  "ClaimID": "150ca359-50f0-4e7c-90f5-5d1f9e3605e1",
+  "PolicyID": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+  "EffectiveDates": {
+    "StartDate": "2025-01-22",
+    "EndDate": "2026-01-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a5e374d7-2a89-4722-82f7-28a28bbdcbf0",
+    "Name": "Evan Fernandez",
+    "PolicyNumber": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+    "ContactInformation": {
+      "Phone": "797-592-5686x43438",
+      "Email": "helen96@example.com",
+      "Address": "70847 Acevedo Path Suite 052\nEast Jason, CO 07830"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-16",
+    "Location": "398 Davenport Plains\nSmithfurt, WA 60623",
+    "Description": "Feel laugh run management my tell together."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 25864
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 105018
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10320
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3266
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 24219
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 168687,
+    "TotalApproved": 87140
+  },
+  "AdjusterDetails": {
+    "Name": "Pamela Heath",
+    "ContactInformation": {
+      "Phone": "(285)618-5881x28040",
+      "Email": "darin82@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/70ea1859-7121-4ec5-83b3-3238fe2d6a1e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-16T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-21T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-26T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Roman Inc",
+    "Model": "natural",
+    "Year": 2017,
+    "VIN": "e6b17995-de0f-4dca-975f-b1c86896253e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kimberly Martin",
+      "ContactInformation": {
+        "Phone": "279.512.4921",
+        "Email": "brownwendy@example.org"
+      },
+      "Statement": "Laugh car still live same here through. Look deal their machine chance. Yet join security everybody case kitchen."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a83eeeca-be5c-48af-8559-eaf366670ed8",
+    "OfficerName": "Bryan Frazier",
+    "ReportDetails": "Fish per board and more hit. Understand build pull statement.\nLeave other catch true center born."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 420,
+    "AnnualIncome": 160586,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

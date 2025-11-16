@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f4a8dc27-249e-482a-a89c-3a1b58b6c596",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-03-18",
+    "EndDate": "2026-03-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-27",
+    "Location": "8472 Johnson Wells\nBarbaramouth, NH 51933",
+    "Description": "Trial stand technology. Participant probably maintain wife have himself. Task should quite federal."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1152
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3544
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7360
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7329
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 37056
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 56441,
+    "TotalApproved": 44400
+  },
+  "AdjusterDetails": {
+    "Name": "Darlene Chavez",
+    "ContactInformation": {
+      "Phone": "5127154660",
+      "Email": "nmalone@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/8d15ec4e-68d5-411b-bce8-80ce9dbfc3a2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis, Smith and Alvarez",
+    "Model": "first",
+    "Year": 2003,
+    "VIN": "506d6a5e-634e-42b9-99bb-1fa1ad4a313f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Emily Mcguire",
+      "ContactInformation": {
+        "Phone": "001-429-551-9718x1774",
+        "Email": "meyerrobert@example.org"
+      },
+      "Statement": "Friend close defense stuff wrong rule data detail.\nOffer agreement seat family Congress practice budget. Among town fill your source."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5b0bbf96-5933-4169-b1a1-fe5e5aa147eb",
+    "OfficerName": "Christopher Carter",
+    "ReportDetails": "Box positive throughout successful nice likely soon. Beyond bank he trouble conference he.\nActually ability clear girl cut civil enter state. Provide pretty interesting hot town get. The off loss."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 660,
+    "AnnualIncome": 34869,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 4,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

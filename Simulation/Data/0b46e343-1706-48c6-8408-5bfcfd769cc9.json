@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0b46e343-1706-48c6-8408-5bfcfd769cc9",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2024-11-25",
+    "EndDate": "2025-11-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-30",
+    "Location": "17817 Miller Pine\nLake Jenniferfurt, MI 69357",
+    "Description": "Memory off across tell fire. Prepare child public fact strong possible lawyer. Nothing action leave expert because new.\nPractice idea begin it without. Home pay cause."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 86539
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 135047
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 31785
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 93120
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7482
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 353973,
+    "TotalApproved": 244919
+  },
+  "AdjusterDetails": {
+    "Name": "Dawn Long",
+    "ContactInformation": {
+      "Phone": "001-378-789-0969x613",
+      "Email": "briana17@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/7a10649b-be2c-47df-8f16-65dd12c3ab4c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones, Johnson and Sandoval",
+    "Model": "network",
+    "Year": 2012,
+    "VIN": "49893e39-344a-4d8d-a7e1-a2d9807f7c40"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Abigail Ramos",
+      "ContactInformation": {
+        "Phone": "+1-321-439-5814x371",
+        "Email": "josephlopez@example.com"
+      },
+      "Statement": "Sea director compare himself with. My reduce woman officer.\nParticularly company bag. Impact friend time memory friend follow letter."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d8c3928a-5e00-4a3e-b9a1-56712f8fedf5",
+    "OfficerName": "Kenneth Kline",
+    "ReportDetails": "Group employee tree ago computer. Later common especially. Never technology happen simply.\nApply build attention.\nAcross Democrat risk. Do card evening night for feeling TV."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 302,
+    "AnnualIncome": 82333,
+    "DebtToIncomeRatio": 0.55
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cd122417-edd7-41f8-a454-4c6ffdc50d11",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-02-20",
+    "EndDate": "2026-02-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-22",
+    "Location": "670 Tonya Station Suite 179\nAverystad, TX 37606",
+    "Description": "Spring air country many me leader stage. Significant design compare participant hard.\nHim per economy life really soldier likely. Summer attention kind leg."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 31197
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17462
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 23331
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4618
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 66514
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 143122,
+    "TotalApproved": 19778
+  },
+  "AdjusterDetails": {
+    "Name": "Willie Maynard",
+    "ContactInformation": {
+      "Phone": "(280)964-2586",
+      "Email": "upena@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/0448339c-5f90-4037-bfe6-1ac90f21975f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Silva, Manning and Hobbs",
+    "Model": "police",
+    "Year": 2019,
+    "VIN": "f4025283-a74c-4feb-898f-fdb4c398ce32"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Green",
+      "ContactInformation": {
+        "Phone": "(204)481-0085x79437",
+        "Email": "iwalker@example.org"
+      },
+      "Statement": "Term court here against.\nImagine note into claim my consider. Treatment project reason capital sound phone agreement.\nForeign skin enough half determine. Girl behavior sense onto."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8b0808e0-adb2-48f9-9859-8bf369efdd20",
+    "OfficerName": "Tracey Morrison",
+    "ReportDetails": "Majority cause notice away ball movie. How close site smile assume.\nResponse field control fine. High apply prevent science body without agree. Beyond television floor control page."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 632,
+    "AnnualIncome": 162917,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

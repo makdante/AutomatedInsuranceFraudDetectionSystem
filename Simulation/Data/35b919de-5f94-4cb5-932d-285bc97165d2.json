@@ -1,0 +1,112 @@
+{
+  "ClaimID": "35b919de-5f94-4cb5-932d-285bc97165d2",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-03-15",
+    "EndDate": "2026-03-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-07",
+    "Location": "0990 Martin Road Suite 971\nStaceymouth, FM 08390",
+    "Description": "Could field discuss career. Name wife own base military set lay. Pass me care agency father.\nCrime sense piece. Difference do house hand best upon available. Station talk lot create some."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 39926
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7217
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1199
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18688
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3484
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 70514,
+    "TotalApproved": 11142
+  },
+  "AdjusterDetails": {
+    "Name": "Sandra Adams",
+    "ContactInformation": {
+      "Phone": "001-261-608-0257",
+      "Email": "lisa88@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/74a7bcf6-162f-4d9b-951a-dc3e220f35d6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jensen PLC",
+    "Model": "weight",
+    "Year": 2018,
+    "VIN": "ca323f2c-47f6-40da-a9b0-63abeb10ccdc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Jackson",
+      "ContactInformation": {
+        "Phone": "573.417.1806",
+        "Email": "dmills@example.org"
+      },
+      "Statement": "Even produce stop mean game quality money time. Another which new go successful car see process. Protect despite break another always put. Home product of soldier."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "57fe5eac-33ef-4042-8994-27befb3f1e80",
+    "OfficerName": "Tammy Colon",
+    "ReportDetails": "Record media view. This indeed machine order.\nHigh article wife seat mission heart list policy. Smile record different detail card control away. Agree man once wall land."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 533,
+    "AnnualIncome": 193787,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 3,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

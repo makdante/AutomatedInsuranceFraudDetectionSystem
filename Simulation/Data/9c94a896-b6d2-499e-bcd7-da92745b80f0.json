@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9c94a896-b6d2-499e-bcd7-da92745b80f0",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2025-01-25",
+    "EndDate": "2026-01-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-25",
+    "Location": "199 Combs Tunnel\nSouth Jennifer, AS 78330",
+    "Description": "Nice take ahead just discover. Your national appear bit believe whether. Take agency detail something. Ball wife us however policy."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7432
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4624
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18957
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7442
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1509
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 39964,
+    "TotalApproved": 11312
+  },
+  "AdjusterDetails": {
+    "Name": "Tyrone Coleman",
+    "ContactInformation": {
+      "Phone": "274-732-5368x84656",
+      "Email": "reyesdavid@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/b41d9957-caf5-4402-8111-e4c4df41e09d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Simpson, Liu and Flowers",
+    "Model": "spring",
+    "Year": 2021,
+    "VIN": "bfcdc8a3-1c8e-467f-b547-20099213b59c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jeffrey Santos",
+      "ContactInformation": {
+        "Phone": "(377)761-6183x83877",
+        "Email": "lindsey91@example.org"
+      },
+      "Statement": "Piece address wide each truth end radio media. May build get word fish. Former suggest economy key meet.\nTable learn require remain."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ca742c5e-d7ec-4946-a545-35b5b11ffdbf",
+    "OfficerName": "Suzanne Hicks",
+    "ReportDetails": "Not let help health establish person. Star tree happy nation somebody call stage. Ready forward in weight tell sound. Significant executive exactly send road travel.\nYeah either fund mean activity."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 704,
+    "AnnualIncome": 140163,
+    "DebtToIncomeRatio": 0.69
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

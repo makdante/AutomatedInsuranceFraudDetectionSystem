@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a07c50e2-9a32-4194-b1ff-ced7a93d45b1",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-04-15",
+    "EndDate": "2026-04-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-24",
+    "Location": "05946 Lori Trafficway Suite 265\nPort Samuelshire, MH 90125",
+    "Description": "Keep dog with during. Green cell low admit tell cut.\nData marriage son run place. Red enjoy risk trouble set view bill."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3982
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3959
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3757
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 191345
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 119835
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 322878,
+    "TotalApproved": 238069
+  },
+  "AdjusterDetails": {
+    "Name": "Roberto Gill",
+    "ContactInformation": {
+      "Phone": "(591)405-1208x3610",
+      "Email": "lmoyer@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7a82cefe-6e77-487a-b541-52448296c7a4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garcia PLC",
+    "Model": "since",
+    "Year": 2018,
+    "VIN": "22cc626c-92af-4329-a1b0-a9db676fb3b4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Aaron Little",
+      "ContactInformation": {
+        "Phone": "887.821.4076",
+        "Email": "brettmitchell@example.org"
+      },
+      "Statement": "Key window feeling suggest capital. Blue subject show rule happy be seven. Hair own per family."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a4411fb4-555a-4843-8d6c-620f64218c9c",
+    "OfficerName": "Stephanie Gonzalez",
+    "ReportDetails": "Movie animal entire interest sport lay election.\nDetermine collection set child energy action. Position necessary manage statement.\nAppear loss final back."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 382,
+    "AnnualIncome": 103649,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

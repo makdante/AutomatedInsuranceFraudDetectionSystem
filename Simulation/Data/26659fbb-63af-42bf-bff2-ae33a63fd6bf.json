@@ -1,0 +1,112 @@
+{
+  "ClaimID": "26659fbb-63af-42bf-bff2-ae33a63fd6bf",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-10-28",
+    "EndDate": "2026-10-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-05",
+    "Location": "501 Erica Turnpike Suite 114\nLake Timothy, OK 62128",
+    "Description": "Discuss really federal modern. Local keep fine throughout course care.\nSurface shoulder learn leg. Despite miss she possible discussion site evidence day."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 86071
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 98734
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11921
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5090
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16609
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 218425,
+    "TotalApproved": 167459
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Campbell",
+    "ContactInformation": {
+      "Phone": "881-233-8075",
+      "Email": "hdavis@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/cbef0ba3-c28b-4f05-b0cc-48925a6f20fc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mayo-Jackson",
+    "Model": "military",
+    "Year": 2021,
+    "VIN": "c84b772f-34eb-4338-8297-1a479f61f656"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ashley Curry",
+      "ContactInformation": {
+        "Phone": "671.720.5199x9312",
+        "Email": "sharpjames@example.net"
+      },
+      "Statement": "Industry middle skill against research arm whose. Federal pull crime anyone house budget.\nReport like table learn care require heart. Finish travel campaign religious when."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "97d842fc-63a9-4a6c-8ee4-76e711105e5a",
+    "OfficerName": "Jody Martinez",
+    "ReportDetails": "Thing throw discussion there safe at third. Official color financial during after data sister."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 347,
+    "AnnualIncome": 79105,
+    "DebtToIncomeRatio": 0.51
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

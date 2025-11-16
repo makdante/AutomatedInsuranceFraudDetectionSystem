@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e6f714f5-523d-47f0-b2eb-c6da5d11d82c",
+  "PolicyID": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+  "EffectiveDates": {
+    "StartDate": "2025-08-21",
+    "EndDate": "2026-08-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d5023dd5-3c99-4647-ac91-e9ca560330de",
+    "Name": "Kevin Williams",
+    "PolicyNumber": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+    "ContactInformation": {
+      "Phone": "(620)408-9812x278",
+      "Email": "maxwell13@example.net",
+      "Address": "800 Campbell Streets Apt. 592\nWest Nicole, DE 17286"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-27",
+    "Location": "92570 Blake Squares\nReneestad, TN 29446",
+    "Description": "Eye suggest once way Democrat significant national most. Explain sign whose picture want. Last very wish dog."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 51907
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7119
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9292
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2524
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7799
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 78641,
+    "TotalApproved": 2036
+  },
+  "AdjusterDetails": {
+    "Name": "Mark Russo",
+    "ContactInformation": {
+      "Phone": "211.833.5687x28023",
+      "Email": "martinezjames@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1ce04117-125e-4df5-b131-62d3d6576808"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ross, Ellis and Sanders",
+    "Model": "risk",
+    "Year": 2021,
+    "VIN": "80ede91d-936c-4676-9648-5e1bc301fb75"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jamie Fry",
+      "ContactInformation": {
+        "Phone": "+1-749-430-0574x048",
+        "Email": "ymathis@example.net"
+      },
+      "Statement": "Paper certainly kitchen field. Including clearly inside under room moment."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ae2b1746-d713-46b6-bf04-89ff3b3f1ecb",
+    "OfficerName": "Samuel Mcdaniel",
+    "ReportDetails": "Of direction exactly down phone budget speak special. Religious yes fast expect majority."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 353,
+    "AnnualIncome": 81231,
+    "DebtToIncomeRatio": 0.35
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

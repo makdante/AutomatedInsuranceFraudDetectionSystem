@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e9265e76-a54e-4179-9350-65e378d0c757",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-02-10",
+    "EndDate": "2026-02-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-02",
+    "Location": "150 Cody Roads\nNew Angelachester, NE 22533",
+    "Description": "Enough evening law manager Republican thus memory. Sometimes exactly cover various industry consumer. Style way me read generation sound. Front same present measure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 95837
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6074
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5093
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 124766
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17713
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 249483,
+    "TotalApproved": 102386
+  },
+  "AdjusterDetails": {
+    "Name": "John Weaver",
+    "ContactInformation": {
+      "Phone": "4714522328",
+      "Email": "glenngamble@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e0672f8b-d0d9-41ff-ae16-e1be5a4ea3e9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gomez LLC",
+    "Model": "discuss",
+    "Year": 2016,
+    "VIN": "96782b2a-034d-4c1a-a4ac-2fc7a157ee37"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Thomas Pena",
+      "ContactInformation": {
+        "Phone": "794-512-7594",
+        "Email": "briley@example.com"
+      },
+      "Statement": "Special party kid price. Husband put along large themselves market heart.\nEarly professional season body guess growth newspaper. Feel cultural behavior three wish above. Ago new magazine."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fe5c605d-73b5-4f0e-8620-bd35e4b5d7bd",
+    "OfficerName": "Joshua Page",
+    "ReportDetails": "I history country tax. Under interview community give phone crime process. Particularly few buy start left everybody indeed entire. Movement song environmental develop."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 396,
+    "AnnualIncome": 106287,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 8,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

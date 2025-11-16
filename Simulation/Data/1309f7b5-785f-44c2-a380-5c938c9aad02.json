@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1309f7b5-785f-44c2-a380-5c938c9aad02",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-08-25",
+    "EndDate": "2026-08-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-11",
+    "Location": "800 Johns Falls Apt. 885\nMitchellfort, AR 18364",
+    "Description": "Medical mean third beautiful past. Loss condition list live off approach. Simple reflect upon appear lot."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 177650
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 33676
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7502
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14512
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7639
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 240979,
+    "TotalApproved": 23048
+  },
+  "AdjusterDetails": {
+    "Name": "Mary Chan",
+    "ContactInformation": {
+      "Phone": "876-477-5433",
+      "Email": "ruizbrittany@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/956f660c-5a67-4677-9448-095e89b906b1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis Ltd",
+    "Model": "all",
+    "Year": 2000,
+    "VIN": "6bee2e19-8747-4e14-b7f0-5ebfad24f70e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lori Taylor",
+      "ContactInformation": {
+        "Phone": "001-874-696-9625x80973",
+        "Email": "kelleydiana@example.net"
+      },
+      "Statement": "Style ability third charge determine investment.\nGovernment guy example body. Position thing could foreign top last. Film raise large business put. Particular usually its check."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b25c8cb8-54ca-42df-b2d1-f14081d0b86b",
+    "OfficerName": "Elizabeth Cook",
+    "ReportDetails": "Report live really large continue town.\nStory blood suddenly. Guy treat professor speak assume. Sport interest especially inside various over. Officer crime sometimes interest clear."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 819,
+    "AnnualIncome": 22818,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

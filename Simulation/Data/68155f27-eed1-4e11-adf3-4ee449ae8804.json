@@ -1,0 +1,112 @@
+{
+  "ClaimID": "68155f27-eed1-4e11-adf3-4ee449ae8804",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-10-10",
+    "EndDate": "2026-10-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-10-04",
+    "Location": "51020 Cynthia Gateway Suite 602\nFloresville, FL 44054",
+    "Description": "Change wear establish phone region own seem part. Eight coach try against.\nChild under morning good leg. Culture worker become to."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10139
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9285
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 44993
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8345
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 79049
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 151811,
+    "TotalApproved": 90886
+  },
+  "AdjusterDetails": {
+    "Name": "Kelly Wood",
+    "ContactInformation": {
+      "Phone": "815-643-2465x47973",
+      "Email": "wuanthony@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/4f4fd66b-e224-4727-ac51-fcf77e4df201"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-10-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lawrence and Sons",
+    "Model": "growth",
+    "Year": 2004,
+    "VIN": "55a3719f-016f-49bc-b5c1-afa59374c5ec"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Carolyn Thomas",
+      "ContactInformation": {
+        "Phone": "+1-417-472-8531x98224",
+        "Email": "jillian78@example.net"
+      },
+      "Statement": "Serious risk fear traditional pattern test. Account economic level real nice. Along bill discuss mean type appear."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3f58df56-ea85-4133-b409-2e4d1b3987aa",
+    "OfficerName": "Blake Thompson",
+    "ReportDetails": "Officer everything save nice. Save unit staff top car drive. Traditional lay mention peace board.\nPut much see no both three help. Art stuff beautiful American its. Film beat mean look."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 728,
+    "AnnualIncome": 89295,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

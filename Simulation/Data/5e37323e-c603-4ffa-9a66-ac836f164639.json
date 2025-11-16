@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5e37323e-c603-4ffa-9a66-ac836f164639",
+  "PolicyID": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+  "EffectiveDates": {
+    "StartDate": "2025-01-10",
+    "EndDate": "2026-01-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc658f34-99aa-4827-9c9c-82ccb20e727e",
+    "Name": "Christopher Smith",
+    "PolicyNumber": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+    "ContactInformation": {
+      "Phone": "519-859-6871x1692",
+      "Email": "fpaul@example.net",
+      "Address": "052 Fletcher Road\nPort Kelsey, SD 74092"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-30",
+    "Location": "USNV Parks\nFPO AA 54572",
+    "Description": "Safe clearly suggest. Early loss line science bank line. Century black art family performance lawyer these."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 47812
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12583
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8115
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5618
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8412
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 82540,
+    "TotalApproved": 1411
+  },
+  "AdjusterDetails": {
+    "Name": "Tom Maddox",
+    "ContactInformation": {
+      "Phone": "841-939-3021",
+      "Email": "middletongail@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/bb1073ea-54de-4874-bc29-e32ba59a24c0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Owens, Christensen and Robles",
+    "Model": "none",
+    "Year": 2000,
+    "VIN": "a42dc492-de4a-4dfa-8a6f-dadcf6108bd0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Penny Johnson",
+      "ContactInformation": {
+        "Phone": "(879)228-1325x679",
+        "Email": "patrickgreen@example.net"
+      },
+      "Statement": "Establish truth ago else different nation agency.\nMrs test spring born yet politics feel past. Democrat participant fine old."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d6bc5537-c3d9-4048-8ec4-3d3f9cab5481",
+    "OfficerName": "Michael Whitaker",
+    "ReportDetails": "Around develop fear.\nAnd term Mrs popular street indicate. Wonder their middle near big.\nOwner spring between. Everyone conference medical around section. Choose number add theory."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 624,
+    "AnnualIncome": 61292,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 7,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

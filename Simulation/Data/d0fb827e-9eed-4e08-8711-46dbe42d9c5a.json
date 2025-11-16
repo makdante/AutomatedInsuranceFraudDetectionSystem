@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d0fb827e-9eed-4e08-8711-46dbe42d9c5a",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2024-12-13",
+    "EndDate": "2025-12-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-20",
+    "Location": "79013 Jacob Groves\nNorth Haroldstad, GA 44084",
+    "Description": "Increase follow even system. Price wife thank military.\nOver share even very. Whom truth very standard detail dream. Both increase like I employee range."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 35222
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8557
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 123392
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7169
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14086
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 188426,
+    "TotalApproved": 34055
+  },
+  "AdjusterDetails": {
+    "Name": "Tony Dixon",
+    "ContactInformation": {
+      "Phone": "001-941-361-4063x0520",
+      "Email": "thomasclayton@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/28340046-cea4-44c3-93e7-b10e083048fe"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez, Moore and Bailey",
+    "Model": "call",
+    "Year": 2017,
+    "VIN": "8b78108f-68ce-46dc-addb-fc011812c400"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kevin Jackson",
+      "ContactInformation": {
+        "Phone": "280.223.1551",
+        "Email": "destiny19@example.org"
+      },
+      "Statement": "Imagine collection involve.\nSecond federal technology action party. Conference we task act any. Sure actually operation task."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cef550c9-d5b1-419d-bafc-f67f0500c3f6",
+    "OfficerName": "Thomas Thompson",
+    "ReportDetails": "Without office attorney heavy land add get while. Important save should first. Number act treat main.\nTough and concern similar half."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 467,
+    "AnnualIncome": 122492,
+    "DebtToIncomeRatio": 0.26
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

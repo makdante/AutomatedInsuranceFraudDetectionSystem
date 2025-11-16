@@ -1,0 +1,112 @@
+{
+  "ClaimID": "46923344-9b5c-4bbb-b19b-1c62ea9056e4",
+  "PolicyID": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+  "EffectiveDates": {
+    "StartDate": "2025-10-03",
+    "EndDate": "2026-10-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fc97abc-4961-491f-a4b1-12068641ded7",
+    "Name": "Mark Macias",
+    "PolicyNumber": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+    "ContactInformation": {
+      "Phone": "520-436-5997x9756",
+      "Email": "aaron79@example.org",
+      "Address": "537 Scott Unions Suite 245\nBrianfurt, WA 46172"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-21",
+    "Location": "9712 Sean Avenue Apt. 036\nRobertsland, NM 94305",
+    "Description": "Wish standard fine second identify establish figure. Sell natural walk. Determine enough represent.\nNor follow live young. Speech indeed radio senior. Trip century want your suffer color."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 34588
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 38768
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2694
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4717
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1535
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 82302,
+    "TotalApproved": 19594
+  },
+  "AdjusterDetails": {
+    "Name": "Adam Barrett",
+    "ContactInformation": {
+      "Phone": "845-565-4261",
+      "Email": "pearsonbarry@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/754d31d2-c684-47d0-a863-03d69e3bf401"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-31T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Holloway, Schaefer and Chavez",
+    "Model": "tonight",
+    "Year": 2009,
+    "VIN": "854c4467-7da3-45a3-9018-f0ce664450eb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Daniel Moody",
+      "ContactInformation": {
+        "Phone": "(684)924-4320",
+        "Email": "devinparsons@example.com"
+      },
+      "Statement": "Ok activity season sound increase ok evening such. Mr cultural against class certain. Respond address choice sort three station across site. Race interesting force by."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "94a88f16-cc04-41ad-8db0-2f2554a5da7b",
+    "OfficerName": "Daniel Lane",
+    "ReportDetails": "Recent strong with like have natural physical. That decide could little night right. Traditional early child your into."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 671,
+    "AnnualIncome": 87024,
+    "DebtToIncomeRatio": 0.16
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

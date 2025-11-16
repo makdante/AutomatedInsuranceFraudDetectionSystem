@@ -1,0 +1,112 @@
+{
+  "ClaimID": "43a2c961-973c-4d8d-9aef-3768102d39a8",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2024-12-24",
+    "EndDate": "2025-12-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-27",
+    "Location": "6784 Megan Island\nSouth Charlene, AR 54558",
+    "Description": "Debate threat leader black week west soon. Single amount small but rock bill."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 50620
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8410
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 185494
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 75628
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5655
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 325807,
+    "TotalApproved": 249522
+  },
+  "AdjusterDetails": {
+    "Name": "Ashley Parker",
+    "ContactInformation": {
+      "Phone": "943.814.9748",
+      "Email": "robertcoleman@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/6940e2b1-17e9-4fae-9add-2945f6877d49"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wood, Ramos and Rowe",
+    "Model": "yourself",
+    "Year": 2008,
+    "VIN": "f3a58de5-850e-4b02-9900-7c2742230c25"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Lee",
+      "ContactInformation": {
+        "Phone": "(518)270-8075x464",
+        "Email": "zhobbs@example.com"
+      },
+      "Statement": "My open analysis benefit. Hot color right serve. Form over story out always sure."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b3726128-3de2-4d11-b1c7-1fa341e810bf",
+    "OfficerName": "Natasha Johnson",
+    "ReportDetails": "Home bit act event quite together bit. Spring daughter name alone unit. Sign end two as.\nBig mind assume travel. Power seek catch many argue see. Until mother simple over available."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 407,
+    "AnnualIncome": 21072,
+    "DebtToIncomeRatio": 0.96
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

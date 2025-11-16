@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cbf6c160-8abd-4b68-b938-4cde39259bbb",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2025-07-28",
+    "EndDate": "2026-07-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-02",
+    "Location": "USNV Gibson\nFPO AA 73295",
+    "Description": "Wear trouble difficult place together peace teacher face. Mother out two less positive organization. Right real sport would out."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 30568
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6799
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 171654
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14372
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5499
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 228892,
+    "TotalApproved": 11695
+  },
+  "AdjusterDetails": {
+    "Name": "Brett Schroeder",
+    "ContactInformation": {
+      "Phone": "441-635-4435x4654",
+      "Email": "rcameron@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/417e1f31-1793-478b-a215-6e23bcaedff9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hayden, Livingston and Harrell",
+    "Model": "official",
+    "Year": 2004,
+    "VIN": "0c9d8d59-d3ff-4b9a-a4b1-6e059cf21cc4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cheryl Rose",
+      "ContactInformation": {
+        "Phone": "425-308-3826x3562",
+        "Email": "martinkevin@example.org"
+      },
+      "Statement": "In change family woman just population many. Quickly happen pay student sense together.\nLeast after space left. Year affect but ok issue source."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f344b080-9cca-4f0f-95d4-5cdba8878875",
+    "OfficerName": "Nichole Cordova",
+    "ReportDetails": "Building eight bar what picture much one. Occur quality center doctor later. Produce improve over street red impact large."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 794,
+    "AnnualIncome": 118255,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 0,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

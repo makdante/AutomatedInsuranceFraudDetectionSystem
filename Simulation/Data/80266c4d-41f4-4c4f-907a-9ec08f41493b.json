@@ -1,0 +1,112 @@
+{
+  "ClaimID": "80266c4d-41f4-4c4f-907a-9ec08f41493b",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-09-19",
+    "EndDate": "2026-09-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-02",
+    "Location": "91843 Joshua Park\nSouth Virginiaborough, AK 26324",
+    "Description": "Ever little candidate short social building. Lead best down stand safe two."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 10002
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14498
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4638
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 118146
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6540
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 153824,
+    "TotalApproved": 51008
+  },
+  "AdjusterDetails": {
+    "Name": "Alexander Arellano",
+    "ContactInformation": {
+      "Phone": "(726)340-8737x8852",
+      "Email": "jacobmartin@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/2cef5f0a-729a-4496-80a5-6fc74dc735a1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bryan Group",
+    "Model": "team",
+    "Year": 2005,
+    "VIN": "d76976ef-9faa-4c95-8be9-039647e4ee90"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Benjamin Franklin",
+      "ContactInformation": {
+        "Phone": "600.330.7616",
+        "Email": "halesusan@example.com"
+      },
+      "Statement": "Describe result deep clearly weight approach all. Everything never tree voice decade spend still simply."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8ad3b29b-5af1-4a5e-8397-2dad4d26b4a5",
+    "OfficerName": "Anthony Reed",
+    "ReportDetails": "Affect data right yourself. Something manager final any close.\nGrowth man cost. Occur right data move price. Certain guy manager foreign himself American personal."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 659,
+    "AnnualIncome": 149248,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

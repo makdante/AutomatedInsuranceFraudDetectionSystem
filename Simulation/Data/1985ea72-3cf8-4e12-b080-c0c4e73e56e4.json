@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1985ea72-3cf8-4e12-b080-c0c4e73e56e4",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-04-16",
+    "EndDate": "2026-04-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-29",
+    "Location": "0767 Jonathan Drive\nPrattmouth, CO 65436",
+    "Description": "Tell Mr despite not behavior. Red good bit dream media paper strong.\nMonth responsibility book quality specific century. Run particularly wall they east."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 33830
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 125004
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19391
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 159586
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5729
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 343540,
+    "TotalApproved": 158942
+  },
+  "AdjusterDetails": {
+    "Name": "Toni Becker",
+    "ContactInformation": {
+      "Phone": "477-477-9355x006",
+      "Email": "alexaward@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/f34b59b4-68c0-422d-822b-fec797e9deb2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Webb and Sons",
+    "Model": "offer",
+    "Year": 2019,
+    "VIN": "8152e893-c3d5-4660-80b8-fb85dca65a5d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "William Barton",
+      "ContactInformation": {
+        "Phone": "313.875.1410x731",
+        "Email": "towens@example.net"
+      },
+      "Statement": "Not among white either. Summer sing environmental effect whom eye tonight forward. Tv modern each size popular officer."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f24bc58b-86fd-4ba9-b8b6-a564a08933c8",
+    "OfficerName": "Jason Wilson",
+    "ReportDetails": "Under especially school source set mind. East owner else agree. Face price there vote.\nWriter similar best federal friend security father. Design baby adult life lead beat."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 690,
+    "AnnualIncome": 152680,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

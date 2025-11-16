@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d0e25a02-1d1b-400b-b70f-74c9363565a6",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2024-11-14",
+    "EndDate": "2025-11-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-02",
+    "Location": "491 Sanchez Trace\nNew Charlesview, SC 24872",
+    "Description": "Attention experience happen. Democrat a seek picture.\nWithin section one dinner thousand. Thank those democratic common option better structure. Free kitchen right rock."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3910
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2215
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 42752
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16652
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4424
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 69953,
+    "TotalApproved": 64241
+  },
+  "AdjusterDetails": {
+    "Name": "Gail Maddox",
+    "ContactInformation": {
+      "Phone": "001-732-889-3620x989",
+      "Email": "colesteven@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e857381e-4daa-464a-95eb-218877508a1a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martin Inc",
+    "Model": "west",
+    "Year": 2000,
+    "VIN": "1ce5d174-68f5-4a38-aed5-33433792d4c1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Hunter Hartman",
+      "ContactInformation": {
+        "Phone": "(541)891-1144",
+        "Email": "haileystone@example.net"
+      },
+      "Statement": "Care right itself. You somebody cause visit across bill decide back. Little mission lead serve without live inside only."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e84f15ad-fb88-4952-a263-834210c3749d",
+    "OfficerName": "Kimberly Gregory",
+    "ReportDetails": "Station ready door represent small. End perhaps door important dream and two. Hope line stuff.\nWait school region bar. Else admit opportunity south."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 826,
+    "AnnualIncome": 29101,
+    "DebtToIncomeRatio": 0.16
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 1,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

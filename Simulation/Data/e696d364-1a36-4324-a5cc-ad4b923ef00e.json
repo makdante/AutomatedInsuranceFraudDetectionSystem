@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e696d364-1a36-4324-a5cc-ad4b923ef00e",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-02-07",
+    "EndDate": "2026-02-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-12",
+    "Location": "41758 Cervantes Knolls\nAndrewside, ME 95075",
+    "Description": "In collection there exist level simple. Discover address foot source.\nCourse note black yeah language. For red high four manager. Author you forget over remember idea."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4348224
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4272760
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4329861
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4713330
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4636868
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22301043,
+    "TotalApproved": 14740040
+  },
+  "AdjusterDetails": {
+    "Name": "Taylor Morrison",
+    "ContactInformation": {
+      "Phone": "8362952083",
+      "Email": "kimberlykelley@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/feb619f4-6b47-47b4-b438-c0673ec788fd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-12T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-17T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-22T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Herrera, Moore and Boyer",
+    "Model": "new",
+    "Year": 2000,
+    "VIN": "43e64b12-2229-4448-9b2b-dfb938b87c94"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Deborah Martinez",
+      "ContactInformation": {
+        "Phone": "(602)317-5291x3159",
+        "Email": "ronald90@example.net"
+      },
+      "Statement": "Better become success my quickly hold stuff even.\nDiscussion society impact upon including event option. Wait hard rock still build enough street.\nBuild appear away."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "384c7f5b-ec71-48af-a352-58d13cc8ec61",
+    "OfficerName": "Robert Parks",
+    "ReportDetails": "Plan doctor stay set. Like particularly debate experience.\nPattern table officer citizen democratic girl. Work food model technology their truth care brother. Hold put case water maintain."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 303,
+    "AnnualIncome": 40633,
+    "DebtToIncomeRatio": 0.61
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

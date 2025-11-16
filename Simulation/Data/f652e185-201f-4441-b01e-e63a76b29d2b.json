@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f652e185-201f-4441-b01e-e63a76b29d2b",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2024-11-24",
+    "EndDate": "2025-11-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-19",
+    "Location": "1781 Gonzales Expressway Suite 192\nJennyland, KS 96435",
+    "Description": "Top change then away. Including western hand manager piece laugh officer. Nearly guy who skill."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 29458
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2936
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 65583
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 120191
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 36699
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 254867,
+    "TotalApproved": 205624
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Finley",
+    "ContactInformation": {
+      "Phone": "001-994-763-5116x2649",
+      "Email": "carterdavid@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/0af3fdae-72a7-492b-bbe6-b9a4d3070c03"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lopez, Benitez and Frank",
+    "Model": "right",
+    "Year": 2019,
+    "VIN": "fe2914cf-51de-481b-92b6-30a935749333"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Jacobson",
+      "ContactInformation": {
+        "Phone": "+1-431-779-0197",
+        "Email": "kleinjulia@example.net"
+      },
+      "Statement": "System that control they central just very agree. Shoulder year low parent.\nYour decision government effort go political. Sense me people finish draw city condition."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a5b923b7-464b-46ec-9254-68fc2d57a01a",
+    "OfficerName": "Kimberly Melton",
+    "ReportDetails": "Energy low painting answer anything billion look.\nUse indicate special financial reveal good five. Newspaper democratic indicate table design movement."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 342,
+    "AnnualIncome": 80918,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

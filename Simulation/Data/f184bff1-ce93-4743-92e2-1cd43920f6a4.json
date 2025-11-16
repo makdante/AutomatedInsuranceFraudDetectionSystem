@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f184bff1-ce93-4743-92e2-1cd43920f6a4",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-07-06",
+    "EndDate": "2026-07-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-03",
+    "Location": "50415 Grace Extensions Suite 247\nEast Crystal, AL 03828",
+    "Description": "Pattern claim not group entire ever. Most sound run."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 115332
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14703
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12135
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1691
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14727
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 158588,
+    "TotalApproved": 33114
+  },
+  "AdjusterDetails": {
+    "Name": "Brooke Mitchell",
+    "ContactInformation": {
+      "Phone": "7073733960",
+      "Email": "angelarodriguez@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a4b38999-08f4-4b73-a146-1fd1803c28ab"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Robinson Group",
+    "Model": "day",
+    "Year": 2009,
+    "VIN": "64d54453-4551-4836-b1d1-93548289164e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amy Smith",
+      "ContactInformation": {
+        "Phone": "+1-851-646-0669",
+        "Email": "mooredenise@example.org"
+      },
+      "Statement": "Defense into society school method full. Similar main hotel rule.\nNewspaper reduce with protect continue treat career. Instead whether agency writer series. Try provide drop every."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bd57d46d-db11-44b6-b9a7-90a2e675f6fb",
+    "OfficerName": "Whitney Watson",
+    "ReportDetails": "Mind every hold continue commercial radio next. Military parent individual family. Add money change idea.\nAvailable father some something need. Arm true of speak game them too have."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 400,
+    "AnnualIncome": 61531,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 8,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

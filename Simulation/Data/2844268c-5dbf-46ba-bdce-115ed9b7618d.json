@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2844268c-5dbf-46ba-bdce-115ed9b7618d",
+  "PolicyID": "be1a056e-41f2-4711-a855-46173d7d2368",
+  "EffectiveDates": {
+    "StartDate": "2025-02-08",
+    "EndDate": "2026-02-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a46d411e-9ab9-4ed4-914f-2da09d0b8a29",
+    "Name": "Christopher Shaw",
+    "PolicyNumber": "be1a056e-41f2-4711-a855-46173d7d2368",
+    "ContactInformation": {
+      "Phone": "407.948.6080x1895",
+      "Email": "thomaswatson@example.com",
+      "Address": "27329 Dean Locks Suite 317\nLake Jasonhaven, WY 37967"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-01",
+    "Location": "73476 Daniel Hill Apt. 732\nSouth Danielleville, VT 61034",
+    "Description": "Physical take walk officer rate third."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2180
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19480
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 46618
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2837
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 47065
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 118180,
+    "TotalApproved": 63011
+  },
+  "AdjusterDetails": {
+    "Name": "Jacob Hodge",
+    "ContactInformation": {
+      "Phone": "(295)884-0328",
+      "Email": "nicholas25@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/025c0fd1-d56f-490b-8bbb-639538de0ecf"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wood-Glover",
+    "Model": "attention",
+    "Year": 2005,
+    "VIN": "2aa3da9f-f9f1-4067-93a1-a0aeb02f6eb2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mrs. Samantha Cook MD",
+      "ContactInformation": {
+        "Phone": "001-671-298-2246x62465",
+        "Email": "ocole@example.net"
+      },
+      "Statement": "Quite many memory share TV fast soon. Question door government them others."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a86f2e32-21e1-436b-890f-6511b7eda5e7",
+    "OfficerName": "Dawn Henderson",
+    "ReportDetails": "Sing project respond. Share these risk past. Quality rate challenge budget later tonight.\nArt listen drop major though take. Gas role build dog."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 737,
+    "AnnualIncome": 82211,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 8,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

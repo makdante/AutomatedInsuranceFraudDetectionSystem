@@ -1,0 +1,112 @@
+{
+  "ClaimID": "86bf16ec-7cf0-43f6-9442-0a4062e96467",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-03-04",
+    "EndDate": "2026-03-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-07",
+    "Location": "924 Kayla Point\nSouth Saratown, OH 07427",
+    "Description": "Usually manage father history authority. Writer become although price. Lose get less child.\nMiss it budget. Civil or know day.\nReality pass clear join treatment. Fast say as certainly five."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 148161
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8265
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44780
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 64625
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 169650
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 435481,
+    "TotalApproved": 233573
+  },
+  "AdjusterDetails": {
+    "Name": "James Heath",
+    "ContactInformation": {
+      "Phone": "+1-568-891-0469x304",
+      "Email": "andrew31@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a3d29f81-0b65-4b84-8d79-4e0b5f870c76"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Carter",
+    "Model": "son",
+    "Year": 2015,
+    "VIN": "ff90443c-b1c4-41a1-be43-f2d8493be074"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "John Sosa",
+      "ContactInformation": {
+        "Phone": "625-377-9442",
+        "Email": "victoria39@example.org"
+      },
+      "Statement": "Allow two response small nice wall night. Forward opportunity challenge body might. Decade eat deep citizen.\nScore talk choose. Education future necessary herself pick."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a5a422b9-662f-4d90-b1c0-2889b061feb4",
+    "OfficerName": "Erika Thornton",
+    "ReportDetails": "Individual value health increase individual along eight. Administration address however history tax coach sort."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 334,
+    "AnnualIncome": 187892,
+    "DebtToIncomeRatio": 0.92
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

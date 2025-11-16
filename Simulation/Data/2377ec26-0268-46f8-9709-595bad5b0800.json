@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2377ec26-0268-46f8-9709-595bad5b0800",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2024-12-17",
+    "EndDate": "2025-12-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-17",
+    "Location": "766 Brown Drive\nSarahbury, KY 54046",
+    "Description": "Hand easy wall. Attack control me somebody himself. Total material fund produce individual specific head.\nYes within than probably.\nCamera talk soon read so four."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16148
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5464
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2359
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11696
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7922
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 43589,
+    "TotalApproved": 2933
+  },
+  "AdjusterDetails": {
+    "Name": "Trevor Mack",
+    "ContactInformation": {
+      "Phone": "001-682-297-9070x0474",
+      "Email": "david67@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/103ff4fd-5856-4946-a199-d4fe999a80ca"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ward LLC",
+    "Model": "will",
+    "Year": 2018,
+    "VIN": "e4d32ae1-c3be-4826-9cd6-877134d95a0a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Reeves",
+      "ContactInformation": {
+        "Phone": "001-896-752-2687x78280",
+        "Email": "elizabethrasmussen@example.net"
+      },
+      "Statement": "Top over opportunity fly catch opportunity front best. Skin third represent against clear according check factor."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "290ed185-0572-422a-be1e-5ff5187e8608",
+    "OfficerName": "Raven Brown",
+    "ReportDetails": "Letter recently try growth when theory. Hotel hundred note month create."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 775,
+    "AnnualIncome": 190223,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 10,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

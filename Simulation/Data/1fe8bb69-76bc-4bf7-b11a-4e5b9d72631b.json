@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1fe8bb69-76bc-4bf7-b11a-4e5b9d72631b",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2024-11-02",
+    "EndDate": "2025-11-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-02",
+    "Location": "16446 Baker Lakes Suite 487\nJohnsonville, CO 03071",
+    "Description": "Religious just foot per where without early such. Doctor trip media son win human. Field if look meeting no. Reason argue better week."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2404
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16014
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 91055
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2475
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 57437
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 169385,
+    "TotalApproved": 65131
+  },
+  "AdjusterDetails": {
+    "Name": "Richard Smith",
+    "ContactInformation": {
+      "Phone": "(922)410-2296",
+      "Email": "lisaarnold@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/6e275ae3-1e7f-41b2-af3e-2eb44721859c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson-Johnson",
+    "Model": "region",
+    "Year": 2001,
+    "VIN": "fc18d254-e665-488f-a8b1-943240867c86"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "George Johnson",
+      "ContactInformation": {
+        "Phone": "972-335-3645",
+        "Email": "mwolfe@example.net"
+      },
+      "Statement": "Response white often management. Into control special medical.\nIndividual air everyone half area. Look policy speech employee. Around give develop look."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5e3f0615-8696-4ef8-b87a-5a5d599b9eb6",
+    "OfficerName": "Michael Adams",
+    "ReportDetails": "Believe ability director herself.\nCharacter especially member energy.\nEye very amount once main last necessary. Gun his experience send husband. Drop score whatever level religious."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 307,
+    "AnnualIncome": 111762,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

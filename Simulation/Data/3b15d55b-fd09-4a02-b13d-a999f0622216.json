@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3b15d55b-fd09-4a02-b13d-a999f0622216",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-06-10",
+    "EndDate": "2026-06-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-03",
+    "Location": "723 Lauren Haven\nBrandonville, WV 90330",
+    "Description": "Player matter no Republican west. Meet good type build.\nHowever shake prove course. Direction treat happen age store ready of. Education morning tend."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7467
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17910
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14859
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5100
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4903
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 50239,
+    "TotalApproved": 23449
+  },
+  "AdjusterDetails": {
+    "Name": "James Yoder",
+    "ContactInformation": {
+      "Phone": "516.402.2093",
+      "Email": "ryanbray@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d969ed8a-0d2f-44e1-bd48-6caf2931b812"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bass LLC",
+    "Model": "offer",
+    "Year": 2001,
+    "VIN": "8d4004fb-85a0-4914-b409-89ebde9b51d7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Hall",
+      "ContactInformation": {
+        "Phone": "321.759.2687x2807",
+        "Email": "mirandamcgee@example.org"
+      },
+      "Statement": "Good everyone start take the answer. Car beautiful before run certainly. Break paper suffer meeting.\nNote production time time."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "53a743a0-d009-4c06-979d-0962576f9de1",
+    "OfficerName": "James Wright",
+    "ReportDetails": "Cup in together training head. Main skin number senior position company.\nMy month decide son evidence gun reason near. Wish thought thought decision chair so."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 662,
+    "AnnualIncome": 42478,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

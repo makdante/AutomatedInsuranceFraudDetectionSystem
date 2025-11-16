@@ -1,0 +1,112 @@
+{
+  "ClaimID": "80604450-42d3-4a92-af88-a1294ff922f4",
+  "PolicyID": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+  "EffectiveDates": {
+    "StartDate": "2025-10-21",
+    "EndDate": "2026-10-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ddabce0f-b86c-49b4-a9b6-4d81be5b5325",
+    "Name": "Helen Williams DDS",
+    "PolicyNumber": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+    "ContactInformation": {
+      "Phone": "(520)524-5958",
+      "Email": "elizabeth72@example.net",
+      "Address": "2431 Karen Tunnel Suite 892\nLisaland, OK 93348"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-22",
+    "Location": "841 Foster Isle Suite 105\nNorth Kellyside, UT 65844",
+    "Description": "Son story event market animal measure life. Public clearly old all eye.\nWait sit garden analysis provide. Between huge investment cell out."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 99375
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 46394
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7308
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 105758
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9215
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 268050,
+    "TotalApproved": 197542
+  },
+  "AdjusterDetails": {
+    "Name": "Mr. John Herrera DDS",
+    "ContactInformation": {
+      "Phone": "318-688-7384",
+      "Email": "costajordan@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/6e6180f9-15b2-43c3-95ed-e06732805e5a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lloyd-Watson",
+    "Model": "true",
+    "Year": 2002,
+    "VIN": "cef8e377-f193-4e59-8d93-7dda4c7ce213"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amber Hayes",
+      "ContactInformation": {
+        "Phone": "001-720-732-8788x42545",
+        "Email": "james30@example.net"
+      },
+      "Statement": "Though mother treatment maybe feeling improve small.\nHot level conference less. Economy glass do anyone contain. North enter bring government indeed."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3044cb01-9887-4237-9721-9dd87fe96c14",
+    "OfficerName": "Mark Mora",
+    "ReportDetails": "Grow score meet establish team give discussion. Significant executive child strategy dream opportunity particularly something."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 391,
+    "AnnualIncome": 153798,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 5,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

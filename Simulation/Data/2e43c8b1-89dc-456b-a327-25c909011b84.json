@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2e43c8b1-89dc-456b-a327-25c909011b84",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2024-11-15",
+    "EndDate": "2025-11-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-04",
+    "Location": "675 Jones Well\nDeleonland, NC 37996",
+    "Description": "A to popular message expert some. Blood read usually beat. Point cell rule listen something.\nTheory resource test. Look give citizen no approach last ground."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 129336
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1708
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 19597
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 94244
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 71693
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 316578,
+    "TotalApproved": 71590
+  },
+  "AdjusterDetails": {
+    "Name": "Shaun Smith",
+    "ContactInformation": {
+      "Phone": "001-763-356-2846x048",
+      "Email": "blakebrown@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/214913a8-8e3a-4d49-bfcb-aeebd29acaf3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Riley",
+    "Model": "cost",
+    "Year": 2007,
+    "VIN": "b7a928b0-2ee1-4024-aae0-91349d6469f6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "William Martinez",
+      "ContactInformation": {
+        "Phone": "(507)598-3362",
+        "Email": "nelsonmichael@example.com"
+      },
+      "Statement": "Animal difference throw. Approach leg base star if stand though."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fc8dab83-f1e9-46ec-93e1-a54eaa8cc1a3",
+    "OfficerName": "Kimberly Johnson",
+    "ReportDetails": "Office something process health other cover. Operation recent somebody add range particular far operation. Food part once report guess."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 611,
+    "AnnualIncome": 147585,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

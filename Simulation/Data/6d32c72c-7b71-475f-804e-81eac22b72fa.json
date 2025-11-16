@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6d32c72c-7b71-475f-804e-81eac22b72fa",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-05-30",
+    "EndDate": "2026-05-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-07",
+    "Location": "607 Cruz Squares Apt. 567\nBrandiborough, NH 48101",
+    "Description": "War second science who history decision physical research. There perform operation company your when official necessary."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 25655
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 91967
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 121403
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 41952
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13099
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 294076,
+    "TotalApproved": 97305
+  },
+  "AdjusterDetails": {
+    "Name": "Brenda Gutierrez",
+    "ContactInformation": {
+      "Phone": "965.979.3803",
+      "Email": "mooreapril@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c471a591-26f2-4d79-9b46-24af9ed403a6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Castro, Hill and Bowen",
+    "Model": "game",
+    "Year": 2015,
+    "VIN": "716b9229-3861-4ea0-ab98-e25a4ca592c2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jason Thomas",
+      "ContactInformation": {
+        "Phone": "903.330.9530x11870",
+        "Email": "ericjohnson@example.net"
+      },
+      "Statement": "Yard avoid money official effect. Language shoulder cell speak subject. To follow evidence treatment maybe likely."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b70d87e8-211c-49eb-8c15-eadbfc4b1aed",
+    "OfficerName": "Jessica Rice",
+    "ReportDetails": "Yourself could set grow clear. Action miss appear herself enjoy while.\nCandidate fact great development hand ok strong. Economic fight even prove case.\nDecision almost husband various."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 692,
+    "AnnualIncome": 159026,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 5,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

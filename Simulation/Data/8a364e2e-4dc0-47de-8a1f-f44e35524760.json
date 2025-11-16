@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8a364e2e-4dc0-47de-8a1f-f44e35524760",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-04-08",
+    "EndDate": "2026-04-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-05",
+    "Location": "02134 Miller Walk Suite 045\nAshleyfurt, SD 54622",
+    "Description": "Paper great pass PM seek others entire. Assume without beautiful.\nPossible laugh carry life or. Administration black but method charge site past how. Radio clearly assume whom employee produce."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 164587
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2425
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 26964
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 91559
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 65029
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 350564,
+    "TotalApproved": 25583
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Brown",
+    "ContactInformation": {
+      "Phone": "469.550.4476",
+      "Email": "upalmer@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c736de5e-16fc-4541-b8c6-03599e513931"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-05T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-10T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-15T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Santiago-Campbell",
+    "Model": "game",
+    "Year": 2015,
+    "VIN": "b4735229-c1c1-4262-9838-0ef2bc59b1ba"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Leslie Buckley",
+      "ContactInformation": {
+        "Phone": "001-227-373-4255x7346",
+        "Email": "rodriguezmelissa@example.org"
+      },
+      "Statement": "Mother responsibility character. Physical alone nature series. Pick marriage daughter anything much feeling. Such station table evidence change weight against."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8bde0392-a4fb-42e2-bbe2-956e786d936f",
+    "OfficerName": "Travis Rodriguez",
+    "ReportDetails": "Image important bad movie series. Pressure us TV player positive on side. Feeling economic certainly allow particular or admit."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 789,
+    "AnnualIncome": 94790,
+    "DebtToIncomeRatio": 0.6
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 1,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

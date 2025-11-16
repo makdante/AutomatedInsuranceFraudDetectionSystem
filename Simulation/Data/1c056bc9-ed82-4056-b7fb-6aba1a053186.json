@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1c056bc9-ed82-4056-b7fb-6aba1a053186",
+  "PolicyID": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+  "EffectiveDates": {
+    "StartDate": "2025-10-23",
+    "EndDate": "2026-10-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "33851d0f-ae34-4d84-9979-9c0bb345ff37",
+    "Name": "Emily Richardson",
+    "PolicyNumber": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+    "ContactInformation": {
+      "Phone": "(999)370-8402x9360",
+      "Email": "stephen63@example.com",
+      "Address": "90107 Stephen Well\nAndrewmouth, ND 46797"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-04",
+    "Location": "84686 Mathews Oval Suite 309\nKimberlyton, OR 26657",
+    "Description": "Bad decade create old food.\nImprove coach teacher keep finish method. Certainly bag true worry. One until response class section western call paper."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 45525
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 69739
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4988
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8777
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 151024
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 280053,
+    "TotalApproved": 144181
+  },
+  "AdjusterDetails": {
+    "Name": "Jesus Johnson",
+    "ContactInformation": {
+      "Phone": "+1-650-646-4114x7017",
+      "Email": "jonathan86@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b172a1f3-47ef-4a96-8b27-cfb50bfc3731"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-09-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gibbs, Jackson and Livingston",
+    "Model": "difficult",
+    "Year": 2007,
+    "VIN": "8d4c88ac-4388-4cdb-8f66-cbcf120337c8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Coleman",
+      "ContactInformation": {
+        "Phone": "001-930-669-8455x80568",
+        "Email": "franklincrystal@example.net"
+      },
+      "Statement": "Perform economic short east whether question simply. Pass health record difference decade father. Also design budget I."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "75b0abbf-ae8d-4d2b-a915-2bc53c809091",
+    "OfficerName": "Beth Levine",
+    "ReportDetails": "Break concern economic present degree. Get war national race here degree visit. Together early still decide issue body.\nPart message population store. Bill cause place those find least bill."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 426,
+    "AnnualIncome": 24255,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

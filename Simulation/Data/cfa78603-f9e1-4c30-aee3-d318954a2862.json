@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cfa78603-f9e1-4c30-aee3-d318954a2862",
+  "PolicyID": "edb39a23-2e22-4016-9361-028155eceec8",
+  "EffectiveDates": {
+    "StartDate": "2025-06-13",
+    "EndDate": "2026-06-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "958f1d81-cf68-405c-ab92-a931c2c577e6",
+    "Name": "Breanna Ewing",
+    "PolicyNumber": "edb39a23-2e22-4016-9361-028155eceec8",
+    "ContactInformation": {
+      "Phone": "+1-935-681-7496",
+      "Email": "jeremystark@example.net",
+      "Address": "52172 Ryan Estate Suite 095\nPort Nathanbury, NY 38761"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-22",
+    "Location": "033 David Neck\nEast Arthurmouth, VI 88769",
+    "Description": "Teach east test forward or role. Exist mention how chance fall. Billion would interesting hair investment eat major."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6629
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 64126
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16342
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6791
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7524
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 101412,
+    "TotalApproved": 64782
+  },
+  "AdjusterDetails": {
+    "Name": "Tammie Tapia",
+    "ContactInformation": {
+      "Phone": "431-640-8839x102",
+      "Email": "fwright@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ecf54a67-8b3c-48bb-98b7-a4038923d5b1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-22T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-27T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-01T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Nguyen and Sons",
+    "Model": "high",
+    "Year": 2015,
+    "VIN": "5e051636-0041-4dc7-98c6-aeed89dec1e8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Ramirez",
+      "ContactInformation": {
+        "Phone": "6533159135",
+        "Email": "keithcook@example.org"
+      },
+      "Statement": "Great fast network else pull brother then.\nCan way join stay else language them board. Positive face system strong yourself north board.\nWatch Mr keep leader to. Morning pull statement rest number."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "55eefdb3-057a-4e72-a04b-af81de1f3496",
+    "OfficerName": "Brian Lopez",
+    "ReportDetails": "Them want sing smile long address history. Phone think growth recently."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 632,
+    "AnnualIncome": 162027,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

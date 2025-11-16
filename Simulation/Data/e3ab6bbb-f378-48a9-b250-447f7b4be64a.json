@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e3ab6bbb-f378-48a9-b250-447f7b4be64a",
+  "PolicyID": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+  "EffectiveDates": {
+    "StartDate": "2025-05-28",
+    "EndDate": "2026-05-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc658f34-99aa-4827-9c9c-82ccb20e727e",
+    "Name": "Christopher Smith",
+    "PolicyNumber": "0acd52a3-b1e4-46fc-af36-d8195cd3427d",
+    "ContactInformation": {
+      "Phone": "519-859-6871x1692",
+      "Email": "fpaul@example.net",
+      "Address": "052 Fletcher Road\nPort Kelsey, SD 74092"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-01",
+    "Location": "590 Ochoa Island\nSouth Monica, PR 66947",
+    "Description": "Trial film teacher make support travel sort. Perhaps push second pass.\nOne focus day despite marriage party. Relationship know these doctor wind here edge."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18810
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2855
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11555
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 40232
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 37963
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 111415,
+    "TotalApproved": 81750
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Wiggins",
+    "ContactInformation": {
+      "Phone": "+1-202-461-4677x3376",
+      "Email": "april43@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e15c4225-e072-4511-a9a2-e3e646edc5eb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Peterson Inc",
+    "Model": "sell",
+    "Year": 2000,
+    "VIN": "0aec4660-c3e3-4d31-bb13-f9f2fe37ceef"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rhonda Hammond",
+      "ContactInformation": {
+        "Phone": "786.468.6550x1628",
+        "Email": "brooksdenise@example.org"
+      },
+      "Statement": "Beyond sea likely price score. Arm end apply suddenly shake.\nSecond sport offer poor know fact admit. Make another foreign image economy design.\nOnto see treatment moment attack. Property since body."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b0881ec8-9ed9-448d-a69c-42e1aeb6bf53",
+    "OfficerName": "William Ward",
+    "ReportDetails": "Forward police cover seek exactly here. Begin go police see until hair strategy. Moment force kitchen back claim trip idea.\nGround son few wife card. Itself ready fly green draw five."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 457,
+    "AnnualIncome": 184933,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

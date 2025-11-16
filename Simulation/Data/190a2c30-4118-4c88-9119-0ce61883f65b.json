@@ -1,0 +1,112 @@
+{
+  "ClaimID": "190a2c30-4118-4c88-9119-0ce61883f65b",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2025-10-22",
+    "EndDate": "2026-10-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-10",
+    "Location": "3964 Tina Way\nColleenmouth, OH 61700",
+    "Description": "Military product rise. For difficult despite provide improve become clearly. National finish week also surface network common.\nFill crime audience issue. Middle benefit around ever would might."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 66976
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5623
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 77162
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12718
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5696
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 168175,
+    "TotalApproved": 89628
+  },
+  "AdjusterDetails": {
+    "Name": "Emily Garcia",
+    "ContactInformation": {
+      "Phone": "+1-830-495-7708x212",
+      "Email": "saguirre@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/06bc76f2-3acf-479c-9bf3-0387f0c85269"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wright PLC",
+    "Model": "each",
+    "Year": 2015,
+    "VIN": "f4e02ef2-98bb-4e1f-ab5d-69fd98caa922"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ashley Rodriguez",
+      "ContactInformation": {
+        "Phone": "665-683-9727",
+        "Email": "brenthaney@example.com"
+      },
+      "Statement": "Citizen anything particularly early. Media the cause tell include ask think.\nAble exist despite outside market report. Race store only stand hospital coach lay. Surface maybe rather."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ffd470c2-0ce4-4cd7-9d91-5abcd898b25c",
+    "OfficerName": "Christopher Mccarthy",
+    "ReportDetails": "Little standard news eat fall. Nor work seek sense economic dinner food. Animal character need add place degree.\nCase general health history wear notice. Bill entire catch task until put network eye."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 660,
+    "AnnualIncome": 183449,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

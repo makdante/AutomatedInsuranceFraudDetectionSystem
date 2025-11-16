@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6dbd25d6-add7-4ca6-b58c-256552206d6f",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2025-01-16",
+    "EndDate": "2026-01-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-01",
+    "Location": "PSC 3256, Box 5608\nAPO AE 00858",
+    "Description": "Up customer hot democratic necessary. Create much bad take will determine budget. Program home film production leave. Whether south no notice care."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4316390
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4586467
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4537675
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4754174
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4485162
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22679868,
+    "TotalApproved": 3709699
+  },
+  "AdjusterDetails": {
+    "Name": "Brandy Wood",
+    "ContactInformation": {
+      "Phone": "885.347.3853x856",
+      "Email": "glopez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b507888f-89b5-4014-9a48-76e0e8216aef"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mendoza LLC",
+    "Model": "although",
+    "Year": 2015,
+    "VIN": "dbf53a50-395f-49be-bd33-055f25fc558b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stacey Ochoa",
+      "ContactInformation": {
+        "Phone": "8778547397",
+        "Email": "henry16@example.org"
+      },
+      "Statement": "Certain sport movement appear.\nCould recently to dog security live bank. Old maintain pay number. Nothing recent side water.\nAdd believe contain. Although property pay direction."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ca8b3fb9-d3ae-4c99-a060-521159e6b84d",
+    "OfficerName": "Ian Walsh",
+    "ReportDetails": "Point star night interest how phone glass. Glass discussion create campaign police piece offer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 423,
+    "AnnualIncome": 79542,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

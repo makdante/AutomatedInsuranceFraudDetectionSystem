@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e098f078-4318-4ef2-af05-3b802d4e8fc7",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-05-28",
+    "EndDate": "2026-05-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-30",
+    "Location": "6122 Crawford Path\nAbigailberg, HI 23877",
+    "Description": "Financial occur certain get. Arm word dark degree quite. Star state somebody understand design water.\nStep close summer total. Every land material sit push follow public. Painting alone relate."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 76262
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 59449
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22043
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 159147
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 79259
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 396160,
+    "TotalApproved": 272428
+  },
+  "AdjusterDetails": {
+    "Name": "Robert Larsen",
+    "ContactInformation": {
+      "Phone": "871.709.5336x264",
+      "Email": "brett81@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/19a86b80-3f55-4ec3-9bf5-09b7d4d60849"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller Inc",
+    "Model": "understand",
+    "Year": 2019,
+    "VIN": "420d1b92-8d04-4c31-a729-2851f8156efc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erik Hudson",
+      "ContactInformation": {
+        "Phone": "+1-643-937-3944x2910",
+        "Email": "sean42@example.net"
+      },
+      "Statement": "Dream page serve admit. When heavy member like moment experience."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d5b17d25-6f2e-46b0-a126-65121c0c6dfc",
+    "OfficerName": "Nicholas Le",
+    "ReportDetails": "And age sit industry control trip traditional. Control why like guy PM institution life. Get throughout community treatment feel."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 387,
+    "AnnualIncome": 116458,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

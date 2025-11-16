@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5a37836f-060f-4ba5-8070-9b348cbc7c19",
+  "PolicyID": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+  "EffectiveDates": {
+    "StartDate": "2025-01-31",
+    "EndDate": "2026-01-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b3c9e4e9-a946-44a4-82a7-829df9b0425b",
+    "Name": "Madison Kim",
+    "PolicyNumber": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+    "ContactInformation": {
+      "Phone": "396-342-3629x192",
+      "Email": "alvareztina@example.com",
+      "Address": "790 Johnson Hill Apt. 614\nWongport, CO 54591"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-02",
+    "Location": "82357 Vance Drive\nSouth Regina, UT 69254",
+    "Description": "Capital themselves hair billion seven say near. Stuff purpose song those say production. Question yes least window determine quite seven."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 40160
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2419
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5028
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10814
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 33537
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 91958,
+    "TotalApproved": 76405
+  },
+  "AdjusterDetails": {
+    "Name": "Ryan Mosley",
+    "ContactInformation": {
+      "Phone": "+1-406-338-1135",
+      "Email": "nancy56@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/35fe1c9c-1356-42b2-833c-02e18d75b7a4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez, Frey and Hebert",
+    "Model": "chance",
+    "Year": 2006,
+    "VIN": "66a71dce-3cd8-4acd-a3b0-da52689fc513"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Meghan Johnson",
+      "ContactInformation": {
+        "Phone": "799-822-0769x926",
+        "Email": "glin@example.org"
+      },
+      "Statement": "Wait benefit drug until. Form end happy training not manage half. Stuff writer team where house church.\nAct room individual individual available a."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cad5ca89-13b5-41b8-abfe-e5c811408a32",
+    "OfficerName": "Stephanie Schaefer",
+    "ReportDetails": "Money join free effect ten.\nLeg consumer coach camera unit wife book PM. Note view above result world structure other.\nRest bag will city when across throughout. About black trial which."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 682,
+    "AnnualIncome": 116472,
+    "DebtToIncomeRatio": 0.31
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d2a9c0d5-6783-48bb-a604-3c1fd90d0f95",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-02-07",
+    "EndDate": "2026-02-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-18",
+    "Location": "202 Alexis Green Suite 793\nMarkborough, OR 92091",
+    "Description": "Part nation hair offer green remain. Collection make carry despite style same. Itself human soon option sound computer."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 180243
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 128746
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3810
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 82883
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 105210
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 500892,
+    "TotalApproved": 71506
+  },
+  "AdjusterDetails": {
+    "Name": "Bonnie Brown",
+    "ContactInformation": {
+      "Phone": "7494194972",
+      "Email": "tinaanderson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a3e27f70-1a7a-406d-b121-bf957d2812a1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Park, Rocha and Dickerson",
+    "Model": "least",
+    "Year": 2014,
+    "VIN": "4f23316d-71b9-4cea-b95e-e56837e4c424"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stacey Thompson",
+      "ContactInformation": {
+        "Phone": "746-924-3572",
+        "Email": "melissamccarthy@example.com"
+      },
+      "Statement": "News central structure likely whether speak. Pay continue four until. Its eye president while tree fall water career."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "27661485-1a2a-4d98-ad0f-a2a3a7af7331",
+    "OfficerName": "Robert Farrell",
+    "ReportDetails": "Traditional magazine so physical management. Write require job list. Over class want not air meet their thought. May several ahead board others."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 448,
+    "AnnualIncome": 84151,
+    "DebtToIncomeRatio": 0.38
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 7,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2f6b9681-1eaa-4228-b8ba-bf6736233244",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2024-12-25",
+    "EndDate": "2025-12-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-11",
+    "Location": "196 Joanna Fort Suite 633\nLake Ryan, MS 54295",
+    "Description": "Nothing expert worry along image. Speak term common set likely church. Administration ten loss drop."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 40359
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 31159
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3556
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18488
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 70611
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 164173,
+    "TotalApproved": 121973
+  },
+  "AdjusterDetails": {
+    "Name": "Gerald Ward",
+    "ContactInformation": {
+      "Phone": "+1-803-762-7159x370",
+      "Email": "bethanyjohnson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/bde295f4-21f4-452c-9465-e831b45f1d15"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thomas PLC",
+    "Model": "sit",
+    "Year": 2012,
+    "VIN": "91bb218f-4ee8-433d-abc9-1f0efb092e28"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jay Dudley PhD",
+      "ContactInformation": {
+        "Phone": "(404)468-1945",
+        "Email": "roberta34@example.org"
+      },
+      "Statement": "Eight nation no population message. Total through surface his some common development.\nUnder suddenly plant race country. Year concern term."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a02911a2-a197-4c8c-a835-5111c7355f37",
+    "OfficerName": "Karen Medina",
+    "ReportDetails": "Boy significant item capital watch movie pretty. Crime oil north myself.\nHim expect beat son crime. Like most yeah no sense series. Pass purpose four prepare area start find rate."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 403,
+    "AnnualIncome": 98835,
+    "DebtToIncomeRatio": 0.56
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 10,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

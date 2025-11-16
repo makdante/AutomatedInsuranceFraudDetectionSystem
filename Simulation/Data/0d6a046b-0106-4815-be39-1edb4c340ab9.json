@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0d6a046b-0106-4815-be39-1edb4c340ab9",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2025-04-05",
+    "EndDate": "2026-04-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-07",
+    "Location": "Unit 6558 Box 4019\nDPO AE 91995",
+    "Description": "Pm outside hope through happen.\nLikely race teach role sport life father. Know debate great often surface strong save.\nGround impact if truth pull. Move among court different Mr."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8666
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 43770
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 67504
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 182146
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 82192
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 384278,
+    "TotalApproved": 133482
+  },
+  "AdjusterDetails": {
+    "Name": "Jennifer Garcia",
+    "ContactInformation": {
+      "Phone": "001-515-529-6620x82250",
+      "Email": "lisa29@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/acc14f3c-288a-4f07-996e-22ad4d67a361"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams, Lee and Harper",
+    "Model": "black",
+    "Year": 2008,
+    "VIN": "d5466921-bd01-4a72-aa45-34997e8db437"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Kennedy",
+      "ContactInformation": {
+        "Phone": "001-726-562-9562x2758",
+        "Email": "christophermay@example.net"
+      },
+      "Statement": "Else home create particular. Into available notice decide mean. Mean use truth similar physical radio treat.\nSecurity season measure woman this. Character tax scene themselves believe food."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e109b767-4bf5-4f1e-9188-1e80edb46a93",
+    "OfficerName": "Shannon Robinson",
+    "ReportDetails": "Lay economic now strategy single parent sing. Site number recently. Remember baby yeah season production pick discover."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 703,
+    "AnnualIncome": 84411,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 1,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

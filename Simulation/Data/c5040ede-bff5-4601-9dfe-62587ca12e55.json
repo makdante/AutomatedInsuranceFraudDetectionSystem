@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c5040ede-bff5-4601-9dfe-62587ca12e55",
+  "PolicyID": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+  "EffectiveDates": {
+    "StartDate": "2025-01-27",
+    "EndDate": "2026-01-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "38d2f43b-58cf-49b2-83ed-99824c18c529",
+    "Name": "Vanessa Lam",
+    "PolicyNumber": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+    "ContactInformation": {
+      "Phone": "(659)271-4340x58512",
+      "Email": "kayleethompson@example.org",
+      "Address": "4509 Robert Haven\nNew Curtis, HI 74176"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-14",
+    "Location": "306 Catherine Pine\nBrandonside, PA 21764",
+    "Description": "City worry a character. Argue prevent beat beyond group. All administration black from hear answer up. Line describe also one."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 34574
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3303
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 12424
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11134
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 30497
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 91932,
+    "TotalApproved": 78545
+  },
+  "AdjusterDetails": {
+    "Name": "Kayla Blankenship",
+    "ContactInformation": {
+      "Phone": "(427)283-8222x38195",
+      "Email": "theresa90@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ad7c07e6-9eb7-427f-bc9c-fcd8de8dfd7d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Santos Ltd",
+    "Model": "choose",
+    "Year": 2012,
+    "VIN": "2fddd21c-fc46-41a8-849a-05c16c08dd9b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jared Harding",
+      "ContactInformation": {
+        "Phone": "+1-812-457-1092x362",
+        "Email": "stephenharmon@example.net"
+      },
+      "Statement": "Amount responsibility involve board. Have soldier thank unit cell.\nSuffer can during fly. Field organization tonight source despite he."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e24ca660-0e1e-43a0-b768-a30aa3169961",
+    "OfficerName": "Danielle Freeman",
+    "ReportDetails": "Seek east entire its. They wrong west cause street professor. Personal form else explain customer.\nSon election help step. Nor nature activity attorney study individual allow."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 469,
+    "AnnualIncome": 180483,
+    "DebtToIncomeRatio": 0.55
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

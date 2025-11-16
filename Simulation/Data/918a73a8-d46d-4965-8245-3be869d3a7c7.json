@@ -1,0 +1,112 @@
+{
+  "ClaimID": "918a73a8-d46d-4965-8245-3be869d3a7c7",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2025-03-07",
+    "EndDate": "2026-03-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-09",
+    "Location": "91305 Powell Prairie Apt. 488\nYodertown, DE 38703",
+    "Description": "Should important better scientist. Strong for huge case benefit thing lawyer.\nWall new deal quite industry walk. Memory general plant."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9590
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 26512
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 20995
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 27145
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 25438
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 109680,
+    "TotalApproved": 30902
+  },
+  "AdjusterDetails": {
+    "Name": "Elizabeth Escobar",
+    "ContactInformation": {
+      "Phone": "274-365-9347x64580",
+      "Email": "michaelbishop@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/7ae0df4c-7a34-470c-b4fa-42a3c4bf68d7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thomas-Sanchez",
+    "Model": "summer",
+    "Year": 2004,
+    "VIN": "c261f71a-f834-404d-b59d-d5fea094bec1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lauren Jackson",
+      "ContactInformation": {
+        "Phone": "(805)651-3328",
+        "Email": "alvarezrobert@example.org"
+      },
+      "Statement": "Outside instead interview anything defense positive animal.\nMay decide prevent standard response according society. South let positive wait education girl. Experience store head what natural section."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d68e7916-54c3-4070-a1ea-f22bb9bf827b",
+    "OfficerName": "Dakota Harris",
+    "ReportDetails": "Common teach keep bank for suffer size. Be sense phone heavy year lot."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 662,
+    "AnnualIncome": 64013,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

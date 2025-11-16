@@ -1,0 +1,112 @@
+{
+  "ClaimID": "10cfd8b4-ea41-45eb-895a-ff111fe53fdb",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-06-10",
+    "EndDate": "2026-06-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-09",
+    "Location": "Unit 5685 Box 0385\nDPO AP 46146",
+    "Description": "Make free may letter there else offer discover. Consumer general when yes quality record maintain. Region where exist level treat form. How event eye."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1920
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 21428
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18486
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 41259
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8254
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 91347,
+    "TotalApproved": 63719
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa White",
+    "ContactInformation": {
+      "Phone": "744.336.1245",
+      "Email": "kennedyjamie@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/6ccb6513-b33b-4287-a03c-ec654a6b6d30"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams, Davenport and Luna",
+    "Model": "night",
+    "Year": 2020,
+    "VIN": "4227aac7-1582-400c-8a4e-cb6fe604107e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Grimes",
+      "ContactInformation": {
+        "Phone": "805-935-4270",
+        "Email": "katherine64@example.org"
+      },
+      "Statement": "Fish ten nation budget wonder though. Federal explain other best.\nAdult high hold study south. Usually person key car recently crime.\nDaughter hope deep see last magazine."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6b7f6248-b790-44fe-8940-e933a673ae3e",
+    "OfficerName": "Tyler Solomon",
+    "ReportDetails": "Nature first security return study. Need third see figure on state. Also approach leader dinner reflect."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 726,
+    "AnnualIncome": 147283,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 8,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

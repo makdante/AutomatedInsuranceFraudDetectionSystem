@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1150d9b1-ceb4-47ae-922d-9caf6573bbfb",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-08-20",
+    "EndDate": "2026-08-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-19",
+    "Location": "07535 Kevin Ports Apt. 286\nWest Wendy, SD 90346",
+    "Description": "Second play safe door citizen child. Race fund outside top draw interest heart suddenly. Pick western bit class participant mouth measure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7753
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3132
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1147
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11260
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13163
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 36455,
+    "TotalApproved": 26062
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Medina",
+    "ContactInformation": {
+      "Phone": "+1-840-987-8985x899",
+      "Email": "smithlinda@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/bdd9ee4b-ce48-4803-abb4-8665c9a67948"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Michael, Peck and Armstrong",
+    "Model": "challenge",
+    "Year": 2012,
+    "VIN": "664a9e72-afe1-430c-83d7-d83863c9b7b2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rhonda Moore MD",
+      "ContactInformation": {
+        "Phone": "001-283-364-7504x59496",
+        "Email": "carolynblackburn@example.net"
+      },
+      "Statement": "Court radio professor toward fine school. Minute yeah customer medical.\nRegion agent whole. Trial learn include single table. One center watch."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "64d73492-6f2a-475a-aece-a8a8ea503f61",
+    "OfficerName": "Kim Arnold",
+    "ReportDetails": "Citizen may human mission reveal physical friend. Performance travel not peace. Chair painting back reveal various."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 426,
+    "AnnualIncome": 46707,
+    "DebtToIncomeRatio": 0.37
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 3,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

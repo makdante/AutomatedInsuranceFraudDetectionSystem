@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c74da15f-9935-4852-b1a4-138162023e67",
+  "PolicyID": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+  "EffectiveDates": {
+    "StartDate": "2025-10-16",
+    "EndDate": "2026-10-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c7fa5b24-5112-4687-914b-e2f3bf8a3e23",
+    "Name": "Adrian Stevens",
+    "PolicyNumber": "9668ae3f-fd61-4277-8423-d5a05db6f565",
+    "ContactInformation": {
+      "Phone": "309-483-4549x4969",
+      "Email": "egordon@example.net",
+      "Address": "39386 Vasquez Common Apt. 526\nLeehaven, NY 58362"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-10-02",
+    "Location": "5597 Melinda Station Suite 580\nLatoyaport, MI 55470",
+    "Description": "By child mean actually letter argue.\nAddress per resource seek once point. More reveal color."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40271
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3104
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 20306
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 111923
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 27735
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 203339,
+    "TotalApproved": 104701
+  },
+  "AdjusterDetails": {
+    "Name": "Sherry Reyes",
+    "ContactInformation": {
+      "Phone": "(756)976-4939x193",
+      "Email": "acoffey@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b951b7f1-5db1-4ee5-8714-7e37c90ddc32"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-10-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Friedman-Alexander",
+    "Model": "per",
+    "Year": 2014,
+    "VIN": "6cc3241f-8d89-4244-9759-253f5552938b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Victor Holland",
+      "ContactInformation": {
+        "Phone": "436.710.3899",
+        "Email": "bateserica@example.net"
+      },
+      "Statement": "Education I Democrat computer. Per begin century fast family similar.\nAnd herself eat main pattern power. Enough art political near figure yourself again call. Senior where room very."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0bc35fe7-726d-4b76-bf3f-efaa21faeb46",
+    "OfficerName": "Amanda Wu",
+    "ReportDetails": "Outside else police affect. Order meet threat true.\nSo above shoulder president. Event news goal respond instead mention. Best and Mrs both."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 450,
+    "AnnualIncome": 126551,
+    "DebtToIncomeRatio": 0.7
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 3,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

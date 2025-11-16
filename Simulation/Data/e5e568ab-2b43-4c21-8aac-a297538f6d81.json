@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e5e568ab-2b43-4c21-8aac-a297538f6d81",
+  "PolicyID": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+  "EffectiveDates": {
+    "StartDate": "2025-01-29",
+    "EndDate": "2026-01-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1ebb1bc-6120-42c4-a87a-be4f808197b1",
+    "Name": "Donald Smith",
+    "PolicyNumber": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+    "ContactInformation": {
+      "Phone": "675.606.3377",
+      "Email": "masonpamela@example.net",
+      "Address": "14432 Richard Vista\nNew Suzanne, TN 31994"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-17",
+    "Location": "0643 Angela Haven Apt. 306\nPeterhaven, FL 06367",
+    "Description": "Move feel itself bit certain seem.\nInvolve home last prove company security. Do travel thus decide. Network deal lot this fact north.\nUp vote energy major."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 29470
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15449
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3504
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 15703
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16797
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 80923,
+    "TotalApproved": 14150
+  },
+  "AdjusterDetails": {
+    "Name": "Maria Bass",
+    "ContactInformation": {
+      "Phone": "(362)412-5242",
+      "Email": "turnermatthew@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3699bd52-ab23-4a49-a701-cf3cc1123c3e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson, Garcia and Taylor",
+    "Model": "strong",
+    "Year": 2016,
+    "VIN": "c0fe8fe9-7b40-406a-b1c9-fe827fcc7b49"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rick Murillo",
+      "ContactInformation": {
+        "Phone": "(607)396-8981x363",
+        "Email": "qpowell@example.org"
+      },
+      "Statement": "Expect single able financial. Despite brother easy west.\nDog beyond system consumer summer give page. Third close stay environmental already address onto."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6a83f13a-efb2-45ec-b7be-72425bfe2ed9",
+    "OfficerName": "Oscar Thompson",
+    "ReportDetails": "Spend dog within keep common Mrs. Through from rock thought natural turn throughout.\nSeven class group on wish responsibility. Social article performance try something wife month."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 424,
+    "AnnualIncome": 92978,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

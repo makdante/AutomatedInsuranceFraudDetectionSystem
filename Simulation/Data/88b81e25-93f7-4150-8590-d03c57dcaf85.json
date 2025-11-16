@@ -1,0 +1,112 @@
+{
+  "ClaimID": "88b81e25-93f7-4150-8590-d03c57dcaf85",
+  "PolicyID": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+  "EffectiveDates": {
+    "StartDate": "2025-09-28",
+    "EndDate": "2026-09-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "f7a3e00b-b1ac-42d3-8d03-2cc4a6b14b9d",
+    "Name": "Frank Pitts",
+    "PolicyNumber": "f1c7f7af-b946-4d37-90f4-96af7fb03927",
+    "ContactInformation": {
+      "Phone": "(384)485-3643x73132",
+      "Email": "christopher49@example.org",
+      "Address": "37806 Barbara Lights Suite 228\nSteventown, AK 47355"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-24",
+    "Location": "1406 Isabel Highway\nSouth Lindsey, PA 86865",
+    "Description": "Hand hair professional enter democratic become alone. Under off movement up bag. Former camera free hand.\nMajority understand huge grow. Create woman certainly."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 61360
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2786
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15971
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16548
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 29314
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 125979,
+    "TotalApproved": 91967
+  },
+  "AdjusterDetails": {
+    "Name": "Diane Walsh",
+    "ContactInformation": {
+      "Phone": "475.813.5491x306",
+      "Email": "perryjeff@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/54888c74-ebff-425c-bc90-7c898c0b90ad"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-24T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-29T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sosa-Wolf",
+    "Model": "hand",
+    "Year": 2008,
+    "VIN": "c7401617-61b4-482c-96f3-f21dbd47b3c7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Frank Archer",
+      "ContactInformation": {
+        "Phone": "(357)431-9632",
+        "Email": "nmorrow@example.org"
+      },
+      "Statement": "Language defense drug arrive citizen base size edge. All exactly finish somebody candidate through."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "94d596ec-1d82-4133-92eb-9b188eb8d65f",
+    "OfficerName": "Deborah Meyers",
+    "ReportDetails": "Include scientist air the total Mrs figure. Our small all around address seem Republican edge.\nConsumer poor at sell art."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 545,
+    "AnnualIncome": 99424,
+    "DebtToIncomeRatio": 0.69
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

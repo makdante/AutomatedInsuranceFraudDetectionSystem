@@ -1,0 +1,112 @@
+{
+  "ClaimID": "db6012bb-3e60-47f0-aa9d-9314aeeb7710",
+  "PolicyID": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+  "EffectiveDates": {
+    "StartDate": "2025-08-04",
+    "EndDate": "2026-08-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "36ef7374-a94b-45c8-8312-6e8562668715",
+    "Name": "Vincent Flynn",
+    "PolicyNumber": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+    "ContactInformation": {
+      "Phone": "950-852-7090",
+      "Email": "harrybryant@example.com",
+      "Address": "476 Reed Landing\nJeanettestad, VT 94361"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-23",
+    "Location": "171 Anderson Spur\nSouth Raymond, RI 16499",
+    "Description": "Southern line lot research marriage down hand. Lead appear way be stage watch.\nSign lot education meeting party turn. Charge new small next process."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2951
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3338
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 169561
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 188062
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2782
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 366694,
+    "TotalApproved": 316474
+  },
+  "AdjusterDetails": {
+    "Name": "Erin Baker",
+    "ContactInformation": {
+      "Phone": "201.493.0362x31707",
+      "Email": "friedmanjose@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/775395d6-ac5d-4390-86cf-7a49f263ed1f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thompson-Gardner",
+    "Model": "stand",
+    "Year": 2003,
+    "VIN": "f2831a6f-2589-413f-9d07-f9ec402f47db"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Justin Thomas",
+      "ContactInformation": {
+        "Phone": "809.772.0940x270",
+        "Email": "tmontgomery@example.com"
+      },
+      "Statement": "Cultural show military section feel. Push number defense success development.\nScore amount here far fire deal staff."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ae743dd1-1753-4189-b7eb-5eee7896d7d5",
+    "OfficerName": "Samantha Hale",
+    "ReportDetails": "School whatever since above upon. Throughout than talk nature because staff reflect.\nStock maybe minute policy. Ground degree against admit term heart. Else hit detail guy instead offer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 507,
+    "AnnualIncome": 151375,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

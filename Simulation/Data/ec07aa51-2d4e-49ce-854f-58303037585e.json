@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ec07aa51-2d4e-49ce-854f-58303037585e",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-03-26",
+    "EndDate": "2026-03-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-15",
+    "Location": "185 Rangel Common\nDalefort, MN 38587",
+    "Description": "Oil around pattern. Image white find read.\nMuch skin statement edge. Member recently it assume I. Marriage available president resource commercial purpose charge. Behind news most authority walk."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 82752
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8584
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2035
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15163
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17395
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 125929,
+    "TotalApproved": 60679
+  },
+  "AdjusterDetails": {
+    "Name": "Caleb Barnes",
+    "ContactInformation": {
+      "Phone": "534.305.8439",
+      "Email": "brian22@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/24e113d8-f45b-4d1c-ace9-315114c9d7d1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lindsey-Wilcox",
+    "Model": "yard",
+    "Year": 2007,
+    "VIN": "7b985c39-5db8-414c-b76e-cb64395bed0c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Patricia Rogers",
+      "ContactInformation": {
+        "Phone": "(411)668-1062x75639",
+        "Email": "johnsonjennifer@example.com"
+      },
+      "Statement": "Social issue your character animal. Member cause southern stock result new go impact. Send animal face task they."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a7ea6361-eeed-4e5d-bcf8-1d55b3793b74",
+    "OfficerName": "Tina Price",
+    "ReportDetails": "Budget break economy certainly thank build protect sort. Personal whom month design serious. Benefit or memory full road.\nPaper process hotel as maintain. Surface north art there east."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 300,
+    "AnnualIncome": 126360,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 6,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

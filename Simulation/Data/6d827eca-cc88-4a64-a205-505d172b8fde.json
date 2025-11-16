@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6d827eca-cc88-4a64-a205-505d172b8fde",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2025-01-02",
+    "EndDate": "2026-01-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-26",
+    "Location": "Unit 4467 Box 0830\nDPO AP 80580",
+    "Description": "Woman well everything reach just. Along good high leg career animal. Job popular culture police decade increase.\nAge attorney candidate account spend. Less charge whatever case question."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6052
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 30890
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 58517
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5554
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 73679
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 174692,
+    "TotalApproved": 139469
+  },
+  "AdjusterDetails": {
+    "Name": "Alyssa Thomas",
+    "ContactInformation": {
+      "Phone": "001-345-730-0005x5295",
+      "Email": "jasonburton@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/247601de-722c-41b4-8119-9af5807de965"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-31T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Parker, Petty and Chavez",
+    "Model": "Mrs",
+    "Year": 2018,
+    "VIN": "10c63c36-fc9a-4bed-84fc-47dd90eebbb9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Daniel Silva",
+      "ContactInformation": {
+        "Phone": "(694)268-5133",
+        "Email": "mitchell37@example.com"
+      },
+      "Statement": "Party usually plan result. On billion get write something center.\nCoach everybody focus some. Move attorney agency detail its."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "40427648-aa24-4f06-8f42-b94ff910fe5b",
+    "OfficerName": "Melissa Pena",
+    "ReportDetails": "Interest change eight light. Avoid environment year style. Sea remember buy quickly. Response actually throughout its shoulder stuff."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 463,
+    "AnnualIncome": 57334,
+    "DebtToIncomeRatio": 0.52
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

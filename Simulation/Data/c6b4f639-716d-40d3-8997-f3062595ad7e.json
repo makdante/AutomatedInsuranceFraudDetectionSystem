@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c6b4f639-716d-40d3-8997-f3062595ad7e",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-04-11",
+    "EndDate": "2026-04-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-27",
+    "Location": "05949 Johnson Circles\nPort Thomasland, NJ 58376",
+    "Description": "Actually defense campaign strategy religious. Home together age human simply fine.\nAgain the trip section pretty movie. Bank near dog cost similar newspaper. Animal care sell prove defense time oil."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17011
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 84411
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 57318
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9044
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 22811
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 190595,
+    "TotalApproved": 36654
+  },
+  "AdjusterDetails": {
+    "Name": "Bonnie Gilbert",
+    "ContactInformation": {
+      "Phone": "232-450-2749",
+      "Email": "amy11@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/26783fa7-a4cb-44a3-a10f-53677ef7f717"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Henderson-King",
+    "Model": "view",
+    "Year": 2012,
+    "VIN": "ab9c9825-0cd0-4be5-a680-798b1a140ac9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jared Lopez",
+      "ContactInformation": {
+        "Phone": "812.243.9962x85307",
+        "Email": "jenniferliu@example.net"
+      },
+      "Statement": "Close last road part improve able. Likely meet care decide mission guy item.\nWorker price whom avoid. Face herself center ten like free form general."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "304da895-d537-4c4f-9155-e139294589ab",
+    "OfficerName": "Alexandra Skinner",
+    "ReportDetails": "Large be bag record interest course financial.\nMedical grow and evening accept study. Tell real four scene seven. Middle begin arrive order."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 559,
+    "AnnualIncome": 126810,
+    "DebtToIncomeRatio": 0.5
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 10,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

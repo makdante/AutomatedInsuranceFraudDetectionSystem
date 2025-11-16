@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c271b331-fe8d-4361-b298-fe8b16f6d791",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2024-11-25",
+    "EndDate": "2025-11-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-01",
+    "Location": "917 Howard Mill\nNew Michaelton, CO 43906",
+    "Description": "Purpose rock close growth floor whatever face medical. Usually media account career.\nBar garden understand sort.\nAgain would commercial."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 22776
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 19707
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18148
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1641
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18824
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 81096,
+    "TotalApproved": 61984
+  },
+  "AdjusterDetails": {
+    "Name": "Austin Brown",
+    "ContactInformation": {
+      "Phone": "(351)804-4201x29023",
+      "Email": "xhampton@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/820b7e66-1591-4fc6-b8f6-599253e1e7e1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rocha, Lin and Hernandez",
+    "Model": "there",
+    "Year": 2014,
+    "VIN": "a3ca1874-9a0c-4e39-8f4d-d6c10751f8ed"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Megan Parrish",
+      "ContactInformation": {
+        "Phone": "001-725-658-0435x3871",
+        "Email": "andrea99@example.net"
+      },
+      "Statement": "Challenge relationship clear shake. Economy certain simple. Morning she different control relate American world ago."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e6051993-92f4-4876-ae77-c7ef9989046e",
+    "OfficerName": "Timothy Snyder",
+    "ReportDetails": "Capital hand cost hope.\nTest newspaper no four star power south. Or sport hotel mention paper enter. Catch business travel.\nCan product bank few network. Speech bad worker."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 757,
+    "AnnualIncome": 153930,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

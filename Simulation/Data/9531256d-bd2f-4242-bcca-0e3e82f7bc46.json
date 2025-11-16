@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9531256d-bd2f-4242-bcca-0e3e82f7bc46",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-02-28",
+    "EndDate": "2026-02-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-08",
+    "Location": "759 David Locks Suite 068\nSouth Katiebury, MN 88156",
+    "Description": "Animal hard goal. Create thousand always protect its mind. Matter maintain research pick research section away. Manage guess red gun."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 51335
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5074
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 170206
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3861
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2567
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 233043,
+    "TotalApproved": 68278
+  },
+  "AdjusterDetails": {
+    "Name": "Dakota Bailey",
+    "ContactInformation": {
+      "Phone": "+1-922-385-5881x5811",
+      "Email": "stevenstout@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c94a2879-b2b9-41f5-84e0-0738dd9d9e8d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez-Bailey",
+    "Model": "condition",
+    "Year": 2011,
+    "VIN": "5302e161-5107-4d7a-a1ad-c5851c241bf3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Melissa Baker",
+      "ContactInformation": {
+        "Phone": "947-252-1295",
+        "Email": "yhernandez@example.net"
+      },
+      "Statement": "Approach national return. Hear TV little unit rather debate life never.\nExample century tax accept guess mission. Step star message nice Democrat attack third. Above book policy professional."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "61929505-6680-4f42-8c50-aa8295d687ca",
+    "OfficerName": "Kevin Hughes",
+    "ReportDetails": "Cell environment network item forward. It federal painting foot protect thing manager. Simply hundred successful provide."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 320,
+    "AnnualIncome": 129041,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

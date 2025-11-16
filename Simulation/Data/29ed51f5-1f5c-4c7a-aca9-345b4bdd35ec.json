@@ -1,0 +1,112 @@
+{
+  "ClaimID": "29ed51f5-1f5c-4c7a-aca9-345b4bdd35ec",
+  "PolicyID": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+  "EffectiveDates": {
+    "StartDate": "2025-06-13",
+    "EndDate": "2026-06-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "45b25f18-08b7-457c-9045-e998b2b74cef",
+    "Name": "Joshua Ryan",
+    "PolicyNumber": "190fb4a8-8af6-4230-bb56-2f722d6b39c6",
+    "ContactInformation": {
+      "Phone": "(903)440-8271x3107",
+      "Email": "justin94@example.net",
+      "Address": "792 Ann Cliffs\nLake Desireebury, MD 93133"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-02",
+    "Location": "PSC 7846, Box 5826\nAPO AA 89188",
+    "Description": "Hot like sister. Seat send lead close.\nAdult man focus which human health. Determine reach prevent manager response able. Few late service himself who charge camera."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 119097
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 34820
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40974
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3509
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 131187
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 329587,
+    "TotalApproved": 166491
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Silva",
+    "ContactInformation": {
+      "Phone": "835-406-4255",
+      "Email": "zdiaz@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/320e6dc9-376c-4ac2-9ea0-af143804c761"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clark, Torres and Burgess",
+    "Model": "worker",
+    "Year": 2013,
+    "VIN": "06937746-16b9-4994-ac06-d0a79b4c03f1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Madeline Nichols",
+      "ContactInformation": {
+        "Phone": "+1-583-443-0239",
+        "Email": "opineda@example.net"
+      },
+      "Statement": "Executive through choice heavy car. Alone before one. Appear huge be west if.\nMemory seek old factor none direction visit. Likely air table someone later."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e27b01d3-d71c-41a7-91d0-859c3cfd0f81",
+    "OfficerName": "Christian Ramirez",
+    "ReportDetails": "Off certainly low else election notice build. Follow century forward news.\nHot design just spring official she. Not lead drop marriage off sing us interesting. The test final effort image production."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 816,
+    "AnnualIncome": 132376,
+    "DebtToIncomeRatio": 0.37
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

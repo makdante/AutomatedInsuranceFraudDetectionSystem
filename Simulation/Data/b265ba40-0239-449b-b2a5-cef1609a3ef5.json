@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b265ba40-0239-449b-b2a5-cef1609a3ef5",
+  "PolicyID": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+  "EffectiveDates": {
+    "StartDate": "2025-03-31",
+    "EndDate": "2026-03-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de2fd98f-92b5-4f00-b791-ce9f514afb15",
+    "Name": "Brandon Scott",
+    "PolicyNumber": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+    "ContactInformation": {
+      "Phone": "001-319-262-8310x0650",
+      "Email": "nelsonemily@example.net",
+      "Address": "0592 Patrick Wall\nLeslieport, IA 75247"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-25",
+    "Location": "97016 Miller Valley\nPort Chelsey, WA 30254",
+    "Description": "Know people wear process mind prove recent need. Sense figure fight. Thing administration per dinner.\nOil out space sing sea bit alone."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3098
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 112977
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12457
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44902
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 30127
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 203561,
+    "TotalApproved": 176695
+  },
+  "AdjusterDetails": {
+    "Name": "Robert Watson",
+    "ContactInformation": {
+      "Phone": "(268)365-5856",
+      "Email": "ronnie62@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/bec97e92-6d5b-4783-a248-64b713f45777"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Benitez-Robinson",
+    "Model": "instead",
+    "Year": 2009,
+    "VIN": "fae03abf-d409-4a0a-bdd9-aa3497b83073"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Julie Anderson",
+      "ContactInformation": {
+        "Phone": "(245)738-8597x07067",
+        "Email": "hruiz@example.net"
+      },
+      "Statement": "Just former order purpose identify. Attention mention he small pass million. Behavior study leg view industry argue total friend. Student watch mention capital building."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "93c2646a-deeb-47c4-8323-fc3ecc04376c",
+    "OfficerName": "Stacey Bell",
+    "ReportDetails": "Suddenly clear significant.\nCar coach film life catch then. Two free money establish pattern fear explain. Pay month buy management go."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 542,
+    "AnnualIncome": 36330,
+    "DebtToIncomeRatio": 0.78
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 5,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

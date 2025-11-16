@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ce27ec8f-0786-4a3e-aa19-edc851b8f60f",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2025-01-05",
+    "EndDate": "2026-01-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-09",
+    "Location": "0681 Bell Landing Suite 476\nPort Christina, RI 66769",
+    "Description": "Have control writer those ball trip various. Force director prevent together.\nRule common involve wish. Tend candidate in spend parent attention.\nCarry girl nice agent test by. I water major."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 176715
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 79574
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3373
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17469
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 28034
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 305165,
+    "TotalApproved": 58948
+  },
+  "AdjusterDetails": {
+    "Name": "William Goodwin",
+    "ContactInformation": {
+      "Phone": "697-429-3914",
+      "Email": "faulknergregory@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/418fbe08-12ee-4821-9dcf-cb76fbd7dcb4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Diaz-Maddox",
+    "Model": "field",
+    "Year": 2013,
+    "VIN": "e8061b29-e773-45bf-8597-0d731d1c5c2f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Adam Johnson",
+      "ContactInformation": {
+        "Phone": "001-790-395-5296x838",
+        "Email": "samantha62@example.org"
+      },
+      "Statement": "Significant produce almost house bill way. Learn hundred share brother positive second. Animal simply exactly information position wrong available. Material visit thus treatment."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e33602ba-6c9e-43d4-8b12-85e8389d9f05",
+    "OfficerName": "April Robinson",
+    "ReportDetails": "Party service field special.\nStyle down law appear girl measure. Today certain police PM produce significant now.\nRespond participant theory product. Old ready us green more."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 338,
+    "AnnualIncome": 141545,
+    "DebtToIncomeRatio": 0.38
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 7,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

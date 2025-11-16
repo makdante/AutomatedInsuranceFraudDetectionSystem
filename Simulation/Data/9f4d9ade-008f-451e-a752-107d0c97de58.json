@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9f4d9ade-008f-451e-a752-107d0c97de58",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-07-18",
+    "EndDate": "2026-07-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-13",
+    "Location": "56726 Sonya Station\nNew Melissa, AS 44519",
+    "Description": "Particularly look professional to. Population sing many national road fall part parent.\nAs thank whatever. Ever real what drop throw finally change."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3612
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 160785
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 94197
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9014
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16016
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 283624,
+    "TotalApproved": 111512
+  },
+  "AdjusterDetails": {
+    "Name": "David Wagner",
+    "ContactInformation": {
+      "Phone": "628.910.0172x95025",
+      "Email": "kfarmer@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/3efa1df4-93bc-403e-b15d-2a21f194a0a6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Rivera and Sons",
+    "Model": "spend",
+    "Year": 2018,
+    "VIN": "62b71024-78a7-4121-949f-e12d8225bda9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ernest Lopez",
+      "ContactInformation": {
+        "Phone": "(569)485-4580x66083",
+        "Email": "emilyhughes@example.net"
+      },
+      "Statement": "Point hospital somebody necessary impact team. They true around crime culture reveal. Entire carry keep number choose.\nPerhaps small design accept. Wide bit fight measure former."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7ead3f62-a792-4237-bca0-30ea63855e60",
+    "OfficerName": "Anthony Robertson",
+    "ReportDetails": "Able matter alone front. Approach record black water line.\nHerself interest recent president. Where drug statement those. Inside reason live accept pick."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 549,
+    "AnnualIncome": 131751,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

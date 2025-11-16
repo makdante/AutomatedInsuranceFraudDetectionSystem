@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ee6fbbb9-6668-469a-9ef6-09a650852f86",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-07-02",
+    "EndDate": "2026-07-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-14",
+    "Location": "9785 Timothy Corners\nLake Emilyview, VA 18462",
+    "Description": "Feel possible upon list. Seem first class late among position. Threat from Congress task discover nearly.\nMatter environment follow measure author part."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3666
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39411
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 26749
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15829
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5839
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 91494,
+    "TotalApproved": 67526
+  },
+  "AdjusterDetails": {
+    "Name": "Julie Serrano",
+    "ContactInformation": {
+      "Phone": "(229)826-2715x645",
+      "Email": "charlene56@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d8739508-a29e-463b-9064-e3747988a49d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Walker and Sons",
+    "Model": "employee",
+    "Year": 2017,
+    "VIN": "ed20bf70-74cd-49ab-be86-3ea9423835b1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Richard Stein",
+      "ContactInformation": {
+        "Phone": "589.768.8062x85800",
+        "Email": "deanamanda@example.net"
+      },
+      "Statement": "Matter line guess million or vote. Face recognize size method plant. Mother skin buy marriage center its end. Lawyer approach material institution floor two."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e7d3fcd8-b5a9-41a6-a8de-6301d4e64a20",
+    "OfficerName": "Amy Dougherty",
+    "ReportDetails": "Them in would feel agreement able. Factor entire beautiful something soldier. Understand Republican smile local."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 683,
+    "AnnualIncome": 35966,
+    "DebtToIncomeRatio": 0.44
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

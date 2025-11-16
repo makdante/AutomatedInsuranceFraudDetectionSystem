@@ -1,0 +1,112 @@
+{
+  "ClaimID": "549e5ab4-013d-4b42-a97b-496c162bc126",
+  "PolicyID": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+  "EffectiveDates": {
+    "StartDate": "2025-01-03",
+    "EndDate": "2026-01-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5c8bdbb3-7386-4455-b4bf-e7c2322b47fd",
+    "Name": "Monica Wilson",
+    "PolicyNumber": "4ce54fa4-562c-4299-b4bb-58a183473b5f",
+    "ContactInformation": {
+      "Phone": "675-833-2929",
+      "Email": "mackenzie77@example.org",
+      "Address": "821 Johnson Wall\nHintonside, MI 13907"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-20",
+    "Location": "139 Wade Pines Suite 852\nMatthewfort, TX 56561",
+    "Description": "Since use what or baby step author. Training professor oil analysis build growth.\nOwn home hour drug study. Foreign property exactly single hair build choice."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2723
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 167540
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 64759
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12112
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5852
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 252986,
+    "TotalApproved": 93078
+  },
+  "AdjusterDetails": {
+    "Name": "James Lambert",
+    "ContactInformation": {
+      "Phone": "930-399-2858",
+      "Email": "sarah99@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/01dd8225-903f-4a80-810b-5c1393fa01de"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-20T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-25T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-30T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Meyers-Cummings",
+    "Model": "help",
+    "Year": 2010,
+    "VIN": "937798d4-2c13-4ae4-9fcd-2fe1693f442c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Weaver",
+      "ContactInformation": {
+        "Phone": "001-398-340-4168x1589",
+        "Email": "vmorris@example.org"
+      },
+      "Statement": "Alone bank need safe. Represent exist have Congress edge response animal edge. Cost sister happen late medical well. Within term wear type federal."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f556c98d-6394-4eb4-a8dd-43179f36f6d2",
+    "OfficerName": "Jason Palmer",
+    "ReportDetails": "Off born group into various. Team often account. Kitchen marriage yourself fire dark there catch.\nBring color husband. Reduce field president half evening life.\nTwo history adult beautiful glass."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 818,
+    "AnnualIncome": 29558,
+    "DebtToIncomeRatio": 0.69
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

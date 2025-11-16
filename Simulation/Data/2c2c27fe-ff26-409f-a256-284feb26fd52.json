@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2c2c27fe-ff26-409f-a256-284feb26fd52",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-10-03",
+    "EndDate": "2026-10-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-04",
+    "Location": "72074 Stevens Roads Suite 906\nPort Dana, NM 86125",
+    "Description": "Development operation page land the set. Forget notice traditional lot information buy. Tonight modern point old state ground do."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4900356
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4873490
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4458524
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4880224
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4365026
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 23477620,
+    "TotalApproved": 21415704
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Garner",
+    "ContactInformation": {
+      "Phone": "(247)371-1960x190",
+      "Email": "tiffanyfranklin@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c2552fc6-ed98-4a20-b1dd-20982b21c625"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Phillips, Sutton and Walker",
+    "Model": "east",
+    "Year": 2006,
+    "VIN": "c9517319-ec41-4e80-b719-00239b17d7ac"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Paul Turner",
+      "ContactInformation": {
+        "Phone": "001-622-887-6874x036",
+        "Email": "thays@example.com"
+      },
+      "Statement": "Report record account may later box party. Get walk arm change low support effect. Data though letter college exactly hospital Mr real."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b79d1f51-73f1-4f9d-afa9-b24d68677c62",
+    "OfficerName": "Debra Hamilton",
+    "ReportDetails": "Adult trial put technology speak. Large political beautiful glass. Father pull condition."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 488,
+    "AnnualIncome": 102331,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

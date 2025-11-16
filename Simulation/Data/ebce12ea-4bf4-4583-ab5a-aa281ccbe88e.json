@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ebce12ea-4bf4-4583-ab5a-aa281ccbe88e",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-04-21",
+    "EndDate": "2026-04-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-22",
+    "Location": "53204 Blevins Ports Apt. 339\nWest Rodneyville, DE 96864",
+    "Description": "Adult wait garden discuss do. World during share. Street left myself tax question arm affect.\nDemocratic important Mrs two law save. Name more these since sing."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3270
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44664
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5705
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17541
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3531
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 74711,
+    "TotalApproved": 42415
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Carter",
+    "ContactInformation": {
+      "Phone": "2213456708",
+      "Email": "bsmith@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/136beac1-7399-4b42-bf57-1f893bd757f8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-22T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-27T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-02T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Poole PLC",
+    "Model": "view",
+    "Year": 2006,
+    "VIN": "a4ce2e9c-8066-4085-a33a-f2d8c158211b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebecca Smith",
+      "ContactInformation": {
+        "Phone": "3359327731",
+        "Email": "torrescarolyn@example.com"
+      },
+      "Statement": "Material because might lot south from. Trial new couple sing. Turn represent worry suffer relationship miss role oil.\nNext ago interest feeling. Prepare be address machine."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ff99ff67-c097-4dae-9ebc-8e25410b456d",
+    "OfficerName": "Monique Ortega",
+    "ReportDetails": "Religious find support will cost. Production third western. Peace back air population its. Last perhaps skill range ago.\nAttorney decide Republican little direction. Run want stop leave."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 399,
+    "AnnualIncome": 126606,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 3,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

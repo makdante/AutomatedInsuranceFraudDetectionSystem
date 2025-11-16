@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d49d18d1-33d6-49f3-abd8-b0978e2512b5",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2024-12-26",
+    "EndDate": "2025-12-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-13",
+    "Location": "Unit 6296 Box 8756\nDPO AA 09620",
+    "Description": "Real consider us add girl need. Simple newspaper base simply fact.\nGeneral people out amount music return. Rather good guy study ready place also. Become lay vote poor."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 93931
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17516
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4813
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 99748
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 76611
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 292619,
+    "TotalApproved": 116562
+  },
+  "AdjusterDetails": {
+    "Name": "Andrea Obrien",
+    "ContactInformation": {
+      "Phone": "+1-711-383-9927x05025",
+      "Email": "kylebenitez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4e3f2e06-d59a-4617-a9b8-7ed83a55924c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Collins, Park and Salazar",
+    "Model": "believe",
+    "Year": 2013,
+    "VIN": "11ee772d-b50d-40c1-938e-9ce7635dde51"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alexander Woodward",
+      "ContactInformation": {
+        "Phone": "495.769.6243x0532",
+        "Email": "holly22@example.net"
+      },
+      "Statement": "Everybody tax star strategy standard. Research authority determine available first affect. Quite though rest performance."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ae72993f-0d96-4cfc-835e-d53532c26a35",
+    "OfficerName": "Linda Jordan",
+    "ReportDetails": "Debate enjoy line party while account. Long hit when role fly interview let. Party second small stock cup."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 345,
+    "AnnualIncome": 30626,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

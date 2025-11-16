@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f9f3efbc-7414-4554-80b0-136a3e73b7cf",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-05-02",
+    "EndDate": "2026-05-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-21",
+    "Location": "666 Martinez Curve\nJeremyfort, OK 38585",
+    "Description": "Quickly decision reveal social follow. Fact experience season once also quickly live. Become pretty morning group often night adult improve."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13461
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 176654
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 38586
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5298
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 156642
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 390641,
+    "TotalApproved": 78743
+  },
+  "AdjusterDetails": {
+    "Name": "Rebecca Gibson",
+    "ContactInformation": {
+      "Phone": "(740)869-2177",
+      "Email": "patricia88@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/7b98f0ef-2486-460f-97c3-976a44144ca5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-31T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gonzalez Group",
+    "Model": "talk",
+    "Year": 2000,
+    "VIN": "a012aadc-29f4-4054-9c09-7692bd253121"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kimberly Leach",
+      "ContactInformation": {
+        "Phone": "3262812252",
+        "Email": "richard97@example.org"
+      },
+      "Statement": "Growth available activity bad officer analysis area. Wind board idea after TV. Next school top. South its dinner force receive hundred."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "811d8111-074d-4dcb-8f59-70b131d08c04",
+    "OfficerName": "Eric Hernandez",
+    "ReportDetails": "Eight evidence true of boy win after. Hour occur off near they seem learn inside.\nChange court various heart three after wish act. Everyone yeah music floor land east."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 635,
+    "AnnualIncome": 170070,
+    "DebtToIncomeRatio": 0.57
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 1,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

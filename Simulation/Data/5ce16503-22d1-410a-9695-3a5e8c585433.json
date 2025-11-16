@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5ce16503-22d1-410a-9695-3a5e8c585433",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2024-12-10",
+    "EndDate": "2025-12-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-02",
+    "Location": "0850 Avila Mall\nSherylton, PW 27116",
+    "Description": "Be nice avoid without pass would full become. Administration add future or. Prove fire table job. Safe seek fall trial drop just large."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 139549
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5171
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1110
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19885
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5590
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 171305,
+    "TotalApproved": 103123
+  },
+  "AdjusterDetails": {
+    "Name": "Robert Miller",
+    "ContactInformation": {
+      "Phone": "(549)215-1016x420",
+      "Email": "blove@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/affc2fd0-296e-490a-b185-f46f57e47489"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gutierrez LLC",
+    "Model": "feeling",
+    "Year": 2006,
+    "VIN": "f8e8d793-1a2a-4d8c-9105-835ec3d16897"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brent Wilson",
+      "ContactInformation": {
+        "Phone": "001-669-348-0743",
+        "Email": "blakebarker@example.net"
+      },
+      "Statement": "Three explain player mission people. Anything positive create especially half explain. Young mean cultural southern.\nExecutive true kind meeting. Discuss wrong out hour individual involve."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f6398361-8a46-4a24-985c-46cf37cd12c5",
+    "OfficerName": "Robert Boone",
+    "ReportDetails": "Imagine myself exactly recent. Stage class growth. Natural until become either opportunity author commercial.\nWith key reveal born just ago. Draw door seven include."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 750,
+    "AnnualIncome": 107167,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 3,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

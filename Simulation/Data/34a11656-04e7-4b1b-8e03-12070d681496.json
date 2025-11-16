@@ -1,0 +1,112 @@
+{
+  "ClaimID": "34a11656-04e7-4b1b-8e03-12070d681496",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-05-11",
+    "EndDate": "2026-05-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-20",
+    "Location": "15811 Amanda Avenue Apt. 087\nSouth Jerry, MD 81797",
+    "Description": "Direction bit matter enough specific. Situation protect result.\nYour style social draw. Present arm store each discussion say stay. Show right her story. Unit light reduce everything tend capital."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13039
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1118
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 48337
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 46519
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 103085
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 212098,
+    "TotalApproved": 189924
+  },
+  "AdjusterDetails": {
+    "Name": "Susan Chaney",
+    "ContactInformation": {
+      "Phone": "465.413.9364x15495",
+      "Email": "alexanderleonard@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/fd58aa64-b7bc-4d97-908b-a096cbe32f7c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-20T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-25T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-30T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez PLC",
+    "Model": "hear",
+    "Year": 2007,
+    "VIN": "8b817977-d438-4481-8400-c34b021086fa"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Donna Hall",
+      "ContactInformation": {
+        "Phone": "247-292-2280",
+        "Email": "kim01@example.com"
+      },
+      "Statement": "Decide fall oil our hotel popular teach on. Economic purpose mother tend apply better.\nMedia forward owner affect still seven. Fact manager happy power. Will likely two."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fe1d5db7-4b7e-42a7-88d8-f6236c625eb1",
+    "OfficerName": "Nicole Combs",
+    "ReportDetails": "Various deal case one decision interesting professor. Cause senior nature education test yes operation. Republican support collection commercial past per red."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 518,
+    "AnnualIncome": 169854,
+    "DebtToIncomeRatio": 0.44
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

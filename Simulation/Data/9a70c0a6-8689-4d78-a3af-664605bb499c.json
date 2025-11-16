@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9a70c0a6-8689-4d78-a3af-664605bb499c",
+  "PolicyID": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+  "EffectiveDates": {
+    "StartDate": "2025-03-31",
+    "EndDate": "2026-03-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fe640aa1-fac6-44c1-b128-0544382d3460",
+    "Name": "Mr. John Curtis DDS",
+    "PolicyNumber": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+    "ContactInformation": {
+      "Phone": "+1-788-856-0912x412",
+      "Email": "greenlorraine@example.com",
+      "Address": "970 Ryan Green\nWest Katherine, GA 40547"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-27",
+    "Location": "018 Deanna Trafficway Suite 084\nLake Christine, PW 31990",
+    "Description": "Responsibility player interview level benefit I time. Region sport ahead agency why figure everyone network. Effort factor rich tough bed against."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 27866
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8346
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8318
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 24215
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 49691
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 118436,
+    "TotalApproved": 46645
+  },
+  "AdjusterDetails": {
+    "Name": "Andrew Anderson",
+    "ContactInformation": {
+      "Phone": "8327071805",
+      "Email": "jmatthews@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/f4e8c0d3-41f2-4ec4-b315-c69d63c995eb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Myers-Wilson",
+    "Model": "knowledge",
+    "Year": 2018,
+    "VIN": "60b530e8-8591-4279-b692-037427c01f38"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mary Cooper",
+      "ContactInformation": {
+        "Phone": "844-943-8726x055",
+        "Email": "hernandezderrick@example.net"
+      },
+      "Statement": "Whose front establish pay crime list. Believe black smile level indicate ability movement. Across media mother society.\nPay project before task. Guess often admit learn."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bd185f17-8462-4d89-a67b-464d4460fa17",
+    "OfficerName": "Samantha Stewart",
+    "ReportDetails": "Half talk low seat lay. Class worker project resource clear break floor. Gun or husband your.\nWatch option team director also argue degree."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 340,
+    "AnnualIncome": 90744,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7c4b5a7b-73b3-478f-94da-97cb9cb2a79b",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2025-05-12",
+    "EndDate": "2026-05-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-05",
+    "Location": "942 Kelly Dam Apt. 874\nPort Ashley, AZ 80382",
+    "Description": "Enter involve eye issue. Ball himself on security vote a protect. May film after class actually seat could day. Throw myself ground too once measure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 33031
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 30761
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9554
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 32402
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1465
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 107213,
+    "TotalApproved": 10983
+  },
+  "AdjusterDetails": {
+    "Name": "Kathleen Green",
+    "ContactInformation": {
+      "Phone": "+1-410-552-8075x09474",
+      "Email": "austin63@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/18ac6033-ec21-4c3f-a5cc-0cb4c78a8e2e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gregory-Dixon",
+    "Model": "their",
+    "Year": 2010,
+    "VIN": "45cb4fc6-e7e5-42b0-8c3d-6c7e098dbe2f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Daniel Vasquez",
+      "ContactInformation": {
+        "Phone": "+1-532-294-6319x300",
+        "Email": "amy04@example.com"
+      },
+      "Statement": "Little this like I. Detail rich now work perhaps let part. Week save matter out wife better.\nTown edge form loss ahead model. Race event current."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "980f985f-5af5-4d60-8075-4c46f259aa04",
+    "OfficerName": "Bailey Martin",
+    "ReportDetails": "Million sell and choose somebody agree. Cell agency new actually effect space note effort. Project decision me prevent threat rule purpose.\nEvery bit better safe nearly too.\nEye church late air."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 580,
+    "AnnualIncome": 170242,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

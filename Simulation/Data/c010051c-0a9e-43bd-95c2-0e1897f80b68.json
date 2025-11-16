@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c010051c-0a9e-43bd-95c2-0e1897f80b68",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-05-09",
+    "EndDate": "2026-05-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-30",
+    "Location": "6792 James Terrace Suite 999\nJenkinsland, GA 38662",
+    "Description": "By pick dark. Person might bag professor investment power.\nWall successful week phone. Bag third hand although. Rate today guess again point move."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7619
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4781
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12931
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 176226
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3142
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 204699,
+    "TotalApproved": 21631
+  },
+  "AdjusterDetails": {
+    "Name": "Margaret Barton",
+    "ContactInformation": {
+      "Phone": "662.625.4529x201",
+      "Email": "christopher58@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c4db5f90-f7e1-4fae-83e5-ee65912c14d5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-30T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-04T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-09T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Stephens, Deleon and Barton",
+    "Model": "check",
+    "Year": 2021,
+    "VIN": "c0f667bf-eeed-406d-8095-aea1e755a229"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jose Sparks",
+      "ContactInformation": {
+        "Phone": "(331)563-5555",
+        "Email": "josephrosario@example.net"
+      },
+      "Statement": "Reason born despite before fly bring. High decision figure part girl conference.\nProgram must approach add door choice someone. Mother control despite night allow. New amount choose beat."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "35716386-7717-4edd-bffd-18e26e82dd28",
+    "OfficerName": "Cameron Trevino",
+    "ReportDetails": "Base free professor his. Marriage take strategy threat former good from Republican. Skin modern spend listen. This performance financial account wait reach shoulder."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 595,
+    "AnnualIncome": 144772,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

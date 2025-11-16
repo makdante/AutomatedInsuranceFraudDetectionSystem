@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0ab0b93a-e0ae-44aa-9148-91f04c059102",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2025-01-26",
+    "EndDate": "2026-01-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-10",
+    "Location": "418 Linda Valleys Apt. 831\nPort Patriciaside, NV 89163",
+    "Description": "Possible enough force forward politics answer. Hospital sit difficult open inside their thing.\nSuccess pay serve share environmental. Alone hard quality dream safe race fall."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7553
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 58190
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 27723
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5147
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 42294
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 140907,
+    "TotalApproved": 91294
+  },
+  "AdjusterDetails": {
+    "Name": "Norman Williams",
+    "ContactInformation": {
+      "Phone": "+1-323-229-5477x882",
+      "Email": "sarah28@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ff3aff23-918a-4533-a019-9973a94ecde2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Edwards-Waller",
+    "Model": "bed",
+    "Year": 2018,
+    "VIN": "eb481b3a-2a11-4828-9b58-4455f1af13f0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Beth Hernandez",
+      "ContactInformation": {
+        "Phone": "(361)251-6225",
+        "Email": "wendychambers@example.net"
+      },
+      "Statement": "Thousand create west. Response cost long exactly score during method discussion.\nEvery she as some. Identify eye inside customer customer form. Blood attention study month weight this."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "651b691e-3304-412c-ab03-8d8a7f29b561",
+    "OfficerName": "Michael Tucker",
+    "ReportDetails": "Share establish fact whether professional commercial discover sort. Opportunity both establish plan enjoy trouble most necessary."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 335,
+    "AnnualIncome": 44301,
+    "DebtToIncomeRatio": 0.5
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

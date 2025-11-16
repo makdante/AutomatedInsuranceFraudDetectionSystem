@@ -1,0 +1,112 @@
+{
+  "ClaimID": "734ba661-58bc-40d4-b6ab-e20498e4b559",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-07-30",
+    "EndDate": "2026-07-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-15",
+    "Location": "3908 Allen Curve\nSchneiderton, NV 49043",
+    "Description": "Writer stop matter blue. Front summer sound inside. Perhaps weight political bring toward just.\nIf detail risk enough southern. Behavior option rate finish director perform suffer."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8910
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 32343
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 175717
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7650
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1761
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 226381,
+    "TotalApproved": 222584
+  },
+  "AdjusterDetails": {
+    "Name": "Justin Hernandez",
+    "ContactInformation": {
+      "Phone": "+1-415-339-0425x5774",
+      "Email": "barbara55@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/d8f18b49-a850-4ed4-97d0-2fabd4334bb0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chan Inc",
+    "Model": "film",
+    "Year": 2013,
+    "VIN": "af92479f-7eab-4dd5-a845-d92902e32b10"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mrs. Angel Myers",
+      "ContactInformation": {
+        "Phone": "001-722-793-6464x173",
+        "Email": "haysstacy@example.net"
+      },
+      "Statement": "Wide establish free common business travel. Senior side provide eye.\nProgram world probably enter condition. Indeed major send notice."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "62bc3460-490a-4d53-aabb-8761c96469c0",
+    "OfficerName": "Robert Mueller",
+    "ReportDetails": "Car institution partner animal wear. Table writer size notice question. Realize job especially particularly drive good.\nCitizen ahead have on."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 666,
+    "AnnualIncome": 136927,
+    "DebtToIncomeRatio": 0.55
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ffbe0ff8-1b64-493d-94f2-d1a24b5c63a8",
+  "PolicyID": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+  "EffectiveDates": {
+    "StartDate": "2025-09-26",
+    "EndDate": "2026-09-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fe640aa1-fac6-44c1-b128-0544382d3460",
+    "Name": "Mr. John Curtis DDS",
+    "PolicyNumber": "08a9f958-3a77-4f29-b915-a1f1008cc259",
+    "ContactInformation": {
+      "Phone": "+1-788-856-0912x412",
+      "Email": "greenlorraine@example.com",
+      "Address": "970 Ryan Green\nWest Katherine, GA 40547"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-01",
+    "Location": "4036 Henderson Trace Apt. 728\nSouth Cameron, AS 90023",
+    "Description": "Key by voice security experience not. Somebody cold husband institution ball everyone left network. Ok action campaign open."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16181
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18761
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 113698
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 83939
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 12485
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 245064,
+    "TotalApproved": 121898
+  },
+  "AdjusterDetails": {
+    "Name": "Lauren Perez PhD",
+    "ContactInformation": {
+      "Phone": "+1-803-470-5432x1430",
+      "Email": "david63@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/06d82ada-e9f7-40c9-a995-be32edd70f86"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Barber Ltd",
+    "Model": "notice",
+    "Year": 2003,
+    "VIN": "9b521280-5d29-40a2-b8c2-e350b4ccebca"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Campos",
+      "ContactInformation": {
+        "Phone": "001-536-661-2284x788",
+        "Email": "jonathan35@example.com"
+      },
+      "Statement": "Doctor Mrs avoid say hit soon face. Stop animal nothing tax article project goal. In mother area once tree study."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "322020db-b76f-4d2f-904c-e5163c7cea65",
+    "OfficerName": "Bernard Espinoza Jr.",
+    "ReportDetails": "Conference baby south born. Professional fall serious him doctor.\nHear read example wind far travel whether. Production shake watch strong rock hold poor. Have talk attention sport remain."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 789,
+    "AnnualIncome": 126094,
+    "DebtToIncomeRatio": 0.52
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

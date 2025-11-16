@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8fdfb7eb-1382-444b-869d-4b9d6d312b70",
+  "PolicyID": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+  "EffectiveDates": {
+    "StartDate": "2024-11-11",
+    "EndDate": "2025-11-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "38d2f43b-58cf-49b2-83ed-99824c18c529",
+    "Name": "Vanessa Lam",
+    "PolicyNumber": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+    "ContactInformation": {
+      "Phone": "(659)271-4340x58512",
+      "Email": "kayleethompson@example.org",
+      "Address": "4509 Robert Haven\nNew Curtis, HI 74176"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-31",
+    "Location": "013 Robert Port Suite 970\nRamirezburgh, PA 45635",
+    "Description": "Alone decide large. Edge capital lot per rich.\nWhole maintain hair. Must lead degree writer serious base choice.\nShake analysis politics people newspaper."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9378
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 52508
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1009
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 98049
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 148663
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 309607,
+    "TotalApproved": 228870
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Thomas",
+    "ContactInformation": {
+      "Phone": "7182975290",
+      "Email": "walter50@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/e66e1adb-3475-463d-9be4-8c75264e6477"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Singh Group",
+    "Model": "action",
+    "Year": 2003,
+    "VIN": "5fd01cb4-b5c6-45d9-af79-7523e06563ac"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sean Mayer",
+      "ContactInformation": {
+        "Phone": "+1-711-833-0933x1929",
+        "Email": "wwilson@example.org"
+      },
+      "Statement": "Sea tax person officer thank. Threat him since should laugh term final. Effort art but care group.\nLanguage step identify. Someone everyone as citizen much begin month. Young truth check."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1ab6670e-acfd-42db-a3f1-8a7ae47eede9",
+    "OfficerName": "Jeremy Santiago",
+    "ReportDetails": "Play office marriage. Air issue as without early son change.\nYard economic close all analysis. Dream policy training example most poor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 435,
+    "AnnualIncome": 187270,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

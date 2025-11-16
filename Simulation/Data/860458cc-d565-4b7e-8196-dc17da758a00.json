@@ -1,0 +1,112 @@
+{
+  "ClaimID": "860458cc-d565-4b7e-8196-dc17da758a00",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2025-05-06",
+    "EndDate": "2026-05-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-06",
+    "Location": "PSC 4952, Box 8145\nAPO AA 95426",
+    "Description": "Project run base man focus. Their major step entire around general pretty many. Operation hundred order dark remain while by. Take apply him serious about figure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 38588
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13505
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19504
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16041
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 29220
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 116858,
+    "TotalApproved": 88393
+  },
+  "AdjusterDetails": {
+    "Name": "Bonnie Miles",
+    "ContactInformation": {
+      "Phone": "+1-478-898-8822x6343",
+      "Email": "joshua78@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/6e18d75d-b435-419c-88c1-802342bf8453"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hart, Mccoy and Sims",
+    "Model": "mention",
+    "Year": 2005,
+    "VIN": "a1e2393e-6cfc-4098-9748-d91f37209f5d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jennifer Johnson",
+      "ContactInformation": {
+        "Phone": "(824)362-7631x70002",
+        "Email": "fbennett@example.com"
+      },
+      "Statement": "Window seven western director religious. Small decision what glass.\nThrough time success find analysis. Start performance among involve hard man."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f1117ccd-89c2-46c9-9337-8ec028a71c2d",
+    "OfficerName": "Dr. William Smith",
+    "ReportDetails": "Social production name safe assume social common world. Community fact I thus.\nSpeech a service hour answer cost window hundred. Each product develop green thought into professional."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 443,
+    "AnnualIncome": 173582,
+    "DebtToIncomeRatio": 0.61
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

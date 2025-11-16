@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c0d79626-88d8-4c75-a8e5-bc5ea467bbdd",
+  "PolicyID": "e01c2861-e918-4ae4-b175-eac63e64b712",
+  "EffectiveDates": {
+    "StartDate": "2025-01-04",
+    "EndDate": "2026-01-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1f06f531-9f80-407c-9bfc-00b75ccf8e58",
+    "Name": "Nathaniel Jenkins",
+    "PolicyNumber": "e01c2861-e918-4ae4-b175-eac63e64b712",
+    "ContactInformation": {
+      "Phone": "548.395.1156x414",
+      "Email": "bridgeskristen@example.com",
+      "Address": "5340 Neal Trace\nNew Julia, KS 86257"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-29",
+    "Location": "950 Ortega Vista\nSouth Laura, PW 21587",
+    "Description": "Throughout size travel prevent lot increase rest. By result month record score today little do."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4541448
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4831648
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4153650
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4196371
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4965021
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22688138,
+    "TotalApproved": 1087130
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Lambert",
+    "ContactInformation": {
+      "Phone": "582-241-7453",
+      "Email": "foxhenry@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/4d28abee-a7cf-4b3f-991b-02c72cf778d4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mitchell, Rodriguez and Sexton",
+    "Model": "letter",
+    "Year": 2012,
+    "VIN": "cb3ec511-2872-4488-ae3f-83b752e0a2b1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Melissa Henry",
+      "ContactInformation": {
+        "Phone": "770-508-6707",
+        "Email": "davidvaughn@example.com"
+      },
+      "Statement": "Human truth impact. Her direction sister blood itself who city.\nFine magazine measure single want send than left. Important billion behavior available require church subject. Around finally pressure."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2f0f05f4-027c-4d47-9ae1-993c2911e6c9",
+    "OfficerName": "Ana Mullen",
+    "ReportDetails": "Grow relate knowledge myself good price. Trial compare magazine great season individual.\nMovie history pretty back wait hard."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 437,
+    "AnnualIncome": 169086,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 6,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

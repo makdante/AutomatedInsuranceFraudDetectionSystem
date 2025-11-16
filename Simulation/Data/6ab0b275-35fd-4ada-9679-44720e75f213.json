@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6ab0b275-35fd-4ada-9679-44720e75f213",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-06-23",
+    "EndDate": "2026-06-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-07",
+    "Location": "0889 Austin Mall\nAngelaport, MD 41877",
+    "Description": "Might defense create federal born way. Administration international choice side. Summer personal institution defense out source mother."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3034
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 190522
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 13086
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5935
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 86678
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 299255,
+    "TotalApproved": 248615
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Miller",
+    "ContactInformation": {
+      "Phone": "996.289.7636x913",
+      "Email": "nprice@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/02f7fb77-9b00-4944-ad0f-ec09b884b66c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis-Robinson",
+    "Model": "direction",
+    "Year": 2003,
+    "VIN": "5d3a5cf3-5381-47a4-b942-e7d598fd1d40"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nicole Mccall",
+      "ContactInformation": {
+        "Phone": "001-786-680-3350x3272",
+        "Email": "marissa47@example.net"
+      },
+      "Statement": "Southern back project development prepare. Think wind cut skin however someone. Federal step door skill tonight around."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a7e69642-674c-471b-8a61-0d0b75e607ce",
+    "OfficerName": "Joseph Campbell",
+    "ReportDetails": "Himself control rest door lead rate behind take. Describe student him rule. Chance especially interesting show."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 775,
+    "AnnualIncome": 93274,
+    "DebtToIncomeRatio": 0.62
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 1,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

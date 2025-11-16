@@ -1,0 +1,112 @@
+{
+  "ClaimID": "108c0e88-e568-4543-af83-d2a6329308fd",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-07-07",
+    "EndDate": "2026-07-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-07",
+    "Location": "819 Shirley Walk Apt. 689\nTheresachester, CA 79910",
+    "Description": "Back manager age make than. Hand day when cup. Science thank everybody break avoid however town mention."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 176088
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9123
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 87641
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4233
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 44027
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 321112,
+    "TotalApproved": 35133
+  },
+  "AdjusterDetails": {
+    "Name": "Jason Johnson",
+    "ContactInformation": {
+      "Phone": "9449434239",
+      "Email": "vmejia@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/dec2714c-f9df-4745-8df3-9d7dcbe9973c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jackson, Thompson and Collins",
+    "Model": "list",
+    "Year": 2005,
+    "VIN": "d61d4bab-3f08-4b17-afd3-273c76d4a72f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jason Harris",
+      "ContactInformation": {
+        "Phone": "784.586.9337",
+        "Email": "wilsonscott@example.net"
+      },
+      "Statement": "Future work consider Mr fact itself police. Increase conference community who set base Mrs.\nBall tough score itself. Population institution stop thing director adult order."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7e8071b4-ff2c-44cf-b8f8-869c050ad313",
+    "OfficerName": "Kristen Navarro",
+    "ReportDetails": "Perform price painting particularly. Opportunity situation off continue piece often. Computer my discussion leave lose.\nKey commercial kind cost. Simple house go according past where development."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 335,
+    "AnnualIncome": 95359,
+    "DebtToIncomeRatio": 0.49
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

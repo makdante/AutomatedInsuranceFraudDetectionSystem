@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a3c51cd1-17b9-49ba-9c4d-50fee50c85f4",
+  "PolicyID": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+  "EffectiveDates": {
+    "StartDate": "2025-04-18",
+    "EndDate": "2026-04-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "38d2f43b-58cf-49b2-83ed-99824c18c529",
+    "Name": "Vanessa Lam",
+    "PolicyNumber": "1ec2a332-ee74-435f-8786-cf8649ebf9c3",
+    "ContactInformation": {
+      "Phone": "(659)271-4340x58512",
+      "Email": "kayleethompson@example.org",
+      "Address": "4509 Robert Haven\nNew Curtis, HI 74176"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-04",
+    "Location": "17166 Vazquez Expressway\nWest Melindamouth, GU 26307",
+    "Description": "Able sound including quite stop stuff. Player entire responsibility crime father media if."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 69979
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 139616
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2424
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2344
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 77154
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 291517,
+    "TotalApproved": 6334
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Crawford",
+    "ContactInformation": {
+      "Phone": "001-861-993-2787x8770",
+      "Email": "javierpowell@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/f588175b-983d-48a0-8289-3bc84319b781"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garcia, Wood and Valdez",
+    "Model": "product",
+    "Year": 2003,
+    "VIN": "4738c8b7-dd29-4a92-936a-ec7284887a45"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Susan Morris DDS",
+      "ContactInformation": {
+        "Phone": "409-372-4747x0252",
+        "Email": "chloesalas@example.com"
+      },
+      "Statement": "Technology win modern response next.\nFly level dream thus cultural hope doctor fish. Can leave change small specific. Apply area brother mission factor state."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a9679469-d105-46c9-8ffc-6c6eafaa8623",
+    "OfficerName": "Jennifer Sanchez",
+    "ReportDetails": "Operation debate together woman book owner. Girl coach hour than sell market chance. Simple suffer glass authority phone serious ball."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 518,
+    "AnnualIncome": 170752,
+    "DebtToIncomeRatio": 0.72
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 9,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

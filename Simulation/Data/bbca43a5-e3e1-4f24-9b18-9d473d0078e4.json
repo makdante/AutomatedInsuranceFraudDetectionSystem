@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bbca43a5-e3e1-4f24-9b18-9d473d0078e4",
+  "PolicyID": "433b7880-f7af-4e36-9012-5c5e793028d5",
+  "EffectiveDates": {
+    "StartDate": "2024-12-23",
+    "EndDate": "2025-12-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3906d06d-d7b8-494f-879b-a72d5db680f8",
+    "Name": "William West",
+    "PolicyNumber": "433b7880-f7af-4e36-9012-5c5e793028d5",
+    "ContactInformation": {
+      "Phone": "5878895828",
+      "Email": "johnmorris@example.net",
+      "Address": "1914 Lyons Green\nDavisbury, NY 54164"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-27",
+    "Location": "96000 Curtis Knoll Apt. 033\nWhitneyshire, FM 72742",
+    "Description": "Cultural watch seek organization design only. Top hard bad language economic free."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47040
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11010
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 72483
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13899
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15195
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 159627,
+    "TotalApproved": 48706
+  },
+  "AdjusterDetails": {
+    "Name": "Lawrence Moore",
+    "ContactInformation": {
+      "Phone": "3862049855",
+      "Email": "greendeborah@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d4150980-e431-4da5-b061-3feb3f976f0f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mitchell Group",
+    "Model": "reduce",
+    "Year": 2021,
+    "VIN": "12858285-a65b-4c58-9ba3-8d05ac6a81dd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebecca Flores",
+      "ContactInformation": {
+        "Phone": "(527)606-8519",
+        "Email": "smithconnor@example.net"
+      },
+      "Statement": "Skin indicate mother center rich. Specific through sometimes century couple bar water.\nOver dark occur ready during stop Republican film. Effect television civil sometimes spend value street begin."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9a11e3ca-79db-49e0-88c1-93e86f7a6c0f",
+    "OfficerName": "Joseph Taylor",
+    "ReportDetails": "Role religious appear part talk effect. Something across water store later.\nTask great seem close away anything me. Glass lay rock tree note chance them."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 447,
+    "AnnualIncome": 69067,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8c358a7e-a23e-4e27-9347-1c32034da573",
+  "PolicyID": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+  "EffectiveDates": {
+    "StartDate": "2025-06-16",
+    "EndDate": "2026-06-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "cebcacbc-088e-40b8-8ae0-c65f8d0f3a82",
+    "Name": "Keith Snyder",
+    "PolicyNumber": "39919927-a5e9-4c72-b564-9cdae4a6451a",
+    "ContactInformation": {
+      "Phone": "4038370451",
+      "Email": "thomas58@example.org",
+      "Address": "2916 Malone Lodge Suite 000\nJennaton, ME 30270"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-21",
+    "Location": "160 Robert Bridge\nCostafort, MT 96937",
+    "Description": "Second option store understand bar through source. Audience herself amount recognize name.\nEntire step structure draw option wind. Book home street half but crime might."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37299
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3072
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6832
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 196366
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 41720
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 285289,
+    "TotalApproved": 247885
+  },
+  "AdjusterDetails": {
+    "Name": "Robert Peters",
+    "ContactInformation": {
+      "Phone": "(856)923-3289x93213",
+      "Email": "john63@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/a6d91c07-8552-48e8-b759-d56d31c8e071"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Phillips, Mayer and Sellers",
+    "Model": "two",
+    "Year": 2016,
+    "VIN": "9930f4f3-5037-4bca-b338-50989b6c31ab"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Vaughn",
+      "ContactInformation": {
+        "Phone": "214-672-4291x01174",
+        "Email": "burtonconnie@example.com"
+      },
+      "Statement": "Organization success argue method. Within yet maybe reason.\nHeavy her exactly artist.\nSize yard parent.\nStar eat might Mr democratic.\nPlant seven significant."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2f60d2f6-b807-4487-854a-0fe7dd65dae5",
+    "OfficerName": "Christopher Chambers",
+    "ReportDetails": "Know current technology crime government. Compare worry many news type tonight. Realize a school owner stand.\nPrice act offer reduce talk itself anyone. Agree movie bag professional teach take light."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 521,
+    "AnnualIncome": 183781,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

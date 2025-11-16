@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bc6b61c0-fd3f-4ad8-9588-4b7c10e317cc",
+  "PolicyID": "edb39a23-2e22-4016-9361-028155eceec8",
+  "EffectiveDates": {
+    "StartDate": "2025-02-25",
+    "EndDate": "2026-02-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "958f1d81-cf68-405c-ab92-a931c2c577e6",
+    "Name": "Breanna Ewing",
+    "PolicyNumber": "edb39a23-2e22-4016-9361-028155eceec8",
+    "ContactInformation": {
+      "Phone": "+1-935-681-7496",
+      "Email": "jeremystark@example.net",
+      "Address": "52172 Ryan Estate Suite 095\nPort Nathanbury, NY 38761"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-27",
+    "Location": "32723 Danielle Islands Apt. 432\nJustinmouth, MI 37367",
+    "Description": "Nor lose our officer theory. Budget hard direction special work beyond practice.\nUpon record because election take while. Body north small however this six try."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 126383
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39486
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 43613
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 93264
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 198275
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 501021,
+    "TotalApproved": 382534
+  },
+  "AdjusterDetails": {
+    "Name": "Joseph Mcguire",
+    "ContactInformation": {
+      "Phone": "+1-550-770-4405",
+      "Email": "wallacechristopher@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/a81888b1-5556-4639-a9d5-9b466f98af2e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Potter-Walton",
+    "Model": "manager",
+    "Year": 2020,
+    "VIN": "4121d287-692a-4666-89c8-4ae271df9819"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angela Morales",
+      "ContactInformation": {
+        "Phone": "987-645-2825x59305",
+        "Email": "justin59@example.net"
+      },
+      "Statement": "Impact establish share grow money executive. Main real image affect.\nCurrent official through see class hit step could. Hospital resource moment not house. Establish skin could baby mean."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5acbdd67-ef4f-426c-825c-74dcd1b47111",
+    "OfficerName": "Michael Fitzgerald",
+    "ReportDetails": "Parent enter set administration natural size. Capital paper organization window former."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 414,
+    "AnnualIncome": 83473,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 5,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

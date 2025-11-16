@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b8b3927d-656d-40ed-bb8f-054bc52abea0",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-10-06",
+    "EndDate": "2026-10-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-22",
+    "Location": "0691 Ford Park\nSamanthaton, NY 28661",
+    "Description": "Concern sit partner pattern. Newspaper open including if economy step under. Thus suggest somebody understand often real. Perhaps generation huge Mr cup."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 35549
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6022
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 126793
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 90369
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12086
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 270819,
+    "TotalApproved": 35250
+  },
+  "AdjusterDetails": {
+    "Name": "Melissa Cruz",
+    "ContactInformation": {
+      "Phone": "(225)747-5470",
+      "Email": "ymathis@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/0b203c96-eac6-4a42-bfc2-5b88409e5b13"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-22T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-27T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Turner PLC",
+    "Model": "finally",
+    "Year": 2017,
+    "VIN": "611d6875-d415-4a47-a1cf-379fb7e74b99"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kayla Hogan",
+      "ContactInformation": {
+        "Phone": "001-555-326-6061x16388",
+        "Email": "tgarcia@example.com"
+      },
+      "Statement": "General knowledge management wear rich. Foreign baby community ago best. Old believe adult chair."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fab69b08-3376-4ff5-9a4e-9995fd9febbe",
+    "OfficerName": "Ronald Woodward",
+    "ReportDetails": "And enjoy coach success sort lead ask. Similar offer including manager.\nOffice when table wait hold weight. Democratic suffer choice which child. Alone ball listen station west."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 386,
+    "AnnualIncome": 164926,
+    "DebtToIncomeRatio": 0.74
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

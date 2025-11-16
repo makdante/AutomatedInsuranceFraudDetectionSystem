@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2b1f44d8-304f-4518-a569-8a1b940320fa",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-01-11",
+    "EndDate": "2026-01-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-24",
+    "Location": "65132 Bautista Ports\nMaryhaven, NY 89688",
+    "Description": "Chance response concern table. Say tonight through throughout possible baby. Measure might send go."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11221
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4092
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 2616
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3436
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44957
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 66322,
+    "TotalApproved": 63931
+  },
+  "AdjusterDetails": {
+    "Name": "Edward King",
+    "ContactInformation": {
+      "Phone": "(631)985-0388",
+      "Email": "hatfieldchristian@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/4826e6fb-416c-47ea-b61b-efb522bf714a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martin LLC",
+    "Model": "area",
+    "Year": 2020,
+    "VIN": "3bc0210e-9bcc-4f80-b0b5-f6d457ca58f7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Gabriela Peters",
+      "ContactInformation": {
+        "Phone": "870-508-7437",
+        "Email": "rgrant@example.com"
+      },
+      "Statement": "Must both official mention.\nCourt fine ability. Yourself nation task thought identify message benefit. Design Mr under story center."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4a0b0a0e-f6bd-4dee-a3a5-904acc452ab0",
+    "OfficerName": "Evan Miller",
+    "ReportDetails": "Economy sometimes second animal suggest mission school pay. Example act food another key. Generation will cell."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 528,
+    "AnnualIncome": 107469,
+    "DebtToIncomeRatio": 0.37
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

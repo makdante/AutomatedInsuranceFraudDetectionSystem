@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a9309a48-3e02-41c2-972c-86b51317038b",
+  "PolicyID": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+  "EffectiveDates": {
+    "StartDate": "2024-11-16",
+    "EndDate": "2025-11-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "16d4325b-24b4-4b5c-a78f-5f8adcaa3ffc",
+    "Name": "Yesenia Fox",
+    "PolicyNumber": "950a21ec-fb26-40a6-8f15-205bf5b45d79",
+    "ContactInformation": {
+      "Phone": "5245090779",
+      "Email": "bradleybaldwin@example.com",
+      "Address": "2599 Victoria Mission Suite 159\nJacksontown, WI 33867"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-01",
+    "Location": "4018 Thomas Rapid\nOlsonberg, NE 94294",
+    "Description": "So reality specific. Marriage short edge event begin others budget.\nFeel TV state true.\nAvailable large take fund dinner none food. Drug right western chair. Travel trial type great miss."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9932
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 77092
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 81264
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 189101
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 79394
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 436783,
+    "TotalApproved": 131197
+  },
+  "AdjusterDetails": {
+    "Name": "Taylor Rivera",
+    "ContactInformation": {
+      "Phone": "572.241.1632",
+      "Email": "katelyn96@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/437ff760-e853-435a-99a7-94905356c412"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Blair, Miles and Smith",
+    "Model": "marriage",
+    "Year": 2013,
+    "VIN": "dabf5191-6252-4e86-8258-19fcbf4723bf"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Richard Sherman",
+      "ContactInformation": {
+        "Phone": "001-461-614-4531x2007",
+        "Email": "joshua88@example.com"
+      },
+      "Statement": "Score church my candidate sit avoid.\nBehind help nation no. Success range including cultural approach seem play. Three main whatever between wide throw type."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "3a844741-d53b-4fba-a761-056b150a737c",
+    "OfficerName": "Jose Powell DDS",
+    "ReportDetails": "Involve from happen draw unit finish. Ground travel pressure after.\nNews who respond environmental sort some well. Drop staff store charge."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 751,
+    "AnnualIncome": 66923,
+    "DebtToIncomeRatio": 0.99
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 9,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

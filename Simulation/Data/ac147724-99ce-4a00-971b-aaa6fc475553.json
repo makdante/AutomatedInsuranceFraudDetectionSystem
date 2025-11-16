@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ac147724-99ce-4a00-971b-aaa6fc475553",
+  "PolicyID": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+  "EffectiveDates": {
+    "StartDate": "2025-04-17",
+    "EndDate": "2026-04-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d1d74627-ebfa-4be3-b1da-26ed11561b0d",
+    "Name": "Joseph Salazar",
+    "PolicyNumber": "b0f607b3-ccc8-4879-ac58-b13d7b1a3c9d",
+    "ContactInformation": {
+      "Phone": "001-886-312-3844x48198",
+      "Email": "ugray@example.net",
+      "Address": "293 Jessica Plain\nLake Jillborough, IA 96694"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-04",
+    "Location": "58663 Mitchell Mount Suite 063\nEast Catherinehaven, LA 75496",
+    "Description": "Explain stage Mrs thank finish. American part test which hear civil whom. Treatment report seat base exactly energy cup."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 75515
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 90815
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 28553
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1643
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4511
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 201037,
+    "TotalApproved": 87608
+  },
+  "AdjusterDetails": {
+    "Name": "Monique Anderson",
+    "ContactInformation": {
+      "Phone": "523-386-2986x601",
+      "Email": "lgibson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e4deab15-3bbe-4a07-ba15-58cdc83194ee"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Dunn Ltd",
+    "Model": "whole",
+    "Year": 2005,
+    "VIN": "8b218fdd-d55d-4e7c-89a8-63eaa18421b9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dawn Olson",
+      "ContactInformation": {
+        "Phone": "6762892670",
+        "Email": "matthewthompson@example.org"
+      },
+      "Statement": "On accept wind food stop. Newspaper tonight lawyer likely generation arm there."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "dff1f31a-da40-4a11-b970-c031a017d939",
+    "OfficerName": "Julian Cox",
+    "ReportDetails": "Through available court thank statement start. Painting land significant ok camera.\nAbout follow by pay. Town buy tonight American."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 671,
+    "AnnualIncome": 144621,
+    "DebtToIncomeRatio": 0.55
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 1,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

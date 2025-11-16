@@ -1,0 +1,112 @@
+{
+  "ClaimID": "78e4fd7f-04f1-48fd-82d0-4d33624adc44",
+  "PolicyID": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+  "EffectiveDates": {
+    "StartDate": "2025-05-19",
+    "EndDate": "2026-05-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "342b380f-5b25-4a6f-a462-2fa1c3057fc2",
+    "Name": "Kayla Wilson",
+    "PolicyNumber": "6206381a-295b-4dec-b4b2-fbe8abd2f2ad",
+    "ContactInformation": {
+      "Phone": "432-340-1587",
+      "Email": "jonathan54@example.com",
+      "Address": "25321 Lopez Stream\nPort Amandaside, MT 41311"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-02",
+    "Location": "Unit 0486 Box 5138\nDPO AE 55084",
+    "Description": "Congress agree compare back. Design those floor government light.\nCell sometimes consumer benefit. Rest place raise movement top save test. And product garden strong."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 142628
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4633
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 89962
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12095
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6075
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 255393,
+    "TotalApproved": 194585
+  },
+  "AdjusterDetails": {
+    "Name": "Jackie Hunt",
+    "ContactInformation": {
+      "Phone": "001-802-259-4053x252",
+      "Email": "kelleyjulie@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/add5b4a1-e226-409b-80c9-19f1f964b25d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Barrett-Rodriguez",
+    "Model": "coach",
+    "Year": 2005,
+    "VIN": "ae98d8e9-4e56-4b2f-bb7f-40194790adb0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nicole Myers",
+      "ContactInformation": {
+        "Phone": "803.830.4568x849",
+        "Email": "escobarmegan@example.com"
+      },
+      "Statement": "Suggest inside respond rather item. Person give tell art picture. Quite lawyer financial attorney."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6c4f3516-569e-48bb-95fb-2d2bf0527d53",
+    "OfficerName": "Alyssa Ochoa",
+    "ReportDetails": "Success safe claim situation. Factor whom movement. Natural which nearly nor music.\nLead treat office attention. Tell put bank tough who own. Conference recently first offer suggest among."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 471,
+    "AnnualIncome": 166034,
+    "DebtToIncomeRatio": 0.37
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 10,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

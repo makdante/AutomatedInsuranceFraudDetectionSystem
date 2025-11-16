@@ -1,0 +1,112 @@
+{
+  "ClaimID": "85e11ce1-6f4a-429b-a5aa-35f2c6013407",
+  "PolicyID": "615dd311-61f1-4d66-9081-93d8b1a30832",
+  "EffectiveDates": {
+    "StartDate": "2025-03-11",
+    "EndDate": "2026-03-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "413855ef-2e2d-4b8e-b2fc-330be891114b",
+    "Name": "Amy Barnes",
+    "PolicyNumber": "615dd311-61f1-4d66-9081-93d8b1a30832",
+    "ContactInformation": {
+      "Phone": "(281)531-1709x697",
+      "Email": "monicacarroll@example.org",
+      "Address": "2310 Leslie Drive Suite 947\nSimsbury, VI 28289"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-11",
+    "Location": "757 Smith Radial Suite 809\nThomasview, CA 26604",
+    "Description": "Green personal itself stuff respond next. Want expect debate member significant last bring field."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 68513
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 20750
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9553
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1763
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 37507
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 138086,
+    "TotalApproved": 99530
+  },
+  "AdjusterDetails": {
+    "Name": "Glen Williams",
+    "ContactInformation": {
+      "Phone": "+1-585-693-9626x3556",
+      "Email": "katherine34@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/cf5fcce6-9799-4e9d-998c-2fff2ae950e9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Perez, Colon and Olson",
+    "Model": "main",
+    "Year": 2008,
+    "VIN": "335b0b7e-218d-42dc-b23e-af43ba341715"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Russell",
+      "ContactInformation": {
+        "Phone": "628.619.0904x0421",
+        "Email": "rhondaflynn@example.org"
+      },
+      "Statement": "Much age all technology book discover continue. Feel five ground short term common daughter experience. Any the get enough. Decision scientist interest doctor guess."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f8dd6eb6-ab4c-46b6-99cc-3ced420aaa43",
+    "OfficerName": "Philip Price",
+    "ReportDetails": "Activity camera lawyer be ever. Foot feeling company easy style music glass. Once well ten letter.\nOccur machine everyone name. Team training nothing special senior final government."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 440,
+    "AnnualIncome": 55610,
+    "DebtToIncomeRatio": 0.92
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 9,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

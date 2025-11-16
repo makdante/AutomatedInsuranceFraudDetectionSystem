@@ -1,0 +1,112 @@
+{
+  "ClaimID": "00c7d8f6-71ea-411f-b43e-05fe12c22564",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-07-12",
+    "EndDate": "2026-07-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-26",
+    "Location": "3279 Cassandra Light\nPort John, NM 63290",
+    "Description": "Specific office picture. Life visit particularly catch.\nSpeak author world you level care responsibility. Improve including policy serve clear. Force I enjoy party daughter develop."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4891676
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4981331
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4530682
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4865349
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4899032
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 24168070,
+    "TotalApproved": 8451288
+  },
+  "AdjusterDetails": {
+    "Name": "Jeffrey Hoover",
+    "ContactInformation": {
+      "Phone": "351.655.0119x29402",
+      "Email": "marshjennifer@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/ba430c76-888c-4e9a-98b3-c4a0c02ef682"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jacobs-Sims",
+    "Model": "early",
+    "Year": 2002,
+    "VIN": "2418627a-e343-47d8-9c29-bbacc268be33"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Benjamin Glass",
+      "ContactInformation": {
+        "Phone": "722.982.6507x7868",
+        "Email": "kimberlyjones@example.org"
+      },
+      "Statement": "Four develop all onto final method. Sister service end effort. Include friend determine support goal.\nEconomic bring keep. After that social people."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fa486b39-7fc5-4e4e-87f7-2525aa699b05",
+    "OfficerName": "Todd Hall",
+    "ReportDetails": "Draw quite fund others another picture. Leader rock be. Night of alone too break effect free.\nSecurity enter author phone. Mother on threat mean myself.\nDuring somebody dog page mouth live still."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 363,
+    "AnnualIncome": 138692,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

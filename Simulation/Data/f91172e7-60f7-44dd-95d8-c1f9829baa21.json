@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f91172e7-60f7-44dd-95d8-c1f9829baa21",
+  "PolicyID": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+  "EffectiveDates": {
+    "StartDate": "2025-08-21",
+    "EndDate": "2026-08-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "26f59714-fddf-4fb5-b1b2-e8807b726ada",
+    "Name": "David Campbell",
+    "PolicyNumber": "50d52157-a4dc-4d72-b84e-26f259d28f66",
+    "ContactInformation": {
+      "Phone": "943.982.0849",
+      "Email": "johnsonkatie@example.net",
+      "Address": "0311 Young Mews Suite 562\nWilliamfurt, IA 82544"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-18",
+    "Location": "PSC 1254, Box 8225\nAPO AE 63895",
+    "Description": "Yes economy song. Account young sort gas training father total.\nAct I trip. Play move turn include board. Indicate garden blue staff five feel land."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1236
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 96130
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 47025
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9227
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 98982
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 252600,
+    "TotalApproved": 75606
+  },
+  "AdjusterDetails": {
+    "Name": "Mary Dunn",
+    "ContactInformation": {
+      "Phone": "(208)276-8754",
+      "Email": "thomasspencer@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/f9fb2ac4-5a16-4d31-b819-2797ac023ba2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Burke-Berry",
+    "Model": "study",
+    "Year": 2020,
+    "VIN": "8ca6c3b4-93c4-4b82-8169-bbf7a366bed4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Susan Gonzalez",
+      "ContactInformation": {
+        "Phone": "001-963-320-8256",
+        "Email": "beckereric@example.com"
+      },
+      "Statement": "Executive college you theory young. Expert light leave specific time. Middle policy need within feeling less."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "40bc2fe1-df20-4a70-a86a-023cc20a0351",
+    "OfficerName": "Victor Baldwin",
+    "ReportDetails": "Only group none effect bring. Different I never condition available. Truth raise read mission deal recognize might into."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 405,
+    "AnnualIncome": 68288,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 3,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d072e26a-312e-4e93-b97e-7b53efa89aa4",
+  "PolicyID": "c3c97e20-9916-4009-b655-6b300f90d80a",
+  "EffectiveDates": {
+    "StartDate": "2025-10-23",
+    "EndDate": "2026-10-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "053ca69a-366f-4375-961c-7efc9aef3ba5",
+    "Name": "Dalton Davis",
+    "PolicyNumber": "c3c97e20-9916-4009-b655-6b300f90d80a",
+    "ContactInformation": {
+      "Phone": "333.559.0778",
+      "Email": "nancy30@example.org",
+      "Address": "5703 Aaron Lane\nSouth Matthew, MH 99089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-17",
+    "Location": "6020 Nelson Radial Apt. 944\nSouth Carl, SC 49221",
+    "Description": "Next we west organization quite. Key plan lay sort cut.\nWhom view again art position. Apply who third marriage rate bar last hard."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4444511
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4759841
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4958827
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4097467
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4838403
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 23099049,
+    "TotalApproved": 17986429
+  },
+  "AdjusterDetails": {
+    "Name": "Danielle Clark",
+    "ContactInformation": {
+      "Phone": "+1-564-978-0452x85202",
+      "Email": "yoderrebecca@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/38edcfa3-2f95-4f4c-bca2-b58df078d61b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cooper Ltd",
+    "Model": "guess",
+    "Year": 2006,
+    "VIN": "7e616a82-c698-41d7-bd0c-684a25d773ed"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Katelyn Williams",
+      "ContactInformation": {
+        "Phone": "502.625.0014x1285",
+        "Email": "perezjoshua@example.com"
+      },
+      "Statement": "Wait star suggest bag occur our know. Including both leave education media win. Page amount daughter five.\nPublic cause evidence Mrs best.\nWest age region hundred."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a79c2d3e-2687-4662-84e7-8eec3c618f8e",
+    "OfficerName": "Richard Torres",
+    "ReportDetails": "Shoulder size hotel stock save become again them. Others though I.\nHowever dog risk general that admit Congress partner. Prevent central speak remain camera democratic."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 370,
+    "AnnualIncome": 59963,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7eaff944-a94a-46de-a094-cb05d3eb5fe4",
+  "PolicyID": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+  "EffectiveDates": {
+    "StartDate": "2025-07-12",
+    "EndDate": "2026-07-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0aea6355-ec93-4670-9d1f-368e59077bd4",
+    "Name": "Jennifer Smith",
+    "PolicyNumber": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+    "ContactInformation": {
+      "Phone": "(638)899-2687x626",
+      "Email": "barrvanessa@example.com",
+      "Address": "PSC 0173, Box 9250\nAPO AA 43354"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-29",
+    "Location": "121 Traci Turnpike Suite 836\nNew Tyler, DE 99722",
+    "Description": "It feel decide however style of human. Star impact answer source mention amount amount. Common family be meeting shoulder free."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 170504
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 169758
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9582
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 82706
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4523
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 437073,
+    "TotalApproved": 14920
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Garcia",
+    "ContactInformation": {
+      "Phone": "6489941709",
+      "Email": "meghanjones@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4f06af00-55e0-41de-b89c-c814917b9ce3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-04T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-09T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martin PLC",
+    "Model": "serve",
+    "Year": 2010,
+    "VIN": "85d8b6d5-4197-42a1-9c84-27e2b988703a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Carter",
+      "ContactInformation": {
+        "Phone": "001-550-363-1903x0695",
+        "Email": "msweeney@example.com"
+      },
+      "Statement": "Stand laugh behavior sort relationship consumer office. Event relate smile hit us reason. Early natural product."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6c94764c-459c-4f3c-aba6-be44a1d764b8",
+    "OfficerName": "Michael Ortiz",
+    "ReportDetails": "Raise concern center join defense. Strong time board forget sit. Make center south military open particular until well."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 354,
+    "AnnualIncome": 54357,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

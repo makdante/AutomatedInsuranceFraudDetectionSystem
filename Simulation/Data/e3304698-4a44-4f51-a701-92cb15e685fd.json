@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e3304698-4a44-4f51-a701-92cb15e685fd",
+  "PolicyID": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+  "EffectiveDates": {
+    "StartDate": "2025-03-31",
+    "EndDate": "2026-03-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8be26a6-4cb5-4164-b3db-8733f427afd7",
+    "Name": "Courtney Davis",
+    "PolicyNumber": "1f6ce8b9-2b58-42a8-b3e8-6cfbda002f91",
+    "ContactInformation": {
+      "Phone": "001-379-236-0842x2726",
+      "Email": "nicholas30@example.net",
+      "Address": "670 Lucas Vista Suite 883\nNew Carol, CO 53855"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-19",
+    "Location": "481 Miller Inlet Apt. 116\nJamesview, OH 09585",
+    "Description": "Long pass position product. Force interview ground school professor.\nWhom social make."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 45725
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7232
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44114
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 23191
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 28593
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 148855,
+    "TotalApproved": 89688
+  },
+  "AdjusterDetails": {
+    "Name": "James Lee",
+    "ContactInformation": {
+      "Phone": "(639)994-8427x5462",
+      "Email": "nathan66@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/ac8732c7-5afe-4372-a65d-2247741eb2cd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith and Sons",
+    "Model": "myself",
+    "Year": 2016,
+    "VIN": "db1326e9-2b20-4892-8808-f52e61b77731"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steve Holder",
+      "ContactInformation": {
+        "Phone": "606.352.0894x8430",
+        "Email": "wendygeorge@example.net"
+      },
+      "Statement": "Far instead send recently. Couple employee wonder indeed off trial.\nSite music remain side admit statement. Computer sing animal executive."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0d97751a-e1aa-4770-a2fe-c92169ebf8a5",
+    "OfficerName": "Susan Johnson",
+    "ReportDetails": "Wrong surface bed your on. Choose energy set film. Election least prove product history."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 429,
+    "AnnualIncome": 82853,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 5,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

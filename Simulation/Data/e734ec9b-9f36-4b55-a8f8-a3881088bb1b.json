@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e734ec9b-9f36-4b55-a8f8-a3881088bb1b",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2024-11-07",
+    "EndDate": "2025-11-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-02",
+    "Location": "119 Hamilton Courts Apt. 452\nWest Manuel, FL 26715",
+    "Description": "Per organization challenge wish health who second. Different send Mr. Much population pick tell."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3903
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1419
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 32814
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 13270
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1754
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 53160,
+    "TotalApproved": 47097
+  },
+  "AdjusterDetails": {
+    "Name": "Jonathan Stewart",
+    "ContactInformation": {
+      "Phone": "(450)657-9875x690",
+      "Email": "mitchelldaniels@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/514e0d5f-c4c8-4a79-a9a9-d0750b4a2b9a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones PLC",
+    "Model": "maintain",
+    "Year": 2004,
+    "VIN": "0fa5adea-8672-45b2-aaf0-8db0f6fe94b2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Cheryl Martinez",
+      "ContactInformation": {
+        "Phone": "(636)447-2540x316",
+        "Email": "edward51@example.org"
+      },
+      "Statement": "Data wife political positive civil late kid site.\nSchool image style let onto article. Oil first although rule marriage trouble."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c98da304-d06c-46a9-933d-77a48da3b1d2",
+    "OfficerName": "Teresa Glass",
+    "ReportDetails": "Ability position present site camera age kid reflect. Since make thought alone."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 417,
+    "AnnualIncome": 28407,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

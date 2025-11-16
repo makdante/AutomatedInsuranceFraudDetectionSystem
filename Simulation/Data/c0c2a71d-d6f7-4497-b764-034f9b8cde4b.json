@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c0c2a71d-d6f7-4497-b764-034f9b8cde4b",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2024-11-26",
+    "EndDate": "2025-11-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-19",
+    "Location": "4065 Jerome Port\nNorth Raymond, AK 25346",
+    "Description": "Answer card order different either itself. Own box contain protect trouble data."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 25183
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7931
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18077
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9823
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 65521
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 126535,
+    "TotalApproved": 101788
+  },
+  "AdjusterDetails": {
+    "Name": "Mckenzie Wilcox",
+    "ContactInformation": {
+      "Phone": "001-475-375-4111x0204",
+      "Email": "wrightmarcus@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/f4c2878b-471c-4942-ba89-760773e096a4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garrett, Craig and Sullivan",
+    "Model": "name",
+    "Year": 2015,
+    "VIN": "b9ca5c20-e69a-4987-95b6-e657504b9a14"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Julia Pham",
+      "ContactInformation": {
+        "Phone": "212.707.9726x3109",
+        "Email": "lewisjason@example.net"
+      },
+      "Statement": "Where walk subject benefit minute anyone. Million eat it.\nBehavior point national media.\nAdministration item policy expect card event cold. Pattern one dark him later factor."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a33506eb-3530-4f1c-9003-176faa4a8bea",
+    "OfficerName": "Howard Gibson",
+    "ReportDetails": "Choice growth out system page. Score leg mind see reality federal.\nHimself message choose writer boy.\nHealth then imagine role pretty."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 642,
+    "AnnualIncome": 157171,
+    "DebtToIncomeRatio": 0.99
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

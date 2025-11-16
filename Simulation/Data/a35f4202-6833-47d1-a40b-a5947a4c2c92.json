@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a35f4202-6833-47d1-a40b-a5947a4c2c92",
+  "PolicyID": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+  "EffectiveDates": {
+    "StartDate": "2025-07-01",
+    "EndDate": "2026-07-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "36ef7374-a94b-45c8-8312-6e8562668715",
+    "Name": "Vincent Flynn",
+    "PolicyNumber": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+    "ContactInformation": {
+      "Phone": "950-852-7090",
+      "Email": "harrybryant@example.com",
+      "Address": "476 Reed Landing\nJeanettestad, VT 94361"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-17",
+    "Location": "1931 Theresa Forge Apt. 671\nHillland, DC 43506",
+    "Description": "Shake next discuss likely indicate. Certainly community decision song radio across so seem.\nShort head thing. Heart coach we artist own former director. Hope child reach use."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 25545
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5128
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 94612
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36682
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 58830
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 220797,
+    "TotalApproved": 149978
+  },
+  "AdjusterDetails": {
+    "Name": "John Marks",
+    "ContactInformation": {
+      "Phone": "865.659.3264x5812",
+      "Email": "bernardpatrick@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/0b8f85c5-5dcc-4d9a-b36a-d6dec1255cf6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ashley-Schroeder",
+    "Model": "miss",
+    "Year": 2011,
+    "VIN": "f6d75739-2c18-4b29-a428-dbf8ea01da68"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kimberly Garcia",
+      "ContactInformation": {
+        "Phone": "311-759-7017x4414",
+        "Email": "brett49@example.com"
+      },
+      "Statement": "Small test later every small. Firm seem plan general. Establish free let page part.\nMedia bed bank the door oil meet. Better begin skill whether top federal attorney."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8c8f741c-f35a-4c5f-8bdc-540712004551",
+    "OfficerName": "Patrick Liu",
+    "ReportDetails": "Stuff painting indicate admit war break safe. Three ability identify summer.\nDeep professional send test six. Community fear stage science."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 647,
+    "AnnualIncome": 169865,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8c75653a-73d8-4994-b32f-4807750df24a",
+  "PolicyID": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+  "EffectiveDates": {
+    "StartDate": "2025-01-30",
+    "EndDate": "2026-01-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a7288014-288a-4eb6-8f91-e37d58115e0c",
+    "Name": "Charles Jones",
+    "PolicyNumber": "c9aa6311-50e4-4c96-ad45-76b21a5297b5",
+    "ContactInformation": {
+      "Phone": "878-449-9992x80487",
+      "Email": "steelejessica@example.com",
+      "Address": "933 Leah Haven\nPort Brenda, CT 74305"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-26",
+    "Location": "64772 Jessica Wall Suite 059\nLake Anthonyville, GU 37975",
+    "Description": "Trouble own care good article. Police couple despite believe ball certain. Itself they foot state."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 40702
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37311
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 175274
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10185
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 41869
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 305341,
+    "TotalApproved": 259642
+  },
+  "AdjusterDetails": {
+    "Name": "Alexandra Estes",
+    "ContactInformation": {
+      "Phone": "+1-254-365-5596x837",
+      "Email": "cspencer@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c4b1c064-802e-4ae2-b3d1-91a53058ac97"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-31T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Harris-Hampton",
+    "Model": "girl",
+    "Year": 2010,
+    "VIN": "4a3e12ae-3a06-46a7-86a3-17d1e45af28c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jose Brown MD",
+      "ContactInformation": {
+        "Phone": "(503)953-8941x5939",
+        "Email": "johnsonann@example.net"
+      },
+      "Statement": "Into guess road company still company physical. Radio family mother. Down fly standard operation after run you. Draw natural friend executive might."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "13d7674d-42a1-48b5-925d-7bfb11316ef0",
+    "OfficerName": "Alexander Zuniga",
+    "ReportDetails": "Child develop instead star speech down religious. Music organization drug body mission part."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 539,
+    "AnnualIncome": 97595,
+    "DebtToIncomeRatio": 0.33
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

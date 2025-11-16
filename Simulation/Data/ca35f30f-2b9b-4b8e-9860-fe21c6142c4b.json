@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ca35f30f-2b9b-4b8e-9860-fe21c6142c4b",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2024-12-17",
+    "EndDate": "2025-12-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-30",
+    "Location": "Unit 9083 Box 0270\nDPO AA 09130",
+    "Description": "Heart push continue design black. Reality game treat in sense money.\nDescribe affect away their scientist public. Culture new particular. Community owner lawyer."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 51939
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 187103
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 64092
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19079
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7511
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 329724,
+    "TotalApproved": 219888
+  },
+  "AdjusterDetails": {
+    "Name": "Matthew Flowers",
+    "ContactInformation": {
+      "Phone": "001-838-830-4809x83087",
+      "Email": "jessica58@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/0f22d1d2-0a18-4b66-829c-439e903568cf"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Parker-Turner",
+    "Model": "attention",
+    "Year": 2004,
+    "VIN": "7ed29591-4f3c-42af-8d3e-92ef51ae4e8a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lauren Smith",
+      "ContactInformation": {
+        "Phone": "001-901-942-0824x829",
+        "Email": "codywatkins@example.org"
+      },
+      "Statement": "Amount happy mother service myself impact heavy break. Direction news until blood establish sure."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d722627d-4402-49e6-96bf-c7b5a65cd0e6",
+    "OfficerName": "Paul Nelson",
+    "ReportDetails": "Picture country turn by entire. Former individual resource gas. Section arm big though law thought."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 368,
+    "AnnualIncome": 172254,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 2,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

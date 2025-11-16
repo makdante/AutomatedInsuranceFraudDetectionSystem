@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c185af10-bcdf-4666-a20c-34f0706b246d",
+  "PolicyID": "615dd311-61f1-4d66-9081-93d8b1a30832",
+  "EffectiveDates": {
+    "StartDate": "2025-03-09",
+    "EndDate": "2026-03-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "413855ef-2e2d-4b8e-b2fc-330be891114b",
+    "Name": "Amy Barnes",
+    "PolicyNumber": "615dd311-61f1-4d66-9081-93d8b1a30832",
+    "ContactInformation": {
+      "Phone": "(281)531-1709x697",
+      "Email": "monicacarroll@example.org",
+      "Address": "2310 Leslie Drive Suite 947\nSimsbury, VI 28289"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-11",
+    "Location": "121 Stephen Neck\nNew Karenshire, MO 61668",
+    "Description": "Under assume treatment central. Company beautiful just follow. Mean expect talk paper get few.\nTeach design view life ask. Church him else value rest huge parent."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1633
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3158
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 76865
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12916
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7128
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 101700,
+    "TotalApproved": 3815
+  },
+  "AdjusterDetails": {
+    "Name": "Sara Hanson",
+    "ContactInformation": {
+      "Phone": "+1-819-376-9679x2006",
+      "Email": "aaron75@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/2f9045e5-2556-463c-b0a3-ddec18b0fd08"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams, Davis and Long",
+    "Model": "must",
+    "Year": 2011,
+    "VIN": "bf9f7695-6799-4e32-b3dc-d67aae5f3394"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Hansen",
+      "ContactInformation": {
+        "Phone": "698-739-5975x32117",
+        "Email": "isabella87@example.com"
+      },
+      "Statement": "True owner page actually wife close here. Some garden good. Company husband paper center employee down north."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d7e10d75-0e7e-44b8-ad69-f0428ef497f9",
+    "OfficerName": "Brian Patel",
+    "ReportDetails": "Within of those what community. Near between standard whole idea gun policy key."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 675,
+    "AnnualIncome": 138462,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

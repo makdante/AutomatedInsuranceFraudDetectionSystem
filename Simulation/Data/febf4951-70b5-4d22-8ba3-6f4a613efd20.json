@@ -1,0 +1,112 @@
+{
+  "ClaimID": "febf4951-70b5-4d22-8ba3-6f4a613efd20",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-06-20",
+    "EndDate": "2026-06-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-01",
+    "Location": "50645 Sweeney Lane Suite 480\nLake Curtischester, OK 67153",
+    "Description": "Structure from strategy leg. Series majority argue operation. Floor loss finally deal off specific.\nResponsibility case myself image often."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 98753
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 145558
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3048
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 197488
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 180222
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 625069,
+    "TotalApproved": 357809
+  },
+  "AdjusterDetails": {
+    "Name": "Debra Ruiz",
+    "ContactInformation": {
+      "Phone": "(869)683-2094x1273",
+      "Email": "christine81@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1d833e4d-e082-4abf-9ac6-87a008bed7b4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez, Burns and Ward",
+    "Model": "reduce",
+    "Year": 2002,
+    "VIN": "e77f7db6-0008-4713-8db4-1d41f54efd45"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erica Patterson",
+      "ContactInformation": {
+        "Phone": "5289016177",
+        "Email": "davidmccormick@example.com"
+      },
+      "Statement": "Month effort student range language their truth. Range herself star evening sea lay certainly. Song chance design person couple hour agree."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8539eed3-3b05-4ac1-869a-dd3a42a49f87",
+    "OfficerName": "Katherine Perry",
+    "ReportDetails": "Show long authority finish stage high. Industry song those. Government begin five too executive yet. Class enough sing."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 829,
+    "AnnualIncome": 123794,
+    "DebtToIncomeRatio": 0.12
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 9,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

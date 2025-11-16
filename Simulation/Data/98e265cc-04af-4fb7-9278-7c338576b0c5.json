@@ -1,0 +1,112 @@
+{
+  "ClaimID": "98e265cc-04af-4fb7-9278-7c338576b0c5",
+  "PolicyID": "f56b721d-77fb-4659-8280-faefc114b152",
+  "EffectiveDates": {
+    "StartDate": "2025-01-03",
+    "EndDate": "2026-01-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "9df24105-b696-442a-969e-d25b0cebdfb9",
+    "Name": "Jonathan Santos",
+    "PolicyNumber": "f56b721d-77fb-4659-8280-faefc114b152",
+    "ContactInformation": {
+      "Phone": "001-871-292-7838x249",
+      "Email": "bneal@example.org",
+      "Address": "46543 Jamie Burg Suite 969\nSarahfort, VI 92099"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-15",
+    "Location": "71217 Joshua Knoll\nTroyhaven, VI 39434",
+    "Description": "Who conference impact hold such themselves. Walk country financial everyone and continue might value."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 46597
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 37010
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 34532
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39785
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 42785
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 200709,
+    "TotalApproved": 149331
+  },
+  "AdjusterDetails": {
+    "Name": "Tonya Ray",
+    "ContactInformation": {
+      "Phone": "241.352.3460x044",
+      "Email": "geoffrey57@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/ddd962c9-510d-44a1-a258-8b09cfab2c62"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith, Briggs and Thompson",
+    "Model": "happy",
+    "Year": 2021,
+    "VIN": "4f9ad461-3634-4dc8-89ee-e1ef6ee154cb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sue Schmitt",
+      "ContactInformation": {
+        "Phone": "897-637-4490",
+        "Email": "fmccarthy@example.com"
+      },
+      "Statement": "Radio discussion right believe. Research reflect community class just act recent really."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1c11fc60-f7cd-42cb-a6a0-48d19193e065",
+    "OfficerName": "Cristian Adams",
+    "ReportDetails": "Management morning commercial card thank system. Hold section perform when kitchen true space. Herself as allow role space use per even."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 371,
+    "AnnualIncome": 187190,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 8,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

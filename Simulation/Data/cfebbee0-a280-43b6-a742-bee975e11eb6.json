@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cfebbee0-a280-43b6-a742-bee975e11eb6",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2024-12-24",
+    "EndDate": "2025-12-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-12",
+    "Location": "8554 Brewer Wells Suite 693\nEast Steven, GU 36214",
+    "Description": "Address second allow sing late. Forward sing market feeling matter behind."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 121082
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12250
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 145123
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 21425
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1450
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 301330,
+    "TotalApproved": 285808
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Velazquez",
+    "ContactInformation": {
+      "Phone": "420.403.5261",
+      "Email": "christopher32@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/53251f01-d369-4408-b85d-7c1f915bbb8f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones, Rogers and Lowe",
+    "Model": "happen",
+    "Year": 2000,
+    "VIN": "ef9ccf3c-01fe-4d6e-a459-3df3904e2ae0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Luis Black",
+      "ContactInformation": {
+        "Phone": "001-504-506-6663x7392",
+        "Email": "barbara78@example.com"
+      },
+      "Statement": "Huge music ahead all. Give sit source Mrs quite. Body agent prove here.\nStudent table turn yeah share west huge. Discussion usually respond another. Think visit customer year."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "90015259-b12d-46c1-a417-d32afb32b194",
+    "OfficerName": "Tyrone Day",
+    "ReportDetails": "Believe study interest impact. Right current adult issue son think moment. Answer gas build reality note.\nLike inside so community report her everyone. Reach third stock."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 597,
+    "AnnualIncome": 20739,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 4,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

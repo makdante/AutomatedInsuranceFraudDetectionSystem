@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1f9d78f3-1864-4ae2-8cf2-3f7b182d1907",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-01-25",
+    "EndDate": "2026-01-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-21",
+    "Location": "957 Galvan Trail\nFullerland, ND 28488",
+    "Description": "Record unit somebody job. Foreign surface painting energy piece protect."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13756
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19121
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1005
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 150966
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2201
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 187049,
+    "TotalApproved": 40270
+  },
+  "AdjusterDetails": {
+    "Name": "Lisa Watson",
+    "ContactInformation": {
+      "Phone": "001-990-732-6844x32601",
+      "Email": "hroman@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/2897ee09-eca4-4f2e-8472-fdbc8533343e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Turner-Miller",
+    "Model": "natural",
+    "Year": 2012,
+    "VIN": "579572a8-39f8-4f63-8749-7c6c348bdd26"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ms. Christina Ramos",
+      "ContactInformation": {
+        "Phone": "(649)760-4986",
+        "Email": "eric81@example.org"
+      },
+      "Statement": "Manage write defense would. Probably east development rise election back she pick. Hotel race question herself even keep close."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "90fc1609-70cb-4d77-a3a9-a41ba01afa1e",
+    "OfficerName": "Sheryl Davis",
+    "ReportDetails": "Treatment very turn. Local name care. Nice drive including.\nStop Congress religious consider drop. Bed use suffer cost. Grow anything rule smile different."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 613,
+    "AnnualIncome": 166398,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "34277cdc-8c9d-4b5d-a18e-1ae1d1afbd68",
+  "PolicyID": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+  "EffectiveDates": {
+    "StartDate": "2025-03-12",
+    "EndDate": "2026-03-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba82c3bd-9d46-4b0e-b555-5005238e858f",
+    "Name": "Kimberly Perez",
+    "PolicyNumber": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+    "ContactInformation": {
+      "Phone": "001-609-229-9683x29012",
+      "Email": "nicholsbenjamin@example.com",
+      "Address": "81438 Berry Squares Apt. 214\nSarahtown, CA 13161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-01",
+    "Location": "341 Perez Station Suite 866\nSergiobury, NM 51893",
+    "Description": "Effect effect appear. Boy scene seven. Reach however pull brother against."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 120947
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 181561
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4754
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3032
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 75137
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 385431,
+    "TotalApproved": 221981
+  },
+  "AdjusterDetails": {
+    "Name": "Madison Barron",
+    "ContactInformation": {
+      "Phone": "001-543-643-4238x23355",
+      "Email": "garciaedward@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d71ec19c-bc89-458d-bb89-b8cd0ee6413a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Glass Group",
+    "Model": "process",
+    "Year": 2006,
+    "VIN": "f70e9237-075b-4d1e-9eaf-b11e57830a5e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Roger Jackson",
+      "ContactInformation": {
+        "Phone": "323-778-9949",
+        "Email": "ambersanders@example.com"
+      },
+      "Statement": "Exist particularly trouble. Republican produce pick play figure might throughout. Dream population sort war officer indicate others. Market woman business pressure design phone usually."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8993dc57-0ccd-408a-980e-5d3501604735",
+    "OfficerName": "Christopher Moreno",
+    "ReportDetails": "In including list activity theory theory too. Offer follow hold receive seat wrong bag effect. Interview magazine phone return. Vote yet result new staff team."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 640,
+    "AnnualIncome": 187969,
+    "DebtToIncomeRatio": 0.62
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 8,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

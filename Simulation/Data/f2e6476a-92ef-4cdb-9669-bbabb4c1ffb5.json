@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f2e6476a-92ef-4cdb-9669-bbabb4c1ffb5",
+  "PolicyID": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+  "EffectiveDates": {
+    "StartDate": "2025-11-01",
+    "EndDate": "2026-11-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ddabce0f-b86c-49b4-a9b6-4d81be5b5325",
+    "Name": "Helen Williams DDS",
+    "PolicyNumber": "e3adf507-5463-4d07-adf4-87f4fe0e19c3",
+    "ContactInformation": {
+      "Phone": "(520)524-5958",
+      "Email": "elizabeth72@example.net",
+      "Address": "2431 Karen Tunnel Suite 892\nLisaland, OK 93348"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-31",
+    "Location": "45010 Jose Pines Suite 838\nMarymouth, ND 69964",
+    "Description": "Charge look visit certainly way amount know more. Light maintain young southern land. Family other indicate article ago center kid.\nReal situation official color. Street show happy."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3863
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16068
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 187776
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 31859
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 37579
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 277145,
+    "TotalApproved": 188909
+  },
+  "AdjusterDetails": {
+    "Name": "Tony Jones",
+    "ContactInformation": {
+      "Phone": "929-716-2903x0903",
+      "Email": "nolanbradley@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/78648604-b507-406e-b120-def16eed3dc7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson, Lara and Anderson",
+    "Model": "shake",
+    "Year": 2022,
+    "VIN": "bab968ab-dcae-4bb2-901f-e15e2e09517c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kenneth Briggs",
+      "ContactInformation": {
+        "Phone": "001-384-837-4077",
+        "Email": "fbaker@example.org"
+      },
+      "Statement": "Direction beyond no forget safe election. Away popular although because forget. Serve president front party none."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8e823c3b-0103-49c1-95d9-344da8aceceb",
+    "OfficerName": "Jasmine Ward",
+    "ReportDetails": "Less building design child plan stand despite. Couple buy test month common news watch. Ahead feel star letter blue certainly food.\nReality coach accept artist. Economic growth exist practice."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 576,
+    "AnnualIncome": 73197,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

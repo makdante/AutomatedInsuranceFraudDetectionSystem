@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a61700d5-f254-43f6-b1d9-146a30bf5de7",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2025-03-02",
+    "EndDate": "2026-03-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-09",
+    "Location": "0232 Lee Summit\nNorth Bethanyside, AZ 62995",
+    "Description": "Any but beat Democrat surface into property. Level return together light shoulder.\nFinally cultural yourself owner too quite nor. Entire first once man public though good."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7922
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1890
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 67685
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3932
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 93559
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 174988,
+    "TotalApproved": 103660
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Hawkins",
+    "ContactInformation": {
+      "Phone": "393-570-4363x810",
+      "Email": "dustinboyd@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/c5b0a2cd-4398-47ea-8959-60a2adaba551"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chase-Johnson",
+    "Model": "natural",
+    "Year": 2021,
+    "VIN": "ba341518-cd9f-4226-9107-3ddf25507d97"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kelly Vaughn",
+      "ContactInformation": {
+        "Phone": "596.964.8329x4659",
+        "Email": "robertkelly@example.net"
+      },
+      "Statement": "Pull administration behind business life plan simply lose. State them voice score. Yourself smile couple air treat.\nPressure way sing sure skin."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "701132cc-bb8d-45b5-9049-fc2e26fa6c21",
+    "OfficerName": "Aaron Jennings",
+    "ReportDetails": "According almost operation research song shake store which. Strong subject himself take force movie total. Again score over piece. Least control that this figure."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 606,
+    "AnnualIncome": 55712,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 4,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

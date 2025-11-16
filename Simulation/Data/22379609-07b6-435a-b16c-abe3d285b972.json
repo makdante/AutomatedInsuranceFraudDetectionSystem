@@ -1,0 +1,112 @@
+{
+  "ClaimID": "22379609-07b6-435a-b16c-abe3d285b972",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2025-03-20",
+    "EndDate": "2026-03-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-08",
+    "Location": "PSC 6694, Box 6736\nAPO AE 82940",
+    "Description": "Imagine describe low seem body blue begin what.\nCountry however save just land. Record throw remember would story once. A visit then talk attention late.\nScience help big."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7967
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39395
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1844
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 51898
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 23627
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 124731,
+    "TotalApproved": 58674
+  },
+  "AdjusterDetails": {
+    "Name": "Oscar Manning",
+    "ContactInformation": {
+      "Phone": "(254)770-0089",
+      "Email": "rpowell@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ce8a6fc2-eaf5-481f-97c4-aeb56ae35655"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Pierce-Clark",
+    "Model": "myself",
+    "Year": 2006,
+    "VIN": "dfe077f8-cf37-4e3e-8faf-edbcfa9deda9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Julie Cervantes",
+      "ContactInformation": {
+        "Phone": "225.717.0132x06913",
+        "Email": "sallyphillips@example.org"
+      },
+      "Statement": "Three daughter dinner. Region Democrat enjoy animal. Defense business learn."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "62052bb3-0128-4005-805e-3229fcbfb8b8",
+    "OfficerName": "Dennis Stewart",
+    "ReportDetails": "Build professor also despite Mr. Somebody plan nice bill bed.\nFirst customer establish throw. Nature author contain.\nLearn yourself middle election. Feeling general reduce small."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 764,
+    "AnnualIncome": 192135,
+    "DebtToIncomeRatio": 0.21
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 4,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

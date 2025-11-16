@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6fe17c61-5c79-4ffb-a200-b8cebd47a775",
+  "PolicyID": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+  "EffectiveDates": {
+    "StartDate": "2025-08-13",
+    "EndDate": "2026-08-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1ca65977-e36d-46f7-95b8-d03e34c9f672",
+    "Name": "Melissa Charles DVM",
+    "PolicyNumber": "8d2522a9-b752-46eb-a45e-8ad1cefc355b",
+    "ContactInformation": {
+      "Phone": "871-833-2368x7208",
+      "Email": "scottwagner@example.org",
+      "Address": "006 Torres Neck Apt. 510\nRichardsonshire, NM 15931"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-23",
+    "Location": "392 Lester Crescent\nCandiceton, MP 60605",
+    "Description": "Attention major still by summer. Cell might admit. Arm administration body fire maintain.\nProfessional age course during this military. Admit local of resource."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4275147
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4712124
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4734430
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4094603
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4658723
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22475027,
+    "TotalApproved": 9371683
+  },
+  "AdjusterDetails": {
+    "Name": "Chase Johnson",
+    "ContactInformation": {
+      "Phone": "+1-689-758-4757",
+      "Email": "reedjessica@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/5682b57c-5018-4961-9afb-6c779728fa5b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-23T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-28T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-02T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Vargas-Dennis",
+    "Model": "you",
+    "Year": 2007,
+    "VIN": "b746651a-499b-4acd-9aca-207a0cf09e7f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mario Walker",
+      "ContactInformation": {
+        "Phone": "362.850.6256",
+        "Email": "david65@example.org"
+      },
+      "Statement": "Growth leader play deal tonight stand. Wear around doctor central pick technology indicate. Tonight country lead room.\nDown never impact place far hand. First yeah history allow pick child help."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "25147c30-c5d3-4be0-977f-d5ce222666b3",
+    "OfficerName": "Amy Jackson",
+    "ReportDetails": "Ask now film soon sure appear actually.\nPosition professor near through high art. Human evening challenge pay husband vote begin. Exactly hand partner talk."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 347,
+    "AnnualIncome": 112678,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

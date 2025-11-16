@@ -1,0 +1,112 @@
+{
+  "ClaimID": "02fe9460-d601-464d-9659-b9f66b3cd471",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2024-12-22",
+    "EndDate": "2025-12-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-28",
+    "Location": "164 Matthew Rest Apt. 956\nRodriguezhaven, KY 12519",
+    "Description": "Quality yourself each new seat. Take use hold others computer. High outside identify whose those old.\nRemain someone environmental to. Seek serious name organization forget term. On analysis win."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 49209
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 45566
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6348
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8946
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 96225
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 206294,
+    "TotalApproved": 3779
+  },
+  "AdjusterDetails": {
+    "Name": "Erik Baldwin",
+    "ContactInformation": {
+      "Phone": "(615)996-3700",
+      "Email": "justinharding@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/3ad95fb2-3264-4e4a-b857-95452f4c70e4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cox-Bell",
+    "Model": "church",
+    "Year": 2003,
+    "VIN": "4b9340e1-8c59-45fa-8361-e6ed4561d3ff"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Smith",
+      "ContactInformation": {
+        "Phone": "(672)549-2808x6500",
+        "Email": "rogersamber@example.com"
+      },
+      "Statement": "Describe child time program itself detail new guy. Action low short car.\nMother imagine soon whose now agent sound."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "da2f7018-4cea-4594-9772-307a2b91e4df",
+    "OfficerName": "Gary Aguirre",
+    "ReportDetails": "Interesting process cell until minute ago. Five role feeling officer herself."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 660,
+    "AnnualIncome": 50082,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

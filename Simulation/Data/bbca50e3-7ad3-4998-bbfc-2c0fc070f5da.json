@@ -1,0 +1,112 @@
+{
+  "ClaimID": "bbca50e3-7ad3-4998-bbfc-2c0fc070f5da",
+  "PolicyID": "6eac9145-d074-4399-a636-bf58c8f5c723",
+  "EffectiveDates": {
+    "StartDate": "2025-07-04",
+    "EndDate": "2026-07-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e64035f8-16ab-4410-9e0d-f3358f178f1b",
+    "Name": "Melissa Lucas",
+    "PolicyNumber": "6eac9145-d074-4399-a636-bf58c8f5c723",
+    "ContactInformation": {
+      "Phone": "8748182932",
+      "Email": "audrey00@example.org",
+      "Address": "647 Johnson Pass\nKevinton, AS 14069"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-09",
+    "Location": "52665 John Lock Suite 729\nAllisonberg, TN 52769",
+    "Description": "Evidence tough friend TV season weight. Open thousand town take child. Require above continue game business strategy increase."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 64753
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4550
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19934
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18085
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1332
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 108654,
+    "TotalApproved": 73062
+  },
+  "AdjusterDetails": {
+    "Name": "John Daniel",
+    "ContactInformation": {
+      "Phone": "(589)624-3958x52096",
+      "Email": "charlotterogers@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c967e890-dd46-4955-8cd5-33eb49813990"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-09T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-14T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-19T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez Inc",
+    "Model": "act",
+    "Year": 2013,
+    "VIN": "7c260151-07ac-4e02-a526-cbcfefed5dd6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Walker",
+      "ContactInformation": {
+        "Phone": "774-649-0612x093",
+        "Email": "qrandolph@example.org"
+      },
+      "Statement": "Head water matter center. Understand my once within memory least speech. High only box.\nGlass yes past yet among available. President window performance beat."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "baca1fa4-5615-405c-b976-76a73f7918c2",
+    "OfficerName": "Monique Flores",
+    "ReportDetails": "Interesting blue instead management tough big form like. Age some bank popular local.\nWhile any area side surface meet soon. Baby security choose huge."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 589,
+    "AnnualIncome": 59148,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

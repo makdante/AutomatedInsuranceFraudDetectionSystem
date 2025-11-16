@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4a06a4d3-a5be-4fdd-8a93-66bee0ce18b5",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2025-04-06",
+    "EndDate": "2026-04-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-21",
+    "Location": "2603 Kayla Point Apt. 230\nRobertville, PA 50810",
+    "Description": "Now series local dinner bar."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 22296
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3768
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 41451
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 184275
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 11538
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 263328,
+    "TotalApproved": 71298
+  },
+  "AdjusterDetails": {
+    "Name": "John Rodriguez",
+    "ContactInformation": {
+      "Phone": "+1-657-406-0847x041",
+      "Email": "elizabeth01@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/7e926690-cc3a-422e-93ab-82626ee1f28d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moreno, Branch and Simmons",
+    "Model": "case",
+    "Year": 2016,
+    "VIN": "3aab9319-e804-479c-9cce-51019be9a629"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alicia Chavez",
+      "ContactInformation": {
+        "Phone": "001-876-713-5830x39225",
+        "Email": "lgonzalez@example.com"
+      },
+      "Statement": "Story his remember he step spend. Occur seat large night course worry everything. High toward charge note thank boy.\nA strategy expert year play over."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "90432f60-3614-4568-ac94-baf613658389",
+    "OfficerName": "Connie Adams",
+    "ReportDetails": "Data little leg stand. Between world yet back example. Now scientist major dinner reality bed degree analysis.\nChance level long middle near office. Focus window amount day out."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 598,
+    "AnnualIncome": 54358,
+    "DebtToIncomeRatio": 0.16
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

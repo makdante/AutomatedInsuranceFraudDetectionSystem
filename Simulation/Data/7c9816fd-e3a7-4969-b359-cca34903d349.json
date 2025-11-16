@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7c9816fd-e3a7-4969-b359-cca34903d349",
+  "PolicyID": "500b8392-3ef4-475f-a0d6-15c142970199",
+  "EffectiveDates": {
+    "StartDate": "2025-09-17",
+    "EndDate": "2026-09-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0e2c98cc-0459-4a1f-b201-c0c324374a25",
+    "Name": "Brittany Watson",
+    "PolicyNumber": "500b8392-3ef4-475f-a0d6-15c142970199",
+    "ContactInformation": {
+      "Phone": "001-690-266-5439",
+      "Email": "jasonjames@example.org",
+      "Address": "66736 Antonio Valley\nWest Kristy, FL 30721"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-23",
+    "Location": "1017 Smith Freeway Suite 980\nNorth Jeremiahburgh, MD 99325",
+    "Description": "My woman not actually. Close on trouble next set. Travel these phone partner.\nTable treat natural goal follow. Use recognize also factor executive more. Talk when president just walk."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 42979
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4045
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9005
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4840
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 121777
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 182646,
+    "TotalApproved": 179026
+  },
+  "AdjusterDetails": {
+    "Name": "Johnny Bradford",
+    "ContactInformation": {
+      "Phone": "926.642.1874x4285",
+      "Email": "mark52@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/0b7bfdca-0e8e-418c-bddd-8aa7250e028a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Weber, Lopez and Nguyen",
+    "Model": "federal",
+    "Year": 2007,
+    "VIN": "61c19586-59fd-4abe-9aec-126244ac5ea4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Juan Warren",
+      "ContactInformation": {
+        "Phone": "471-643-7692x0153",
+        "Email": "marywells@example.org"
+      },
+      "Statement": "Final indicate third key school oil. Admit many enough quality hit.\nEverything behavior situation. Human pattern hold."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "502bdc40-40f9-4f42-8b7a-0830228b2ba2",
+    "OfficerName": "Michael Tucker",
+    "ReportDetails": "Out mind property commercial treatment style. Pretty yet board expert personal quality. Pretty world two big. Watch a bring everything course thing."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 533,
+    "AnnualIncome": 90182,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 9,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

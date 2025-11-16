@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f426553c-c6b9-4440-8ab4-b7a8fb35f4e1",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-02-22",
+    "EndDate": "2026-02-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-11",
+    "Location": "25069 Brian Ridges Suite 153\nNorth Mackenzie, NC 70838",
+    "Description": "Thus college there campaign wall simply. Several step everyone under system community.\nPass lay five buy apply allow. Year onto middle nation he affect. Loss support heavy cup number."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4867516
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4871385
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4440216
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4928566
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4752385
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 23860068,
+    "TotalApproved": 21615197
+  },
+  "AdjusterDetails": {
+    "Name": "Martin Ware",
+    "ContactInformation": {
+      "Phone": "786-908-3404x439",
+      "Email": "deanedwin@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/b5d16bcf-d83c-42aa-b171-a01e22205479"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez-Hall",
+    "Model": "real",
+    "Year": 2006,
+    "VIN": "2e2bddf0-dafd-44da-891b-d5919f8da933"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sarah Jackson",
+      "ContactInformation": {
+        "Phone": "882-555-6888",
+        "Email": "edwardsmith@example.org"
+      },
+      "Statement": "Throughout place central fear cultural participant development. Authority side anything each now front bill. Kid beat stop campaign decide degree.\nUnit wonder save range."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2db4947b-9deb-4bbc-8586-073ccea31127",
+    "OfficerName": "Lori Johnson",
+    "ReportDetails": "Much realize role. Role car artist commercial budget upon blue. Place upon strong also important executive."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 379,
+    "AnnualIncome": 62025,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": true
+}

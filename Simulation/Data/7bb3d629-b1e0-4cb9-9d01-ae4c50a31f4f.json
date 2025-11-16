@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7bb3d629-b1e0-4cb9-9d01-ae4c50a31f4f",
+  "PolicyID": "fa233a67-087f-4a81-aa85-03cb75220f66",
+  "EffectiveDates": {
+    "StartDate": "2025-05-04",
+    "EndDate": "2026-05-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0cc54510-0118-43f1-bb14-decc3fb19e8e",
+    "Name": "Daniel Novak",
+    "PolicyNumber": "fa233a67-087f-4a81-aa85-03cb75220f66",
+    "ContactInformation": {
+      "Phone": "531-516-8947",
+      "Email": "rogerssteven@example.com",
+      "Address": "51262 Davis Knoll\nLake Elizabeth, AZ 16893"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-03",
+    "Location": "9392 Kara Neck\nDeborahville, CO 17165",
+    "Description": "Staff life it once maybe last imagine. Change its lose. War cover star realize.\nOutside though education save seven we. Contain industry have social method sell party. Imagine myself decade positive."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 139316
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 66560
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 187060
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 103380
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11822
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 508138,
+    "TotalApproved": 186982
+  },
+  "AdjusterDetails": {
+    "Name": "Stephanie Mack",
+    "ContactInformation": {
+      "Phone": "+1-717-387-6226",
+      "Email": "justincarroll@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b0e00ddd-244d-4095-9b1f-34c6cc176a52"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Blackwell Ltd",
+    "Model": "involve",
+    "Year": 2017,
+    "VIN": "de1f8776-8497-4aee-bbb1-a345c55d91f6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Roger Lloyd",
+      "ContactInformation": {
+        "Phone": "541-373-6213x807",
+        "Email": "aallen@example.org"
+      },
+      "Statement": "Word brother manage politics rest head environmental pull. Car worker like difference age assume relationship. Push like onto choice."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "16b8d9b7-e156-4226-b2b1-63d1799a2cfc",
+    "OfficerName": "Leah Chavez",
+    "ReportDetails": "Again wish customer dog husband. Federal message might impact.\nIndustry capital represent build nature be. Hand recent later name. Be building she with.\nWithout moment thousand."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 630,
+    "AnnualIncome": 116012,
+    "DebtToIncomeRatio": 0.21
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 2,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

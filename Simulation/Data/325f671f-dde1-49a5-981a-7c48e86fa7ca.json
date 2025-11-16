@@ -1,0 +1,112 @@
+{
+  "ClaimID": "325f671f-dde1-49a5-981a-7c48e86fa7ca",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2025-02-13",
+    "EndDate": "2026-02-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-18",
+    "Location": "3067 Sean Fall Apt. 861\nNorth Williebury, PA 94480",
+    "Description": "Nation respond Congress floor. Eat suddenly cost term Mr green.\nFilm rich prove less. Kind as upon whatever include hold event. Agreement chair itself direction."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16345
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 171780
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4994
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 89400
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 127026
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 409545,
+    "TotalApproved": 41267
+  },
+  "AdjusterDetails": {
+    "Name": "Katherine Dominguez",
+    "ContactInformation": {
+      "Phone": "618.643.1900x1618",
+      "Email": "angelicamurray@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/f8dbbf32-d28b-4ff8-90d7-699290c4df2b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gregory, Williams and Woods",
+    "Model": "situation",
+    "Year": 2006,
+    "VIN": "404f753f-5877-48e5-bf7b-98a8c9f80cd7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rachel Parker",
+      "ContactInformation": {
+        "Phone": "468.360.5000x41892",
+        "Email": "stevejohnson@example.net"
+      },
+      "Statement": "College six head admit about amount off. Down something standard player decide. Maintain general future seek evening. History myself name staff size interview."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "23189756-ff62-4eaa-834c-72b2e0c2d423",
+    "OfficerName": "Caitlin Welch DDS",
+    "ReportDetails": "Late piece involve serious then for nation. Although be break. Always lawyer cold low."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 302,
+    "AnnualIncome": 105162,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

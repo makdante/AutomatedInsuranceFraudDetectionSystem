@@ -1,0 +1,112 @@
+{
+  "ClaimID": "115aab13-214a-49a8-9e4b-0277100ff59d",
+  "PolicyID": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+  "EffectiveDates": {
+    "StartDate": "2025-02-25",
+    "EndDate": "2026-02-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0aea6355-ec93-4670-9d1f-368e59077bd4",
+    "Name": "Jennifer Smith",
+    "PolicyNumber": "1ca225ae-54e7-4e62-ba1c-a9544ac3c8b6",
+    "ContactInformation": {
+      "Phone": "(638)899-2687x626",
+      "Email": "barrvanessa@example.com",
+      "Address": "PSC 0173, Box 9250\nAPO AA 43354"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-01",
+    "Location": "711 Brett Hollow\nEast Brianhaven, MN 12656",
+    "Description": "Speech step pressure green catch. Forward station green. Explain with age center pressure.\nYou reality material. Or get your fire everybody."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 154350
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 41597
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4109
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5609
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1993
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 207658,
+    "TotalApproved": 53744
+  },
+  "AdjusterDetails": {
+    "Name": "Ryan Meyers",
+    "ContactInformation": {
+      "Phone": "(715)805-7551x5883",
+      "Email": "padillamichelle@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/5b063df9-f7f6-4d75-a72a-cb6ff9d615dd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hamilton-Olsen",
+    "Model": "film",
+    "Year": 2001,
+    "VIN": "33eacb63-bf80-4f37-a548-b00ea97adac2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Anderson",
+      "ContactInformation": {
+        "Phone": "001-857-531-7933",
+        "Email": "craig46@example.org"
+      },
+      "Statement": "Some blue list trip concern. Of member fund to.\nEach million town total. Source discussion move very area. Evidence size remain back line."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8beadb6c-072d-4747-bf03-86dc7702e546",
+    "OfficerName": "Melissa Johnson",
+    "ReportDetails": "Include building TV bad front American fly some. Ok relationship know old traditional energy. Report college interest property."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 568,
+    "AnnualIncome": 81817,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

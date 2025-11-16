@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c1b7626f-84db-45be-bc35-9c994b7015e8",
+  "PolicyID": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+  "EffectiveDates": {
+    "StartDate": "2025-04-10",
+    "EndDate": "2026-04-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "e56ba82b-16a1-4c4b-8176-cdb7f4257046",
+    "Name": "Allen Calderon",
+    "PolicyNumber": "b559e2dd-4e6d-413b-b16a-fa61de045ccd",
+    "ContactInformation": {
+      "Phone": "358.830.4879x08843",
+      "Email": "timothyjones@example.com",
+      "Address": "255 Larry Lights Apt. 555\nNorth Nathanbury, MO 09424"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-18",
+    "Location": "20163 Samuel Point\nAprilmouth, NV 92665",
+    "Description": "Serious direction somebody sport. Defense gun ten your.\nRight feel president explain relate. Attention wear again dark total present. Old sure recognize suffer woman current work."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1437
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18964
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3951
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 198512
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 22480
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 245344,
+    "TotalApproved": 125559
+  },
+  "AdjusterDetails": {
+    "Name": "Heather Clark",
+    "ContactInformation": {
+      "Phone": "915-640-3797x2315",
+      "Email": "ylopez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/3df6dfc0-d5b1-4d00-b105-9ee1b567fb25"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Delgado Inc",
+    "Model": "page",
+    "Year": 2002,
+    "VIN": "1ffd73ca-3a10-445d-8990-c675d44ded51"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brenda Morales",
+      "ContactInformation": {
+        "Phone": "(216)383-3945x9263",
+        "Email": "fjohnson@example.com"
+      },
+      "Statement": "Term gun open home our speak. Few place red figure before. Operation whatever throughout shake hair final.\nEnjoy issue discussion relationship of no boy. Away director quite. Method glass bank cut."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ca85fc82-320d-4ea0-bb6c-081cc29de200",
+    "OfficerName": "Sarah Rodriguez",
+    "ReportDetails": "Church born free table. Collection available trip.\nReally since research special six sea nearly hope. Change a soldier practice. Agreement serve building present week goal."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 729,
+    "AnnualIncome": 114753,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

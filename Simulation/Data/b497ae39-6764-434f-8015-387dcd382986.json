@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b497ae39-6764-434f-8015-387dcd382986",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-03-12",
+    "EndDate": "2026-03-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-09",
+    "Location": "80463 Williams Courts Apt. 530\nBruceborough, ID 08884",
+    "Description": "These worker somebody itself energy serve. Know decide his reality.\nTurn trip probably standard people. Among particular more. Main condition wide age chance audience let."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 46641
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9899
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 28640
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16514
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 13709
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 115403,
+    "TotalApproved": 110512
+  },
+  "AdjusterDetails": {
+    "Name": "Joseph Hernandez",
+    "ContactInformation": {
+      "Phone": "684-297-4508x03886",
+      "Email": "yorkrobert@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/7c3e1a6f-71a9-41c2-b954-02cc8cb05df0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gutierrez-Griffin",
+    "Model": "now",
+    "Year": 2002,
+    "VIN": "b9f315c4-df28-4db6-ab31-3ee5acd4a747"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Wright",
+      "ContactInformation": {
+        "Phone": "(212)655-0645",
+        "Email": "ebrewer@example.com"
+      },
+      "Statement": "Technology gas economic million generation. On science decision keep.\nNow only civil office since feel. Man about present message girl. Administration type relate fall."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b68970a5-b3ec-4892-a08d-6e804e3e7f4b",
+    "OfficerName": "Daisy Robinson",
+    "ReportDetails": "Nature finish entire catch someone different. Charge purpose question agreement. I help either right."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 713,
+    "AnnualIncome": 61906,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 4,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

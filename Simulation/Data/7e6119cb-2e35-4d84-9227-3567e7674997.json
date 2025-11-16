@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7e6119cb-2e35-4d84-9227-3567e7674997",
+  "PolicyID": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+  "EffectiveDates": {
+    "StartDate": "2025-07-12",
+    "EndDate": "2026-07-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de2fd98f-92b5-4f00-b791-ce9f514afb15",
+    "Name": "Brandon Scott",
+    "PolicyNumber": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+    "ContactInformation": {
+      "Phone": "001-319-262-8310x0650",
+      "Email": "nelsonemily@example.net",
+      "Address": "0592 Patrick Wall\nLeslieport, IA 75247"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-19",
+    "Location": "59328 Andrea Valleys\nAliciatown, UT 14223",
+    "Description": "Consumer so fill look against. While write for when sister. Yard type attention do."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 31510
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7337
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 71989
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6004
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5717
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 122557,
+    "TotalApproved": 49099
+  },
+  "AdjusterDetails": {
+    "Name": "Steven Benton",
+    "ContactInformation": {
+      "Phone": "216-611-4408",
+      "Email": "bpark@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b74c2104-87c5-456b-a981-80183f83e650"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown, Alvarez and White",
+    "Model": "foreign",
+    "Year": 2006,
+    "VIN": "9b8736e2-52a2-4aab-b580-a90745c4e9b6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alexander Rodriguez",
+      "ContactInformation": {
+        "Phone": "799.579.9917",
+        "Email": "johnneal@example.org"
+      },
+      "Statement": "Concern manager blue during hour method. Need writer strategy cultural draw large develop near. Concern down like thought behind concern."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "496e2535-86c5-4d1d-a870-f62636391372",
+    "OfficerName": "Bryan Grant",
+    "ReportDetails": "More meet ten tend experience. Trip night structure according serve though environmental. Item serve always than decide.\nSon page should growth. Not offer we consider."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 686,
+    "AnnualIncome": 185736,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 9,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

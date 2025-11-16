@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d8e35c37-e7a5-4a5b-9b68-5eb97482bd55",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-07-19",
+    "EndDate": "2026-07-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-23",
+    "Location": "02276 Butler Fords Apt. 489\nPort Stephanie, DC 74938",
+    "Description": "Matter should close her during challenge arrive. Half Congress ability history whom.\nNow part drop support. Woman party exactly whole wife from moment pretty.\nHis wait day not too."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17002
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22278
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5874
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 63123
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 25296
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 133573,
+    "TotalApproved": 19242
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Rhodes",
+    "ContactInformation": {
+      "Phone": "(825)308-7684",
+      "Email": "danielharrington@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/b2892515-3c75-4cf9-b5d1-e7b0d4d6885f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wells and Sons",
+    "Model": "realize",
+    "Year": 2011,
+    "VIN": "76831d8a-c8c1-4cc8-b221-f36ef92bb92c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stephanie Thomas",
+      "ContactInformation": {
+        "Phone": "+1-781-622-6369x9999",
+        "Email": "riveraterry@example.com"
+      },
+      "Statement": "Project fight grow value. Word body old support industry economy. Get reality scene kitchen.\nBy check figure Democrat job religious. Skin stuff war stage class word."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0f4757e2-cbbf-4cea-ae60-63be7e2395c0",
+    "OfficerName": "Dominique Brooks",
+    "ReportDetails": "Some front effort world. Site door imagine study doctor back indeed. Into you religious."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 560,
+    "AnnualIncome": 52946,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 1,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

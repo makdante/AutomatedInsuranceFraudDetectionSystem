@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fd257bd0-5f18-4863-9d63-5ab77dbde6bb",
+  "PolicyID": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+  "EffectiveDates": {
+    "StartDate": "2024-12-06",
+    "EndDate": "2025-12-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1fc42cea-c451-4c39-87bc-0c9533482ca9",
+    "Name": "Brandi Vega",
+    "PolicyNumber": "9490bef2-e3eb-46a1-a156-06fe5aa4698d",
+    "ContactInformation": {
+      "Phone": "248.364.2154x243",
+      "Email": "philip54@example.com",
+      "Address": "327 Jeffrey Forest\nWest Tanyashire, CT 29643"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-04",
+    "Location": "4307 Bishop Bypass\nJohntown, DE 15773",
+    "Description": "Act money toward suddenly mind model. Happen impact both. Main dinner want read gun economy call."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 176409
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10392
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39733
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19847
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4024
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 250405,
+    "TotalApproved": 137992
+  },
+  "AdjusterDetails": {
+    "Name": "John Mendez",
+    "ContactInformation": {
+      "Phone": "446.472.0725",
+      "Email": "brianbaker@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/0ed0d079-13c0-4992-8915-eebe158549de"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Chen",
+    "Model": "nation",
+    "Year": 2009,
+    "VIN": "2e435762-c0a6-40bc-9909-6347f6ca0cab"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jade Tapia",
+      "ContactInformation": {
+        "Phone": "001-985-651-2768x6546",
+        "Email": "heather87@example.net"
+      },
+      "Statement": "Civil north senior his. Available leave on seek cover buy. Vote good himself activity sense senior office."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b2d21c3f-6e43-460d-b683-4b2eedf20772",
+    "OfficerName": "Joshua Smith",
+    "ReportDetails": "Far back clear news get remember one him. Interesting clear live evening compare green. About when though ready data game.\nWonder step between. Air discussion father recently term."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 413,
+    "AnnualIncome": 93947,
+    "DebtToIncomeRatio": 0.19
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 3,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

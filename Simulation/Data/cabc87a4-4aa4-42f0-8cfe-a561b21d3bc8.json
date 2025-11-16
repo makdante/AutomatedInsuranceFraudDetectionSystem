@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cabc87a4-4aa4-42f0-8cfe-a561b21d3bc8",
+  "PolicyID": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+  "EffectiveDates": {
+    "StartDate": "2025-03-22",
+    "EndDate": "2026-03-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "02557b4b-2923-4bf2-b127-ed530caf7842",
+    "Name": "Kimberly Cummings",
+    "PolicyNumber": "78ef0a15-f7d1-444e-999a-a27f46fb7faf",
+    "ContactInformation": {
+      "Phone": "001-560-317-1377x3751",
+      "Email": "dillonjones@example.org",
+      "Address": "27782 Richardson Station\nNorth Erin, NE 67161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-08",
+    "Location": "183 Michael Dam\nWest Victoria, FL 51934",
+    "Description": "Admit image outside little consider leg. Today from young sound policy. Take how same exactly trial husband politics staff."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4218322
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4793410
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4670781
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4202659
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4269798
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22154970,
+    "TotalApproved": 4322926
+  },
+  "AdjusterDetails": {
+    "Name": "Travis Bryant",
+    "ContactInformation": {
+      "Phone": "282.638.4427",
+      "Email": "yrhodes@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/09374a41-2098-4cd8-9f9c-d028e81be2d4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller-Barnes",
+    "Model": "once",
+    "Year": 2005,
+    "VIN": "6c992917-f3bc-4d8b-a96d-dc226df15e09"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Eric Salazar",
+      "ContactInformation": {
+        "Phone": "+1-452-301-0422x943",
+        "Email": "sfleming@example.net"
+      },
+      "Statement": "How me bar through field hand court. Top television accept do high. The arrive deal face as rise industry."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ddf9335c-e509-406f-ad85-3c648f9f9213",
+    "OfficerName": "Elaine Kim",
+    "ReportDetails": "Short painting behind save head section Mr. Whom story weight seem interview now. Start call director can possible live start.\nSide event himself any glass sense."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 457,
+    "AnnualIncome": 83044,
+    "DebtToIncomeRatio": 0.96
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

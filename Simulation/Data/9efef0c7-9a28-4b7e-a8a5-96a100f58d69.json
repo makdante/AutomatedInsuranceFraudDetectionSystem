@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9efef0c7-9a28-4b7e-a8a5-96a100f58d69",
+  "PolicyID": "9a540188-2fa0-4610-a341-5130618504c6",
+  "EffectiveDates": {
+    "StartDate": "2025-08-29",
+    "EndDate": "2026-08-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5e1aef1e-7897-4f43-8b25-4f651ff5946d",
+    "Name": "Brian Vance",
+    "PolicyNumber": "9a540188-2fa0-4610-a341-5130618504c6",
+    "ContactInformation": {
+      "Phone": "630-390-2993",
+      "Email": "terriosborn@example.com",
+      "Address": "01673 Osborne Ferry Apt. 849\nRobertbury, AR 69950"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-28",
+    "Location": "814 Stephen Bridge Apt. 416\nNew Christopherbury, GU 17182",
+    "Description": "House assume sort visit do sense. Ball on receive alone family dinner. Early run but worker expert executive."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8302
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19539
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 160425
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 63733
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8653
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 260652,
+    "TotalApproved": 14871
+  },
+  "AdjusterDetails": {
+    "Name": "Miss Katherine Morris",
+    "ContactInformation": {
+      "Phone": "982.574.1016x8623",
+      "Email": "christina00@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/99563ab0-9f0c-49f5-90ad-ec98a2c7c942"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cantu-Dunlap",
+    "Model": "others",
+    "Year": 2000,
+    "VIN": "9e4c0dad-8a92-4e00-bb95-4583c7c74914"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Allen Henderson",
+      "ContactInformation": {
+        "Phone": "(849)507-8176x3348",
+        "Email": "donnasharp@example.org"
+      },
+      "Statement": "Front wrong we represent option material. Forward where every her owner. Phone particular better recognize open against third."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5243b338-d7af-4a94-acdd-5ab87353ba5f",
+    "OfficerName": "Catherine Davenport",
+    "ReportDetails": "Perhaps evidence receive draw agreement. Remember war check.\nYet maintain my beautiful country. Leader Democrat knowledge simply section hair.\nSo boy himself this speech create. Spend at director."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 566,
+    "AnnualIncome": 20872,
+    "DebtToIncomeRatio": 0.3
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

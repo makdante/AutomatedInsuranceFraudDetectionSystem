@@ -1,0 +1,112 @@
+{
+  "ClaimID": "6211b26c-dec4-4858-adf8-f723854a4a6a",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2025-04-30",
+    "EndDate": "2026-04-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-24",
+    "Location": "761 Jonathan Branch\nJillfurt, TN 64701",
+    "Description": "Almost end project. None eat simply American election without past.\nMillion manage lot statement democratic buy open. Set bring require use fall eat so think. Cover wrong paper degree physical."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5776
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11576
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37202
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 81202
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3540
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 139296,
+    "TotalApproved": 10529
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Chaney",
+    "ContactInformation": {
+      "Phone": "685-476-9177",
+      "Email": "benjamin90@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/35534d1c-817b-4df4-9b48-4a09058ad097"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Goodman, Johnson and Johnson",
+    "Model": "impact",
+    "Year": 2014,
+    "VIN": "bd620782-43a2-4032-81c4-5486f1121023"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Edwards DDS",
+      "ContactInformation": {
+        "Phone": "(460)890-5741",
+        "Email": "hbell@example.com"
+      },
+      "Statement": "Same religious fear less somebody. Do school on meet leave unit concern.\nNew before seem name take. Mr situation north that magazine song design."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d63ff047-afe4-4195-9d8d-0af94fd25bde",
+    "OfficerName": "Amy Hunter",
+    "ReportDetails": "Phone true partner trial company. In history follow another. Stay performance live shoulder able court.\nThroughout anyone soldier wife arm. Find sort question computer. Once site care."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 550,
+    "AnnualIncome": 113989,
+    "DebtToIncomeRatio": 0.21
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

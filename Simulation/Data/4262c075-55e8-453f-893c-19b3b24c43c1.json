@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4262c075-55e8-453f-893c-19b3b24c43c1",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2025-10-04",
+    "EndDate": "2026-10-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-19",
+    "Location": "337 Dougherty River\nStephensside, NH 72360",
+    "Description": "Former matter not bring keep hospital establish. Prepare answer have face door music. Clear significant strategy.\nWide also someone small everybody chair. Trouble agreement them unit campaign be."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16493
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 20776
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 49485
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 42161
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 28747
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 157662,
+    "TotalApproved": 119310
+  },
+  "AdjusterDetails": {
+    "Name": "Kristen Huber",
+    "ContactInformation": {
+      "Phone": "+1-538-890-7696",
+      "Email": "sarahduran@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/e5f41c84-f67c-4e84-b30e-3bb69e1a4a42"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Freeman PLC",
+    "Model": "seek",
+    "Year": 2019,
+    "VIN": "89ec7236-191f-4863-bada-65cbef20dd55"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mr. Craig Fowler",
+      "ContactInformation": {
+        "Phone": "+1-981-475-7658x4593",
+        "Email": "harperkathryn@example.com"
+      },
+      "Statement": "Source chair suggest prepare activity example international. Anything already agreement those. Leave moment center activity feel possible.\nTree gas music son ago standard lawyer."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "140d1dff-3f0e-4af3-8cc5-54429b65aa17",
+    "OfficerName": "Glenn Pacheco",
+    "ReportDetails": "Central born common structure end professional expert modern. Region receive police according seem."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 655,
+    "AnnualIncome": 34269,
+    "DebtToIncomeRatio": 0.57
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 9,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

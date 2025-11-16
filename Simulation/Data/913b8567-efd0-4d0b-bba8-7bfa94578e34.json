@@ -1,0 +1,112 @@
+{
+  "ClaimID": "913b8567-efd0-4d0b-bba8-7bfa94578e34",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-10-31",
+    "EndDate": "2026-10-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-18",
+    "Location": "2808 Stephanie Stream\nEast Samantha, WI 77712",
+    "Description": "Increase enough as difficult professional everyone. Skin anything practice fear end store huge.\nIdea rise always style sister natural. Media any father military keep."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 88945
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 20440
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16201
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5115
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6066
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 136767,
+    "TotalApproved": 99403
+  },
+  "AdjusterDetails": {
+    "Name": "Ann Smith",
+    "ContactInformation": {
+      "Phone": "+1-605-981-8862",
+      "Email": "cnelson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/7e2f0215-d019-4892-90d4-650a28ccd932"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thornton Group",
+    "Model": "realize",
+    "Year": 2007,
+    "VIN": "0f63bd95-61fa-4226-9556-4d06859d5cc0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Deborah Rice",
+      "ContactInformation": {
+        "Phone": "(535)952-2101",
+        "Email": "cwoods@example.com"
+      },
+      "Statement": "Republican read difficult. Condition watch material less either. Care kitchen similar often.\nThese per ever rate. Oil represent try market consider. Us local ask president everyone site."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "75135227-7ad2-4a7d-b229-6eb409e390e4",
+    "OfficerName": "Larry Moss",
+    "ReportDetails": "Present believe return star. Interest certainly trade.\nStreet study yet hospital director join project sort. Change series past decide list investment our."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 758,
+    "AnnualIncome": 92736,
+    "DebtToIncomeRatio": 0.65
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 4,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

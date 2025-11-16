@@ -1,0 +1,112 @@
+{
+  "ClaimID": "495b192b-b550-4d7b-9241-ad4a3f411c3f",
+  "PolicyID": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+  "EffectiveDates": {
+    "StartDate": "2025-02-27",
+    "EndDate": "2026-02-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "36ef7374-a94b-45c8-8312-6e8562668715",
+    "Name": "Vincent Flynn",
+    "PolicyNumber": "456f2dc1-16f8-4b99-8633-97b56f58cbdd",
+    "ContactInformation": {
+      "Phone": "950-852-7090",
+      "Email": "harrybryant@example.com",
+      "Address": "476 Reed Landing\nJeanettestad, VT 94361"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-29",
+    "Location": "11417 Cathy Courts\nStevenchester, NM 08478",
+    "Description": "Act line business dream. Knowledge cultural people real fact expert."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3972
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 40048
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 141456
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 94849
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4123
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 284448,
+    "TotalApproved": 186986
+  },
+  "AdjusterDetails": {
+    "Name": "Diane Morris",
+    "ContactInformation": {
+      "Phone": "940-295-3951x1895",
+      "Email": "parkerbenjamin@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/f89e2298-1d85-4c9b-8d60-53785ecda1d7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Scott, Jones and Washington",
+    "Model": "receive",
+    "Year": 2021,
+    "VIN": "46afd4d8-4629-406a-8858-f6ce8c9143f0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steven Trujillo",
+      "ContactInformation": {
+        "Phone": "(356)843-8747",
+        "Email": "melanie95@example.com"
+      },
+      "Statement": "Plant through discover along him director. Six administration population include democratic environment. World guy front interesting investment much."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "19c90a45-0fd5-46e2-8c51-9fb53a81b03d",
+    "OfficerName": "Daniel Walton",
+    "ReportDetails": "Case everybody bad chair Congress cold mother. Possible structure by effort help meet. Wind control method.\nHand less model pressure ago week. Key since big card. Politics project line plan imagine."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 389,
+    "AnnualIncome": 164899,
+    "DebtToIncomeRatio": 0.73
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 5,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

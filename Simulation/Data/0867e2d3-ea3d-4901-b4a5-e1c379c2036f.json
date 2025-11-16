@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0867e2d3-ea3d-4901-b4a5-e1c379c2036f",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-05-06",
+    "EndDate": "2026-05-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-27",
+    "Location": "USS Frazier\nFPO AE 41541",
+    "Description": "Them set just positive floor happen after. Standard mention husband wind manager you."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 17644
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 44236
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 57286
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 25288
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 140639
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 285093,
+    "TotalApproved": 35319
+  },
+  "AdjusterDetails": {
+    "Name": "Kristen Montgomery",
+    "ContactInformation": {
+      "Phone": "316.974.1667x880",
+      "Email": "joshuasmith@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/56812753-9e65-476a-9a4a-766ae5530eb6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gutierrez, Jackson and Adkins",
+    "Model": "action",
+    "Year": 2014,
+    "VIN": "c8c3b98e-a3d4-411a-9db0-c7eb95d3d216"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Marissa Golden",
+      "ContactInformation": {
+        "Phone": "(443)983-8889x0390",
+        "Email": "bsharp@example.net"
+      },
+      "Statement": "Sport marriage sometimes body through late. Down create service stay natural country provide part."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4c544c40-25ec-4633-bdb8-85ce21a37781",
+    "OfficerName": "Timothy Johnson",
+    "ReportDetails": "Themselves start probably buy space success hand. Article sell window stop.\nImprove collection claim suggest speech once. Follow grow always born total. Democrat already character five."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 360,
+    "AnnualIncome": 167496,
+    "DebtToIncomeRatio": 0.81
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

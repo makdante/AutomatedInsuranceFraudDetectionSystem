@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ca2dc398-b57c-4ec1-8b37-ae5998039419",
+  "PolicyID": "be1a056e-41f2-4711-a855-46173d7d2368",
+  "EffectiveDates": {
+    "StartDate": "2024-12-18",
+    "EndDate": "2025-12-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a46d411e-9ab9-4ed4-914f-2da09d0b8a29",
+    "Name": "Christopher Shaw",
+    "PolicyNumber": "be1a056e-41f2-4711-a855-46173d7d2368",
+    "ContactInformation": {
+      "Phone": "407.948.6080x1895",
+      "Email": "thomaswatson@example.com",
+      "Address": "27329 Dean Locks Suite 317\nLake Jasonhaven, WY 37967"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-19",
+    "Location": "9792 Tony Mill\nVeronicaberg, LA 97855",
+    "Description": "Positive argue most fall little response. Key story finish former half community. And everything he think glass glass out purpose. Bag gas road question type during lay."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 97095
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10904
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 85268
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6497
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13458
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 213222,
+    "TotalApproved": 93724
+  },
+  "AdjusterDetails": {
+    "Name": "Nicole Clay",
+    "ContactInformation": {
+      "Phone": "562.620.7423x1043",
+      "Email": "cynthia63@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ca6bb670-56d6-4406-8897-d04d0e9018d0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jordan-Ray",
+    "Model": "reality",
+    "Year": 2002,
+    "VIN": "780c8878-e186-458d-8d2e-04e3926d801b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tina Smith",
+      "ContactInformation": {
+        "Phone": "+1-250-990-7390x4036",
+        "Email": "vparrish@example.org"
+      },
+      "Statement": "Learn response father type story rich must. Force avoid kind serious both.\nSign wish remain friend institution manager law.\nFederal certain tax represent. Own pretty similar population find."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e49e6874-60cb-45ac-9d68-657379239467",
+    "OfficerName": "Mrs. Courtney Wright MD",
+    "ReportDetails": "Section dinner none brother over west. Western school against free.\nComputer institution team herself rule for drug view. Long buy into list this."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 824,
+    "AnnualIncome": 174075,
+    "DebtToIncomeRatio": 0.89
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

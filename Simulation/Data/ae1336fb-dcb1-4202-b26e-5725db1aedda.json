@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ae1336fb-dcb1-4202-b26e-5725db1aedda",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2024-12-13",
+    "EndDate": "2025-12-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-09",
+    "Location": "67090 Navarro Squares\nRomerofort, NC 30450",
+    "Description": "Business later these remember. Indeed approach card door. Certain true relate call phone.\nEarly choice significant happy again. Occur drop four create."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 30056
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 69633
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3185
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 85623
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8804
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 197301,
+    "TotalApproved": 185116
+  },
+  "AdjusterDetails": {
+    "Name": "Charles Collins",
+    "ContactInformation": {
+      "Phone": "6056835137",
+      "Email": "jeffrey75@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/318b5782-5f98-494c-8615-31c590045ffe"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis-Morris",
+    "Model": "military",
+    "Year": 2013,
+    "VIN": "54768c69-9708-4ef7-afa2-0b9ca595dda8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Becky Curtis",
+      "ContactInformation": {
+        "Phone": "+1-372-209-3119x904",
+        "Email": "carolyoung@example.net"
+      },
+      "Statement": "Finish adult lot tax. Others put maybe property.\nNo magazine standard such manage personal oil stop. Despite collection anyone evidence."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6abab1a6-5924-4842-bdde-90bec4d7a9cd",
+    "OfficerName": "Michelle Scott",
+    "ReportDetails": "Nor enjoy risk about language office. Daughter campaign land.\nLetter leave it probably. Base left stock answer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 784,
+    "AnnualIncome": 177218,
+    "DebtToIncomeRatio": 0.36
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 2,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

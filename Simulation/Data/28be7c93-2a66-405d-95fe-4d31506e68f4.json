@@ -1,0 +1,112 @@
+{
+  "ClaimID": "28be7c93-2a66-405d-95fe-4d31506e68f4",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-03-28",
+    "EndDate": "2026-03-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-21",
+    "Location": "32520 Gina Streets Apt. 242\nNorth Thomasview, GA 58763",
+    "Description": "Already site least spring message. Education majority find executive he.\nSometimes case lawyer everything visit. Source also deep scientist section."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 92495
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3216
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11729
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 90829
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4148
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 202417,
+    "TotalApproved": 186570
+  },
+  "AdjusterDetails": {
+    "Name": "Diana Fischer",
+    "ContactInformation": {
+      "Phone": "(731)367-9140x5178",
+      "Email": "fwells@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/145d2bee-5387-4560-a367-3ca06c2f6d98"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-31T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Clark",
+    "Model": "name",
+    "Year": 2011,
+    "VIN": "73216c52-9409-4f06-bcd7-dbe68769a792"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Thomas Ellis",
+      "ContactInformation": {
+        "Phone": "+1-776-384-5631x07739",
+        "Email": "rick32@example.net"
+      },
+      "Statement": "Executive usually technology again necessary land. Step million yourself see everybody trial yet. Second prepare nation they however begin later."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1cd73675-cf5c-47aa-9779-a56de1df27a4",
+    "OfficerName": "Melinda Baird",
+    "ReportDetails": "Prevent player investment enough pay it discuss. Rule successful surface claim only operation authority. Beyond remain finally yes beautiful. Spring or look wind hospital though physical stock."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 495,
+    "AnnualIncome": 119775,
+    "DebtToIncomeRatio": 0.42
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 10,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

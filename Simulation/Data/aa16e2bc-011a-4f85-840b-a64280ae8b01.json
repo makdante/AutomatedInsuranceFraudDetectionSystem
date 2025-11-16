@@ -1,0 +1,112 @@
+{
+  "ClaimID": "aa16e2bc-011a-4f85-840b-a64280ae8b01",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-03-07",
+    "EndDate": "2026-03-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-27",
+    "Location": "6303 Vargas Route Apt. 255\nMikehaven, FL 49582",
+    "Description": "Design sort newspaper establish bad night deep study. Language forget notice seem happy year experience. Whose nation more left."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2163
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 85227
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 73282
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 152392
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5144
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 318208,
+    "TotalApproved": 315229
+  },
+  "AdjusterDetails": {
+    "Name": "Samantha Lane",
+    "ContactInformation": {
+      "Phone": "561-642-6610x6793",
+      "Email": "nperez@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ba07a211-bcd1-49b7-addd-9f7034625ac8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-27T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Reyes Group",
+    "Model": "run",
+    "Year": 2016,
+    "VIN": "30ecf322-b92f-4153-9c07-15ca70146063"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jennifer Barnes",
+      "ContactInformation": {
+        "Phone": "(331)925-4010",
+        "Email": "ijohnson@example.org"
+      },
+      "Statement": "Prevent know their they over half. Conference summer city PM rate.\nVoice both memory control whom experience whatever. Financial it leader speech leader so clear."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cd29072c-bdf6-4a84-9ceb-91caffaac0d7",
+    "OfficerName": "Amber Wilson",
+    "ReportDetails": "Rate analysis image quality close past.\nPiece around difference challenge page able design. Article month such bill arm place poor. Professional coach vote moment."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 349,
+    "AnnualIncome": 111182,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 10,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

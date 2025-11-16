@@ -1,0 +1,112 @@
+{
+  "ClaimID": "384eb68b-5a8c-493c-a33f-6c152e259242",
+  "PolicyID": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+  "EffectiveDates": {
+    "StartDate": "2025-06-14",
+    "EndDate": "2026-06-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "662ee6d1-31fa-440b-897e-48e8df0c18c4",
+    "Name": "Mark Nguyen",
+    "PolicyNumber": "f3853f56-7a36-48eb-964c-4a21f815c59f",
+    "ContactInformation": {
+      "Phone": "+1-619-666-4468x629",
+      "Email": "dwong@example.com",
+      "Address": "3857 Johnson Turnpike\nDeckerstad, OH 86942"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-03",
+    "Location": "064 Craig Ports Apt. 986\nPort Brandi, KS 58603",
+    "Description": "Letter left scientist cause old write bit.\nGirl early coach push medical. Take north decade young agree less.\nStructure opportunity product majority wide. Could movement from appear example offer."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16434
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6864
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 91812
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16679
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8122
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 139911,
+    "TotalApproved": 63785
+  },
+  "AdjusterDetails": {
+    "Name": "Terri Andrews",
+    "ContactInformation": {
+      "Phone": "602.742.3971x35246",
+      "Email": "samanthahumphrey@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3ca8bee4-25ad-4b54-8264-203462a7e583"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Munoz, Berry and Moore",
+    "Model": "over",
+    "Year": 2003,
+    "VIN": "d705e86f-801c-451f-acfe-d2e46a9ffc79"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Thomas Howe",
+      "ContactInformation": {
+        "Phone": "(494)205-0711x694",
+        "Email": "thomas04@example.org"
+      },
+      "Statement": "Music debate recognize office indeed nor. Work spend too many best fish movie.\nPurpose question your realize. Individual travel water rock age few threat. Only expert myself fine movement."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1c3ff3e8-c6ba-4fba-94e3-0f5d323c4894",
+    "OfficerName": "Benjamin Munoz",
+    "ReportDetails": "Energy watch modern blue space. Work memory become indicate sound film life stuff. Economy to indicate easy center woman."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 594,
+    "AnnualIncome": 133528,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

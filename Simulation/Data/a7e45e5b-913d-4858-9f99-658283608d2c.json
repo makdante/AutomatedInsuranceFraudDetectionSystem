@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a7e45e5b-913d-4858-9f99-658283608d2c",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-09-22",
+    "EndDate": "2026-09-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-20",
+    "Location": "69586 Turner Overpass\nNew Anna, AZ 94357",
+    "Description": "More and boy majority administration make.\nTalk certainly fast explain statement. Stock model amount more key determine drop. However relate green tree positive deep."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 175719
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1144
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 81812
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4676
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11367
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 274718,
+    "TotalApproved": 70050
+  },
+  "AdjusterDetails": {
+    "Name": "Amanda Brown",
+    "ContactInformation": {
+      "Phone": "283.977.7001x50405",
+      "Email": "alisha92@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/1be63e99-2339-40b3-aaa0-0617e14f4ef5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hopkins-Thomas",
+    "Model": "strong",
+    "Year": 2005,
+    "VIN": "c700cea7-f696-4c6b-baad-bd677e1e3552"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Corey Holmes",
+      "ContactInformation": {
+        "Phone": "399-384-9102",
+        "Email": "kathleenharrison@example.org"
+      },
+      "Statement": "House clearly until safe. Item item camera. Drop anything man.\nHim decade every travel allow cause west step. Common teach win."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "87dfc92a-f7e7-4d96-8cd2-b99be99b3ade",
+    "OfficerName": "Brian Rodriguez",
+    "ReportDetails": "Need society suddenly. Physical director run administration who camera.\nThis sister product yourself service. Explain reduce big each play until four."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 574,
+    "AnnualIncome": 89970,
+    "DebtToIncomeRatio": 0.62
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 9,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f0cd6da7-1c20-4693-8b68-31aa86ec309f",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-09-06",
+    "EndDate": "2026-09-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-29",
+    "Location": "8866 Davis Centers Suite 405\nLake Patricia, PW 62307",
+    "Description": "Ever sound born word year term back. Local remain option enough guy play.\nAlthough might draw boy rich purpose. Record strategy large. Guess over experience anyone outside increase section ok."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 46826
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16374
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 34309
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2270
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 30849
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 130628,
+    "TotalApproved": 43006
+  },
+  "AdjusterDetails": {
+    "Name": "Alicia Sims",
+    "ContactInformation": {
+      "Phone": "390.863.9018",
+      "Email": "tony51@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/543e1587-1cf7-499a-b7c3-5ca73a1efb49"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez Group",
+    "Model": "never",
+    "Year": 2000,
+    "VIN": "f6d8167e-45b6-4edd-a61a-43a376746375"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dwayne Martinez",
+      "ContactInformation": {
+        "Phone": "684-675-3459x00877",
+        "Email": "zcollins@example.com"
+      },
+      "Statement": "Last skin deal home board manage to. Author relationship baby.\nMorning control program traditional sometimes. Training door firm capital spend spend."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6e247e54-c4b1-42cb-9e4b-4ec2927fd739",
+    "OfficerName": "Thomas Scott",
+    "ReportDetails": "Boy shake just. Available their gas remain. Experience hit night house spring.\nAgainst take later cover hour present return. Beautiful other former cultural lose. Work six full always under suffer."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 767,
+    "AnnualIncome": 64566,
+    "DebtToIncomeRatio": 0.86
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

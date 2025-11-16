@@ -1,0 +1,112 @@
+{
+  "ClaimID": "054e34e8-2b6e-4a51-9a35-371bfafc3ed7",
+  "PolicyID": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+  "EffectiveDates": {
+    "StartDate": "2024-12-29",
+    "EndDate": "2025-12-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a8fc15cb-d229-4600-9628-69b88c6e7d31",
+    "Name": "Danielle Gonzales",
+    "PolicyNumber": "50889df7-806b-416e-8ae5-7f5a2c2b31c8",
+    "ContactInformation": {
+      "Phone": "(780)841-1414",
+      "Email": "pkey@example.net",
+      "Address": "90741 Katherine Well Apt. 008\nLake Debrabury, IA 73627"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-18",
+    "Location": "632 Katie Port Suite 796\nNorth Caitlinbury, WV 91928",
+    "Description": "Training against send. Very matter reduce pattern cover. Political north better involve. Suggest return how plant decision cover test almost."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4021113
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4642264
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4405196
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4854740
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4260763
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22184076,
+    "TotalApproved": 2561701
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Campos",
+    "ContactInformation": {
+      "Phone": "820-972-1299x789",
+      "Email": "frankkevin@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/701bf47d-d3cd-42fe-9d6a-8188a2fd5721"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mcdaniel PLC",
+    "Model": "report",
+    "Year": 2021,
+    "VIN": "497b59ac-6ded-4f0f-baa5-10ea47ae3e05"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joel Lang",
+      "ContactInformation": {
+        "Phone": "(599)647-5630x7835",
+        "Email": "jeremy21@example.com"
+      },
+      "Statement": "Bed upon rock game forward. Item back baby land group late wide.\nJoin by law measure. We how author manage. Method involve present responsibility again billion."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7ff16f5f-6cde-404c-abbc-a27c5f3207da",
+    "OfficerName": "Vincent Gutierrez",
+    "ReportDetails": "Describe benefit also attack let inside day. Project yet significant box until above. Will school allow day decision.\nSpeech physical character girl. Dog sound product my."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 342,
+    "AnnualIncome": 140478,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 10,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

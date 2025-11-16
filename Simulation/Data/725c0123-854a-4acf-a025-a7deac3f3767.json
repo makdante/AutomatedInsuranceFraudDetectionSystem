@@ -1,0 +1,112 @@
+{
+  "ClaimID": "725c0123-854a-4acf-a025-a7deac3f3767",
+  "PolicyID": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+  "EffectiveDates": {
+    "StartDate": "2025-10-17",
+    "EndDate": "2026-10-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fecc390-bac6-408b-ba0a-07d3c6d8b242",
+    "Name": "Suzanne Reese",
+    "PolicyNumber": "dd4e005b-d84f-4cea-a71d-f1f2f2afb8d5",
+    "ContactInformation": {
+      "Phone": "+1-953-229-7814",
+      "Email": "penajohn@example.org",
+      "Address": "4167 Jessica Rue Apt. 511\nNorth Raymond, WY 55629"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-26",
+    "Location": "6845 Julie Ferry Apt. 455\nJustinchester, NM 25039",
+    "Description": "Key oil example beyond international which. Talk maybe form investment set.\nTreatment light side measure follow total song. Many any base court. Wall trade assume."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22040
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 79110
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4358
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 64774
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 171379
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 341661,
+    "TotalApproved": 277121
+  },
+  "AdjusterDetails": {
+    "Name": "Brittany Ellis",
+    "ContactInformation": {
+      "Phone": "466-663-1603",
+      "Email": "ryanhernandez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1aec9306-0aef-47ab-b891-bf378a7affd3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lara-Pierce",
+    "Model": "seek",
+    "Year": 2018,
+    "VIN": "e182e7b0-ff5d-4a5c-8d45-c7fe26eccb2f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alison Johnson",
+      "ContactInformation": {
+        "Phone": "408.474.6529",
+        "Email": "kgarcia@example.net"
+      },
+      "Statement": "Test drop measure hour future drug exactly time. Despite who others bar word occur.\nAccept down forget however. Option point build perform thus those. Civil window guess likely."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "58c0cf41-5f9e-4836-b05c-d41fbb1097b7",
+    "OfficerName": "Jeremiah Lee",
+    "ReportDetails": "Ago news make hot short. Beyond left no picture. Bring note hour information plant success bill.\nYes office green doctor nature interest. Officer past you affect husband. Movie and father."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 751,
+    "AnnualIncome": 57990,
+    "DebtToIncomeRatio": 0.32
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 3,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

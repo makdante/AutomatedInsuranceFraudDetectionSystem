@@ -1,0 +1,112 @@
+{
+  "ClaimID": "dcaa88c7-df0a-46da-917d-b731045861bc",
+  "PolicyID": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+  "EffectiveDates": {
+    "StartDate": "2025-04-18",
+    "EndDate": "2026-04-18"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "fa402266-28f6-4a28-9984-042633fec81b",
+    "Name": "Miranda Nelson",
+    "PolicyNumber": "5c6540e5-59b1-4648-94a0-14a9ddcb9052",
+    "ContactInformation": {
+      "Phone": "871.425.9645x240",
+      "Email": "iflynn@example.com",
+      "Address": "275 Lee Common\nSouth Hectorville, VI 11258"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-03",
+    "Location": "00413 Nelson Forges Apt. 598\nPort John, MT 51614",
+    "Description": "Sign concern audience property beautiful bag. Keep head choose head. Reason minute argue pretty street huge. Pass true picture husband agent right series."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4167528
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4768849
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4913539
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4888101
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4879169
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 23617186,
+    "TotalApproved": 2980074
+  },
+  "AdjusterDetails": {
+    "Name": "Mark Norris",
+    "ContactInformation": {
+      "Phone": "(280)202-8403x62859",
+      "Email": "richardroman@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/0ecad676-6c21-45cf-9055-db883e9b1a5b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clark Ltd",
+    "Model": "career",
+    "Year": 2010,
+    "VIN": "4af9ce08-8cc6-4f7f-b738-a31b43fab288"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dorothy Curry",
+      "ContactInformation": {
+        "Phone": "+1-521-513-9818x18063",
+        "Email": "jaime47@example.net"
+      },
+      "Statement": "Wish discussion mention pick capital. Value difference last modern company method shake. Behavior teach think per seem."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "6d48936a-4c87-404e-9a48-d25e801d8845",
+    "OfficerName": "Joseph Guerrero",
+    "ReportDetails": "Raise thank far line. Its well particular mouth bad rise blue.\nTest say run become. Who my treat too during if business. Owner easy seven rich shake make its."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 327,
+    "AnnualIncome": 130655,
+    "DebtToIncomeRatio": 0.72
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": true
+}

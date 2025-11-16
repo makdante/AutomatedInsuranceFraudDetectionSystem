@@ -1,0 +1,112 @@
+{
+  "ClaimID": "11379172-b994-4221-be1e-b6d858ff9af3",
+  "PolicyID": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+  "EffectiveDates": {
+    "StartDate": "2025-05-24",
+    "EndDate": "2026-05-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1ebb1bc-6120-42c4-a87a-be4f808197b1",
+    "Name": "Donald Smith",
+    "PolicyNumber": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+    "ContactInformation": {
+      "Phone": "675.606.3377",
+      "Email": "masonpamela@example.net",
+      "Address": "14432 Richard Vista\nNew Suzanne, TN 31994"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-15",
+    "Location": "5974 Rachel Rapids\nAnthonyside, OK 70065",
+    "Description": "Member thank but particularly clear discussion now.\nCustomer thought hand health quickly line but PM. Place nor best on. Report science feel face sport idea."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4316731
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4306817
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4955670
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4500216
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4031588
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22111022,
+    "TotalApproved": 17820826
+  },
+  "AdjusterDetails": {
+    "Name": "Ashley Haley",
+    "ContactInformation": {
+      "Phone": "738.373.1678x822",
+      "Email": "williamsloan@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/25ac390c-8092-4662-9638-43557b552e74"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ho-Owens",
+    "Model": "word",
+    "Year": 2007,
+    "VIN": "4d18cbfc-a2f8-44d5-9040-6f74a92d01a4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jonathan Lewis",
+      "ContactInformation": {
+        "Phone": "831.671.5997x5215",
+        "Email": "cameronparker@example.com"
+      },
+      "Statement": "Civil control responsibility.\nVery open this other. Professor plant teach term hand table. Space grow type."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "811931fd-74b1-4056-b952-b14f3e0692bd",
+    "OfficerName": "Penny Sullivan",
+    "ReportDetails": "Produce the senior scientist little less cup. Then number car. Per letter ok question effort can four."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 461,
+    "AnnualIncome": 138086,
+    "DebtToIncomeRatio": 0.23
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 5,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": true
+}

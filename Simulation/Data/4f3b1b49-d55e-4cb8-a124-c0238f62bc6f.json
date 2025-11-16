@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4f3b1b49-d55e-4cb8-a124-c0238f62bc6f",
+  "PolicyID": "4d006887-ffd3-4707-8940-80e0970ad64f",
+  "EffectiveDates": {
+    "StartDate": "2025-02-16",
+    "EndDate": "2026-02-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "6191ccd1-d3f4-425d-a9cb-5820861f7d97",
+    "Name": "Andrew Wilson",
+    "PolicyNumber": "4d006887-ffd3-4707-8940-80e0970ad64f",
+    "ContactInformation": {
+      "Phone": "001-296-495-4711x47868",
+      "Email": "twilliams@example.org",
+      "Address": "9444 Jonathan Village\nSouth Taratown, AR 12477"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-17",
+    "Location": "43403 Hunt Shoals Apt. 638\nEast Brenthaven, MN 38006",
+    "Description": "Job police by community interview vote. Medical whether cold.\nAgency change form suggest. Against ground remember employee poor support."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 35870
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19451
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27042
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22185
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6263
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 110811,
+    "TotalApproved": 50747
+  },
+  "AdjusterDetails": {
+    "Name": "Joseph Lee",
+    "ContactInformation": {
+      "Phone": "8665510205",
+      "Email": "garyclark@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/11b851f8-0c52-436e-8a3f-8f2f304a1f7b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Perez-Flores",
+    "Model": "manage",
+    "Year": 2016,
+    "VIN": "e3b5d269-c713-4700-8f0c-f620cae416d8"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Erin Rodriguez",
+      "ContactInformation": {
+        "Phone": "603.709.6952",
+        "Email": "teresa93@example.net"
+      },
+      "Statement": "Read respond writer growth necessary interest you. Young thousand attorney collection history. Wrong west fund month natural easy main."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ed5f0804-723d-4b82-8fe9-b34caa27820a",
+    "OfficerName": "Katrina Barrera",
+    "ReportDetails": "You direction guess plan since often laugh. According certainly apply approach majority like image. Even growth save travel."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 546,
+    "AnnualIncome": 61509,
+    "DebtToIncomeRatio": 0.51
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

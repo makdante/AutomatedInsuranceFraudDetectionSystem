@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d41af69d-a7a0-4074-b687-f25979b92afa",
+  "PolicyID": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+  "EffectiveDates": {
+    "StartDate": "2025-04-20",
+    "EndDate": "2026-04-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "19539b75-3acc-4388-9d32-17fd35f70f14",
+    "Name": "Cassandra Salas",
+    "PolicyNumber": "8aabf7fb-095e-4305-81ae-d2b28c61a37a",
+    "ContactInformation": {
+      "Phone": "+1-463-734-3328x967",
+      "Email": "candacewilliams@example.net",
+      "Address": "4470 Michelle Walks\nNew Sherri, WA 36401"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-18",
+    "Location": "7436 Amy Overpass Suite 413\nSouth Peterfort, MI 85165",
+    "Description": "Inside either never design behind wear stage important. War policy garden nearly country president. Partner recent hear surface street."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10110
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 62438
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15992
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2868
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7416
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 98824,
+    "TotalApproved": 3261
+  },
+  "AdjusterDetails": {
+    "Name": "Donna Williams",
+    "ContactInformation": {
+      "Phone": "622-969-1149x746",
+      "Email": "marshallsamantha@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/ab9e1ed9-5592-434a-b356-be83af23e590"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hansen Inc",
+    "Model": "whatever",
+    "Year": 2007,
+    "VIN": "76795eab-4dac-46dd-adb3-95c3e2f146c4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Brittany Foster",
+      "ContactInformation": {
+        "Phone": "+1-682-970-5397",
+        "Email": "warddiane@example.net"
+      },
+      "Statement": "Occur begin give accept. Name during put move. Address expect raise nice commercial glass. Person civil use foreign art already common."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b61ec7af-a36a-4fe7-8358-5689f2733391",
+    "OfficerName": "Terri Collins",
+    "ReportDetails": "Know record poor gun whose. Total loss past agency popular join charge. Turn account since story popular community. That way thank rise."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 494,
+    "AnnualIncome": 22033,
+    "DebtToIncomeRatio": 0.13
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 1,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

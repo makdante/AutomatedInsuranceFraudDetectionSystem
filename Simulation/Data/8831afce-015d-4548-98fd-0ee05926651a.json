@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8831afce-015d-4548-98fd-0ee05926651a",
+  "PolicyID": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+  "EffectiveDates": {
+    "StartDate": "2025-07-02",
+    "EndDate": "2026-07-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1d1f232c-53ce-4547-8f54-ae6342e35eb8",
+    "Name": "Kara Lloyd",
+    "PolicyNumber": "8fc05338-a8c0-4dec-a39e-3afe2d9edddd",
+    "ContactInformation": {
+      "Phone": "251-936-5497",
+      "Email": "matthewbennett@example.net",
+      "Address": "867 Barnes Trace Apt. 747\nKennethville, AL 85960"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-01",
+    "Location": "831 Scott Station\nNew Emily, NH 12116",
+    "Description": "Technology build risk million because million. Evening perhaps compare interest general understand tough entire. Magazine response PM just structure gas network. Production weight notice side enjoy."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 34512
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 73901
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 45578
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 34766
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3164
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 191921,
+    "TotalApproved": 122963
+  },
+  "AdjusterDetails": {
+    "Name": "Mark Martin",
+    "ContactInformation": {
+      "Phone": "254.638.9523",
+      "Email": "wanda23@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/71cd0203-2906-4993-b681-2a511b99cefe"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Sutton Ltd",
+    "Model": "save",
+    "Year": 2022,
+    "VIN": "f115c239-e3c8-4256-ab05-9834da104ddc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Anthony Hickman",
+      "ContactInformation": {
+        "Phone": "(612)717-4400",
+        "Email": "keith34@example.org"
+      },
+      "Statement": "These seven reduce project include feel peace. Song heavy positive less sort book."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d052b997-9b12-45c4-a376-6e20d8f123f3",
+    "OfficerName": "Robert Brown",
+    "ReportDetails": "Skin together region every somebody moment society. Clearly generation threat."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 605,
+    "AnnualIncome": 156634,
+    "DebtToIncomeRatio": 0.48
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

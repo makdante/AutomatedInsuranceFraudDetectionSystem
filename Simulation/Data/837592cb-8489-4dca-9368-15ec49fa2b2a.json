@@ -1,0 +1,112 @@
+{
+  "ClaimID": "837592cb-8489-4dca-9368-15ec49fa2b2a",
+  "PolicyID": "be1a056e-41f2-4711-a855-46173d7d2368",
+  "EffectiveDates": {
+    "StartDate": "2025-04-15",
+    "EndDate": "2026-04-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a46d411e-9ab9-4ed4-914f-2da09d0b8a29",
+    "Name": "Christopher Shaw",
+    "PolicyNumber": "be1a056e-41f2-4711-a855-46173d7d2368",
+    "ContactInformation": {
+      "Phone": "407.948.6080x1895",
+      "Email": "thomaswatson@example.com",
+      "Address": "27329 Dean Locks Suite 317\nLake Jasonhaven, WY 37967"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-06",
+    "Location": "89207 Atkinson Viaduct Apt. 588\nHallville, PA 97882",
+    "Description": "Surface before police quality. Certainly most fall military student girl. High star teach site Mrs it.\nLight mission indeed rule. Style subject democratic. Son almost they budget head."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2204
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 100986
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10060
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 21607
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18640
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 153497,
+    "TotalApproved": 19817
+  },
+  "AdjusterDetails": {
+    "Name": "Martha Wade",
+    "ContactInformation": {
+      "Phone": "(445)779-9008x488",
+      "Email": "daviderickson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/8df35960-05da-4c37-b13c-0ccea085b14c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wells Ltd",
+    "Model": "network",
+    "Year": 2008,
+    "VIN": "ca3f8602-7b3e-4421-b957-f426e941cfa1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Richard Snow",
+      "ContactInformation": {
+        "Phone": "+1-705-297-5092x76686",
+        "Email": "mitchellrush@example.com"
+      },
+      "Statement": "Maintain time either grow easy project. Involve blue say maybe box. Form office visit arm cup. Industry more onto upon media friend."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b63811f6-020f-4c30-88fa-704806afecf9",
+    "OfficerName": "Michael Gallagher",
+    "ReportDetails": "Reach within teacher phone act exist whom. Deal night four star age better."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 673,
+    "AnnualIncome": 22932,
+    "DebtToIncomeRatio": 0.29
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 5,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

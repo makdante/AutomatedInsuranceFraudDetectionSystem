@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a44e4513-da6f-4b94-b96c-7d18cf1cf531",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2025-07-10",
+    "EndDate": "2026-07-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-27",
+    "Location": "518 Kathryn Ports Suite 407\nSouth Cynthiabury, CT 59327",
+    "Description": "Value how moment leg. Shoulder stage media street occur newspaper measure actually. Ago order book always identify.\nSeat prepare dark capital clear attack."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 47907
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 116889
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4990
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1369
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 48140
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 219295,
+    "TotalApproved": 37895
+  },
+  "AdjusterDetails": {
+    "Name": "Danielle Smith",
+    "ContactInformation": {
+      "Phone": "356-205-5254x0754",
+      "Email": "smithjeremy@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/0a7bde84-efbd-4da3-a3c7-53854981a0da"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Horne-Stewart",
+    "Model": "hold",
+    "Year": 2015,
+    "VIN": "3467485a-eec4-42ca-941d-1dc83c37ce67"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Leslie Fernandez",
+      "ContactInformation": {
+        "Phone": "7859074519",
+        "Email": "justinkirk@example.org"
+      },
+      "Statement": "Still rich into peace speech building treat. Relate measure challenge cup change page next number. Another possible across style care. On nice improve blue top head."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "be4a879f-cacb-4aff-902f-b3b6b1b07cb3",
+    "OfficerName": "Francisco Bradley",
+    "ReportDetails": "Sit end new interview see under. Team newspaper example age brother relate structure.\nLay fire ten road."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 842,
+    "AnnualIncome": 197663,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

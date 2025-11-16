@@ -1,0 +1,112 @@
+{
+  "ClaimID": "40c8f56e-4dbc-4fd2-96c8-8c1ca3945a74",
+  "PolicyID": "48e7eff0-2137-440a-aff3-8d0668e114bd",
+  "EffectiveDates": {
+    "StartDate": "2024-12-30",
+    "EndDate": "2025-12-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de07fb4c-90da-4855-a341-856e9fe8cbd8",
+    "Name": "Christopher Kim",
+    "PolicyNumber": "48e7eff0-2137-440a-aff3-8d0668e114bd",
+    "ContactInformation": {
+      "Phone": "+1-611-281-1850x1314",
+      "Email": "barbara52@example.com",
+      "Address": "286 Herrera Street Apt. 219\nNew Eric, ID 86449"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-10",
+    "Location": "USNS Ellis\nFPO AA 43673",
+    "Description": "Change decision often investment practice. Range season again agree foreign.\nChair school Republican reduce. Far life national so trip worker."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 21236
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 111172
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 23971
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 65125
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14719
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 236223,
+    "TotalApproved": 219784
+  },
+  "AdjusterDetails": {
+    "Name": "Richard Henry",
+    "ContactInformation": {
+      "Phone": "917-835-2750x0984",
+      "Email": "epeterson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/b93068ab-6982-4839-8f2e-f4dea88cf881"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Soto-Lucas",
+    "Model": "floor",
+    "Year": 2017,
+    "VIN": "c108c474-351d-4d35-b70d-b6f988847fe4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nicholas Mcintyre",
+      "ContactInformation": {
+        "Phone": "524-732-0811",
+        "Email": "thomasgarcia@example.org"
+      },
+      "Statement": "Feel test room century federal. Culture sure thing.\nWord hotel sell senior."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ac735b58-6434-4115-be06-1bfef4bff30e",
+    "OfficerName": "Leah Moore",
+    "ReportDetails": "Follow kind to low gas show. Involve walk situation family set just political war.\nOff pay might. Machine though old president boy. Receive improve participant future over determine heart."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 649,
+    "AnnualIncome": 111652,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 5,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

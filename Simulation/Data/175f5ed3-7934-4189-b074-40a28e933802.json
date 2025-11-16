@@ -1,0 +1,112 @@
+{
+  "ClaimID": "175f5ed3-7934-4189-b074-40a28e933802",
+  "PolicyID": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+  "EffectiveDates": {
+    "StartDate": "2024-11-07",
+    "EndDate": "2025-11-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "8bf8aa8f-31d8-4904-928a-c411bab56c37",
+    "Name": "Kathleen Wilson",
+    "PolicyNumber": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+    "ContactInformation": {
+      "Phone": "3889435835",
+      "Email": "angie46@example.net",
+      "Address": "24489 Brady Mews Suite 377\nNew Susanmouth, NM 88090"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-01",
+    "Location": "29106 Sarah Village\nWest Todd, PA 82212",
+    "Description": "Author interview forget until. Including base prepare smile suffer girl. Again trial will eat would.\nCoach television team stay cup not themselves. Carry list opportunity design."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4158
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 31847
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 19350
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 37699
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 98777
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 191831,
+    "TotalApproved": 54961
+  },
+  "AdjusterDetails": {
+    "Name": "Stephanie Peters",
+    "ContactInformation": {
+      "Phone": "001-624-780-1039",
+      "Email": "mcbrideyvette@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/765639c5-5baf-4573-969d-c12c1b006a71"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson PLC",
+    "Model": "practice",
+    "Year": 2012,
+    "VIN": "3db7986c-65a9-4d68-af33-923d60275dc9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Diana Flores",
+      "ContactInformation": {
+        "Phone": "774.507.0535x4229",
+        "Email": "huanggrant@example.com"
+      },
+      "Statement": "System gun third last new personal. Everyone he save. Picture bit foot audience relationship.\nTeam young participant operation. Wife mind common see tree pretty."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8c44f9e8-7e2e-4a85-9e2e-e9c6279ad818",
+    "OfficerName": "Victoria Stanley",
+    "ReportDetails": "Site agency raise choice true management treatment. Pull PM age.\nArea attorney stage theory pretty suggest conference study. All hear leg popular make drug week."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 528,
+    "AnnualIncome": 38946,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 2,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

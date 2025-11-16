@@ -1,0 +1,112 @@
+{
+  "ClaimID": "29a7ad3d-7ec6-4f01-b5b9-6a3db39b19af",
+  "PolicyID": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+  "EffectiveDates": {
+    "StartDate": "2024-11-06",
+    "EndDate": "2025-11-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5bc871d2-36ee-4aee-bc7f-b179bb855d6f",
+    "Name": "Eric Fletcher",
+    "PolicyNumber": "aca8fe09-2b5b-47de-bd79-3c56351440c9",
+    "ContactInformation": {
+      "Phone": "243.779.0944x7212",
+      "Email": "grantjones@example.com",
+      "Address": "4468 Cunningham Islands Apt. 297\nNorth Greg, SC 48184"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2024-12-20",
+    "Location": "95589 Jackson Cliffs\nAngelicaburgh, SD 82585",
+    "Description": "Baby thank deal western. Then other wife be sea even simple.\nLet worker buy conference fall. Ever list social treatment."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 38686
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 39093
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 48104
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 69365
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7269
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 202517,
+    "TotalApproved": 129319
+  },
+  "AdjusterDetails": {
+    "Name": "Steve Garcia",
+    "ContactInformation": {
+      "Phone": "+1-947-732-7129x436",
+      "Email": "rebecca17@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/71a335ec-5b64-44ea-8789-bff817f234e3"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2024-12-20T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2024-12-25T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2024-12-30T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Vaughn-Ford",
+    "Model": "believe",
+    "Year": 2015,
+    "VIN": "d4968ae0-815e-420c-943f-c6745b7888bc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Sandra Collier",
+      "ContactInformation": {
+        "Phone": "622-892-3135x7216",
+        "Email": "barbara65@example.net"
+      },
+      "Statement": "Range foot course control too modern. Lead black show former. Collection high wind model either might per.\nHope under mention spend. Reduce your key major."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e9316ef5-86dc-4780-a135-c026b9fc5cbb",
+    "OfficerName": "Martha Johnson",
+    "ReportDetails": "Lot relationship edge. Apply western issue. Three two deep whole.\nMilitary base themselves action hard hundred their. Friend body light small general white."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 329,
+    "AnnualIncome": 168084,
+    "DebtToIncomeRatio": 0.35
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

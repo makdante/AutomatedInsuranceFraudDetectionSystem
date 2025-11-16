@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d297382c-1dec-4dd5-813e-8db4c88643d7",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2025-02-04",
+    "EndDate": "2026-02-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-24",
+    "Location": "PSC 3752, Box 6444\nAPO AA 90314",
+    "Description": "Major discover middle soldier. Option well election general hope. Southern stage avoid whose lose else.\nSkin road expect than audience."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 45979
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 20351
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6182
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 32426
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 192167
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 297105,
+    "TotalApproved": 68292
+  },
+  "AdjusterDetails": {
+    "Name": "Darius Owens",
+    "ContactInformation": {
+      "Phone": "801.990.2732",
+      "Email": "alexis52@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/6cf5e314-ea50-48ca-ace4-64c974b54b99"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-29T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Smith-Bell",
+    "Model": "day",
+    "Year": 2006,
+    "VIN": "1792ddd3-b207-4a8e-a433-cab6f9be2fd5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jill Morgan",
+      "ContactInformation": {
+        "Phone": "(530)201-8812x030",
+        "Email": "qjohnson@example.org"
+      },
+      "Statement": "Cup condition decade do night good. Thought fill natural structure daughter TV. Hot message pressure discussion sometimes our drug."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ace9c340-2cea-45e4-937e-5a540a7c2d8a",
+    "OfficerName": "Juan Smith",
+    "ReportDetails": "With save hard occur. Throughout entire it office always. Wide citizen human.\nMethod voice development they leg partner style. Nature kind design get several upon just develop."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 558,
+    "AnnualIncome": 133351,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 4,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "11af02a6-e8eb-45a6-9c28-7ce5f1c8aea5",
+  "PolicyID": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+  "EffectiveDates": {
+    "StartDate": "2025-05-27",
+    "EndDate": "2026-05-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "8bf8aa8f-31d8-4904-928a-c411bab56c37",
+    "Name": "Kathleen Wilson",
+    "PolicyNumber": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+    "ContactInformation": {
+      "Phone": "3889435835",
+      "Email": "angie46@example.net",
+      "Address": "24489 Brady Mews Suite 377\nNew Susanmouth, NM 88090"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-05",
+    "Location": "74058 Munoz Ferry\nKimfort, MD 82350",
+    "Description": "Military fall accept station expect approach. Economy quickly discover argue own vote long. Prepare spring wind Democrat. Friend traditional eight common east theory."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 30205
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 23603
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18801
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 25106
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2128
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 99843,
+    "TotalApproved": 21222
+  },
+  "AdjusterDetails": {
+    "Name": "Brenda Brown",
+    "ContactInformation": {
+      "Phone": "(835)513-7725x9053",
+      "Email": "ilevy@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/3f56344b-71bc-4405-8596-2b78c3a4af9a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams Ltd",
+    "Model": "green",
+    "Year": 2012,
+    "VIN": "d8dbdff6-aeee-4104-bda4-512c13f70d80"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Thomas Walker",
+      "ContactInformation": {
+        "Phone": "001-695-887-5101x949",
+        "Email": "vrodriguez@example.com"
+      },
+      "Statement": "Treat nearly get for daughter food us.\nMillion article season power item dog. Others base front poor safe life recent."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "23b6d335-c984-45cc-bc16-9cfd14a42d8c",
+    "OfficerName": "Jon Norris",
+    "ReportDetails": "Main land marriage have something lot friend. Our drop plan catch.\nScene line result. Support television see hotel student green plan. Today his leader easy white. Matter yet certain drug together."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 524,
+    "AnnualIncome": 53665,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

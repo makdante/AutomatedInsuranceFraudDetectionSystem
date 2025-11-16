@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e2fcf211-6c75-481a-a0bd-6a85fb62afd9",
+  "PolicyID": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+  "EffectiveDates": {
+    "StartDate": "2025-09-07",
+    "EndDate": "2026-09-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0761ac6c-c8f4-4764-b6fc-6c72b98330df",
+    "Name": "John Johnson",
+    "PolicyNumber": "ac3231db-94e5-4242-a3bd-7b573f51c1f1",
+    "ContactInformation": {
+      "Phone": "8249288643",
+      "Email": "rsweeney@example.org",
+      "Address": "6690 Hayes Mews\nSusanmouth, AK 65585"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-04",
+    "Location": "921 Amy Grove Apt. 925\nNewtonburgh, RI 57901",
+    "Description": "Mrs catch prevent draw trouble. Budget blue already kind many yard. She enough style five.\nCan under new company. Stage between create."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7131
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 28055
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 77754
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 42592
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 78883
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 234415,
+    "TotalApproved": 194350
+  },
+  "AdjusterDetails": {
+    "Name": "Sheri Fields",
+    "ContactInformation": {
+      "Phone": "958.503.9546x41913",
+      "Email": "wcrosby@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3275e165-628c-4206-a893-fb67e6afa29a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Flores LLC",
+    "Model": "less",
+    "Year": 2002,
+    "VIN": "77c4b73c-7e80-44a4-a09a-e450c6eae2d3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Alvarez",
+      "ContactInformation": {
+        "Phone": "001-205-703-7431x123",
+        "Email": "vaughankari@example.org"
+      },
+      "Statement": "Lay back particularly produce difference account. Them cell sort early side whatever. Any describe happen beautiful lawyer prepare strong."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d2a644e3-20da-4d98-893f-ef8d0f836494",
+    "OfficerName": "Alexandra Johnson",
+    "ReportDetails": "Participant well really special still effort. High chair PM door first surface main.\nImagine room later career doctor physical marriage. Door have contain wear today environmental kind say."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 571,
+    "AnnualIncome": 134553,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 6,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

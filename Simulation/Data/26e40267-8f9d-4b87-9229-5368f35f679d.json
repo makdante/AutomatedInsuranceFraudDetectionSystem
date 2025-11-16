@@ -1,0 +1,112 @@
+{
+  "ClaimID": "26e40267-8f9d-4b87-9229-5368f35f679d",
+  "PolicyID": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+  "EffectiveDates": {
+    "StartDate": "2025-05-30",
+    "EndDate": "2026-05-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "709ee9bc-7606-4bdf-b79d-eda726a7c4fa",
+    "Name": "Heather Hall",
+    "PolicyNumber": "0fd13500-6ab8-4234-901c-8b95fcfbccf2",
+    "ContactInformation": {
+      "Phone": "492.558.8377x933",
+      "Email": "ckemp@example.org",
+      "Address": "587 Elaine Underpass Suite 792\nRaymondshire, CO 15518"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-15",
+    "Location": "2113 Thomas Cliffs\nCharlesview, FL 73716",
+    "Description": "Public among between mention energy. Several capital case mother dream too particular."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 24659
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 36195
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 88635
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12587
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 45448
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 207524,
+    "TotalApproved": 89881
+  },
+  "AdjusterDetails": {
+    "Name": "Gina Quinn",
+    "ContactInformation": {
+      "Phone": "886-582-1888x508",
+      "Email": "wleonard@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/dbaee044-ff7d-462c-8530-8bb139f4f5a9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Nelson Inc",
+    "Model": "another",
+    "Year": 2015,
+    "VIN": "8cb21a4f-477f-4d4b-a57e-2e9e218dbc3b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nathan Heath",
+      "ContactInformation": {
+        "Phone": "001-405-724-4801",
+        "Email": "kellis@example.org"
+      },
+      "Statement": "Others small need visit when article visit chance. Hear strategy describe benefit. Fund land prepare movie husband fear tell.\nChallenge yet public heart bag. Smile structure as thank rule born fish."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0f93a8fa-85c6-4f28-b36f-32d92ad7c564",
+    "OfficerName": "Taylor Miller",
+    "ReportDetails": "Skill season increase law by themselves avoid land.\nUp give kind up produce rate whole prevent. New meet free collection interest idea official. Alone head generation nice deep."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 355,
+    "AnnualIncome": 126131,
+    "DebtToIncomeRatio": 0.28
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8de1ecb0-2534-4ea0-b253-a88b47bc0fbb",
+  "PolicyID": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+  "EffectiveDates": {
+    "StartDate": "2025-04-20",
+    "EndDate": "2026-04-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5a3a7cf6-f7c8-4f34-9e4f-857e2ed38daa",
+    "Name": "Amanda Nelson",
+    "PolicyNumber": "fef5a3a0-c84d-4a5d-b8ba-a54ef261c2f9",
+    "ContactInformation": {
+      "Phone": "(386)294-0571x5411",
+      "Email": "thomasandrew@example.net",
+      "Address": "12741 Davis Mission Apt. 014\nWest Billyfort, ND 30496"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-21",
+    "Location": "2367 Kevin Via Apt. 653\nRodriguezburgh, PR 04159",
+    "Description": "Different else station size. Road perform network difference drop different. Their answer these remain. Everybody that from another program."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 110329
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 11609
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 34301
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 80796
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 194889
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 431924,
+    "TotalApproved": 128861
+  },
+  "AdjusterDetails": {
+    "Name": "Edgar Fowler",
+    "ContactInformation": {
+      "Phone": "332.647.7639",
+      "Email": "hansonlisa@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/525d8192-a85f-4e0d-a3a2-c4caa6ae0d72"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-21T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-26T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-31T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Villanueva-Walker",
+    "Model": "find",
+    "Year": 2001,
+    "VIN": "aec10281-f37b-4d57-90b4-e7d644aa2a6f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angela Ryan",
+      "ContactInformation": {
+        "Phone": "340.672.4649",
+        "Email": "mark00@example.org"
+      },
+      "Statement": "Character although performance music boy fall. Husband onto everything find imagine cost but attention."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c938296a-ea7e-4ffc-9338-cca4251ebcc0",
+    "OfficerName": "Linda Watts",
+    "ReportDetails": "Reason group never recent suddenly about. Mrs table class information eye. Kid century challenge onto reflect.\nSeason represent clear society marriage smile memory. Yourself structure left box."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 346,
+    "AnnualIncome": 187137,
+    "DebtToIncomeRatio": 0.89
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 8,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

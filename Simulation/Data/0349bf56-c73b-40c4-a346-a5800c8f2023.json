@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0349bf56-c73b-40c4-a346-a5800c8f2023",
+  "PolicyID": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+  "EffectiveDates": {
+    "StartDate": "2025-05-15",
+    "EndDate": "2026-05-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "4e23f096-d1ac-460d-a5b9-6e145e2e6c93",
+    "Name": "Ann Krause",
+    "PolicyNumber": "e758dd3b-f4e4-4b78-93e7-ef791fc13f0b",
+    "ContactInformation": {
+      "Phone": "226-677-1963x158",
+      "Email": "rodriguezrichard@example.net",
+      "Address": "004 Kenneth Village\nHolmesfurt, NY 86003"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-15",
+    "Location": "192 Greg Streets Apt. 707\nSmithmouth, MP 03355",
+    "Description": "Soldier note bag theory great. Product him both hotel.\nDoor the always street store all into. Before all sign most during and. Fear rather I agree doctor."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6588
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37971
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9053
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5962
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2270
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 61844,
+    "TotalApproved": 1496
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Jones",
+    "ContactInformation": {
+      "Phone": "8982780977",
+      "Email": "kelly35@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/7a0dbb50-6bce-4947-a6e1-9c24749dd58b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-15T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-20T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-25T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mitchell-Fisher",
+    "Model": "sometimes",
+    "Year": 2016,
+    "VIN": "dbab2db2-db42-4be8-9b65-f83a5370f453"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angela Sosa",
+      "ContactInformation": {
+        "Phone": "+1-234-584-6819x1181",
+        "Email": "jesus33@example.com"
+      },
+      "Statement": "During involve product dinner. Although without child. Culture rise foot form."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "74d68db8-17fe-49a4-8b80-983e519a346b",
+    "OfficerName": "Joshua Avery",
+    "ReportDetails": "Fight themselves social. All dog society industry staff worry. Management well war black inside.\nThought last consumer drive resource. Major become compare indeed course."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 568,
+    "AnnualIncome": 93161,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

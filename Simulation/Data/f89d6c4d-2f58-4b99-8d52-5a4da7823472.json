@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f89d6c4d-2f58-4b99-8d52-5a4da7823472",
+  "PolicyID": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+  "EffectiveDates": {
+    "StartDate": "2025-06-24",
+    "EndDate": "2026-06-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fc97abc-4961-491f-a4b1-12068641ded7",
+    "Name": "Mark Macias",
+    "PolicyNumber": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+    "ContactInformation": {
+      "Phone": "520-436-5997x9756",
+      "Email": "aaron79@example.org",
+      "Address": "537 Scott Unions Suite 245\nBrianfurt, WA 46172"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-14",
+    "Location": "28500 Katherine Squares\nEast Kelseyberg, NY 33978",
+    "Description": "Sometimes by perform similar defense full. Protect size whatever central suffer compare. Not people last talk until. Still serve enough hotel art add money small."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4160
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9660
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3819
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9830
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 63749
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 91218,
+    "TotalApproved": 85190
+  },
+  "AdjusterDetails": {
+    "Name": "Nicholas Price",
+    "ContactInformation": {
+      "Phone": "+1-509-794-5390x0979",
+      "Email": "clarkdavid@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/eef855ff-f8cc-436f-9087-9b2d703b5439"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moore Inc",
+    "Model": "in",
+    "Year": 2019,
+    "VIN": "3faaee76-1bd7-4218-ae57-2d58e906d649"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tanya Mack",
+      "ContactInformation": {
+        "Phone": "+1-797-371-7329",
+        "Email": "bphillips@example.net"
+      },
+      "Statement": "Lead already century method marriage clearly. Travel American put southern decide treat part. Other history avoid try reach garden visit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bbb3ada7-879c-4a5a-8aa1-9e132e3610cf",
+    "OfficerName": "Tonya Smith",
+    "ReportDetails": "Production result before write mouth. Star help build that impact.\nInvolve sign attorney. Fall former prove ten pattern water phone break."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 340,
+    "AnnualIncome": 154119,
+    "DebtToIncomeRatio": 0.82
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 5,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "37feb2c2-e61b-491b-b244-4306d1ca4f63",
+  "PolicyID": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+  "EffectiveDates": {
+    "StartDate": "2025-08-01",
+    "EndDate": "2026-08-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "5fc97abc-4961-491f-a4b1-12068641ded7",
+    "Name": "Mark Macias",
+    "PolicyNumber": "47ce6b74-cb16-4469-83d7-fbd3e81b28f4",
+    "ContactInformation": {
+      "Phone": "520-436-5997x9756",
+      "Email": "aaron79@example.org",
+      "Address": "537 Scott Unions Suite 245\nBrianfurt, WA 46172"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-21",
+    "Location": "8422 Timothy Path\nWest Tabitha, NV 54865",
+    "Description": "Order thought side always. Child notice media drop.\nFill nothing see open very them talk. High term sister piece hard difference new. Run probably sport forget already herself."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 32471
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10148
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 114660
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2621
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 47569
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 207469,
+    "TotalApproved": 82721
+  },
+  "AdjusterDetails": {
+    "Name": "Mark Brown",
+    "ContactInformation": {
+      "Phone": "(210)448-4419x5845",
+      "Email": "richard72@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/e38f7146-a4e7-436c-adda-c3438f4e0936"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-01T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cross Inc",
+    "Model": "whom",
+    "Year": 2008,
+    "VIN": "4fd110c4-b35c-469d-9f6b-6a76d7d57ca5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dustin Rios",
+      "ContactInformation": {
+        "Phone": "562.337.0060x7938",
+        "Email": "morgannewman@example.com"
+      },
+      "Statement": "Approach future me my alone year leg most.\nFull month return personal miss. Group car pretty up.\nCountry various whether group.\nFull bring trip nor set growth. Strategy trip factor write say."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "27a7de59-bb34-4d96-8284-461d04bb033c",
+    "OfficerName": "John Chapman",
+    "ReportDetails": "Important baby morning father break special serious professional. Among listen interest movie. Read magazine hospital store."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 402,
+    "AnnualIncome": 152196,
+    "DebtToIncomeRatio": 0.69
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 4,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

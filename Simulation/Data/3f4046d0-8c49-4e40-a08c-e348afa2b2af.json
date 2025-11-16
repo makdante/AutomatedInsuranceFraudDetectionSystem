@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3f4046d0-8c49-4e40-a08c-e348afa2b2af",
+  "PolicyID": "c3c97e20-9916-4009-b655-6b300f90d80a",
+  "EffectiveDates": {
+    "StartDate": "2025-01-10",
+    "EndDate": "2026-01-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "053ca69a-366f-4375-961c-7efc9aef3ba5",
+    "Name": "Dalton Davis",
+    "PolicyNumber": "c3c97e20-9916-4009-b655-6b300f90d80a",
+    "ContactInformation": {
+      "Phone": "333.559.0778",
+      "Email": "nancy30@example.org",
+      "Address": "5703 Aaron Lane\nSouth Matthew, MH 99089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-01-10",
+    "Location": "2502 Johnson Stream\nEast Christopher, IN 74905",
+    "Description": "Reason else join environmental western occur expert. Catch product subject. Sing important public future group fire."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2594
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 77012
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4644
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 28077
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 190728
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 303055,
+    "TotalApproved": 122083
+  },
+  "AdjusterDetails": {
+    "Name": "James Baird",
+    "ContactInformation": {
+      "Phone": "223.665.2083x354",
+      "Email": "rhodeskenneth@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/6e19cb75-aa23-40b6-b882-44c4d3a17ed8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-01-10T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-01-15T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-01-20T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Edwards-Thompson",
+    "Model": "customer",
+    "Year": 2015,
+    "VIN": "36d8ce91-9caf-48c7-a10a-5722d64e07c4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Teresa Jennings",
+      "ContactInformation": {
+        "Phone": "+1-567-729-2739x85039",
+        "Email": "uedwards@example.org"
+      },
+      "Statement": "Assume suffer spend certain hour only social part. Truth them these include radio break it.\nSign hard rate week allow cover.\nTo couple behavior left yard. Lot candidate visit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "66f12445-1e0f-4458-be86-e3509cb9e216",
+    "OfficerName": "Anthony Kelly",
+    "ReportDetails": "Her test before station behind point nation many. Store rate issue program. Feeling still after source. Picture south leave hotel single player work nature."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 633,
+    "AnnualIncome": 191662,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 0,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

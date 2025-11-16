@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2854c9b3-1e5c-4ca0-9305-8aefc0f8e7a5",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2025-01-05",
+    "EndDate": "2026-01-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-04",
+    "Location": "PSC 0798, Box 0060\nAPO AA 52253",
+    "Description": "Let could see live son power Democrat. Song activity time because go baby five. Hear economy believe reflect agreement reality couple amount.\nHelp market south charge while."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5816
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 94287
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 65146
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1156
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36702
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 203107,
+    "TotalApproved": 85239
+  },
+  "AdjusterDetails": {
+    "Name": "Adam Farrell",
+    "ContactInformation": {
+      "Phone": "+1-406-876-8782x0283",
+      "Email": "jesseanderson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a3cb18d6-0a02-4a69-bb90-59893a8c4a04"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Johnson, Gardner and Brooks",
+    "Model": "coach",
+    "Year": 2014,
+    "VIN": "0220d4db-bd90-4a15-96bb-bf63ea39f53e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Krystal Williams",
+      "ContactInformation": {
+        "Phone": "668-660-1352x9000",
+        "Email": "englishwayne@example.org"
+      },
+      "Statement": "Hard beyond past note. Read her authority.\nBig guess police left ground article town. Film media fine reflect though southern."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b728f09f-ed4d-4016-bc34-7fa5b76140b2",
+    "OfficerName": "Breanna Thomas",
+    "ReportDetails": "West work general total high.\nMean beautiful town expert everyone. Hot cut impact green shake executive ten. But paper example letter."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 386,
+    "AnnualIncome": 112575,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

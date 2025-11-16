@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7b13fe81-ba38-4f73-9054-12cd2f404e89",
+  "PolicyID": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+  "EffectiveDates": {
+    "StartDate": "2025-01-23",
+    "EndDate": "2026-01-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "016cf586-ae1e-408d-acd7-adbc52e8f181",
+    "Name": "Kathryn Hammond",
+    "PolicyNumber": "9304f3bc-f050-4ca6-9935-d9674ad2df30",
+    "ContactInformation": {
+      "Phone": "226.777.1053",
+      "Email": "kjimenez@example.net",
+      "Address": "4372 Joel Land Suite 775\nNew Chelseyport, UT 72956"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-26",
+    "Location": "36172 Dominguez Ports Suite 630\nPort Joshuashire, KY 38524",
+    "Description": "Majority spend bag leg drop respond. Card never manage home she strategy message.\nEveryone region son claim modern. Live pattern according least. Prepare memory play size report."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5452
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 134448
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 43671
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 131483
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 40798
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 355852,
+    "TotalApproved": 348639
+  },
+  "AdjusterDetails": {
+    "Name": "Larry Shaw",
+    "ContactInformation": {
+      "Phone": "978-574-4305",
+      "Email": "wongnicholas@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e3a5a73b-c2fd-489e-8b0b-0dec41aad4d2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-31T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thompson-Gomez",
+    "Model": "company",
+    "Year": 2016,
+    "VIN": "a7455f89-a22d-4edb-b84f-25ef7363d924"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Karen Wright",
+      "ContactInformation": {
+        "Phone": "277.991.2084x9188",
+        "Email": "nicholas96@example.com"
+      },
+      "Statement": "Summer able day fish type the. View model stay Democrat near could recently unit. Or team major of since often fire require."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "02f1db30-beaa-421f-9e7b-c5308bada3bc",
+    "OfficerName": "Elizabeth Lee",
+    "ReportDetails": "Reveal its bad thank save peace process. Ball determine understand score itself low lose. Word interest he course."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 401,
+    "AnnualIncome": 139839,
+    "DebtToIncomeRatio": 0.54
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 5,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

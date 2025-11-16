@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c6c3ee48-7029-4999-9bfb-447173895d4a",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-03-25",
+    "EndDate": "2026-03-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-25",
+    "Location": "Unit 9109 Box 6078\nDPO AP 78713",
+    "Description": "Effect child trade. Make thank eat nice community card movie help. Lay upon senior story.\nOpportunity say significant try respond buy past."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3579
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12481
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6673
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 81431
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44297
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 148461,
+    "TotalApproved": 72116
+  },
+  "AdjusterDetails": {
+    "Name": "Valerie Sanchez",
+    "ContactInformation": {
+      "Phone": "227-412-2689",
+      "Email": "lhoward@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/8ed4b6a2-9970-46c8-b5c5-b7d5fc59d3cd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-05T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez, Thompson and Baker",
+    "Model": "meeting",
+    "Year": 2019,
+    "VIN": "fb577a4e-e5c0-443c-9cad-0ba64832200f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jared Anderson",
+      "ContactInformation": {
+        "Phone": "505.393.5947x921",
+        "Email": "timothyperry@example.com"
+      },
+      "Statement": "Wide season weight field artist film. Particularly guy some stock against. Commercial main often kid night option others.\nStar serve him article method. Identify small various thus purpose computer."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f3e6d572-40d4-4336-8b6f-aa0513df2f1f",
+    "OfficerName": "Gregory Alvarado",
+    "ReportDetails": "Response never action ability. Common big as entire area. Usually cultural firm mission could beyond."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 796,
+    "AnnualIncome": 191554,
+    "DebtToIncomeRatio": 0.11
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 8,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

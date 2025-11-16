@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7d6d11b6-9754-4218-ad59-9565db2a876b",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2024-12-23",
+    "EndDate": "2025-12-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-07",
+    "Location": "39751 Baker Springs Suite 178\nKathrynstad, ND 45330",
+    "Description": "Open chance growth. Good phone anything work then shoulder its. Painting book democratic low clear.\nWhat huge administration reduce leave artist green. Though others tree easy most stand him."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 97877
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2422
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2151
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4536
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 19915
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 126901,
+    "TotalApproved": 97463
+  },
+  "AdjusterDetails": {
+    "Name": "Katherine Lucas",
+    "ContactInformation": {
+      "Phone": "+1-735-354-8068x23789",
+      "Email": "margaret68@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/fed50cf5-c632-41a3-83a0-0bbba66669d4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mason LLC",
+    "Model": "actually",
+    "Year": 2002,
+    "VIN": "4c03a6b9-5eab-40d1-9ac9-8263f6243fbb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ariel Anderson",
+      "ContactInformation": {
+        "Phone": "(854)952-5924",
+        "Email": "kelleydavid@example.org"
+      },
+      "Statement": "Help level hold buy one box. Reason step season oil name model. Forward Democrat almost then administration. Tv probably our a beautiful pick check."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a2ae634f-a8e1-48f9-9c52-679907e0ba75",
+    "OfficerName": "Cynthia Davis",
+    "ReportDetails": "Mrs radio box body. Very form would after figure put field majority.\nNatural down everything we Congress economy nation while. Trouble card write to manage walk."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 760,
+    "AnnualIncome": 145698,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 10,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

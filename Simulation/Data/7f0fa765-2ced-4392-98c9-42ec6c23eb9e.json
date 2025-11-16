@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7f0fa765-2ced-4392-98c9-42ec6c23eb9e",
+  "PolicyID": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+  "EffectiveDates": {
+    "StartDate": "2025-03-04",
+    "EndDate": "2026-03-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "8bf8aa8f-31d8-4904-928a-c411bab56c37",
+    "Name": "Kathleen Wilson",
+    "PolicyNumber": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+    "ContactInformation": {
+      "Phone": "3889435835",
+      "Email": "angie46@example.net",
+      "Address": "24489 Brady Mews Suite 377\nNew Susanmouth, NM 88090"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-06",
+    "Location": "31761 Wells Canyon\nSouth Joshua, PA 39681",
+    "Description": "Save life true later. Television tend sister happen size agency. Fact wind one official.\nMust attack memory head. Somebody available never. Prove yeah PM rest pull. Country live now test."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5581
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5373
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 160228
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 37212
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3752
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 212146,
+    "TotalApproved": 18212
+  },
+  "AdjusterDetails": {
+    "Name": "John Cantu",
+    "ContactInformation": {
+      "Phone": "(957)293-0509",
+      "Email": "wcraig@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/6b1344b3-fbf3-4796-b9b0-6384df37c3f7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Barker LLC",
+    "Model": "carry",
+    "Year": 2010,
+    "VIN": "24f41036-6cf1-4c45-97b5-1f381c94b3d4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michelle Novak",
+      "ContactInformation": {
+        "Phone": "972-350-9798x8563",
+        "Email": "xburns@example.net"
+      },
+      "Statement": "Price data her yourself smile account say. Front that speak factor drop eat. Agency fast industry assume."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "39ac370e-c3ba-4834-ae1f-072d71196db5",
+    "OfficerName": "Jason Heath",
+    "ReportDetails": "Well total figure sort just second. Energy fact during onto.\nTrue clear budget street life game. Wait set stock board. Hot somebody garden skill. Really mouth wait loss customer risk health quality."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 352,
+    "AnnualIncome": 198373,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 3,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

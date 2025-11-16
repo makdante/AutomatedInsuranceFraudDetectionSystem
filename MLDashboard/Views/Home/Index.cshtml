@@ -1,0 +1,851 @@
+﻿@model dynamic
+@{
+    ViewData["Title"] = "Insurance Analytics Dashboard";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+<style>
+    .container-fluid {
+        animation: fadeInUp 0.8s ease forwards;
+    }
+
+    @@keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(30px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    .header-title {
+        font-weight: 700;
+        color: #000000;
+        margin-bottom: 10px;
+        font-size: 2rem;
+    }
+
+    .text-muted {
+        color: #6c757d !important;
+        margin-bottom: 1.5rem;
+    }
+
+    /* Key Metrics Badge */
+    .metrics-header {
+        background: rgba(12, 12, 44, 1);
+        backdrop-filter: blur(20px);
+        border-radius: 20px;
+        padding: 25px;
+        margin-bottom: 30px;
+        box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    }
+
+    .metric-badge {
+        display: inline-block;
+        background: linear-gradient(135deg, rgba(11, 11, 45, 1) 0%, #rgba(28, 28, 61, 1) 100%);
+        color: white;
+        padding: 0.75rem 1.5rem;
+        border-radius: 50px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        box-shadow: 0 5px 15px rgba(25, 135, 84, 0.3);
+    }
+
+    /* Section Headers */
+    .section-header {
+        text-align: center;
+        margin: 3rem 0 2rem;
+    }
+
+    .section-header h2 {
+        color: #000000;
+        font-weight: 700;
+        font-size: 1.8rem;
+        margin: 0;
+    }
+
+    /* Dashboard Cards */
+    .dashboard-card {
+        background: rgba(255, 255, 255, 0.6);
+        backdrop-filter: blur(20px);
+        border-radius: 20px;
+        box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+        transition: all 0.3s ease;
+        padding: 25px;
+        text-align: center;
+        cursor: pointer;
+        position: relative;
+        overflow: hidden;
+        height: 100%;
+    }
+
+    .dashboard-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 4px;
+        background: linear-gradient(90deg, rgba(11, 11, 45, 1) 0%, rgba(27, 27, 50, 1) 100%);
+        transform: scaleX(0);
+        transition: transform 0.3s ease;
+    }
+
+    .dashboard-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    }
+
+    .dashboard-card:hover::before {
+        transform: scaleX(1);
+    }
+
+    .dashboard-card i {
+        font-size: 2.5rem;
+        color: #000;
+        margin-bottom: 15px;
+    }
+
+    .dashboard-card h5 {
+        font-weight: 600;
+        color: #2b2b2b;
+        margin-bottom: 20px;
+        font-size: 1rem;
+    }
+
+    /* Visualization Display */
+    .visualization-display {
+        background: rgba(255, 255, 255, 0.6);
+        backdrop-filter: blur(20px);
+        border-radius: 20px;
+        padding: 30px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        animation: fadeInUp 0.5s ease forwards;
+    }
+
+    .back-button {
+        display: inline-flex;
+        align-items: center;
+        background: linear-gradient(135deg, rgba(11, 11, 45, 1) 0%, rgba(28, 28, 61, 1) 100%);
+        color: white;
+        padding: 0.75rem 1.5rem;
+        border-radius: 50px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        border: none;
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 5px 15px rgba(25, 135, 84, 0.3);
+    }
+
+    .back-button:hover {
+        transform: translateX(-5px);
+        box-shadow: 0 8px 20px rgba(25, 135, 84, 0.4);
+    }
+
+    .back-button i {
+        margin-right: 0.5rem;
+    }
+
+    .chart-title {
+        color: #000;
+        font-weight: 700;
+        font-size: 1.5rem;
+        margin: 0 0 1.5rem;
+        text-align: center;
+    }
+
+    canvas {
+        max-height: 400px;
+    }
+
+    /* Fraud Section Distinction */
+    .fraud-section {
+        margin-top: 3rem;
+        padding-top: 3rem;
+        border-top: 2px solid rgba(25, 135, 84, 0.2);
+    }
+
+    /* Responsive Design */
+    @@media (max-width: 768px) {
+        .header-title {
+            font-size: 1.5rem;
+        }
+    }
+</style>
+
+<div class="container-fluid animate">
+    <!-- Header with Key Metrics -->
+    <h2 class="header-title">Insurance Claim Analytics Dashboard</h2>
+    <p class="text-muted">Monitor claims, detect fraud, and visualize coverage insights in real-time.</p>
+    
+    <div class="metrics-header">
+        <div class="metric-badge">
+            <i class="fas fa-file-invoice-dollar"></i> Total Claims: @Model.TotalClaims
+        </div>
+    </div>
+
+    <!-- Menu Section -->
+    <div id="menu">
+        <div class="section-header">
+            <h2>Claims Visualizations</h2>
+        </div>
+
+        <div class="row g-4 mb-4">
+            <div class="col-md-4 col-lg-3">
+                <div class="dashboard-card" data-chart="0">
+                    <i class="fas fa-car-crash"></i>
+                    <h5>Claims by Coverage Type</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <div class="dashboard-card" data-chart="1">
+                    <i class="fas fa-user"></i>
+                    <h5>Claims by Policy Holder</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <div class="dashboard-card" data-chart="2">
+                    <i class="fas fa-user-tie"></i>
+                    <h5>Claims by Adjuster</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <div class="dashboard-card" data-chart="3">
+                    <i class="fas fa-calendar-alt"></i>
+                    <h5>Claims Over Time</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <div class="dashboard-card" data-chart="4">
+                    <i class="fas fa-tasks"></i>
+                    <h5>Claims by Status Over Time</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <div class="dashboard-card" data-chart="5">
+                    <i class="fas fa-chart-bar"></i>
+                    <h5>Average Amounts by Coverage</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <div class="dashboard-card" data-chart="6">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <h5>Claims by State</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <div class="dashboard-card" data-chart="7">
+                    <i class="fas fa-calendar-check"></i>
+                    <h5>Claims by Policy Dates</h5>
+                </div>
+            </div>
+        </div>
+
+        <!-- Fraud Section -->
+        <div class="fraud-section" id="fraud-menu">
+            <div class="section-header">
+                <h2><i class="fas fa-shield-alt"></i> Fraud Detection Analytics</h2>
+            </div>
+
+            <div class="row g-4">
+                <div class="col-md-4 col-lg-3">
+                    <div class="dashboard-card" data-chart="8">
+                        <i class="fas fa-exclamation-triangle"></i>
+                        <h5>Fraud Likelihood</h5>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-lg-3">
+                    <div class="dashboard-card" data-chart="9">
+                        <i class="fas fa-chart-line"></i>
+                        <h5>Fraud Scores</h5>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-lg-3">
+                    <div class="dashboard-card" data-chart="10">
+                        <i class="fas fa-user-secret"></i>
+                        <h5>Claims by Fraud Likelihood</h5>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-lg-3">
+                    <div class="dashboard-card" data-chart="11">
+                        <i class="fas fa-balance-scale"></i>
+                        <h5>Fraud Score Distribution</h5>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-lg-3">
+                    <div class="dashboard-card" data-chart="12">
+                        <i class="fas fa-user-check"></i>
+                        <h5>Adjuster Fraud Likelihood</h5>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-lg-3">
+                    <div class="dashboard-card" data-chart="13">
+                        <i class="fas fa-calendar-day"></i>
+                        <h5>Fraud Likelihood Over Time</h5>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-lg-3">
+                    <div class="dashboard-card" data-chart="14">
+                        <i class="fas fa-user-clock"></i>
+                        <h5>Policy Holder Fraud</h5>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-lg-3">
+                    <div class="dashboard-card" data-chart="15">
+                        <i class="fas fa-chart-pie"></i>
+                        <h5>Fraud by Coverage Type</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Visualizations Display -->
+    <div id="visualizations" style="display:none;">
+        <div class="visualization-display">
+            <button class="back-button" id="backButton">
+                <i class="fas fa-arrow-left"></i>
+                Back to Dashboard
+            </button>
+
+            <div id="visualizationContent">
+                <div id="claimsByCoverageType" style="display:none;">
+                    <h3 class="chart-title">Claims by Coverage Type</h3>
+                    <canvas id="claimsByCoverageChart"></canvas>
+                </div>
+                <div id="claimsByPolicyHolder" style="display:none;">
+                    <h3 class="chart-title">Claims by Policy Holder</h3>
+                    <canvas id="claimsByPolicyHolderChart"></canvas>
+                </div>
+                <div id="claimsByAdjuster" style="display:none;">
+                    <h3 class="chart-title">Claims by Adjuster</h3>
+                    <canvas id="claimsByAdjusterChart"></canvas>
+                </div>
+                <div id="claimsOverTime" style="display:none;">
+                    <h3 class="chart-title">Claims Over Time</h3>
+                    <canvas id="claimsOverTimeChart"></canvas>
+                </div>
+                <div id="claimsByStatusOverTime" style="display:none;">
+                    <h3 class="chart-title">Claims by Status Over Time</h3>
+                    <canvas id="claimsByStatusOverTimeChart"></canvas>
+                </div>
+                <div id="averageAmountsByCoverageType" style="display:none;">
+                    <h3 class="chart-title">Average Amounts by Coverage Type</h3>
+                    <canvas id="averageAmountsByCoverageChart"></canvas>
+                </div>
+                <div id="claimsByState" style="display:none;">
+                    <h3 class="chart-title">Claims by State</h3>
+                    <canvas id="claimsByStateChart"></canvas>
+                </div>
+                <div id="claimsByPolicyEffectiveDates" style="display:none;">
+                    <h3 class="chart-title">Claims by Policy Effective Dates</h3>
+                    <canvas id="claimsByPolicyEffectiveDatesChart"></canvas>
+                </div>
+                <div id="fraudLikelihood" style="display:none;">
+                    <h3 class="chart-title">Fraud Likelihood</h3>
+                    <canvas id="fraudLikelihoodChart"></canvas>
+                </div>
+                <div id="fraudScores" style="display:none;">
+                    <h3 class="chart-title">Fraud Scores</h3>
+                    <canvas id="fraudScoresChart"></canvas>
+                </div>
+                <div id="claimTotalsByFraudLikelihood" style="display:none;">
+                    <h3 class="chart-title">Claims Totals by Fraud Likelihood</h3>
+                    <canvas id="claimTotalsByFraudLikelihoodChart"></canvas>
+                </div>
+                <div id="fraudScoreDistribution" style="display:none;">
+                    <h3 class="chart-title">Fraud Score Distribution</h3>
+                    <canvas id="fraudScoreDistributionChart"></canvas>
+                </div>
+                <div id="claimsByAdjusterFraudLikelihood" style="display:none;">
+                    <h3 class="chart-title">Claims by Adjuster Fraud Likelihood</h3>
+                    <canvas id="claimsByAdjusterFraudLikelihoodChart"></canvas>
+                </div>
+                <div id="fraudLikelihoodOverTime" style="display:none;">
+                    <h3 class="chart-title">Fraud Likelihood Over Time</h3>
+                    <canvas id="fraudLikelihoodOverTimeChart"></canvas>
+                </div>
+                <div id="claimsByPolicyHolderFraudLikelihood" style="display:none;">
+                    <h3 class="chart-title">Claims by Policy Holder Fraud Likelihood</h3>
+                    <canvas id="claimsByPolicyHolderFraudLikelihoodChart"></canvas>
+                </div>
+                <div id="fraudScoreByCoverageType" style="display:none;">
+                    <h3 class="chart-title">Fraud Score by Coverage Type</h3>
+                    <canvas id="fraudScoreByCoverageTypeChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        // Data from ViewBag
+        var claimsByCoverageType = @Html.Raw(ViewBag.ClaimsByCoverageTypeJson);
+        var claimsByPolicyHolder = @Html.Raw(ViewBag.ClaimsByPolicyHolderJson);
+        var claimsByAdjuster = @Html.Raw(ViewBag.ClaimsByAdjusterJson);
+        var claimsOverTime = @Html.Raw(ViewBag.ClaimsOverTimeJson);
+        var claimsByStatusOverTime = @Html.Raw(ViewBag.ClaimsByStatusOverTimeJson);
+        var averageAmountsByCoverageType = @Html.Raw(ViewBag.AverageAmountsByCoverageTypeJson);
+        var claimsByState = @Html.Raw(ViewBag.ClaimsByStateJson);
+        var claimsByPolicyEffectiveDates = @Html.Raw(ViewBag.ClaimsByPolicyEffectiveDatesJson);
+        var fraudLikelihood = @Html.Raw(ViewBag.ClaimsByFraudLikelihoodJson);
+        var fraudScores = @Html.Raw(ViewBag.FraudScoresJson);
+        var claimTotalsByFraudLikelihood = @Html.Raw(ViewBag.ClaimTotalsByFraudLikelihoodJson);
+        var fraudScoreDistribution = @Html.Raw(ViewBag.FraudScoreDistributionJson);
+        var claimsByAdjusterFraudLikelihood = @Html.Raw(ViewBag.ClaimsByAdjusterFraudLikelihoodJson);
+        var fraudLikelihoodOverTime = @Html.Raw(ViewBag.FraudLikelihoodOverTimeJson);
+        var claimsByPolicyHolderFraudLikelihood = @Html.Raw(ViewBag.ClaimsByPolicyHolderFraudLikelihoodJson);
+        var fraudScoreByCoverageType = @Html.Raw(ViewBag.FraudScoreByCoverageTypeJson);
+
+        // Green gradient for charts
+        const greenGrad = (ctx) => {
+            const gradient = ctx.createLinearGradient(0, 0, 0, 300);
+            gradient.addColorStop(0, 'rgba(25,135,84,0.8)');
+            gradient.addColorStop(1, 'rgba(25,135,84,0.1)');
+            return gradient;
+        };
+
+        // Chart 1: Claims by Coverage Type
+        var claimsByCoverageTypeCtx = document.getElementById('claimsByCoverageChart').getContext('2d');
+        new Chart(claimsByCoverageTypeCtx, {
+            type: 'bar',
+            data: {
+                labels: claimsByCoverageType.map(c => c.CoverageType),
+                datasets: [{
+                    label: 'Total Claimed Amount',
+                    data: claimsByCoverageType.map(c => c.TotalClaimedAmount),
+                    backgroundColor: greenGrad(claimsByCoverageTypeCtx),
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 2: Claims by Policy Holder
+        var claimsByPolicyHolderCtx = document.getElementById('claimsByPolicyHolderChart').getContext('2d');
+        new Chart(claimsByPolicyHolderCtx, {
+            type: 'bar',
+            data: {
+                labels: claimsByPolicyHolder.map(p => p.PolicyHolder),
+                datasets: [{
+                    label: 'Total Amount Claimed',
+                    data: claimsByPolicyHolder.map(p => p.TotalClaimedAmount),
+                    backgroundColor: 'rgba(6, 6, 7, 1)',
+                    borderRadius: 10,
+                }, {
+                    label: 'Total Amount Approved',
+                    data: claimsByPolicyHolder.map(p => p.TotalApprovedAmount),
+                    backgroundColor: 'rgba(8, 8, 11, 1)',
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 3: Claims by Adjuster
+        var claimsByAdjusterCtx = document.getElementById('claimsByAdjusterChart').getContext('2d');
+        new Chart(claimsByAdjusterCtx, {
+            type: 'bar',
+            data: {
+                labels: claimsByAdjuster.map(a => a.Adjuster),
+                datasets: [{
+                    label: 'Total Amount Claimed',
+                    data: claimsByAdjuster.map(a => a.TotalClaimedAmount),
+                    backgroundColor: 'rgba(6, 8, 7, 0.8)',
+                    borderRadius: 10,
+                }, {
+                    label: 'Total Amount Approved',
+                    data: claimsByAdjuster.map(a => a.TotalApprovedAmount),
+                    backgroundColor: 'rgba(4, 5, 5, 0.8)',
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 4: Claims Over Time
+        var claimsOverTimeCtx = document.getElementById('claimsOverTimeChart').getContext('2d');
+        new Chart(claimsOverTimeCtx, {
+            type: 'line',
+            data: {
+                labels: claimsOverTime.map(c => new Date(c.Date).toLocaleString('default', { month: 'long', year: 'numeric' })),
+                datasets: [{
+                    label: 'Number of Claims',
+                    data: claimsOverTime.map(c => c.ClaimCount),
+                    backgroundColor: 'rgba(25,135,84,0.2)',
+                    borderColor: 'rgba(4, 5, 4, 1)',
+                    borderWidth: 3,
+                    fill: true,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 5: Claims by Status Over Time
+        var statusColors = {
+            'Closed': 'rgba(25,135,84,0.8)',
+            'Filed': 'rgba(32,201,151,0.8)',
+            'In Review': 'rgba(149,213,178,0.8)',
+            'Approved': 'rgba(108,203,166,0.8)'
+        };
+
+        var groupedData = claimsByStatusOverTime.reduce((acc, curr) => {
+            var date = new Date(curr.Date).toLocaleString('default', { month: 'long', year: 'numeric' });
+            if (!acc[date]) acc[date] = {};
+            acc[date][curr.ClaimStatus] = curr.ClaimCount;
+            return acc;
+        }, {});
+
+        var labels = Object.keys(groupedData);
+        var datasets = Object.keys(statusColors).map(status => ({
+            label: status,
+            data: labels.map(label => groupedData[label][status] || 0),
+            backgroundColor: statusColors[status],
+            borderRadius: 10,
+        }));
+
+        var claimsByStatusOverTimeCtx = document.getElementById('claimsByStatusOverTimeChart').getContext('2d');
+        new Chart(claimsByStatusOverTimeCtx, {
+            type: 'bar',
+            data: { labels: labels, datasets: datasets },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 6: Average Amounts by Coverage Type
+        var coverageTypes = ["BIL", "PDL", "PIP", "CollisionCoverage", "ComprehensiveCoverage"];
+        var averageAmountsByCoverageTypeCtx = document.getElementById('averageAmountsByCoverageChart').getContext('2d');
+        new Chart(averageAmountsByCoverageTypeCtx, {
+            type: 'bar',
+            data: {
+                labels: coverageTypes,
+                datasets: [{
+                    label: 'Average Claimed Amount',
+                    data: coverageTypes.map(type => {
+                        var coverage = averageAmountsByCoverageType.find(c => c.Coverage === type);
+                        return coverage ? coverage.AverageClaimedAmount : 0;
+                    }),
+                    backgroundColor: 'rgba(7, 8, 7, 0.8)',
+                    borderRadius: 10,
+                }, {
+                    label: 'Average Approved Amount',
+                    data: coverageTypes.map(type => {
+                        var coverage = averageAmountsByCoverageType.find(c => c.Coverage === type);
+                        return coverage ? coverage.AverageApprovedAmount : 0;
+                    }),
+                    backgroundColor: 'rgba(15, 16, 16, 0.8)',
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 7: Claims by State
+        var claimsByStateCtx = document.getElementById('claimsByStateChart').getContext('2d');
+        new Chart(claimsByStateCtx, {
+            type: 'bar',
+            data: {
+                labels: claimsByState.map(s => s.State),
+                datasets: [{
+                    label: 'Number of Claims',
+                    data: claimsByState.map(s => s.ClaimCount),
+                    backgroundColor: greenGrad(claimsByStateCtx),
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 8: Claims by Policy Effective Dates
+        var claimsByPolicyEffectiveDatesCtx = document.getElementById('claimsByPolicyEffectiveDatesChart').getContext('2d');
+        new Chart(claimsByPolicyEffectiveDatesCtx, {
+            type: 'bar',
+            data: {
+                labels: claimsByPolicyEffectiveDates.map(p => new Date(p.Date).toLocaleString('default', { month: 'long', year: 'numeric' })),
+                datasets: [{
+                    label: 'Number of Policies',
+                    data: claimsByPolicyEffectiveDates.map(p => p.ClaimCount),
+                    backgroundColor: greenGrad(claimsByPolicyEffectiveDatesCtx),
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 9: Fraud Likelihood
+        var fraudLikelihoodCtx = document.getElementById('fraudLikelihoodChart').getContext('2d');
+        new Chart(fraudLikelihoodCtx, {
+            type: 'bar',
+            data: {
+                labels: fraudLikelihood.map(f => f.FraudLikelihood),
+                datasets: [{
+                    label: 'Number of Claims',
+                    data: fraudLikelihood.map(f => f.ClaimCount),
+                    backgroundColor: 'rgba(220,53,69,0.8)',
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 10: Fraud Scores
+        var fraudScoresCtx = document.getElementById('fraudScoresChart').getContext('2d');
+        new Chart(fraudScoresCtx, {
+            type: 'line',
+            data: {
+                labels: fraudScores.map(f => f.ClaimID),
+                datasets: [{
+                    label: 'Fraud Scores',
+                    data: fraudScores.map(f => f.FraudScore),
+                    backgroundColor: 'rgba(25,135,84,0.2)',
+                    borderColor: 'rgba(25,135,84,1)',
+                    borderWidth: 3,
+                    fill: true,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 11: Claim Totals by Fraud Likelihood
+        var claimTotalsByFraudLikelihoodCtx = document.getElementById('claimTotalsByFraudLikelihoodChart').getContext('2d');
+        new Chart(claimTotalsByFraudLikelihoodCtx, {
+            type: 'bar',
+            data: {
+                labels: claimTotalsByFraudLikelihood.map(f => f.FraudLikelihood),
+                datasets: [{
+                    label: 'Total Claimed Amount',
+                    data: claimTotalsByFraudLikelihood.map(f => f.TotalClaimedAmount),
+                    backgroundColor: 'rgba(220,53,69,0.8)',
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 12: Fraud Score Distribution
+        var fraudScoreDistributionCtx = document.getElementById('fraudScoreDistributionChart').getContext('2d');
+        new Chart(fraudScoreDistributionCtx, {
+            type: 'bar',
+            data: {
+                labels: fraudScoreDistribution.map(f => f.ScoreRange),
+                datasets: [{
+                    label: 'Fraud Score Distribution',
+                    data: fraudScoreDistribution.map(f => f.ClaimCount),
+                    backgroundColor: greenGrad(fraudScoreDistributionCtx),
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: Math.max(...fraudScoreDistribution.map(f => f.ClaimCount)) + 10
+                    }
+                }
+            }
+        });
+
+        // Chart 13: Claims by Adjuster Fraud Likelihood
+        var adjusters = [...new Set(claimsByAdjusterFraudLikelihood.map(f => f.Adjuster))];
+        var fraudLikelihoods = [...new Set(claimsByAdjusterFraudLikelihood.map(f => f.FraudLikelihood))];
+
+        var adjusterDatasets = fraudLikelihoods.map(fraudLikelihood => ({
+            label: fraudLikelihood,
+            data: adjusters.map(adjuster => {
+                var item = claimsByAdjusterFraudLikelihood.find(f => f.Adjuster === adjuster && f.FraudLikelihood === fraudLikelihood);
+                return item ? item.Count : 0;
+            }),
+            backgroundColor: fraudLikelihood === 'high' ? 'rgba(220,53,69,0.8)' : 'rgba(25,135,84,0.8)',
+            borderRadius: 10,
+        }));
+
+        var maxCount = Math.max(...claimsByAdjusterFraudLikelihood.map(f => parseInt(f.Count)));
+
+        var claimsByAdjusterFraudLikelihoodCtx = document.getElementById('claimsByAdjusterFraudLikelihoodChart').getContext('2d');
+        new Chart(claimsByAdjusterFraudLikelihoodCtx, {
+            type: 'bar',
+            data: {
+                labels: adjusters,
+                datasets: adjusterDatasets
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: maxCount + 5
+                    }
+                }
+            }
+        });
+
+        // Chart 14: Fraud Likelihood Over Time
+        var fraudLikelihoodOverTimeCtx = document.getElementById('fraudLikelihoodOverTimeChart').getContext('2d');
+        new Chart(fraudLikelihoodOverTimeCtx, {
+            type: 'line',
+            data: {
+                labels: fraudLikelihoodOverTime.map(f => new Date(f.Date).toLocaleString('default', { month: 'long', year: 'numeric' })),
+                datasets: [{
+                    label: 'Fraud Likelihood',
+                    data: fraudLikelihoodOverTime.map(f => f.FraudLikelihood),
+                    backgroundColor: 'rgba(25,135,84,0.2)',
+                    borderColor: 'rgba(25,135,84,1)',
+                    borderWidth: 3,
+                    fill: true,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 15: Claims by Policy Holder Fraud Likelihood
+        var claimsByPolicyHolderFraudLikelihoodCtx = document.getElementById('claimsByPolicyHolderFraudLikelihoodChart').getContext('2d');
+        new Chart(claimsByPolicyHolderFraudLikelihoodCtx, {
+            type: 'bar',
+            data: {
+                labels: claimsByPolicyHolderFraudLikelihood.map(f => f.PolicyHolder),
+                datasets: [{
+                    label: 'Fraud Likelihood',
+                    data: claimsByPolicyHolderFraudLikelihood.map(f => f.FraudLikelihood),
+                    backgroundColor: 'rgba(220,53,69,0.8)',
+                    borderRadius: 10,
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } },
+                scales: { y: { beginAtZero: true } }
+            }
+        });
+
+        // Chart 16: Fraud Score by Coverage Type
+        var fraudScoreByCoverageTypeCtx = document.getElementById('fraudScoreByCoverageTypeChart').getContext('2d');
+        new Chart(fraudScoreByCoverageTypeCtx, {
+            type: 'pie',
+            data: {
+                labels: fraudScoreByCoverageType.map(f => f.CoverageType),
+                datasets: [{
+                    label: 'Fraud Score',
+                    data: fraudScoreByCoverageType.map(f => f.FraudScore),
+                    backgroundColor: [
+                        'rgba(25,135,84,0.8)',
+                        'rgba(32,201,151,0.8)',
+                        'rgba(149,213,178,0.8)',
+                        'rgba(108,203,166,0.8)',
+                        'rgba(183,228,199,0.8)'
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: { legend: { display: true, position: 'top' } }
+            }
+        });
+
+        // Navigation Logic
+        document.querySelectorAll('.dashboard-card').forEach((card) => {
+            card.addEventListener('click', function() {
+                const chartIndex = parseInt(this.getAttribute('data-chart'));
+                document.getElementById('menu').style.display = 'none';
+                document.getElementById('visualizations').style.display = 'block';
+                
+                document.querySelectorAll('#visualizationContent > div').forEach(div => div.style.display = 'none');
+                document.querySelectorAll('#visualizationContent > div')[chartIndex].style.display = 'block';
+                
+                // Scroll to top
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+        });
+
+        document.getElementById('backButton').addEventListener('click', function() {
+            document.getElementById('menu').style.display = 'block';
+            document.getElementById('visualizations').style.display = 'none';
+            
+            // Scroll to top
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    </script>
+}

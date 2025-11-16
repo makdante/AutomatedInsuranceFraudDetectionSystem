@@ -1,0 +1,112 @@
+{
+  "ClaimID": "54236118-cedd-4c0f-9c34-f4a15d0c54cf",
+  "PolicyID": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+  "EffectiveDates": {
+    "StartDate": "2025-03-12",
+    "EndDate": "2026-03-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d5023dd5-3c99-4647-ac91-e9ca560330de",
+    "Name": "Kevin Williams",
+    "PolicyNumber": "0bf8a92a-4528-4ac5-a2ad-b8967e9e5702",
+    "ContactInformation": {
+      "Phone": "(620)408-9812x278",
+      "Email": "maxwell13@example.net",
+      "Address": "800 Campbell Streets Apt. 592\nWest Nicole, DE 17286"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-06",
+    "Location": "199 Butler Stravenue\nLake Bridgethaven, AZ 89020",
+    "Description": "Everything cultural real majority himself. Relate while step company quite recent."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 124610
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 166484
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3359
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3834
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17349
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 315636,
+    "TotalApproved": 224283
+  },
+  "AdjusterDetails": {
+    "Name": "Nicole Freeman",
+    "ContactInformation": {
+      "Phone": "691-678-3511x5679",
+      "Email": "qdavis@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/614f7a69-79a7-4ceb-bf54-361acbdf5411"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Montoya, Cox and Rogers",
+    "Model": "heart",
+    "Year": 2017,
+    "VIN": "da562ba7-e357-4e3d-80a4-9e49fbda5e5a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Huff",
+      "ContactInformation": {
+        "Phone": "+1-449-740-8923x476",
+        "Email": "tina23@example.com"
+      },
+      "Statement": "Glass as state. Impact race project. Walk drug network example his ago speech.\nSave suffer day news. Brother drop pattern quickly car morning."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d5a9c114-d84d-41a4-8912-5269a3d7a1aa",
+    "OfficerName": "Monica Perez",
+    "ReportDetails": "Goal each protect future despite. Letter anything million sing small position now but. Cause garden interview hope.\nHealth per sure especially. Notice walk leader pass like fact quite."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 759,
+    "AnnualIncome": 166507,
+    "DebtToIncomeRatio": 0.99
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 1,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

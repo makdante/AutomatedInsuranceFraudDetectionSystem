@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0aa55897-5e7d-4dfb-bc08-e3ebaf939bb7",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-10-17",
+    "EndDate": "2026-10-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-10-14",
+    "Location": "0968 Baker Fort Apt. 948\nDebbieport, GA 94559",
+    "Description": "Could visit senior maybe they. Half money anyone mother over management unit. Might career final feel short audience."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 41012
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 7785
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4797
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9207
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6590
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 69391,
+    "TotalApproved": 58009
+  },
+  "AdjusterDetails": {
+    "Name": "Rachel Turner",
+    "ContactInformation": {
+      "Phone": "001-649-206-3944x1332",
+      "Email": "vtaylor@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/37c3e72b-b828-494e-a802-800595c52d4f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-10-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Roberts-Evans",
+    "Model": "it",
+    "Year": 2005,
+    "VIN": "0375fed2-f7c4-4256-842b-803f0b771db0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Courtney Nelson",
+      "ContactInformation": {
+        "Phone": "470.238.1017x4257",
+        "Email": "jessica48@example.org"
+      },
+      "Statement": "Fear avoid rule. Message debate safe. Product style real.\nPersonal why hospital pay whether. Leader drop economic suddenly. Up interview church sense face."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bb1b5e8d-9ef5-42f3-98b1-6b0d8045615c",
+    "OfficerName": "Roger Schmidt",
+    "ReportDetails": "American tree recent determine them big. Where technology leader election.\nWall reflect without say develop soon cup education. Contain lay bad. Within late cell friend."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 748,
+    "AnnualIncome": 157001,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

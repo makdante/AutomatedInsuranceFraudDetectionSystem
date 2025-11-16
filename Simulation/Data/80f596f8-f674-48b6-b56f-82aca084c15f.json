@@ -1,0 +1,112 @@
+{
+  "ClaimID": "80f596f8-f674-48b6-b56f-82aca084c15f",
+  "PolicyID": "e01c2861-e918-4ae4-b175-eac63e64b712",
+  "EffectiveDates": {
+    "StartDate": "2025-02-23",
+    "EndDate": "2026-02-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1f06f531-9f80-407c-9bfc-00b75ccf8e58",
+    "Name": "Nathaniel Jenkins",
+    "PolicyNumber": "e01c2861-e918-4ae4-b175-eac63e64b712",
+    "ContactInformation": {
+      "Phone": "548.395.1156x414",
+      "Email": "bridgeskristen@example.com",
+      "Address": "5340 Neal Trace\nNew Julia, KS 86257"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-07",
+    "Location": "PSC 5700, Box 9672\nAPO AE 68613",
+    "Description": "Station father common address. Leader claim here special sort involve.\nPower population memory language place. Thank go interesting TV."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8121
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18856
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12397
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 14893
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 17072
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 71339,
+    "TotalApproved": 20724
+  },
+  "AdjusterDetails": {
+    "Name": "Andrea Smith",
+    "ContactInformation": {
+      "Phone": "430-683-4464x36432",
+      "Email": "lesliejoseph@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/b62fd7c7-6d3c-40e5-87cf-07b56d99d033"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones-Miller",
+    "Model": "degree",
+    "Year": 2002,
+    "VIN": "688e9ea9-ce00-4193-a5bc-ebb365186574"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Jackson",
+      "ContactInformation": {
+        "Phone": "3825387567",
+        "Email": "richard86@example.com"
+      },
+      "Statement": "News pass respond. Interest wall executive south measure bar.\nMuch scene say wife vote region foot. Talk avoid include number. Responsibility attention might buy lead."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7d7ea333-ce51-42e1-a2a1-31174b8fd262",
+    "OfficerName": "Jennifer Huerta",
+    "ReportDetails": "Heart phone instead lawyer. Here rule compare continue rule article. Only soon population door two section."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 422,
+    "AnnualIncome": 145214,
+    "DebtToIncomeRatio": 0.81
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 5,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

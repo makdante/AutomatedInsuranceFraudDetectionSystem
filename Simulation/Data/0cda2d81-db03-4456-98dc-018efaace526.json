@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0cda2d81-db03-4456-98dc-018efaace526",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-03-16",
+    "EndDate": "2026-03-16"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-02",
+    "Location": "8196 Derek Skyway\nEast Danielfort, ME 89131",
+    "Description": "Sign alone maybe its. Drop interest mention whether sea value there.\nVarious dark building fast. Pass recent week husband. Go part deep explain money environment."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 42794
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37480
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30732
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19175
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7239
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 137420,
+    "TotalApproved": 42660
+  },
+  "AdjusterDetails": {
+    "Name": "Marisa Spears",
+    "ContactInformation": {
+      "Phone": "001-940-700-4787",
+      "Email": "masonmelissa@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/59e9a5b9-c173-4631-88c9-1147b437f4a1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-02T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-07T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-12T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Norris-Anderson",
+    "Model": "particular",
+    "Year": 2018,
+    "VIN": "fa1712fa-ef3a-4910-bad7-f9c358b36961"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Monica Gill",
+      "ContactInformation": {
+        "Phone": "587.546.5561x07991",
+        "Email": "zgriffith@example.org"
+      },
+      "Statement": "Cost catch authority chance far physical. Method result write keep realize establish industry.\nAnswer focus child put although feel really open. Leg service audience agent rock interest almost."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1f3fc27d-1c71-4ce1-97ee-ad8ede8dd922",
+    "OfficerName": "Hailey Ferguson",
+    "ReportDetails": "Century foreign major card create whole project. Rather interview case."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 498,
+    "AnnualIncome": 174335,
+    "DebtToIncomeRatio": 0.22
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

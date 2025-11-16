@@ -1,0 +1,112 @@
+{
+  "ClaimID": "454e38e1-ddeb-4458-8c6e-745deb2927f0",
+  "PolicyID": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+  "EffectiveDates": {
+    "StartDate": "2025-06-01",
+    "EndDate": "2026-06-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "99c198b5-d0aa-48d3-94c9-959f2a44263a",
+    "Name": "Bethany Rose",
+    "PolicyNumber": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+    "ContactInformation": {
+      "Phone": "(715)908-5515x619",
+      "Email": "heather19@example.com",
+      "Address": "5993 Snow Manor Suite 784\nCherylton, KY 35335"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-31",
+    "Location": "5158 Jones Roads Suite 482\nJohnberg, ND 16798",
+    "Description": "Really try do speech between responsibility. Light matter because director place lawyer amount."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 19993
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18747
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 139860
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4991
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 63281
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 246872,
+    "TotalApproved": 202288
+  },
+  "AdjusterDetails": {
+    "Name": "Brittney Dominguez",
+    "ContactInformation": {
+      "Phone": "001-354-627-1102x670",
+      "Email": "wmills@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/32909130-90af-4eb8-aae8-6a68da45cd7f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-31T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Miller-Charles",
+    "Model": "list",
+    "Year": 2019,
+    "VIN": "5cc0cd0e-b880-46cb-8795-402b7b039425"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lauren Garcia",
+      "ContactInformation": {
+        "Phone": "957-898-3399x76400",
+        "Email": "wallshannah@example.com"
+      },
+      "Statement": "Deep carry heavy else responsibility face seven. Result perhaps minute measure kitchen."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "18584e9c-c0a3-41ef-9eed-ff2d14981d71",
+    "OfficerName": "Troy Farmer",
+    "ReportDetails": "Number actually down hand dog do. Less author firm set. American adult party indicate make manage. Hour sense customer role attack item."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 579,
+    "AnnualIncome": 125612,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 5,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

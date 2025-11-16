@@ -1,0 +1,112 @@
+{
+  "ClaimID": "710b1bf3-e720-41ef-99e9-e5af9d70b68e",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-03-28",
+    "EndDate": "2026-03-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-23",
+    "Location": "096 Mejia Manors\nHortonville, TX 88556",
+    "Description": "Suffer cost side treat store its. Game performance effect week describe blue. Statement what specific someone piece space.\nDraw body trouble. Anything lot but heavy sort medical."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7936
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6370
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 30979
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 175423
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 172999
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 393707,
+    "TotalApproved": 279459
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Walker",
+    "ContactInformation": {
+      "Phone": "263.203.5651",
+      "Email": "khicks@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/327f8bf1-ac62-4489-88bc-0325e974bcd0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-23T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-28T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-02T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Goodwin, Flores and Mcmahon",
+    "Model": "head",
+    "Year": 2007,
+    "VIN": "13752020-df44-45a9-965a-f2dd0947ec31"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Marcus Jones",
+      "ContactInformation": {
+        "Phone": "001-443-771-1185x3077",
+        "Email": "williammitchell@example.org"
+      },
+      "Statement": "Risk a daughter start even dinner. Trouble end TV continue federal capital dream.\nAgent become national behavior."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b66073f3-8adb-4f9b-a826-89d0792d01ca",
+    "OfficerName": "Heather Scott",
+    "ReportDetails": "This remain early song difficult nearly home. Where learn trial off test. Political speech five none road happy ago.\nWant record gun board everybody. Seven group society similar suggest because."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 543,
+    "AnnualIncome": 119933,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 4,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

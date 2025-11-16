@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9dbad181-78af-445e-9c6c-409af96bf895",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2024-11-14",
+    "EndDate": "2025-11-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-08",
+    "Location": "892 Lopez Camp Apt. 790\nEast Ivanview, MS 20903",
+    "Description": "Garden subject worker whom our three. Clearly where huge meeting fact any crime save. Outside official law police theory billion politics."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17911
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7023
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10766
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 64523
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 39153
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 139376,
+    "TotalApproved": 69290
+  },
+  "AdjusterDetails": {
+    "Name": "Antonio Walters",
+    "ContactInformation": {
+      "Phone": "847.362.9397x437",
+      "Email": "michael39@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d1ca9282-ba8c-46f1-86b1-34728ee8eb9f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-08T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-13T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-18T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Armstrong-Wells",
+    "Model": "really",
+    "Year": 2017,
+    "VIN": "1bea9301-0ae0-4fa4-b59a-c14351a2d344"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jeffrey Anderson",
+      "ContactInformation": {
+        "Phone": "+1-674-320-5418",
+        "Email": "nolson@example.org"
+      },
+      "Statement": "Either together camera fish. Against benefit mention sound business develop. Edge late dark play girl apply."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "cd942532-9331-4848-bf97-c275052574b9",
+    "OfficerName": "Lisa Nelson",
+    "ReportDetails": "Base will range reveal executive degree it. Magazine your many PM world receive.\nNice face coach gas sort. Week new stuff back rock song."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 552,
+    "AnnualIncome": 29268,
+    "DebtToIncomeRatio": 0.34
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 3,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

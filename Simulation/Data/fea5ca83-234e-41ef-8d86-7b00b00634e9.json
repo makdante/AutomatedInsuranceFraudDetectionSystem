@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fea5ca83-234e-41ef-8d86-7b00b00634e9",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-06-11",
+    "EndDate": "2026-06-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-06",
+    "Location": "932 Carter Roads\nTylerton, GU 08011",
+    "Description": "Discuss court animal will. Goal task line statement prepare cup. Nice forget fight until.\nMother threat order.\nYes right he spring. Song day evening certain."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 96425
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9177
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8011
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 54129
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 50658
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 218400,
+    "TotalApproved": 69446
+  },
+  "AdjusterDetails": {
+    "Name": "Michelle Wilkerson",
+    "ContactInformation": {
+      "Phone": "963.854.5050x83165",
+      "Email": "villanuevajesus@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/73e9e3f8-bd93-4e57-b2c5-0b6ec1ab525a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-06-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-06-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Carter-Boyd",
+    "Model": "guy",
+    "Year": 2005,
+    "VIN": "9aca6109-ed29-4274-85de-2a77ffcea491"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Emma Smith",
+      "ContactInformation": {
+        "Phone": "+1-849-544-2224",
+        "Email": "kristen90@example.net"
+      },
+      "Statement": "Message how apply alone value minute real. Most clearly account stay summer structure responsibility. Significant foreign order."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e034df56-3df1-4ab6-b3b6-2238eb2a8bce",
+    "OfficerName": "Cynthia Garcia",
+    "ReportDetails": "Health away of their talk thousand also. Stage foreign close."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 605,
+    "AnnualIncome": 107176,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

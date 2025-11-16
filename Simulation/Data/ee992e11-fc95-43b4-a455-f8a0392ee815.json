@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ee992e11-fc95-43b4-a455-f8a0392ee815",
+  "PolicyID": "7d680817-86fa-4f0f-b6fd-b5de84557ffd",
+  "EffectiveDates": {
+    "StartDate": "2025-04-26",
+    "EndDate": "2026-04-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c39beaf0-066a-4334-9809-0cc9be5199f3",
+    "Name": "Shirley Jenkins",
+    "PolicyNumber": "7d680817-86fa-4f0f-b6fd-b5de84557ffd",
+    "ContactInformation": {
+      "Phone": "760-945-4034",
+      "Email": "zachary07@example.org",
+      "Address": "PSC 5790, Box 4989\nAPO AE 66229"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-16",
+    "Location": "11722 Martinez Cove Suite 431\nRussellborough, RI 96111",
+    "Description": "Coach act remain lose each everybody collection. Call leave indeed college your machine subject. Without once rise event doctor yes."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2465
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 38299
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 134465
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2681
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 37186
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 215096,
+    "TotalApproved": 107907
+  },
+  "AdjusterDetails": {
+    "Name": "Cassandra Armstrong",
+    "ContactInformation": {
+      "Phone": "607-245-4187",
+      "Email": "tammy88@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/9ffcf6a8-db99-45a4-8855-40879534a8e1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-16T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-21T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-26T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Elliott PLC",
+    "Model": "article",
+    "Year": 2003,
+    "VIN": "3bf159cb-ef6b-412a-8daf-31be8646d25e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Tammy Hernandez",
+      "ContactInformation": {
+        "Phone": "001-390-728-9973x4591",
+        "Email": "amy27@example.net"
+      },
+      "Statement": "Month ago education woman likely beat. Moment he fish claim.\nExpect set stuff there. Agree left task reduce determine garden local gun. Campaign such dinner blood order field."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4d5a219f-d623-4136-aeff-4c42aa8c9c93",
+    "OfficerName": "Sharon Garcia",
+    "ReportDetails": "Agency spring arrive consider company. Table Democrat stuff available to.\nStory specific enter race affect church free. Those nation style various."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 742,
+    "AnnualIncome": 125356,
+    "DebtToIncomeRatio": 0.66
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 9,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

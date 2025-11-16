@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f91bfd39-47f8-479d-a04a-3515cec6a7c0",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-02-04",
+    "EndDate": "2026-02-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-07",
+    "Location": "2346 Brooks Station Apt. 142\nNorth Michelleside, CA 42689",
+    "Description": "Bag box scientist real size each red. Kid officer order yes almost. Manager federal trade century large project its."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 45309
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4968
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27648
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36164
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6402
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 120491,
+    "TotalApproved": 27711
+  },
+  "AdjusterDetails": {
+    "Name": "Julia Romero",
+    "ContactInformation": {
+      "Phone": "9802300303",
+      "Email": "qfowler@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/ea4d57c4-2654-4a88-b06f-d18850a35500"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-07T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-12T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-17T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gibson-Lozano",
+    "Model": "help",
+    "Year": 2002,
+    "VIN": "7895b390-a994-4cac-9666-793c73542eb5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Colleen Williams",
+      "ContactInformation": {
+        "Phone": "+1-395-987-3829",
+        "Email": "gchambers@example.net"
+      },
+      "Statement": "Cold fire event structure. Other interest main side.\nConsider defense cause father. Model guess true spring free player."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "2c9f29a6-88a1-40fb-bf1e-fa3ac8657608",
+    "OfficerName": "Sarah Coffey",
+    "ReportDetails": "Heavy who late low. Little wall son deep question success eight.\nTeach conference second network collection relate race though. Safe skin remain road. Spring book performance reach same."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 608,
+    "AnnualIncome": 56792,
+    "DebtToIncomeRatio": 0.24
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "851851d6-79a2-4414-ba93-c47287a07714",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-07-12",
+    "EndDate": "2026-07-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-04",
+    "Location": "86729 Black Cove Suite 869\nEast Janice, VA 35404",
+    "Description": "Seek result soldier structure cup speak. Director beat develop ago determine center. Central success term.\nPolice standard night when bit fine."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4706138
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4107831
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4631329
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4463428
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4176509
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22085235,
+    "TotalApproved": 2743973
+  },
+  "AdjusterDetails": {
+    "Name": "Joshua Jones",
+    "ContactInformation": {
+      "Phone": "856.722.2910",
+      "Email": "daniel81@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d57187b5-bf9f-4f09-87da-c4e5829116ca"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-04T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-09T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-14T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Porter-Johnson",
+    "Model": "simply",
+    "Year": 2018,
+    "VIN": "5325cf98-eebc-4d31-b20a-1ea735a71fab"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Hector Murphy",
+      "ContactInformation": {
+        "Phone": "764.757.5465",
+        "Email": "janet44@example.net"
+      },
+      "Statement": "Defense avoid artist fine current some. Leader community glass I cold."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "142e87de-8928-4435-b2a6-2228fe5907ae",
+    "OfficerName": "Jacqueline Holmes",
+    "ReportDetails": "Agree student design be really company beat case.\nPaper guy western outside house without case long. Need ground him sort."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 373,
+    "AnnualIncome": 174663,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

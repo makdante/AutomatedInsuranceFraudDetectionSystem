@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e5892678-c528-4be3-93ab-9643f0daf028",
+  "PolicyID": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+  "EffectiveDates": {
+    "StartDate": "2025-05-05",
+    "EndDate": "2026-05-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b3c9e4e9-a946-44a4-82a7-829df9b0425b",
+    "Name": "Madison Kim",
+    "PolicyNumber": "17c73a64-e0d3-4e28-ba29-dd57e7b63564",
+    "ContactInformation": {
+      "Phone": "396-342-3629x192",
+      "Email": "alvareztina@example.com",
+      "Address": "790 Johnson Hill Apt. 614\nWongport, CO 54591"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-03",
+    "Location": "5711 Michael Valley Suite 530\nNew Brandonview, VA 84831",
+    "Description": "Through maybe shoulder lay. Clearly serious show town laugh firm lose.\nHouse heavy down write whose election offer. Take design relationship coach. Son hour recognize other plant short under."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4397
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18759
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 78674
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 76095
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3171
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 181096,
+    "TotalApproved": 141265
+  },
+  "AdjusterDetails": {
+    "Name": "Claudia Carter",
+    "ContactInformation": {
+      "Phone": "001-268-289-4028",
+      "Email": "george64@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/d4f5510b-6d6c-4ec8-b2fc-4281c73fc609"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-03T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-08T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-13T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cruz Ltd",
+    "Model": "major",
+    "Year": 2015,
+    "VIN": "b6e2039f-2df7-4e23-8c76-8fabbc6d82a4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Marie Mann",
+      "ContactInformation": {
+        "Phone": "001-974-910-0594x98616",
+        "Email": "psmith@example.com"
+      },
+      "Statement": "Road sell side conference from prevent. Room fund movie author never western. Week certainly admit certain teacher machine stay head."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "71d1d631-388a-449c-ad3a-f4b67a2d2ea6",
+    "OfficerName": "Joseph Romero",
+    "ReportDetails": "Manager why lawyer benefit actually book by. Clearly morning information throw."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 558,
+    "AnnualIncome": 139032,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

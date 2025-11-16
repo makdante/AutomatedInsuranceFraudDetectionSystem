@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ff1b2e34-bb39-4e3a-bc1a-350c64fd9938",
+  "PolicyID": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+  "EffectiveDates": {
+    "StartDate": "2025-02-28",
+    "EndDate": "2026-02-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1ebb1bc-6120-42c4-a87a-be4f808197b1",
+    "Name": "Donald Smith",
+    "PolicyNumber": "8879234d-7e97-4bfe-b8e6-ef9cdd5ea82e",
+    "ContactInformation": {
+      "Phone": "675.606.3377",
+      "Email": "masonpamela@example.net",
+      "Address": "14432 Richard Vista\nNew Suzanne, TN 31994"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-13",
+    "Location": "781 Tammy Viaduct\nDavisberg, MS 56951",
+    "Description": "Seat response inside what. Wide after simple note positive experience. Whether old general clearly per stock. Many training state after.\nSignificant teach probably Democrat. Per option boy nothing."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9928
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5852
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 46460
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8818
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 48835
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 119893,
+    "TotalApproved": 75104
+  },
+  "AdjusterDetails": {
+    "Name": "Kathleen Williams",
+    "ContactInformation": {
+      "Phone": "+1-679-608-1690",
+      "Email": "chadbrown@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/a583e7fc-8662-4757-9b96-2325d0766afa"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jenkins, Allen and Miller",
+    "Model": "senior",
+    "Year": 2012,
+    "VIN": "437eddcd-f2f2-4af4-a4ba-6f9ed2868bb0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Derek Herrera",
+      "ContactInformation": {
+        "Phone": "+1-883-366-5872x447",
+        "Email": "dlynch@example.net"
+      },
+      "Statement": "Dog side part walk worker relationship first.\nBed protect standard company cost military professional especially. Five his fine age. Toward morning fund man. Successful they difference sure."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "14b398fc-7b7d-49a3-8a92-8d3e640f7bb3",
+    "OfficerName": "Rebecca Shaw MD",
+    "ReportDetails": "Agree mind better cover occur trouble. Put range edge establish music dinner people. Card difference cover go station."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 565,
+    "AnnualIncome": 181118,
+    "DebtToIncomeRatio": 0.63
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

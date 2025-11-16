@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3c66769b-5925-4c4b-b973-cc5147f82552",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-04-02",
+    "EndDate": "2026-04-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-18",
+    "Location": "1646 Holly Fords Apt. 023\nWilliamsshire, NV 14914",
+    "Description": "Newspaper executive people me much attention trouble. Special significant health also ability toward. Direction everybody move all walk model avoid."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30077
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4354
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 86040
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 61848
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 87280
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 269599,
+    "TotalApproved": 13209
+  },
+  "AdjusterDetails": {
+    "Name": "Courtney Sullivan",
+    "ContactInformation": {
+      "Phone": "915.727.2712",
+      "Email": "bking@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/c70439d9-79d9-47f8-9fdf-44b1da912a4a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-18T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-23T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-28T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mitchell-Anderson",
+    "Model": "mission",
+    "Year": 2003,
+    "VIN": "d5b716cf-8b6f-424d-ba70-e9cb897d1e13"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Gary Baker",
+      "ContactInformation": {
+        "Phone": "001-565-608-8505x41297",
+        "Email": "swilliams@example.com"
+      },
+      "Statement": "Environment become and drop house feeling subject of. Argue go push mean identify wear. Room share experience list sister wonder."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e3f68e09-8309-412d-b8a0-b0c1d24f3e5f",
+    "OfficerName": "Jacqueline White",
+    "ReportDetails": "Stop pull like now once. Wall country wonder theory.\nAround provide new least admit involve health.\nProject staff note fall opportunity evidence guess. Nation stuff past perform."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 363,
+    "AnnualIncome": 81812,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 6,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "39f0a8be-b507-4965-b1c7-7e71cfb26050",
+  "PolicyID": "178198c4-af5d-4a77-9200-bd354ae3727c",
+  "EffectiveDates": {
+    "StartDate": "2024-12-23",
+    "EndDate": "2025-12-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2f485a92-d7da-4d73-8c56-9c9dc8c7962e",
+    "Name": "Matthew Andrews",
+    "PolicyNumber": "178198c4-af5d-4a77-9200-bd354ae3727c",
+    "ContactInformation": {
+      "Phone": "290-542-8522x77100",
+      "Email": "brandonlambert@example.org",
+      "Address": "105 Palmer Crest Suite 209\nCollierfurt, ID 27452"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-09",
+    "Location": "14000 Whitney Courts\nLewistown, TX 26035",
+    "Description": "Degree may owner baby choice. Meeting weight film garden late. Night different model maintain.\nActivity technology deep. Pull fast machine day. Build commercial doctor they my."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 37114
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 59108
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4296
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2853
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 25633
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 129004,
+    "TotalApproved": 1963
+  },
+  "AdjusterDetails": {
+    "Name": "Adrian Howard",
+    "ContactInformation": {
+      "Phone": "(505)440-6566x872",
+      "Email": "brianbarker@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/29c8e9ea-e2bc-4f25-a546-fbac3ea709e4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Perry-Christensen",
+    "Model": "yard",
+    "Year": 2016,
+    "VIN": "754f02b0-b906-45c6-a891-d125c4a52d6f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Sexton",
+      "ContactInformation": {
+        "Phone": "669.233.9369",
+        "Email": "itownsend@example.com"
+      },
+      "Statement": "Parent avoid pattern state.\nHistory focus line form involve sea. Black interesting many every every future. Join stop participant share subject."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "32d5fea9-2130-42ca-9e20-4a26e19b3a38",
+    "OfficerName": "Stanley Murphy",
+    "ReportDetails": "Thought school age example again. Expect brother travel drive student plant improve.\nHard where seek behind operation hotel several."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 568,
+    "AnnualIncome": 191174,
+    "DebtToIncomeRatio": 0.43
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 2,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "17279c85-326a-465d-8430-ed0014e3a5cb",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2024-11-15",
+    "EndDate": "2025-11-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-21",
+    "Location": "34584 Thompson Light\nPort Tracey, MT 68664",
+    "Description": "Husband inside act whether. Must watch dog especially indeed resource name. Central time near."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5936
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6244
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9356
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6078
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 47504
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 75118,
+    "TotalApproved": 9324
+  },
+  "AdjusterDetails": {
+    "Name": "Catherine Miller",
+    "ContactInformation": {
+      "Phone": "(834)747-2912x235",
+      "Email": "zwilliams@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/16b5f3f2-ebca-47ea-9558-e705880c6f56"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-31T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Solis-Collins",
+    "Model": "letter",
+    "Year": 2021,
+    "VIN": "56c0d3de-2d86-4137-be8d-ca79cdc73c07"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Shawn Mills",
+      "ContactInformation": {
+        "Phone": "641.441.9768",
+        "Email": "javier86@example.net"
+      },
+      "Statement": "Agency never up investment do. Sea seem real need.\nThus bill approach wrong enter. Could there already interview. From turn put without new continue adult hospital."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9622aefa-b6a0-4e2a-8a9c-4eabc1c32f68",
+    "OfficerName": "Latoya Allen",
+    "ReportDetails": "Those physical open. Air beat and sell.\nMovie season government eye. Need left artist camera relate music draw area."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 845,
+    "AnnualIncome": 125657,
+    "DebtToIncomeRatio": 0.87
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

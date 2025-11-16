@@ -1,0 +1,112 @@
+{
+  "ClaimID": "18c9d4ac-d09e-4a87-ac8b-8fdc2114c3a9",
+  "PolicyID": "2fb9ec28-47ed-466c-8815-404444575c61",
+  "EffectiveDates": {
+    "StartDate": "2025-03-24",
+    "EndDate": "2026-03-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "08031ca9-653f-4788-8903-60605d8acdbe",
+    "Name": "Carolyn Turner",
+    "PolicyNumber": "2fb9ec28-47ed-466c-8815-404444575c61",
+    "ContactInformation": {
+      "Phone": "454-333-2849",
+      "Email": "vanessadavis@example.net",
+      "Address": "35169 Garcia Parkways Apt. 506\nWilliamsside, DE 85157"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-08",
+    "Location": "01139 Tracey Roads\nNorth Timothyfort, IN 14142",
+    "Description": "Military about law bank ok outside sing herself. Song seek likely heavy family mission himself news. Under voice middle rock."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18312
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 24157
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14127
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1621
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 10583
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 68800,
+    "TotalApproved": 28169
+  },
+  "AdjusterDetails": {
+    "Name": "Charles Gamble",
+    "ContactInformation": {
+      "Phone": "(943)842-2536",
+      "Email": "tgonzalez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/6fe05847-9d9d-4257-b268-3930b7244c34"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Lang PLC",
+    "Model": "determine",
+    "Year": 2009,
+    "VIN": "3ff6e0c6-60f0-40bb-9322-0c3d737d41aa"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Paul Thomas",
+      "ContactInformation": {
+        "Phone": "+1-300-539-9528",
+        "Email": "richard43@example.org"
+      },
+      "Statement": "Field recent story for matter cell own. Player street use.\nRise society coach their different seek window professional. View main candidate. Close change media. Everything official answer between."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f5a61a47-8563-4d1f-8637-67568354e95a",
+    "OfficerName": "Joseph Gates Jr.",
+    "ReportDetails": "Away culture position in. Official add old.\nAssume wonder remember how forward central maintain. Some fear white become event bring. Hard conference provide eat impact."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 537,
+    "AnnualIncome": 45004,
+    "DebtToIncomeRatio": 0.99
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 10,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

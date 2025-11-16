@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e249db12-4f86-4235-b137-79bc1acf84c7",
+  "PolicyID": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+  "EffectiveDates": {
+    "StartDate": "2025-10-13",
+    "EndDate": "2026-10-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "06e8f248-48e5-4910-a342-a071a62ec409",
+    "Name": "Brenda Fitzgerald",
+    "PolicyNumber": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+    "ContactInformation": {
+      "Phone": "+1-542-640-7974",
+      "Email": "khamilton@example.org",
+      "Address": "16393 Melissa Shoal Apt. 662\nHernandezview, NC 46498"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-25",
+    "Location": "999 Watson Views\nMedinaburgh, NC 21418",
+    "Description": "Risk tree ball nearly. Friend party onto authority they. Appear military parent local institution scientist green.\nWhich idea language although newspaper tough. His cut assume against."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 95373
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 141056
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15375
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5338
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 15978
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 273120,
+    "TotalApproved": 33821
+  },
+  "AdjusterDetails": {
+    "Name": "Gavin Maxwell",
+    "ContactInformation": {
+      "Phone": "001-247-668-6389x632",
+      "Email": "robert76@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/49e6fc1a-58fa-4d2a-b030-a51ab51e8ac4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Carr, Suarez and Hampton",
+    "Model": "whatever",
+    "Year": 2003,
+    "VIN": "76249e7e-301f-4f7c-91c6-ff2c01e2f656"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Heather Ward",
+      "ContactInformation": {
+        "Phone": "283.456.5466x2504",
+        "Email": "michaelwilliams@example.org"
+      },
+      "Statement": "Ability once imagine on her case. Sister arm lead left body as have.\nOnto camera artist lead. Again economic stock reduce family couple."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "107c91ed-30a8-4796-a079-e0ec80782058",
+    "OfficerName": "Jeffrey Bush",
+    "ReportDetails": "Much fact conference teach be information boy. Former education candidate effect source. Popular agency policy so.\nLow local same security pull clear."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 386,
+    "AnnualIncome": 94417,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 1,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

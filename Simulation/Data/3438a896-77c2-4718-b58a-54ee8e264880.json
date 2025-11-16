@@ -1,0 +1,112 @@
+{
+  "ClaimID": "3438a896-77c2-4718-b58a-54ee8e264880",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2025-02-04",
+    "EndDate": "2026-02-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-26",
+    "Location": "39772 Davis Rest\nWest Karl, GU 54057",
+    "Description": "Government population many heavy.\nFloor rise ability form own another. Near how skill happen scientist.\nImage adult age leave million. Still either participant set one. To task foreign here."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 30440
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 15033
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 96508
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3651
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 93417
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 239049,
+    "TotalApproved": 125628
+  },
+  "AdjusterDetails": {
+    "Name": "Shannon Massey",
+    "ContactInformation": {
+      "Phone": "001-409-399-3952x3065",
+      "Email": "henry06@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/1eda2ca7-df80-40c2-82cb-c2307f34afc1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-26T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-01T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-06T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Thomas-May",
+    "Model": "guy",
+    "Year": 2012,
+    "VIN": "17ab7ce6-169f-47eb-9e53-f93d029bda80"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alexandra Choi",
+      "ContactInformation": {
+        "Phone": "(422)666-8725x174",
+        "Email": "douglaskimberly@example.com"
+      },
+      "Statement": "Audience catch thank woman mention down hard often. Small great call federal.\nVoice rate onto short its. Road affect include main identify teacher.\nControl idea sign memory of."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "25e9b3e0-dab2-4a21-97e9-2e104b499d09",
+    "OfficerName": "Samuel Maynard",
+    "ReportDetails": "Bring would subject defense word wrong. Pull movie price brother green.\nInstead trouble her wife today whose person turn. Party letter night church."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 788,
+    "AnnualIncome": 146652,
+    "DebtToIncomeRatio": 0.22
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 0,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d26e74fd-d077-4d42-b250-3d99c65ccefb",
+  "PolicyID": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+  "EffectiveDates": {
+    "StartDate": "2024-11-19",
+    "EndDate": "2025-11-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "2de3803c-1adc-42f7-a8a0-ca9a65c633ec",
+    "Name": "Ronald Kennedy",
+    "PolicyNumber": "c0ed487e-e796-49a7-83cd-28b1313f6799",
+    "ContactInformation": {
+      "Phone": "921-619-1781x9118",
+      "Email": "yhunt@example.org",
+      "Address": "1538 Mary Field Apt. 769\nMariaborough, AR 64565"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-03",
+    "Location": "PSC 7613, Box 6418\nAPO AP 44913",
+    "Description": "Gun difference improve support. Including international camera guess author around get. Determine series model coach.\nRisk resource off check magazine."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 1090
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1958
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 96651
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 21847
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6945
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 128491,
+    "TotalApproved": 56772
+  },
+  "AdjusterDetails": {
+    "Name": "Leah Patrick",
+    "ContactInformation": {
+      "Phone": "283-679-5103x412",
+      "Email": "mcmillanlauren@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/dc238ff7-6635-41f9-aaf8-9e6727f61bf5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Duncan-King",
+    "Model": "little",
+    "Year": 2004,
+    "VIN": "8426bc26-015b-4e3f-b76b-672bc465f423"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angela Henderson",
+      "ContactInformation": {
+        "Phone": "7468188013",
+        "Email": "brownlinda@example.com"
+      },
+      "Statement": "Leg capital line five help big purpose. Woman something wide effort crime.\nOffice too wife raise drop. Bar certain attack nor. Control who foot become class avoid."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "994fca57-8b7b-443c-9208-9175b00b4c0d",
+    "OfficerName": "Barbara Lloyd",
+    "ReportDetails": "Yet east character machine spring can. Trip enough study article north sister long purpose.\nNotice least member create."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 354,
+    "AnnualIncome": 131027,
+    "DebtToIncomeRatio": 0.9
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

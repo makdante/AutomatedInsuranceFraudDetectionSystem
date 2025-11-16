@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e7a1266e-313f-4496-a259-7817c6f4db3e",
+  "PolicyID": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+  "EffectiveDates": {
+    "StartDate": "2025-04-05",
+    "EndDate": "2026-04-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "8bf8aa8f-31d8-4904-928a-c411bab56c37",
+    "Name": "Kathleen Wilson",
+    "PolicyNumber": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+    "ContactInformation": {
+      "Phone": "3889435835",
+      "Email": "angie46@example.net",
+      "Address": "24489 Brady Mews Suite 377\nNew Susanmouth, NM 88090"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-17",
+    "Location": "33621 Melissa Green\nWest Pamelahaven, WY 11924",
+    "Description": "Reach establish not her figure. Catch sister nor free ok customer.\nHeart improve significant second product win. Bill hope certainly grow song."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2850
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22406
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7462
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 43305
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 16982
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 93005,
+    "TotalApproved": 55144
+  },
+  "AdjusterDetails": {
+    "Name": "Jimmy Farrell",
+    "ContactInformation": {
+      "Phone": "001-948-245-3787",
+      "Email": "crystalmendoza@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/90355655-95d7-4118-a8d6-6b2409aaf803"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Nguyen-Garcia",
+    "Model": "society",
+    "Year": 2009,
+    "VIN": "b369fc85-d9c2-4e72-8387-b8809b2c8753"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathryn Hernandez",
+      "ContactInformation": {
+        "Phone": "479.733.9416x1236",
+        "Email": "tcampbell@example.org"
+      },
+      "Statement": "Site develop only girl social cell. Region movement over red everything. Everybody ahead number might.\nCenter son sure camera teacher. Current society huge nice performance hit a."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b5acf054-bddb-4b6a-9754-ad4cb202d92b",
+    "OfficerName": "Samantha Gould",
+    "ReportDetails": "Single try art research understand style investment. Test your teach sound continue gas theory."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 410,
+    "AnnualIncome": 38527,
+    "DebtToIncomeRatio": 0.89
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 1,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

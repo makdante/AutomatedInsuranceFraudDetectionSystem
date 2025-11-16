@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2481e248-cd7d-45da-bbe2-110800864c44",
+  "PolicyID": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+  "EffectiveDates": {
+    "StartDate": "2025-04-19",
+    "EndDate": "2026-04-19"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1bf8424f-07ec-47ed-9d35-11d4893d13c1",
+    "Name": "John Mullins",
+    "PolicyNumber": "b91b2cd5-2da0-4040-9538-0d4ff21343fd",
+    "ContactInformation": {
+      "Phone": "790-464-8818x8921",
+      "Email": "anthonypaul@example.net",
+      "Address": "423 Traci Stream Apt. 140\nPort Brian, WY 13131"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-16",
+    "Location": "72867 Brandon Forest\nCaldwellshire, UT 63512",
+    "Description": "Care live network both. Environmental page allow need power grow. Cause under social one fire skill."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15897
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 23507
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 90155
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 64238
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 109651
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 303448,
+    "TotalApproved": 204878
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Johnson",
+    "ContactInformation": {
+      "Phone": "(408)542-2921",
+      "Email": "nguyenvalerie@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/e90fcdad-7015-41b4-968b-ca5ab2a2dfa8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-16T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-21T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-26T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Simmons, Thornton and Johnson",
+    "Model": "show",
+    "Year": 2002,
+    "VIN": "72d9712e-1afd-4d2f-829b-a2fe9763bef3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Garcia",
+      "ContactInformation": {
+        "Phone": "(538)900-0660x041",
+        "Email": "katie35@example.org"
+      },
+      "Statement": "Guy require argue resource need. Evidence body operation create bed question front. Career no far over follow.\nPartner total this process camera star stop. Lead music future brother set hope."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a5bd792b-7e7f-4930-9143-c417f25124fb",
+    "OfficerName": "Julia Hernandez",
+    "ReportDetails": "Political speak subject Republican spring generation. Likely themselves tree fish year wide.\nPaper result force money three. Poor gun major someone model remain information."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 477,
+    "AnnualIncome": 133090,
+    "DebtToIncomeRatio": 0.57
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

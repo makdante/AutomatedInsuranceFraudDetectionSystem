@@ -1,0 +1,112 @@
+{
+  "ClaimID": "677add02-b30d-4424-ae33-d3e23074488a",
+  "PolicyID": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+  "EffectiveDates": {
+    "StartDate": "2025-08-24",
+    "EndDate": "2026-08-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "8bf8aa8f-31d8-4904-928a-c411bab56c37",
+    "Name": "Kathleen Wilson",
+    "PolicyNumber": "24cbb56e-6c89-444b-8d08-5313b4764c45",
+    "ContactInformation": {
+      "Phone": "3889435835",
+      "Email": "angie46@example.net",
+      "Address": "24489 Brady Mews Suite 377\nNew Susanmouth, NM 88090"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-21",
+    "Location": "PSC 7825, Box 9246\nAPO AA 83082",
+    "Description": "So message lawyer how black. Glass easy itself teach. Candidate effort this radio TV half.\nMost left claim third. Argue box health contain fill president. Whether quickly push miss become."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2479
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 55995
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16927
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 130353
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 85099
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 290853,
+    "TotalApproved": 289707
+  },
+  "AdjusterDetails": {
+    "Name": "Charles Sherman",
+    "ContactInformation": {
+      "Phone": "(867)777-7560",
+      "Email": "joshuamartin@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/047f3f8b-eb5a-4cbb-a6ee-0b79e44c4d55"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-03T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Guerrero, Jackson and Bailey",
+    "Model": "relate",
+    "Year": 2006,
+    "VIN": "5b466da5-a63f-4fa6-8e47-eee02210f406"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Barbara Chambers",
+      "ContactInformation": {
+        "Phone": "201-967-5074",
+        "Email": "davisjeffrey@example.com"
+      },
+      "Statement": "The could small tell. Gun condition instead hot job just possible. Piece manager enough their professional series stay."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "24702214-1838-407e-9c76-176ec173d08d",
+    "OfficerName": "Alexander Thompson",
+    "ReportDetails": "Foot current brother soldier receive. Light they particularly practice. Knowledge newspaper lead six story ability.\nCandidate campaign will include. Statement building forget simple staff race our."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 674,
+    "AnnualIncome": 97899,
+    "DebtToIncomeRatio": 0.96
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 3,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

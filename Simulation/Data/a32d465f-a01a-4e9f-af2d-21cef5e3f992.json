@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a32d465f-a01a-4e9f-af2d-21cef5e3f992",
+  "PolicyID": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+  "EffectiveDates": {
+    "StartDate": "2025-05-24",
+    "EndDate": "2026-05-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3cd8543c-a7fa-4fd5-96b8-321382511c44",
+    "Name": "Darryl Leonard",
+    "PolicyNumber": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+    "ContactInformation": {
+      "Phone": "342-367-2937",
+      "Email": "bmejia@example.net",
+      "Address": "429 Kimberly Landing\nClayburgh, AZ 73702"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-31",
+    "Location": "990 Wilson Drives Suite 369\nLake Rhonda, NJ 90541",
+    "Description": "Including stage represent focus decide size. Surface why student year. Note affect walk minute fall discover yourself movement.\nTeam film high laugh. Why professional catch."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 111853
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 39427
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8461
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3612
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 92213
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 255566,
+    "TotalApproved": 63691
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Trujillo",
+    "ContactInformation": {
+      "Phone": "292-351-1137x32305",
+      "Email": "starkstephanie@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/4c8e6a30-b619-4619-9cfb-9fd71448d2b2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-31T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Vargas-Higgins",
+    "Model": "statement",
+    "Year": 2010,
+    "VIN": "a0871155-4152-41ce-ba0e-e95d2479dc5d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebecca Simmons",
+      "ContactInformation": {
+        "Phone": "562-570-2926x938",
+        "Email": "juliarivera@example.com"
+      },
+      "Statement": "Include difficult smile relationship condition financial. Fire be represent role visit.\nGreat direction discuss economic. Poor grow tend officer think front."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "26f45ba1-3eb6-44e8-b96c-5c39a1f64832",
+    "OfficerName": "Andrew Tran",
+    "ReportDetails": "Against find quality sport huge form. Listen site data lead same man. Sport especially significant world break run control."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 310,
+    "AnnualIncome": 187347,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 8,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

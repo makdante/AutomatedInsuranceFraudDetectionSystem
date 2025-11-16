@@ -1,0 +1,112 @@
+{
+  "ClaimID": "05051b9f-126f-4403-9921-db9ee7508248",
+  "PolicyID": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+  "EffectiveDates": {
+    "StartDate": "2025-05-27",
+    "EndDate": "2026-05-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "c79c1004-8976-4328-af15-71df8aedcd3b",
+    "Name": "Timothy Alvarado",
+    "PolicyNumber": "21f09fbd-8d5f-4db2-aa84-343f62f01545",
+    "ContactInformation": {
+      "Phone": "+1-428-958-3339x49093",
+      "Email": "wrightaaron@example.net",
+      "Address": "1907 Sarah Curve Suite 292\nAprilside, KY 87897"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-03",
+    "Location": "5264 Jennifer Mountains Suite 921\nMillerstad, PW 46667",
+    "Description": "Direction eight maybe understand nothing. Pm where concern agree baby dream. Management person serious beautiful."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4460817
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4274050
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4245752
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4879391
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4202063
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22062073,
+    "TotalApproved": 3129418
+  },
+  "AdjusterDetails": {
+    "Name": "Lindsey Dunn",
+    "ContactInformation": {
+      "Phone": "271.805.9459",
+      "Email": "aanderson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/f0db5f8b-e147-42ba-9cb9-d98683551e72"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-03T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-08T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-13T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Barker, Lloyd and Graves",
+    "Model": "southern",
+    "Year": 2011,
+    "VIN": "752948f8-da77-427a-804e-cca73564668c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Desiree Guerrero",
+      "ContactInformation": {
+        "Phone": "+1-820-833-3465x7480",
+        "Email": "davidroberts@example.net"
+      },
+      "Statement": "Since effect tough note factor society. Practice skin various food. Easy positive family trip lot government hair seven."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "10287c61-79f0-4fa5-8696-bbbd239967a1",
+    "OfficerName": "Sabrina Harris",
+    "ReportDetails": "Daughter city grow east one perhaps. Today let mention better accept.\nRead southern change similar different. Charge skill both near out keep hotel."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 341,
+    "AnnualIncome": 72371,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 6,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

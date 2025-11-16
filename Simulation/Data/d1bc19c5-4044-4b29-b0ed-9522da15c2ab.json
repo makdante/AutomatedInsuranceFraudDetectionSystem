@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d1bc19c5-4044-4b29-b0ed-9522da15c2ab",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2025-01-11",
+    "EndDate": "2026-01-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-02",
+    "Location": "563 Lewis Manors\nRodriguezfurt, AR 49962",
+    "Description": "Reflect rather sure media above sing administration. Fund firm under Democrat news claim against. Place view do."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3743
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 46098
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 44695
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37685
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 97616
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 229837,
+    "TotalApproved": 200602
+  },
+  "AdjusterDetails": {
+    "Name": "Christopher Bennett",
+    "ContactInformation": {
+      "Phone": "9083334842",
+      "Email": "sara26@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/a997c464-687e-46dc-be13-cf446bc95e09"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-02-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-02-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Chen Inc",
+    "Model": "national",
+    "Year": 2015,
+    "VIN": "a3d4059a-1d97-4889-812e-2c4cbbba3bd1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amanda Hardy",
+      "ContactInformation": {
+        "Phone": "786.535.6851x2024",
+        "Email": "louis04@example.net"
+      },
+      "Statement": "Whatever listen south production. Happy father picture should court late growth.\nBelieve still thought mean language. Middle more central near reality item. Enough attorney message."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "0cce3d8c-c04e-4e16-8373-99dc0f95f580",
+    "OfficerName": "Tammy Norton",
+    "ReportDetails": "Development speech expect sometimes. Difference fund station.\nArgue eye together player leader in feeling toward. A result next between get occur."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 466,
+    "AnnualIncome": 60660,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 10,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

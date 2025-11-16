@@ -1,0 +1,112 @@
+{
+  "ClaimID": "71a3ea1d-30ab-4c04-8528-5572f9ec4fc9",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-01-06",
+    "EndDate": "2026-01-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-27",
+    "Location": "8318 Mary Fort\nLeroyview, NE 73848",
+    "Description": "Economy per push hair money. Heart program yourself final size democratic.\nGood prove along level process approach. City recognize teacher or south continue. Material anything such arm."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 41178
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 134155
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 29950
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18107
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 25220
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 248610,
+    "TotalApproved": 85898
+  },
+  "AdjusterDetails": {
+    "Name": "Cheryl Hawkins",
+    "ContactInformation": {
+      "Phone": "332.936.5491x119",
+      "Email": "lisa56@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/acfaf715-a63a-46b2-9e82-cb71ed2ff88d"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Garcia, Ryan and Morris",
+    "Model": "edge",
+    "Year": 2008,
+    "VIN": "a568fb7a-70d9-4119-8c1d-fd54c8a04dc4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Bobby Lyons",
+      "ContactInformation": {
+        "Phone": "526.452.6825",
+        "Email": "umarquez@example.org"
+      },
+      "Statement": "Turn state support debate. Gas human mouth special. Anything ahead throw floor."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8b98cd85-faa3-4b04-a35a-42242146a738",
+    "OfficerName": "Morgan Arnold",
+    "ReportDetails": "Figure follow politics plan always after fear people. Talk keep shake party tell when. Author four support break cup sell."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 438,
+    "AnnualIncome": 163274,
+    "DebtToIncomeRatio": 0.45
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

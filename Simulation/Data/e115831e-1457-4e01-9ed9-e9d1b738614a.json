@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e115831e-1457-4e01-9ed9-e9d1b738614a",
+  "PolicyID": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+  "EffectiveDates": {
+    "StartDate": "2025-10-15",
+    "EndDate": "2026-10-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "94574ab1-14ef-4d7d-935c-c52f6f907b16",
+    "Name": "Brittany Perkins",
+    "PolicyNumber": "24258d02-36a4-4dde-b523-0916dbf6aaae",
+    "ContactInformation": {
+      "Phone": "877-727-6223x0565",
+      "Email": "richard63@example.net",
+      "Address": "72556 Audrey Lake\nNathanshire, GA 57199"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-27",
+    "Location": "692 Stevens Groves\nSouth Jasmine, KS 23632",
+    "Description": "Prevent pull decade board age can course. Mother power can strategy air."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9064
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 66244
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 12506
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3499
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5560
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 96873,
+    "TotalApproved": 90913
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Andersen",
+    "ContactInformation": {
+      "Phone": "+1-399-730-1346x5544",
+      "Email": "billymccarty@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/13893506-6477-4497-a575-d61fafce25e8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Love LLC",
+    "Model": "their",
+    "Year": 2001,
+    "VIN": "dbca1a79-baed-433d-9822-d6a5f6dddc69"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "James Jackson",
+      "ContactInformation": {
+        "Phone": "(730)592-0029x072",
+        "Email": "bauerdylan@example.org"
+      },
+      "Statement": "Win worry own experience lawyer song likely anyone. Avoid day sport young oil occur.\nMatter let between. Big member third power story carry. Capital election likely everybody control mean."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "90917765-2971-4e04-a052-9e4985a17714",
+    "OfficerName": "Shane Nelson",
+    "ReportDetails": "Father form degree follow. Message certain card task Congress citizen specific.\nStyle item fight chair career. Should happy model box. Article worry her region leg church size."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 635,
+    "AnnualIncome": 71573,
+    "DebtToIncomeRatio": 0.78
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

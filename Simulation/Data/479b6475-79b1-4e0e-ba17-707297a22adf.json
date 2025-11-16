@@ -1,0 +1,112 @@
+{
+  "ClaimID": "479b6475-79b1-4e0e-ba17-707297a22adf",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-08-20",
+    "EndDate": "2026-08-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-28",
+    "Location": "8635 Valerie View\nLauraland, TX 71295",
+    "Description": "Agency manager summer perhaps town. Girl page student future late.\nScientist continue identify not health. Past not play admit wrong. Usually soldier grow effort."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 80448
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8870
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6056
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 88790
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1409
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 185573,
+    "TotalApproved": 4659
+  },
+  "AdjusterDetails": {
+    "Name": "Hannah White",
+    "ContactInformation": {
+      "Phone": "730-658-1548",
+      "Email": "sbrown@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a5b4c833-6d61-4733-85b3-f20c9b22109e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-05T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-10T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Peterson Inc",
+    "Model": "ask",
+    "Year": 2007,
+    "VIN": "475add49-096b-40d4-9a97-675c6db60d9e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Trevor Mitchell",
+      "ContactInformation": {
+        "Phone": "8972985017",
+        "Email": "robertaroberts@example.net"
+      },
+      "Statement": "Concern none discuss story free country. Ago trade human director.\nResearch start town development its region may. Guess choose without even half because appear. Teacher involve support mean itself."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e8ea72ea-c629-40d4-a647-48166eaedb67",
+    "OfficerName": "Jamie Carey",
+    "ReportDetails": "Finally forward son. Father black end.\nStart notice letter last. She foot language reason either. Street pay safe attorney son."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 370,
+    "AnnualIncome": 51019,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

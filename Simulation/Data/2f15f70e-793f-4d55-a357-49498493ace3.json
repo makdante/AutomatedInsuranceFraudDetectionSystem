@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2f15f70e-793f-4d55-a357-49498493ace3",
+  "PolicyID": "edb39a23-2e22-4016-9361-028155eceec8",
+  "EffectiveDates": {
+    "StartDate": "2025-10-23",
+    "EndDate": "2026-10-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "958f1d81-cf68-405c-ab92-a931c2c577e6",
+    "Name": "Breanna Ewing",
+    "PolicyNumber": "edb39a23-2e22-4016-9361-028155eceec8",
+    "ContactInformation": {
+      "Phone": "+1-935-681-7496",
+      "Email": "jeremystark@example.net",
+      "Address": "52172 Ryan Estate Suite 095\nPort Nathanbury, NY 38761"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-09-13",
+    "Location": "380 Olson Crest Apt. 209\nNew Desiree, PA 51454",
+    "Description": "Fish business protect seat middle write hear. Determine father another situation myself such physical assume. Camera detail off group provide."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 34793
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 9695
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22611
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 101407
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14053
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 182559,
+    "TotalApproved": 12897
+  },
+  "AdjusterDetails": {
+    "Name": "Erik Graham",
+    "ContactInformation": {
+      "Phone": "001-202-817-1818x05912",
+      "Email": "brian78@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a08d714d-4240-4068-978d-b5c7183d2109"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-09-13T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-09-18T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-09-23T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Walsh-Wheeler",
+    "Model": "plan",
+    "Year": 2012,
+    "VIN": "a274cdd1-ca94-487e-a4fe-bc3601d5b768"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Edward Smith",
+      "ContactInformation": {
+        "Phone": "563-318-4859x39691",
+        "Email": "bairdrebecca@example.org"
+      },
+      "Statement": "Officer few tax history focus economy. Difficult raise nor investment end reveal."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5ce7deb9-4f29-4bf3-b1d4-66060ddbabd0",
+    "OfficerName": "Tracy Anderson",
+    "ReportDetails": "Speak them material. Strategy store play audience service.\nPerform record discover. Pass hard appear better. Mouth green kind table itself. Much throughout phone."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 599,
+    "AnnualIncome": 186382,
+    "DebtToIncomeRatio": 0.41
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

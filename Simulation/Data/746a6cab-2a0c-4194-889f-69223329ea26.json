@@ -1,0 +1,112 @@
+{
+  "ClaimID": "746a6cab-2a0c-4194-889f-69223329ea26",
+  "PolicyID": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+  "EffectiveDates": {
+    "StartDate": "2024-12-12",
+    "EndDate": "2025-12-12"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eb400d1e-8ed3-4fd5-8a4b-a02804e6ce83",
+    "Name": "Dylan Lee",
+    "PolicyNumber": "ff0a84f7-6f46-4c4d-8cdd-ff4af2cb425d",
+    "ContactInformation": {
+      "Phone": "976.394.8548x28663",
+      "Email": "blane@example.com",
+      "Address": "044 Briggs Way\nLake Allisonchester, FM 38872"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-09",
+    "Location": "647 Tracy Brook Apt. 464\nEstradamouth, DC 47149",
+    "Description": "Measure include blue which commercial. The identify plant law particular work Republican. Author manager memory network education."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 10651
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27704
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3749
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3630
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 32908
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 78642,
+    "TotalApproved": 31278
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Gilbert",
+    "ContactInformation": {
+      "Phone": "(436)736-9164x460",
+      "Email": "shannonmyers@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/d49bbf5e-f73a-4ee3-933c-799a4e91e2e5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Zamora-Mccarthy",
+    "Model": "special",
+    "Year": 2019,
+    "VIN": "31333a06-1c01-496c-b78e-c1f60cb5715a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Michael Graham",
+      "ContactInformation": {
+        "Phone": "503-982-8980x21696",
+        "Email": "smithdwayne@example.org"
+      },
+      "Statement": "Later crime approach much food sport. Enjoy bill make ball social.\nPhysical result trip become life blood only. Role remain beyond. Enough successful gas year."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5ad480c7-01cd-478f-a4e3-6c9b562b4522",
+    "OfficerName": "Elizabeth Zavala",
+    "ReportDetails": "Measure economic actually. Feeling wife difference reveal million. Second official without notice growth behind campaign drive.\nPolicy born almost between. Common according environment million."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 723,
+    "AnnualIncome": 26035,
+    "DebtToIncomeRatio": 0.5
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

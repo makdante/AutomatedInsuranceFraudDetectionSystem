@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4e6247eb-2ff7-4829-8e96-201b11ded265",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2024-11-23",
+    "EndDate": "2025-11-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-26",
+    "Location": "708 Rogers Lakes Apt. 188\nLake Ronald, OH 53700",
+    "Description": "Radio quite remember think. Manage allow total large the on music. Seem police under according treatment staff head."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 99998
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 77638
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7156
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 87019
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1907
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 273718,
+    "TotalApproved": 265767
+  },
+  "AdjusterDetails": {
+    "Name": "Haley Gardner",
+    "ContactInformation": {
+      "Phone": "935.304.0503x189",
+      "Email": "anthony51@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/c8de417d-fb32-449a-bc5a-f6137dbafd8f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-31T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-05T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Montgomery Group",
+    "Model": "yeah",
+    "Year": 2003,
+    "VIN": "78f9d7b7-aa74-4702-b5a8-46760b2077c3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Madison Calhoun",
+      "ContactInformation": {
+        "Phone": "719.866.1394x9240",
+        "Email": "ellisonmargaret@example.org"
+      },
+      "Statement": "Find fight lot approach fine voice. Natural garden five lead culture standard test news. Decide whom call our history our statement. Son church memory later."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "67a765bd-51d7-43d4-996a-5c8f465f76a7",
+    "OfficerName": "Alexander Mccarthy",
+    "ReportDetails": "Resource issue course general beat. Care able open marriage rock sure happen. Behind full wear here short what opportunity.\nSingle through name notice avoid method. Animal work those wish."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 833,
+    "AnnualIncome": 148220,
+    "DebtToIncomeRatio": 0.67
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 7,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

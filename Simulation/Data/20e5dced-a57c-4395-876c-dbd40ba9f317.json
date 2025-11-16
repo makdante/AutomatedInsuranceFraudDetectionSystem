@@ -1,0 +1,112 @@
+{
+  "ClaimID": "20e5dced-a57c-4395-876c-dbd40ba9f317",
+  "PolicyID": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+  "EffectiveDates": {
+    "StartDate": "2025-02-08",
+    "EndDate": "2026-02-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "06e8f248-48e5-4910-a342-a071a62ec409",
+    "Name": "Brenda Fitzgerald",
+    "PolicyNumber": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+    "ContactInformation": {
+      "Phone": "+1-542-640-7974",
+      "Email": "khamilton@example.org",
+      "Address": "16393 Melissa Shoal Apt. 662\nHernandezview, NC 46498"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-06",
+    "Location": "18146 Hughes Mountains Suite 050\nJenniferhaven, MO 50977",
+    "Description": "Various level election adult cover. Hit easy base.\nMight hit never maintain board example. Good the much until focus item station. Social standard available finish stay door include return."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 113867
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6039
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 37881
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 16040
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 57541
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 231368,
+    "TotalApproved": 122983
+  },
+  "AdjusterDetails": {
+    "Name": "Brent Reid",
+    "ContactInformation": {
+      "Phone": "845.904.7770x807",
+      "Email": "fishermary@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/e5a84e95-8991-4aa1-b45f-56b05d1591e1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Jones and Sons",
+    "Model": "young",
+    "Year": 2020,
+    "VIN": "5eca8cca-70d2-4069-b989-ca907dab509a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Renee Bruce DVM",
+      "ContactInformation": {
+        "Phone": "754-422-1869",
+        "Email": "lking@example.net"
+      },
+      "Statement": "Organization understand by treat simple. Result dog decade safe water make federal. Add drug stop article alone tax produce."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "ce00f5df-3b9a-4d69-801a-ab778353931e",
+    "OfficerName": "Dawn Myers",
+    "ReportDetails": "While eight magazine service read.\nSpace show fill. Without real city century success left. Choice rather space professor focus."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 720,
+    "AnnualIncome": 40941,
+    "DebtToIncomeRatio": 0.62
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

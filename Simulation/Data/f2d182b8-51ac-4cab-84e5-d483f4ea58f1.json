@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f2d182b8-51ac-4cab-84e5-d483f4ea58f1",
+  "PolicyID": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+  "EffectiveDates": {
+    "StartDate": "2025-01-23",
+    "EndDate": "2026-01-23"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "06e8f248-48e5-4910-a342-a071a62ec409",
+    "Name": "Brenda Fitzgerald",
+    "PolicyNumber": "0e60f27f-30e5-43b9-8005-804ed8294ecb",
+    "ContactInformation": {
+      "Phone": "+1-542-640-7974",
+      "Email": "khamilton@example.org",
+      "Address": "16393 Melissa Shoal Apt. 662\nHernandezview, NC 46498"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-09",
+    "Location": "USNS Cervantes\nFPO AA 89045",
+    "Description": "Development sort address suggest.\nInterest cup article. Should line yeah beautiful.\nVisit treat who knowledge condition attack. Really listen necessary high data."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 62436
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14379
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13769
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3237
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8339
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 102160,
+    "TotalApproved": 47424
+  },
+  "AdjusterDetails": {
+    "Name": "Jamie Garrett",
+    "ContactInformation": {
+      "Phone": "452-429-7907",
+      "Email": "gwall@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/1ec25df3-529e-4751-b335-fe064a023d74"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-09T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-14T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-19T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Washington Group",
+    "Model": "make",
+    "Year": 2021,
+    "VIN": "06fe921a-204c-40a9-969b-b473dc036328"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dr. Kimberly Robinson MD",
+      "ContactInformation": {
+        "Phone": "001-754-930-9018x16958",
+        "Email": "hstone@example.com"
+      },
+      "Statement": "Herself themselves brother husband especially range education give. Marriage dream view.\nList cause option total. Expect investment how increase year decade international very."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7afe1257-bd3c-4ea4-9c2c-e80d531851dd",
+    "OfficerName": "Lauren Fuller",
+    "ReportDetails": "Lose keep night system ten.\nRun cup fact policy Congress continue draw against.\nAlthough buy ok source traditional parent game. Despite idea guy he. He easy number though drop.\nImage activity both."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 826,
+    "AnnualIncome": 81909,
+    "DebtToIncomeRatio": 0.57
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 0,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

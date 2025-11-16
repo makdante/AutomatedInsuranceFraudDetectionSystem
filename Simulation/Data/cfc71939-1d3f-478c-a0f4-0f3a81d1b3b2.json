@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cfc71939-1d3f-478c-a0f4-0f3a81d1b3b2",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-01-26",
+    "EndDate": "2026-01-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-28",
+    "Location": "6079 Aaron Ferry Suite 225\nMoranburgh, WY 63529",
+    "Description": "Medical writer throw finish east clearly. What significant lose enter.\nWhite day wife foreign community question natural. Statement single recently analysis suggest crime."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3353
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14221
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10567
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10100
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3878
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 42119,
+    "TotalApproved": 5867
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Hancock",
+    "ContactInformation": {
+      "Phone": "+1-337-898-2000x324",
+      "Email": "gwilliamson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/0ff875ea-5af3-4424-a495-d6c091110415"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Mcdonald, Norris and Wood",
+    "Model": "leave",
+    "Year": 2006,
+    "VIN": "4f8f6574-4c65-4473-a679-d5b47f5a0edb"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christopher Boyle",
+      "ContactInformation": {
+        "Phone": "6815084636",
+        "Email": "hannahwright@example.com"
+      },
+      "Statement": "These friend family compare education. Reflect street under city recent specific help fill. Education art politics physical foot.\nDegree north kitchen statement. Out require wear."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "46acd5ff-29ac-4f54-9c4c-2d1756542264",
+    "OfficerName": "Carl Figueroa",
+    "ReportDetails": "Participant upon firm anything far positive. This idea as discuss think. Size yeah yet example skin."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 808,
+    "AnnualIncome": 114784,
+    "DebtToIncomeRatio": 0.25
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

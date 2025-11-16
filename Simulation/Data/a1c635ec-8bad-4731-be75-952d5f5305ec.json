@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a1c635ec-8bad-4731-be75-952d5f5305ec",
+  "PolicyID": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+  "EffectiveDates": {
+    "StartDate": "2025-02-06",
+    "EndDate": "2026-02-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d0bedd16-f201-4197-b8d7-b2d8d318b1a8",
+    "Name": "David Mcintosh",
+    "PolicyNumber": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+    "ContactInformation": {
+      "Phone": "+1-504-327-8426x072",
+      "Email": "moyeranthony@example.com",
+      "Address": "2867 Burton Land Suite 894\nSouth Brittanyside, DE 10957"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-12",
+    "Location": "506 Summers Drive Apt. 529\nNew John, NM 80606",
+    "Description": "Maybe cover team huge realize family. Cell south attorney particularly remain.\nDoctor next physical with piece. Young thus radio statement book several fine. Act I southern pass any."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8751
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 31443
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22267
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 52344
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11835
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 126640,
+    "TotalApproved": 79763
+  },
+  "AdjusterDetails": {
+    "Name": "Timothy Mayer",
+    "ContactInformation": {
+      "Phone": "636-927-8839",
+      "Email": "cmcdonald@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/2de7d004-cac7-42dc-8f26-3a295ba7178a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Murphy-Gomez",
+    "Model": "call",
+    "Year": 2008,
+    "VIN": "3ed1720e-c0bb-4d1e-b016-23f7ab69435c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amy Brooks",
+      "ContactInformation": {
+        "Phone": "622-925-8365",
+        "Email": "xjacobs@example.com"
+      },
+      "Statement": "Interesting section task firm reality let film. Else notice research investment forward.\nInside bag whom great brother music. Across thus what audience become likely high."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9be152dd-0938-4450-b18b-e6348cb1e625",
+    "OfficerName": "Betty Ortiz",
+    "ReportDetails": "Provide side animal become American opportunity. Thus pick sport raise. Price body rich summer consumer.\nWill five several loss continue population. Likely return reality summer opportunity on."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 742,
+    "AnnualIncome": 190283,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 1,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

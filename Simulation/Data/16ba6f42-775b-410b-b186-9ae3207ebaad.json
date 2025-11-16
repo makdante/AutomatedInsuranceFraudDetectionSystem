@@ -1,0 +1,112 @@
+{
+  "ClaimID": "16ba6f42-775b-410b-b186-9ae3207ebaad",
+  "PolicyID": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+  "EffectiveDates": {
+    "StartDate": "2025-09-04",
+    "EndDate": "2026-09-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "179e4a22-6c8f-45a1-aaab-b71a2df1d253",
+    "Name": "Paul Johnson",
+    "PolicyNumber": "c3fef84f-881a-4cf0-9830-d330f5768fe4",
+    "ContactInformation": {
+      "Phone": "908.647.2270",
+      "Email": "rorozco@example.com",
+      "Address": "193 Koch Underpass\nHernandezfort, AK 04408"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-04-05",
+    "Location": "1618 Nicole Ford\nLake Alicia, CA 42823",
+    "Description": "Like top shake Congress western mission foreign if. Rest future never ago week themselves."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16545
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 40948
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 8845
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 56729
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 139098
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 262165,
+    "TotalApproved": 94339
+  },
+  "AdjusterDetails": {
+    "Name": "April Wilson",
+    "ContactInformation": {
+      "Phone": "967-716-9613x7211",
+      "Email": "slawson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/9cd3b34a-2d49-4416-932f-a246c1b30948"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-04-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-04-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Palmer, Bush and Pennington",
+    "Model": "notice",
+    "Year": 2007,
+    "VIN": "43e0a1e3-5f3d-489b-b9b5-218ba5bb99ff"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jennifer Gill",
+      "ContactInformation": {
+        "Phone": "430.791.2048x51871",
+        "Email": "patrick80@example.com"
+      },
+      "Statement": "Change should claim friend. Prevent near particular medical movie cause. Magazine agent staff along family big no. Food different benefit force than population."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8195369c-b17c-4db6-9c73-41a7d6261816",
+    "OfficerName": "Matthew Burns",
+    "ReportDetails": "Produce style couple above safe. Tend region whatever bill.\nIndividual organization article money able lose. Per stage civil safe town drug consider."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 720,
+    "AnnualIncome": 166763,
+    "DebtToIncomeRatio": 0.65
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 1,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

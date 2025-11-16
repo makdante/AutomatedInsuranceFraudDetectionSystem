@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9a679752-b683-4bd7-b62b-2b7554222870",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-08-29",
+    "EndDate": "2026-08-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-05",
+    "Location": "1659 Natalie Pines Suite 649\nNorth Brandyhaven, CA 03691",
+    "Description": "School want stock happy. Specific price late about. Policy eye civil laugh kid choose.\nExperience ready focus evidence whose."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8951
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5718
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 184107
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17264
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1393
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 217433,
+    "TotalApproved": 22547
+  },
+  "AdjusterDetails": {
+    "Name": "Nicole West",
+    "ContactInformation": {
+      "Phone": "(769)402-5998x1452",
+      "Email": "wfernandez@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/f508531b-0b21-4eff-a8f2-7c3ce0c9cddb"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-05T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-10T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-15T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ray, Taylor and Le",
+    "Model": "evidence",
+    "Year": 2006,
+    "VIN": "14b569dc-e768-4438-b4f9-96e3577538b1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kathy Nelson",
+      "ContactInformation": {
+        "Phone": "(878)944-4736",
+        "Email": "matthewhill@example.org"
+      },
+      "Statement": "Sit onto especially should reveal. One beautiful get market public area must hope. Career face rather anything foot design foreign. Either far surface enjoy."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bd45498e-8450-4dd4-9b5b-ba6b20425303",
+    "OfficerName": "Mr. Bruce Sutton Jr.",
+    "ReportDetails": "Provide attorney style phone everyone those. Sell she would staff human weight boy eye.\nHour like often receive guy. Many end law sell memory. Their car exist serious."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 434,
+    "AnnualIncome": 101316,
+    "DebtToIncomeRatio": 0.11
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

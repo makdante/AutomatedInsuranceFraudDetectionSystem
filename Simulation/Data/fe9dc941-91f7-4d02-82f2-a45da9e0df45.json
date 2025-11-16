@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fe9dc941-91f7-4d02-82f2-a45da9e0df45",
+  "PolicyID": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+  "EffectiveDates": {
+    "StartDate": "2025-07-26",
+    "EndDate": "2026-07-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ac5a31ca-3bdd-4c10-bf6a-ce868133ec66",
+    "Name": "James Gilbert",
+    "PolicyNumber": "a8c95695-2a4a-4796-8951-b0006444b6ab",
+    "ContactInformation": {
+      "Phone": "2675986394",
+      "Email": "lmontes@example.org",
+      "Address": "52161 Young Shoals Suite 547\nStevenberg, MT 96015"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-15",
+    "Location": "735 Benjamin Plain Apt. 302\nOlsonborough, MS 57086",
+    "Description": "Middle green nothing. Place majority hear various style. Assume spring box investment follow continue energy.\nClaim health war of. Say husband outside carry."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4551779
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4496794
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4028959
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4297037
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4474450
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21849019,
+    "TotalApproved": 2344224
+  },
+  "AdjusterDetails": {
+    "Name": "Crystal Hill",
+    "ContactInformation": {
+      "Phone": "756-697-3695",
+      "Email": "deanna53@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4d911fae-fb4d-4f14-9287-04873ecef44f"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-15T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-20T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-25T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Harmon Inc",
+    "Model": "compare",
+    "Year": 2002,
+    "VIN": "643e18b8-55fa-4262-b589-2f8f29f63060"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mr. Kenneth Mcguire",
+      "ContactInformation": {
+        "Phone": "001-948-356-6330x595",
+        "Email": "fdunn@example.net"
+      },
+      "Statement": "Camera anyone office million sign early scientist. Movement single debate value between dog home. Responsibility identify common hit information."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "db5dd959-c922-4cd9-b518-d9773b6a6092",
+    "OfficerName": "Jamie Flores",
+    "ReportDetails": "Although seven nation collection education unit ago finally. Across small list hour under blue. Activity art spend course."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 433,
+    "AnnualIncome": 37541,
+    "DebtToIncomeRatio": 0.57
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

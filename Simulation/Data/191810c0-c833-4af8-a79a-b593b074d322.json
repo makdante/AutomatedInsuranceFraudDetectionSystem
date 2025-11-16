@@ -1,0 +1,112 @@
+{
+  "ClaimID": "191810c0-c833-4af8-a79a-b593b074d322",
+  "PolicyID": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+  "EffectiveDates": {
+    "StartDate": "2025-03-09",
+    "EndDate": "2026-03-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a44e0781-2199-433c-a76f-6fc7ada96c3f",
+    "Name": "Janet White",
+    "PolicyNumber": "019b821a-ebcd-49fb-8b74-9d70c1aa7fc7",
+    "ContactInformation": {
+      "Phone": "423.277.3446x110",
+      "Email": "quinnkristy@example.net",
+      "Address": "265 Petty Centers\nNorth Jefferyfort, ID 16180"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-25",
+    "Location": "365 Scott Locks\nRamirezbury, DC 27204",
+    "Description": "Heart choice behind mean impact lead. Certain garden stock class.\nFar daughter instead radio. Safe who audience fish.\nMinute inside power hear new. South kind conference itself. Often move activity."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 27071
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10157
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 8218
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 44661
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 114533
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 204640,
+    "TotalApproved": 57288
+  },
+  "AdjusterDetails": {
+    "Name": "Katelyn Sellers",
+    "ContactInformation": {
+      "Phone": "+1-590-457-8354x71375",
+      "Email": "richard87@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a5b0a0ac-982c-4d35-8163-31c96b5fdd7e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-25T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-30T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-04T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hernandez, Ballard and Brandt",
+    "Model": "open",
+    "Year": 2001,
+    "VIN": "c6e05d52-25f4-43c0-9896-abf7cbe1cec1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Larry Peterson",
+      "ContactInformation": {
+        "Phone": "863.971.3601x0231",
+        "Email": "michaelcharles@example.net"
+      },
+      "Statement": "Easy either focus yourself your Republican western. Break per worry area baby. Deep cover quite crime. Fact music light arrive.\nMust stock agency decide budget clearly about."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "38e10dee-1274-4503-b094-25b1cf59f086",
+    "OfficerName": "Nicole Miller",
+    "ReportDetails": "Agent human quickly entire cup. Star agent fact ahead grow just generation."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 838,
+    "AnnualIncome": 31263,
+    "DebtToIncomeRatio": 0.56
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 7,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

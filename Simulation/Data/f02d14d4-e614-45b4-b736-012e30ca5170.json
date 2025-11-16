@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f02d14d4-e614-45b4-b736-012e30ca5170",
+  "PolicyID": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+  "EffectiveDates": {
+    "StartDate": "2025-06-29",
+    "EndDate": "2026-06-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "99c198b5-d0aa-48d3-94c9-959f2a44263a",
+    "Name": "Bethany Rose",
+    "PolicyNumber": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+    "ContactInformation": {
+      "Phone": "(715)908-5515x619",
+      "Email": "heather19@example.com",
+      "Address": "5993 Snow Manor Suite 784\nCherylton, KY 35335"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-07",
+    "Location": "Unit 0266 Box 2474\nDPO AE 96600",
+    "Description": "Treat personal that picture especially save work.\nContain democratic situation accept officer. Gun player real gas food throw capital. Some work design machine."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5014
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 40081
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 67590
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 90824
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 188969
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 392478,
+    "TotalApproved": 168993
+  },
+  "AdjusterDetails": {
+    "Name": "Sarah Daniel",
+    "ContactInformation": {
+      "Phone": "+1-607-397-5985x555",
+      "Email": "markjones@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/d9b8abfc-0f21-41b1-8c35-c6592e4dcb56"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Salazar-Wood",
+    "Model": "religious",
+    "Year": 2011,
+    "VIN": "68ef0509-3391-4872-9315-0f4f9acc4a4e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mrs. Diane Hill MD",
+      "ContactInformation": {
+        "Phone": "582-424-6301",
+        "Email": "colonedward@example.org"
+      },
+      "Statement": "Whom avoid site current. Crime collection Congress coach church nor instead. Education ever ability ok thing technology.\nReach life leave rich officer."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8d939a0c-84d0-4872-b765-a051a9a4319a",
+    "OfficerName": "Caleb Powell",
+    "ReportDetails": "Environment might however. Describe today collection entire always follow particularly. Choose deep my head.\nWhile game face the. Affect yeah yet just. Letter return decision risk film local."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 330,
+    "AnnualIncome": 77918,
+    "DebtToIncomeRatio": 0.58
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

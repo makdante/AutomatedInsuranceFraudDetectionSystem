@@ -1,0 +1,112 @@
+{
+  "ClaimID": "2a97a488-6e8d-4cb9-b4ff-e40bf5d8eb38",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2025-02-03",
+    "EndDate": "2026-02-03"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-19",
+    "Location": "95337 Scott Dam\nTammyfort, NE 33596",
+    "Description": "Option assume same indeed. Sure project campaign piece care.\nDark send reduce deep medical agree. Range must left. Commercial during begin poor."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 83943
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 27160
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3206
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 114286
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6434
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 235029,
+    "TotalApproved": 218063
+  },
+  "AdjusterDetails": {
+    "Name": "Christian Martin",
+    "ContactInformation": {
+      "Phone": "910.674.6088x65717",
+      "Email": "grahamlaura@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/3efc1b46-3c84-4afa-bc56-77704b8a2868"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-19T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-24T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-29T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cain LLC",
+    "Model": "from",
+    "Year": 2011,
+    "VIN": "8fff1fda-a991-4bf3-86cc-8a8163a09f92"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Aaron Jones",
+      "ContactInformation": {
+        "Phone": "9222012974",
+        "Email": "gutierrezerica@example.org"
+      },
+      "Statement": "When idea music fire important pretty my. Nor politics car could.\nMan stand partner. Key firm long box help member phone.\nFirst southern consumer wrong southern week. Author ask responsibility hair."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "668141e6-ef10-4c9d-b887-45fad67e7b69",
+    "OfficerName": "Benjamin Watson",
+    "ReportDetails": "Hospital expert could get gun wife while. Personal public attack method program adult run. Off walk learn. Hold drive sort.\nGround development dog environment such. Else else doctor rise."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 401,
+    "AnnualIncome": 26842,
+    "DebtToIncomeRatio": 0.91
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 5,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

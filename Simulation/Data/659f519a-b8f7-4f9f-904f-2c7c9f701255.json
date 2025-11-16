@@ -1,0 +1,112 @@
+{
+  "ClaimID": "659f519a-b8f7-4f9f-904f-2c7c9f701255",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2024-11-27",
+    "EndDate": "2025-11-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-14",
+    "Location": "28724 Perez Ramp Suite 975\nEast Jeffrey, OR 90027",
+    "Description": "Suffer color return well. Interesting page ability instead. Want ahead around quickly read fact blood."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 41010
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4301
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6625
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 32905
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18405
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 103246,
+    "TotalApproved": 24771
+  },
+  "AdjusterDetails": {
+    "Name": "Megan Miller",
+    "ContactInformation": {
+      "Phone": "930.280.1404",
+      "Email": "shawnwilson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/3042f646-2967-4a45-b754-048578c71bb8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davenport-Leblanc",
+    "Model": "piece",
+    "Year": 2013,
+    "VIN": "68878ad3-e8c8-4383-8245-741c31c19f3c"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Craig Robinson",
+      "ContactInformation": {
+        "Phone": "(745)926-3515x296",
+        "Email": "qbrown@example.net"
+      },
+      "Statement": "Yet pull test last air.\nEntire get pretty including population. Hot customer best structure sister.\nShould measure find for. Peace certainly leave debate."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d7119a21-6c91-49ff-9282-5ed76e73a509",
+    "OfficerName": "Taylor Guerrero",
+    "ReportDetails": "Record economy explain travel whole bed. Theory close step list.\nNewspaper age recently. Mrs success entire wonder behavior international court company. Later appear toward front thank year."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 817,
+    "AnnualIncome": 166201,
+    "DebtToIncomeRatio": 0.59
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 5,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

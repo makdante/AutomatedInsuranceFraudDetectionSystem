@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5924aa08-f9e2-452f-b76f-e15d640594d2",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2024-11-15",
+    "EndDate": "2025-11-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-29",
+    "Location": "11152 Bennett Knolls\nLake Kevinmouth, DE 92006",
+    "Description": "Boy country water whom between hot author.\nKid nothing record such. Meeting others identify point safe single leader."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 10223
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 49289
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12941
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 6320
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 41558
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 120331,
+    "TotalApproved": 13724
+  },
+  "AdjusterDetails": {
+    "Name": "James Jenkins DDS",
+    "ContactInformation": {
+      "Phone": "746-905-2357x092",
+      "Email": "christopher33@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/75eb64f8-7fb3-49ce-b4f0-b9a19600c946"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cruz-Scott",
+    "Model": "score",
+    "Year": 2002,
+    "VIN": "67d44883-d923-4ce3-b666-8a5acd507c9a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rebekah Morales",
+      "ContactInformation": {
+        "Phone": "001-290-201-6946x9667",
+        "Email": "patricia44@example.net"
+      },
+      "Statement": "Involve who budget later share deal.\nStore produce executive result. News read east foreign.\nPolicy item law face green. Staff open tax note. Customer serious start Mr put."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e544a401-217c-47e7-8554-2531e5d75c2c",
+    "OfficerName": "Beverly Glover",
+    "ReportDetails": "Color economic better which entire several surface PM. Power growth identify free chair ever together. House probably listen line sometimes anything present."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 575,
+    "AnnualIncome": 118290,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

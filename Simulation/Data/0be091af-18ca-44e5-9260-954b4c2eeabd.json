@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0be091af-18ca-44e5-9260-954b4c2eeabd",
+  "PolicyID": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+  "EffectiveDates": {
+    "StartDate": "2025-03-22",
+    "EndDate": "2026-03-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "47c5522b-b804-4bac-b21c-da33d60d70fd",
+    "Name": "Richard Conway",
+    "PolicyNumber": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+    "ContactInformation": {
+      "Phone": "581-212-2861x494",
+      "Email": "usimpson@example.com",
+      "Address": "4097 Welch Harbors Apt. 346\nNorth Jacobside, IA 43728"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-17",
+    "Location": "041 Hendricks Oval\nNew Gary, WY 05797",
+    "Description": "Term yet baby. About send another attack growth right as.\nQuite much quality nothing avoid. Whose decade hour. Relate occur experience church much size democratic."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4183434
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4492982
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4372145
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4204296
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4179631
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 21432488,
+    "TotalApproved": 9467328
+  },
+  "AdjusterDetails": {
+    "Name": "Xavier Walker",
+    "ContactInformation": {
+      "Phone": "597-776-9045x13869",
+      "Email": "williamnicholson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/ff9d9f20-1bb4-4dfd-9f59-337bf6e2d8dd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-17T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-22T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-27T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Alvarado PLC",
+    "Model": "view",
+    "Year": 2021,
+    "VIN": "b94dfc09-d241-44dc-997d-9ff7a235e69d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Scott Villegas",
+      "ContactInformation": {
+        "Phone": "+1-553-642-0923x289",
+        "Email": "fwright@example.net"
+      },
+      "Statement": "Plant everyone near girl billion. Share door thousand attorney.\nAgain again whose allow girl. Then for rather history arrive mention inside nothing."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d9ae9ac3-99ea-4bdb-bcc9-7022e7a73b4b",
+    "OfficerName": "Monica Herman",
+    "ReportDetails": "Series wide clear at store win have. View let indicate natural main performance. Personal necessary stuff piece. Defense interest see cultural."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 327,
+    "AnnualIncome": 123790,
+    "DebtToIncomeRatio": 0.39
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 7,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

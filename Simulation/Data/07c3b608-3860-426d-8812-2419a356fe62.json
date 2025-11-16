@@ -1,0 +1,112 @@
+{
+  "ClaimID": "07c3b608-3860-426d-8812-2419a356fe62",
+  "PolicyID": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+  "EffectiveDates": {
+    "StartDate": "2025-08-05",
+    "EndDate": "2026-08-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b300b4db-b500-4cf2-92b0-7a26c5766366",
+    "Name": "Regina Yang",
+    "PolicyNumber": "6f6e2e97-23b7-4bff-a66d-a778c601fe09",
+    "ContactInformation": {
+      "Phone": "+1-382-966-3494x9735",
+      "Email": "robertmccullough@example.org",
+      "Address": "845 Cummings Streets\nWest Patrickshire, MO 42236"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-28",
+    "Location": "446 Robinson Camp\nSouth Jessicaton, PA 74905",
+    "Description": "Successful western treat shoulder on. Well career sing say either practice former. Hot prepare you parent address another."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3578
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 68261
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 78967
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4359
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 9674
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 164839,
+    "TotalApproved": 22900
+  },
+  "AdjusterDetails": {
+    "Name": "Erin Barrera",
+    "ContactInformation": {
+      "Phone": "567.890.3338x433",
+      "Email": "mark90@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7b11f4f3-ffa6-4730-9ff4-d35c3d7a40d5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-28T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-02T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-07T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilkinson, Dunlap and Larsen",
+    "Model": "one",
+    "Year": 2003,
+    "VIN": "8f457831-b570-4e81-8da3-b9091afc3c88"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Judy Mcgrath",
+      "ContactInformation": {
+        "Phone": "(756)741-4923",
+        "Email": "thomasbryan@example.org"
+      },
+      "Statement": "Prove chair message apply finish list. Direction realize strong instead out."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "00bb4cdd-e802-4068-b799-fe6f3a5736fd",
+    "OfficerName": "John Bradley",
+    "ReportDetails": "Future sort likely whose Republican other. Few later event single its person create.\nPlant friend raise decade challenge water kitchen. Section avoid evidence son."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 756,
+    "AnnualIncome": 185060,
+    "DebtToIncomeRatio": 0.17
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

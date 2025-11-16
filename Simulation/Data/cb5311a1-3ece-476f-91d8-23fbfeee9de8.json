@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cb5311a1-3ece-476f-91d8-23fbfeee9de8",
+  "PolicyID": "f105784e-9616-4343-b313-be8ddd3c6872",
+  "EffectiveDates": {
+    "StartDate": "2025-10-01",
+    "EndDate": "2026-10-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a0737ec7-3f96-4b18-be98-7f8652df8e98",
+    "Name": "April Jones",
+    "PolicyNumber": "f105784e-9616-4343-b313-be8ddd3c6872",
+    "ContactInformation": {
+      "Phone": "(380)667-5679",
+      "Email": "xcurtis@example.com",
+      "Address": "853 Tyler Trace\nGrahamland, DE 41057"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-06",
+    "Location": "8275 Patton Ports Apt. 848\nBrowntown, VI 58571",
+    "Description": "Lawyer turn phone ready bit stay. Suddenly instead task tree carry.\nMake second use newspaper. Throw indeed inside. Whether necessary star site young example energy."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 86673
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3214
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 15589
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14174
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14076
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 133726,
+    "TotalApproved": 54899
+  },
+  "AdjusterDetails": {
+    "Name": "Kimberly Cook",
+    "ContactInformation": {
+      "Phone": "709-378-0043x7852",
+      "Email": "robert51@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/334ee22b-703d-4fdf-85c2-fdd265f07c45"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-06T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-11T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-16T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Herrera Group",
+    "Model": "employee",
+    "Year": 2012,
+    "VIN": "65535b0d-7eb4-4ec4-8ecb-824c9694064a"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Lori Alexander",
+      "ContactInformation": {
+        "Phone": "941-402-8514",
+        "Email": "tmitchell@example.com"
+      },
+      "Statement": "Trial benefit about under student cultural. Week small spring surface head.\nBad fire everybody most bill reveal floor deep. The knowledge heavy thought wide high. Drop subject behavior whole."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "dd9bfdfc-5946-4281-b4c0-bb003701b823",
+    "OfficerName": "Jordan Smith",
+    "ReportDetails": "Magazine beat people. Easy child include. Meet picture read finish here court. Finish international without phone ground vote."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 831,
+    "AnnualIncome": 196478,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 0,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

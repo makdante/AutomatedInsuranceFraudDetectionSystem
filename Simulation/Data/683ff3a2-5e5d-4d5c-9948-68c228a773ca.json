@@ -1,0 +1,112 @@
+{
+  "ClaimID": "683ff3a2-5e5d-4d5c-9948-68c228a773ca",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-06-06",
+    "EndDate": "2026-06-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-24",
+    "Location": "6753 Matthew Parks\nSouth Amandafort, HI 49213",
+    "Description": "Stay assume though wrong common week customer. Whom century suddenly would couple well subject economy.\nSignificant them wonder main several standard. Part material down while."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 44111
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 18238
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 16510
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 11333
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 98731
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 188923,
+    "TotalApproved": 115948
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Valentine",
+    "ContactInformation": {
+      "Phone": "(252)974-8941",
+      "Email": "jonestom@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/dfd17cc8-51eb-4cfe-8ca4-b95d034c3884"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Hughes, Marks and Valdez",
+    "Model": "again",
+    "Year": 2002,
+    "VIN": "3783f8b7-5c49-44d1-9e24-a34ad5dc6de3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Matthew Jones",
+      "ContactInformation": {
+        "Phone": "316-662-5307x9218",
+        "Email": "usanders@example.org"
+      },
+      "Statement": "Increase side security. Cost knowledge quickly of. Analysis western old among security threat region allow.\nOpen open democratic close. Director growth several job. Discover too office."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "16c622ad-7f9f-493a-97ee-b83de42b333a",
+    "OfficerName": "Jennifer Drake",
+    "ReportDetails": "Test south able weight similar stage rest. Social answer teach season talk those per.\nPerson stock site able develop entire modern. Live day send guess. Tonight wait think city agency step."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 621,
+    "AnnualIncome": 100502,
+    "DebtToIncomeRatio": 0.94
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 10,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

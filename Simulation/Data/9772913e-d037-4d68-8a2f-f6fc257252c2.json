@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9772913e-d037-4d68-8a2f-f6fc257252c2",
+  "PolicyID": "c3c97e20-9916-4009-b655-6b300f90d80a",
+  "EffectiveDates": {
+    "StartDate": "2025-10-06",
+    "EndDate": "2026-10-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "053ca69a-366f-4375-961c-7efc9aef3ba5",
+    "Name": "Dalton Davis",
+    "PolicyNumber": "c3c97e20-9916-4009-b655-6b300f90d80a",
+    "ContactInformation": {
+      "Phone": "333.559.0778",
+      "Email": "nancy30@example.org",
+      "Address": "5703 Aaron Lane\nSouth Matthew, MH 99089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-29",
+    "Location": "026 Nicholas Tunnel\nNorth Justin, GU 23477",
+    "Description": "Including art born Mr leg. Poor today responsibility weight establish true.\nStructure front sit visit. Window owner minute word impact street oil. Tree if now born quickly whole."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15074
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2192
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 90363
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 42022
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1808
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 151459,
+    "TotalApproved": 25076
+  },
+  "AdjusterDetails": {
+    "Name": "William Gray",
+    "ContactInformation": {
+      "Phone": "770.850.0053",
+      "Email": "hjensen@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/cae3e9a7-1c7a-4408-b7fb-32da85021997"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-29T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wade-Miranda",
+    "Model": "few",
+    "Year": 2018,
+    "VIN": "fa8bd636-63c9-4c39-ad00-1b358a8accc0"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Esparza",
+      "ContactInformation": {
+        "Phone": "001-438-666-9982x9172",
+        "Email": "matthew85@example.com"
+      },
+      "Statement": "Player others he fear indeed. Edge near conference leg. Suggest certainly citizen line responsibility argue."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9c5e816b-4c5b-48ca-aaf1-da936ace5a18",
+    "OfficerName": "Ashley Hughes",
+    "ReportDetails": "Back surface alone TV performance key five. That hear court interesting camera.\nFind pattern image above attention."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 398,
+    "AnnualIncome": 45265,
+    "DebtToIncomeRatio": 0.14
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 6,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

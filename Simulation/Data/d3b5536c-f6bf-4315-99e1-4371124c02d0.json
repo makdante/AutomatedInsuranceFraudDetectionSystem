@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d3b5536c-f6bf-4315-99e1-4371124c02d0",
+  "PolicyID": "615dd311-61f1-4d66-9081-93d8b1a30832",
+  "EffectiveDates": {
+    "StartDate": "2025-03-08",
+    "EndDate": "2026-03-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "413855ef-2e2d-4b8e-b2fc-330be891114b",
+    "Name": "Amy Barnes",
+    "PolicyNumber": "615dd311-61f1-4d66-9081-93d8b1a30832",
+    "ContactInformation": {
+      "Phone": "(281)531-1709x697",
+      "Email": "monicacarroll@example.org",
+      "Address": "2310 Leslie Drive Suite 947\nSimsbury, VI 28289"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-06",
+    "Location": "PSC 7000, Box 7735\nAPO AE 34531",
+    "Description": "Choose act concern national ago million. Quite career budget how series. Trial guess at represent manage social paper front.\nWith various speak could card work. Stage hope point find behind property."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4256
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17115
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 5281
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 73060
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 13096
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 112808,
+    "TotalApproved": 6044
+  },
+  "AdjusterDetails": {
+    "Name": "Lorraine Scott",
+    "ContactInformation": {
+      "Phone": "001-580-379-4897x9828",
+      "Email": "joshua57@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/f3b23770-003c-460e-8906-84c792746781"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-06T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-11T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-16T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ellis-Powell",
+    "Model": "worry",
+    "Year": 2003,
+    "VIN": "96feac8f-6c7d-4df8-9e55-e9c576cb1ef9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Roberson",
+      "ContactInformation": {
+        "Phone": "311.842.5720",
+        "Email": "jacquelinereynolds@example.com"
+      },
+      "Statement": "Right explain talk recent. However standard government need some. South sea both study customer high.\nReality get defense theory probably story focus. Color support tough."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b54ed4bd-4a99-43b2-8a6f-507480e9202e",
+    "OfficerName": "Daniel Schroeder",
+    "ReportDetails": "Partner require speech figure time down science. Newspaper consumer our president. Program job official baby."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 659,
+    "AnnualIncome": 49529,
+    "DebtToIncomeRatio": 0.4
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 4,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

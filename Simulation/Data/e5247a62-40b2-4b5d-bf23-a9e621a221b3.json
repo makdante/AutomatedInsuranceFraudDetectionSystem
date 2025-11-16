@@ -1,0 +1,112 @@
+{
+  "ClaimID": "e5247a62-40b2-4b5d-bf23-a9e621a221b3",
+  "PolicyID": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+  "EffectiveDates": {
+    "StartDate": "2025-10-22",
+    "EndDate": "2026-10-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "37236d5f-035c-4651-b6d7-1daa09eb0eff",
+    "Name": "Taylor Garcia",
+    "PolicyNumber": "b20bf262-64c7-4b25-a98c-0ea5d9666634",
+    "ContactInformation": {
+      "Phone": "(858)939-5797",
+      "Email": "brivera@example.net",
+      "Address": "620 Reyes Hollow\nPort David, WI 18202"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-18",
+    "Location": "70016 Craig Unions Suite 824\nTuckermouth, PW 41608",
+    "Description": "Apply why become parent should. Yet kitchen tree material leave. Institution ever environment."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11147
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 2563
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 8879
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4456
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4878
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 31923,
+    "TotalApproved": 18869
+  },
+  "AdjusterDetails": {
+    "Name": "Rebecca Medina",
+    "ContactInformation": {
+      "Phone": "(476)394-2205x9366",
+      "Email": "jessica09@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/0cd66579-76f6-4d8e-9294-4dd334327245"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-18T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-23T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-28T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cooper Inc",
+    "Model": "professor",
+    "Year": 2009,
+    "VIN": "4c055f8a-2aaf-409e-9eec-78be29d0cd95"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Catherine Cook",
+      "ContactInformation": {
+        "Phone": "4738248769",
+        "Email": "dennis03@example.net"
+      },
+      "Statement": "History buy American education author imagine. Enter bed join the avoid wind.\nRoad new son loss nation imagine. Ball stock magazine from base certain capital trial. Game range far tell believe."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "af8e860b-31d5-4f83-8b74-92ccfd0f8f5e",
+    "OfficerName": "Kelsey Greene",
+    "ReportDetails": "Respond try simply she. Total case physical seek could through rate. Morning size simply environment year significant age able."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 643,
+    "AnnualIncome": 138610,
+    "DebtToIncomeRatio": 0.12
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 6,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

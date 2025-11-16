@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fe2f2f16-721a-45b6-abde-e75a01666271",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-06-25",
+    "EndDate": "2026-06-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-05-11",
+    "Location": "3495 Juarez View\nEast Matthewfort, MN 68190",
+    "Description": "Focus certain over sport. Control third anyone your minute indicate.\nIn push she ability develop among. Along world design down daughter somebody information."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4490376
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4475093
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4910088
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4009061
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4253696
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 22138314,
+    "TotalApproved": 7240981
+  },
+  "AdjusterDetails": {
+    "Name": "Kevin Ortega",
+    "ContactInformation": {
+      "Phone": "(684)756-4438x239",
+      "Email": "adixon@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/4b8560ee-1c98-4681-945f-87368f564189"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-05-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-05-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-05-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Nguyen, Clements and Martinez",
+    "Model": "three",
+    "Year": 2013,
+    "VIN": "fa3b4be0-5428-4b98-ba2c-1b9d56e75c6d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Elizabeth Faulkner",
+      "ContactInformation": {
+        "Phone": "001-724-574-6632x1096",
+        "Email": "victoria87@example.com"
+      },
+      "Statement": "Here exactly movement behind less establish. So boy where their project. First it real feel official camera.\nTreat win well. Its remember at as chair experience others work."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "632d9c29-bc59-49e6-b97d-bb02fe7403ef",
+    "OfficerName": "Billy Brown",
+    "ReportDetails": "Court push raise record upon defense. Board husband figure wide room.\nEstablish often current maybe six easy. Doctor name science study win teacher hour. Bed sign go feeling federal final relate."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 344,
+    "AnnualIncome": 60389,
+    "DebtToIncomeRatio": 0.85
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 10,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

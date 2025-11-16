@@ -1,0 +1,112 @@
+{
+  "ClaimID": "d6148512-1405-4052-b810-afb6c5588887",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2025-07-27",
+    "EndDate": "2026-07-27"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-07-24",
+    "Location": "83108 Cheryl Lodge Suite 748\nNorth Nancy, ND 29680",
+    "Description": "Performance me relationship high art. Business anyone scientist read.\nDifference trade debate learn stuff pattern article. Watch number hope."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 198590
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 13679
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6441
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7119
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3675
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 229504,
+    "TotalApproved": 170778
+  },
+  "AdjusterDetails": {
+    "Name": "Taylor Gonzalez",
+    "ContactInformation": {
+      "Phone": "+1-595-307-2734x338",
+      "Email": "sharonnoble@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/8c9cfaac-a3ba-42ed-8694-4a90cee75901"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-07-24T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-29T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-03T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Duran Ltd",
+    "Model": "will",
+    "Year": 2022,
+    "VIN": "97f89172-cfe2-4481-a777-7f2f46957a45"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Margaret Davis",
+      "ContactInformation": {
+        "Phone": "(648)692-2868x1525",
+        "Email": "amy39@example.com"
+      },
+      "Statement": "Win grow detail. Personal soldier life if. History compare despite wind commercial.\nSingle discover hear. How actually piece out among edge her. Newspaper book occur represent."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "8b908024-60d0-492c-8567-37e69b31a064",
+    "OfficerName": "Seth Silva",
+    "ReportDetails": "Couple push hotel level begin when.\nGive employee phone above even window south. Set eye word apply development coach myself north. It produce send industry before skin idea."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 347,
+    "AnnualIncome": 73488,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 6,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

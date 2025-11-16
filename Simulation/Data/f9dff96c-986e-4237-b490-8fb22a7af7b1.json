@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f9dff96c-986e-4237-b490-8fb22a7af7b1",
+  "PolicyID": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+  "EffectiveDates": {
+    "StartDate": "2025-08-25",
+    "EndDate": "2026-08-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "100ee8e4-5f1a-424c-b10d-03861ef13b4d",
+    "Name": "Tiffany Johnson",
+    "PolicyNumber": "0168816d-f258-403a-8ffb-6dde4f6705b6",
+    "ContactInformation": {
+      "Phone": "465-665-9819x7056",
+      "Email": "mclaughlinmatthew@example.com",
+      "Address": "251 Jennifer Brook Apt. 343\nHannahchester, PW 02170"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-01",
+    "Location": "655 Schneider Streets\nLisaburgh, IL 61899",
+    "Description": "Black physical rule season company their significant apply. Cell author such nice fast stand.\nOf rise mean. Clear economic machine man. Hotel remember security what."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8224
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 82806
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2505
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 10171
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 76342
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 180048,
+    "TotalApproved": 173115
+  },
+  "AdjusterDetails": {
+    "Name": "Joy Gibson",
+    "ContactInformation": {
+      "Phone": "8219714204",
+      "Email": "ngriffin@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/27aac32f-97cb-4b98-828e-369e2a9f1122"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Clark-Zimmerman",
+    "Model": "maybe",
+    "Year": 2007,
+    "VIN": "41c93f64-d978-4298-95e8-9c09afd8feff"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Amber Wood",
+      "ContactInformation": {
+        "Phone": "+1-430-957-7856x7952",
+        "Email": "josephlee@example.com"
+      },
+      "Statement": "Nation reach could return yard hour. Order remain stage. Do central expert production move."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "9afcc9e2-99b9-4f50-8a28-ffc5f09c92cd",
+    "OfficerName": "Alyssa Steele",
+    "ReportDetails": "What value choice rate similar. Mission low respond cut bring professor result.\nShe about probably wonder senior. Decade building at situation feel million deal. Follow position man heart."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 609,
+    "AnnualIncome": 109482,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 8,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

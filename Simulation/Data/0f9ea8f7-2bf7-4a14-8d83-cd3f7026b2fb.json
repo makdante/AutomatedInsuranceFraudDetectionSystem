@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0f9ea8f7-2bf7-4a14-8d83-cd3f7026b2fb",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-01-26",
+    "EndDate": "2026-01-26"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-17",
+    "Location": "5284 Kristen Square\nGaineschester, NV 82955",
+    "Description": "Itself policy discover lose attorney present. Third some help religious goal house. Support significant put type section simply."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 154046
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 90568
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3960
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17297
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2988
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 268859,
+    "TotalApproved": 27060
+  },
+  "AdjusterDetails": {
+    "Name": "Michael Clarke",
+    "ContactInformation": {
+      "Phone": "001-242-823-7576x27746",
+      "Email": "farleynicholas@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/a8091a25-73a7-41cc-9253-5220f376e267"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-17T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-22T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-27T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Munoz-Turner",
+    "Model": "couple",
+    "Year": 2002,
+    "VIN": "1dc1cbbd-a8bb-4c5d-86d6-eaabeb34c75e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Kyle White",
+      "ContactInformation": {
+        "Phone": "721.451.4962x8838",
+        "Email": "xlester@example.org"
+      },
+      "Statement": "Sea age wear run someone wonder yard director. Play cause want hear. Choice assume century week page learn."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "601c54bb-9f2c-443d-92e1-ec099ed21929",
+    "OfficerName": "Robert Mann",
+    "ReportDetails": "Worker notice debate. Should reveal remain security west difference people state. Box professor write responsibility moment we training hear."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 550,
+    "AnnualIncome": 164433,
+    "DebtToIncomeRatio": 0.47
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

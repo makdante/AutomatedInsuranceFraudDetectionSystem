@@ -1,0 +1,112 @@
+{
+  "ClaimID": "7cde3eb5-07af-457d-a08c-5895e6dadb75",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-02-15",
+    "EndDate": "2026-02-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-29",
+    "Location": "65779 Stephanie Field Apt. 516\nDanielmouth, MN 39640",
+    "Description": "Begin result boy of. Rule world she despite throughout. People first drop key begin resource."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4963586
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4127737
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4169105
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4176592
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4108427
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 21545447,
+    "TotalApproved": 19078413
+  },
+  "AdjusterDetails": {
+    "Name": "Matthew Bradley",
+    "ContactInformation": {
+      "Phone": "424.811.3324",
+      "Email": "holly70@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/3631b0ef-b367-48fd-8c0a-3f5360be39cc"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-29T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-02-03T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-08T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "House, Chang and Preston",
+    "Model": "true",
+    "Year": 2017,
+    "VIN": "547926dd-ce1f-4e75-a3c9-b1796a57a63d"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jesse Cervantes DDS",
+      "ContactInformation": {
+        "Phone": "001-864-793-4428",
+        "Email": "donnajones@example.com"
+      },
+      "Statement": "See dark stage media role plant society audience. Science run effort by account leader do. Indeed none area then who.\nDirector begin fall rock. Reveal commercial easy star most."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "82187897-be09-497a-8830-23352cfa4e2d",
+    "OfficerName": "Caitlyn Green",
+    "ReportDetails": "Politics may remember beautiful like thank. Really thus perhaps human as drop floor. Kid follow simply yes."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 410,
+    "AnnualIncome": 176922,
+    "DebtToIncomeRatio": 0.26
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 9,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "91121139-730f-4d89-a0d3-329d6012eab0",
+  "PolicyID": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+  "EffectiveDates": {
+    "StartDate": "2025-01-13",
+    "EndDate": "2026-01-13"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7aeb67d8-8b5a-402f-b03b-33f51f2939f2",
+    "Name": "Susan Best",
+    "PolicyNumber": "48a39416-ef75-4ab4-ba44-cc84e145d1ae",
+    "ContactInformation": {
+      "Phone": "272-361-9751",
+      "Email": "adamfigueroa@example.net",
+      "Address": "604 Sims Circle Suite 384\nNorth Anthonystad, WA 82430"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-12",
+    "Location": "5937 Robert Square Apt. 426\nWest Amanda, WY 10825",
+    "Description": "Set benefit commercial. Drop social I policy. Where soldier operation sign.\nBed commercial sound class. Win ago economy personal. Mr everyone history after."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 49016
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9368
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 14963
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7435
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5387
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 86169,
+    "TotalApproved": 80730
+  },
+  "AdjusterDetails": {
+    "Name": "Julie Nguyen",
+    "ContactInformation": {
+      "Phone": "001-831-852-6482x796",
+      "Email": "heathercasey@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/3b91a4ab-b2db-4006-b540-bd4507ec4356"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cohen-Robertson",
+    "Model": "before",
+    "Year": 2004,
+    "VIN": "c506c6ec-0dd1-4c61-89c0-805ef25c44a3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Teresa Burns",
+      "ContactInformation": {
+        "Phone": "(317)281-5974",
+        "Email": "robert37@example.net"
+      },
+      "Statement": "Beyond fly federal member major. Feeling be total writer foreign. Perhaps tonight window. Side notice share little.\nHave off tax away page. Beat across begin rock."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "218a46e4-1b8f-417d-9e17-f748c6c68ea9",
+    "OfficerName": "John Gray",
+    "ReportDetails": "Mother ever kind. Meet others receive both conference participant.\nSo buy prove beautiful marriage cup. Away music page season ever certainly call. Break ok Mr today his industry bar."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 376,
+    "AnnualIncome": 90600,
+    "DebtToIncomeRatio": 0.76
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 5,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

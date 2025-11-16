@@ -1,0 +1,112 @@
+{
+  "ClaimID": "b31338f4-6343-4d48-863d-eab0ebce037d",
+  "PolicyID": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+  "EffectiveDates": {
+    "StartDate": "2025-08-31",
+    "EndDate": "2026-08-31"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d0bedd16-f201-4197-b8d7-b2d8d318b1a8",
+    "Name": "David Mcintosh",
+    "PolicyNumber": "c694e6ea-2f17-4d98-8bda-d4cc45092859",
+    "ContactInformation": {
+      "Phone": "+1-504-327-8426x072",
+      "Email": "moyeranthony@example.com",
+      "Address": "2867 Burton Land Suite 894\nSouth Brittanyside, DE 10957"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-08-10",
+    "Location": "1972 Jacqueline Hollow Apt. 100\nEast Melissaport, UT 84503",
+    "Description": "Artist suffer heart financial it long large. Key son half option unit simply. Instead level clearly hold may.\nFood different same raise. Worker may instead than watch would."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 76601
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 20645
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4120
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 100080
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 18641
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 220087,
+    "TotalApproved": 28296
+  },
+  "AdjusterDetails": {
+    "Name": "Luke Howell",
+    "ContactInformation": {
+      "Phone": "+1-683-249-8641x472",
+      "Email": "pettyrebecca@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/9d57bcf2-1f3a-41c8-8c47-50f5dbf01b7a"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-08-10T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-08-15T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-08-20T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Moore-Cervantes",
+    "Model": "what",
+    "Year": 2014,
+    "VIN": "0d7e204b-dba4-4217-b78f-6d0c79ce7445"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jessica Rogers",
+      "ContactInformation": {
+        "Phone": "001-693-622-3554x65426",
+        "Email": "cameron85@example.org"
+      },
+      "Statement": "Fight word understand everything. Reason wear agree product. According particularly during discuss I left next."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a116adf0-b9fd-4c21-9e16-d32177be8adf",
+    "OfficerName": "Alexandra Hall",
+    "ReportDetails": "Near already travel you. Campaign his deal up phone.\nGround mention total possible quickly. Bed consider focus.\nExpert first within. Stand interview allow maybe shoulder air house."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 339,
+    "AnnualIncome": 101347,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 1,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "fd7ffc90-0abf-48a6-8a36-29e765a838a4",
+  "PolicyID": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+  "EffectiveDates": {
+    "StartDate": "2025-07-06",
+    "EndDate": "2026-07-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ea22e3a7-6e03-4db4-b860-f759be6e6cf9",
+    "Name": "Joshua Wright",
+    "PolicyNumber": "bab5b755-c41a-4d7d-a4ad-2d1918167568",
+    "ContactInformation": {
+      "Phone": "7784305046",
+      "Email": "smithronald@example.com",
+      "Address": "92030 Thomas Villages\nPort Samanthabury, TX 34380"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-01",
+    "Location": "3012 Bernard Expressway Suite 433\nBerrytown, MS 90625",
+    "Description": "Believe game at television region learn. Learn training source appear. Anyone sing not it best away.\nRest bed recognize left throw. Two reveal health."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9214
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 22180
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 7514
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 1609
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 19251
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 59768,
+    "TotalApproved": 59458
+  },
+  "AdjusterDetails": {
+    "Name": "Thomas Walker",
+    "ContactInformation": {
+      "Phone": "001-767-623-4677",
+      "Email": "sawyermelissa@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/51cde482-73e6-43fb-92bc-f25d5b01da82"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Ortega, Conner and Gonzalez",
+    "Model": "sign",
+    "Year": 2019,
+    "VIN": "dc3e49b7-a932-448b-a4e6-477866b685dd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Rachel Lee DVM",
+      "ContactInformation": {
+        "Phone": "400.347.5020",
+        "Email": "amandafuller@example.com"
+      },
+      "Statement": "Put strong administration.\nSuccess exactly contain sign gun here sure. Think evidence common back energy kitchen. Prove hit analysis citizen half fund boy be."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "02351baa-ea09-4ac4-9b3d-ed6971ac4060",
+    "OfficerName": "Jermaine Smith",
+    "ReportDetails": "Generation lot school board hair social husband. Party school role look history west ok. Direction law heart them write parent."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 473,
+    "AnnualIncome": 98826,
+    "DebtToIncomeRatio": 0.95
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

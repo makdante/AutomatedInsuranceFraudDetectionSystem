@@ -1,0 +1,112 @@
+{
+  "ClaimID": "be0cb81e-cb94-4f12-bfca-82024c974735",
+  "PolicyID": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+  "EffectiveDates": {
+    "StartDate": "2025-01-04",
+    "EndDate": "2026-01-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a1c4e08f-5edd-40bb-afa1-1a1192a1aafe",
+    "Name": "Diana Perry",
+    "PolicyNumber": "d24eaba2-3b91-4d0c-aab8-10689c14f082",
+    "ContactInformation": {
+      "Phone": "489.399.8603",
+      "Email": "badams@example.com",
+      "Address": "27705 Delacruz Extension\nTaraton, AK 46923"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-14",
+    "Location": "517 Thompson Canyon Apt. 499\nDonnamouth, VI 67533",
+    "Description": "Southern call behavior available. Individual chair picture.\nForward hundred successful likely list. Without up player popular. Five establish would tell speak wife range person."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18692
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 15532
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 10201
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6445
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 113231
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 164101,
+    "TotalApproved": 2078
+  },
+  "AdjusterDetails": {
+    "Name": "Richard Sanchez",
+    "ContactInformation": {
+      "Phone": "+1-518-203-7219x01374",
+      "Email": "lopezrobert@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/d5c413ca-8b90-4d3d-a6d0-dea63c35ad02"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-14T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-19T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-24T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Carroll-Lewis",
+    "Model": "example",
+    "Year": 2012,
+    "VIN": "fa27917d-581d-4259-ad12-dd4bc3f9e072"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Samantha Perez",
+      "ContactInformation": {
+        "Phone": "(999)200-0818x61372",
+        "Email": "richardking@example.com"
+      },
+      "Statement": "Address they alone. Health computer organization. Perform do information trial daughter center dream indicate."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "c801ed4d-4e33-44b3-a1c9-3ba7ab91e53e",
+    "OfficerName": "Mary Mason",
+    "ReportDetails": "Eye my next interest star thousand. Feeling she view music difference. Specific town foot more yeah pressure. Everyone stand writer crime run product."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 787,
+    "AnnualIncome": 186718,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 2,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

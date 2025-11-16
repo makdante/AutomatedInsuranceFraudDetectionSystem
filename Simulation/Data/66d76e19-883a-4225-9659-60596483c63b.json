@@ -1,0 +1,112 @@
+{
+  "ClaimID": "66d76e19-883a-4225-9659-60596483c63b",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2024-12-29",
+    "EndDate": "2025-12-29"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-19",
+    "Location": "789 King Spurs\nNew Michelleburgh, IN 73175",
+    "Description": "Likely technology big house very prepare special. Purpose point how. Result public listen camera challenge.\nInternational happy or discuss she road. Nature trial red dream. Main toward write."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 83034
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36978
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 130921
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3574
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 125107
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 379614,
+    "TotalApproved": 150109
+  },
+  "AdjusterDetails": {
+    "Name": "Kenneth Bates",
+    "ContactInformation": {
+      "Phone": "+1-614-875-7748x63929",
+      "Email": "zcooke@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a631195f-19c2-498a-a3f1-92d2b32e2b2e"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-19T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-24T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-29T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bailey-Lee",
+    "Model": "detail",
+    "Year": 2006,
+    "VIN": "155cd3db-258d-4ba9-b438-7056a119519e"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Richard Cruz",
+      "ContactInformation": {
+        "Phone": "730-451-7161x90125",
+        "Email": "jwilliams@example.com"
+      },
+      "Statement": "Form according wear quality. Throughout standard may old house. Official close few attack trade late point. Hold name new."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bc350d43-75b1-4e18-a5a0-ac30e4a37dbf",
+    "OfficerName": "Kelly Cooley",
+    "ReportDetails": "Always experience brother watch against see. Sit hundred identify. Often dark ahead campaign character article our."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 601,
+    "AnnualIncome": 183861,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

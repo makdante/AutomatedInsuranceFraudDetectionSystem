@@ -1,0 +1,112 @@
+{
+  "ClaimID": "9ac3f8f2-8791-4bc1-bc3c-78d728bcd919",
+  "PolicyID": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+  "EffectiveDates": {
+    "StartDate": "2025-10-21",
+    "EndDate": "2026-10-21"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3d2477fc-fb66-441e-8a4a-1b3276747b2c",
+    "Name": "Amanda Walls",
+    "PolicyNumber": "ec6652eb-77ce-4190-b266-3acbbbc5f551",
+    "ContactInformation": {
+      "Phone": "(620)868-0255",
+      "Email": "drakestanley@example.org",
+      "Address": "14272 Henry Groves\nEast Ashleemouth, PR 99152"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-10-08",
+    "Location": "70446 Michael Prairie\nReneeborough, AS 68244",
+    "Description": "Phone manager appear exactly similar first factor because. Figure owner skill need side. Company us real past seek foreign."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 12891
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6609
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 53047
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 84441
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 85025
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 242013,
+    "TotalApproved": 47217
+  },
+  "AdjusterDetails": {
+    "Name": "Patricia Ellis",
+    "ContactInformation": {
+      "Phone": "001-811-770-4670x8874",
+      "Email": "xgolden@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/160eca41-95c6-4e1a-8f94-da0aaf03ddff"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-10-08T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-10-13T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-10-18T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Copeland-Roberts",
+    "Model": "half",
+    "Year": 2013,
+    "VIN": "3398ad5a-190b-4a52-aa0c-777e1aabcda1"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Aaron Riley",
+      "ContactInformation": {
+        "Phone": "325.436.0209",
+        "Email": "rmarshall@example.org"
+      },
+      "Statement": "Describe world kid note. Whole clear force budget wife.\nParent seek region action. Want study vote city rather week magazine. At hospital foot cell third responsibility."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b0469191-c5c7-4744-bf89-04a32b78c85f",
+    "OfficerName": "Marcus Schneider",
+    "ReportDetails": "Law hour analysis citizen story. Light whole manage citizen next certain.\nCreate heavy strategy follow poor throw run. Participant front you floor development."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 523,
+    "AnnualIncome": 195487,
+    "DebtToIncomeRatio": 0.68
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 4,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": false
+}

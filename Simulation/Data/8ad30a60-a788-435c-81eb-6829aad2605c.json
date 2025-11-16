@@ -1,0 +1,112 @@
+{
+  "ClaimID": "8ad30a60-a788-435c-81eb-6829aad2605c",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-09-05",
+    "EndDate": "2026-09-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-05",
+    "Location": "07981 Roy Land\nCoxview, MI 19134",
+    "Description": "Fear half even during sound those. Still floor figure east easy sing.\nInterest area factor it base manager. Most daughter along quality bad country office main."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 7656
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 145206
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 3495
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 100812
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 1140
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 258309,
+    "TotalApproved": 161887
+  },
+  "AdjusterDetails": {
+    "Name": "Kim Cisneros",
+    "ContactInformation": {
+      "Phone": "5622406703",
+      "Email": "jennifercosta@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/fbbd75b5-068e-492b-b08a-956562d30d7b"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Patel-Miller",
+    "Model": "decade",
+    "Year": 2014,
+    "VIN": "46c6f365-a261-4291-9b63-0b3dbc485907"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "George Hubbard",
+      "ContactInformation": {
+        "Phone": "(922)371-0948x98645",
+        "Email": "bakereric@example.net"
+      },
+      "Statement": "Member cell night seat remain. Base the represent like left. Blood son Mr letter treatment.\nLine easy world house both wind structure. Somebody catch wrong idea."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a1dd8996-13c9-4092-b338-e60da4075e94",
+    "OfficerName": "Stephen Palmer",
+    "ReportDetails": "Office baby risk daughter. Agency despite popular huge note table. Decide concern property decade try almost within. Join sure effort class job over energy.\nMovement grow treatment according rise."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 485,
+    "AnnualIncome": 144941,
+    "DebtToIncomeRatio": 0.15
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4f69052f-de31-454e-a939-f36710139ada",
+  "PolicyID": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+  "EffectiveDates": {
+    "StartDate": "2024-11-07",
+    "EndDate": "2025-11-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a5e374d7-2a89-4722-82f7-28a28bbdcbf0",
+    "Name": "Evan Fernandez",
+    "PolicyNumber": "54dd18ce-2920-49cd-bf7f-b7df63f09972",
+    "ContactInformation": {
+      "Phone": "797-592-5686x43438",
+      "Email": "helen96@example.com",
+      "Address": "70847 Acevedo Path Suite 052\nEast Jason, CO 07830"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-04",
+    "Location": "7589 Stark Turnpike Apt. 537\nReginaberg, FL 72741",
+    "Description": "Assume our board image never.\nCourt child else movement front. Full them enter administration citizen we area. State realize wall parent."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12544
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 43988
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 14702
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 134348
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 25842
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 231424,
+    "TotalApproved": 109368
+  },
+  "AdjusterDetails": {
+    "Name": "Christina Smith",
+    "ContactInformation": {
+      "Phone": "+1-343-310-5698x4847",
+      "Email": "kevinjohnson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c794d8ee-438e-4c91-b2de-da3af1feb2cd"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-04T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-09T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-14T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Watson PLC",
+    "Model": "course",
+    "Year": 2018,
+    "VIN": "1fac586d-835b-4cb2-97d1-bcdb732a4347"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Joshua Morales",
+      "ContactInformation": {
+        "Phone": "564.667.6362x605",
+        "Email": "staceyrussell@example.net"
+      },
+      "Statement": "Party night before share. Religious population political future race head. Radio economy new. Eight tonight less into."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "7ddbb7fe-5038-4044-850b-ba9c542411c7",
+    "OfficerName": "Susan Thomas",
+    "ReportDetails": "Heart beautiful push phone anyone sound. Inside shake last develop account. Prevent per first shake doctor."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 799,
+    "AnnualIncome": 61315,
+    "DebtToIncomeRatio": 0.12
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 1,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": false
+}

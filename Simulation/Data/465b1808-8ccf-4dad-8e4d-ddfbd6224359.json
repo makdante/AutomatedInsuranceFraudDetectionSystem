@@ -1,0 +1,112 @@
+{
+  "ClaimID": "465b1808-8ccf-4dad-8e4d-ddfbd6224359",
+  "PolicyID": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+  "EffectiveDates": {
+    "StartDate": "2025-03-02",
+    "EndDate": "2026-03-02"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "99c198b5-d0aa-48d3-94c9-959f2a44263a",
+    "Name": "Bethany Rose",
+    "PolicyNumber": "1541ce9d-330e-476b-858b-222a8dcef5c4",
+    "ContactInformation": {
+      "Phone": "(715)908-5515x619",
+      "Email": "heather19@example.com",
+      "Address": "5993 Snow Manor Suite 784\nCherylton, KY 35335"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-23",
+    "Location": "65477 Ryan Branch Apt. 978\nNorth Nathanhaven, HI 87771",
+    "Description": "Left dog since fear fill rather itself. Floor nothing human thank professional mother teach. Compare clearly bed drug."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 46393
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 53991
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 9775
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 17799
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6327
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 134285,
+    "TotalApproved": 68740
+  },
+  "AdjusterDetails": {
+    "Name": "Gregory Colon",
+    "ContactInformation": {
+      "Phone": "+1-485-921-2009x83654",
+      "Email": "daniel45@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/7dc86945-5450-4ca4-90f5-4f24e47e5bf9"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-23T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-28T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-02T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Aguirre PLC",
+    "Model": "particular",
+    "Year": 2000,
+    "VIN": "876a3fe3-b7c1-4c05-becf-e7ee73b05295"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Scott Green",
+      "ContactInformation": {
+        "Phone": "771.310.5367x5263",
+        "Email": "brandi89@example.com"
+      },
+      "Statement": "Main say citizen able before these. Former friend whose pull crime.\nIncrease plant guy. Sea occur when herself film day discussion."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "113d872b-00c4-47f1-b986-0dff835fa6dd",
+    "OfficerName": "Diana Pierce",
+    "ReportDetails": "Red authority full generation center. Ask look television learn south sound often section. Machine effort pressure strong method."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 681,
+    "AnnualIncome": 179273,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 3,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

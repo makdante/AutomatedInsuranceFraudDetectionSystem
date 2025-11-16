@@ -1,0 +1,112 @@
+{
+  "ClaimID": "942f4156-4136-4c74-9f09-aa1644744f48",
+  "PolicyID": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+  "EffectiveDates": {
+    "StartDate": "2025-09-14",
+    "EndDate": "2026-09-14"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "47c5522b-b804-4bac-b21c-da33d60d70fd",
+    "Name": "Richard Conway",
+    "PolicyNumber": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+    "ContactInformation": {
+      "Phone": "581-212-2861x494",
+      "Email": "usimpson@example.com",
+      "Address": "4097 Welch Harbors Apt. 346\nNorth Jacobside, IA 43728"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-02-24",
+    "Location": "3234 Williams Knoll Suite 149\nPort Chad, WY 89205",
+    "Description": "Down Congress type cell. Watch number strong among approach quickly. Build civil over son.\nExplain feeling necessary as nature surface order present."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 19576
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 10361
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18974
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 2406
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5563
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 56880,
+    "TotalApproved": 31043
+  },
+  "AdjusterDetails": {
+    "Name": "Scott Roach",
+    "ContactInformation": {
+      "Phone": "(609)279-7613x0537",
+      "Email": "todd57@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/57d02012-3a0e-40a5-a062-ccb431006843"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-02-24T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-01T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-06T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Cooper, Gonzalez and Green",
+    "Model": "eye",
+    "Year": 2012,
+    "VIN": "585919d2-baf6-4a6a-8639-8ab5e2e238b6"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "David Ramirez",
+      "ContactInformation": {
+        "Phone": "957.865.8510",
+        "Email": "saraallison@example.org"
+      },
+      "Statement": "Able read simple hotel just herself no. Rock manage arm art high worry as market.\nCustomer like full. Information take thought wide edge candidate later sport."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "abab0050-8b34-4391-9c9e-24c2a8928909",
+    "OfficerName": "Natasha Richard",
+    "ReportDetails": "Material type force outside evidence. Star country be board. Nothing will last lay herself.\nA impact director attorney behind season spend. Professional tough near open. Laugh involve simply."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 824,
+    "AnnualIncome": 95473,
+    "DebtToIncomeRatio": 0.27
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 10,
+    "PolicyChanges": 2
+  },
+  "is_abnormal": false
+}

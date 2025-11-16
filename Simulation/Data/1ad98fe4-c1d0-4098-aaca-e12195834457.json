@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1ad98fe4-c1d0-4098-aaca-e12195834457",
+  "PolicyID": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+  "EffectiveDates": {
+    "StartDate": "2024-12-15",
+    "EndDate": "2025-12-15"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "33851d0f-ae34-4d84-9979-9c0bb345ff37",
+    "Name": "Emily Richardson",
+    "PolicyNumber": "426cbb8e-3692-404d-a20f-7b9095ec2b1d",
+    "ContactInformation": {
+      "Phone": "(999)370-8402x9360",
+      "Email": "stephen63@example.com",
+      "Address": "90107 Stephen Well\nAndrewmouth, ND 46797"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-02-26",
+    "Location": "0622 Sims Viaduct Apt. 709\nLeeton, MT 41869",
+    "Description": "Letter general start fly. Number reason west every learn data generation wait. Return especially car recently myself significant thus free."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4578
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 8653
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 54876
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 14487
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8498
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 91092,
+    "TotalApproved": 4502
+  },
+  "AdjusterDetails": {
+    "Name": "Troy Adams",
+    "ContactInformation": {
+      "Phone": "001-725-903-2582x7791",
+      "Email": "brittanythomas@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/bf500e0e-353d-404c-bba1-557aa9decfc5"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-02-26T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-03T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-08T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Fuller Ltd",
+    "Model": "performance",
+    "Year": 2006,
+    "VIN": "6c3055fc-dedf-4619-85a5-65b20984e759"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Christine Taylor",
+      "ContactInformation": {
+        "Phone": "277-248-9679x56377",
+        "Email": "taylorsharon@example.com"
+      },
+      "Statement": "Population wear only I week security trouble. Himself choice simple each deal. Also character she guy risk."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "37928a84-bdc5-4a91-8042-9b310e477cf2",
+    "OfficerName": "Danielle Gonzalez",
+    "ReportDetails": "Bank increase against. True bag student voice. Either image fear tough too top catch very.\nEvery think however talk sometimes. Speak prevent situation whatever."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 349,
+    "AnnualIncome": 56665,
+    "DebtToIncomeRatio": 0.79
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 4,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

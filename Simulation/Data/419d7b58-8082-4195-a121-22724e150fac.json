@@ -1,0 +1,112 @@
+{
+  "ClaimID": "419d7b58-8082-4195-a121-22724e150fac",
+  "PolicyID": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+  "EffectiveDates": {
+    "StartDate": "2024-11-01",
+    "EndDate": "2025-11-01"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3cd8543c-a7fa-4fd5-96b8-321382511c44",
+    "Name": "Darryl Leonard",
+    "PolicyNumber": "67ee5c37-08a8-4c44-b5e2-f76fb63c026f",
+    "ContactInformation": {
+      "Phone": "342-367-2937",
+      "Email": "bmejia@example.net",
+      "Address": "429 Kimberly Landing\nClayburgh, AZ 73702"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-03-11",
+    "Location": "64966 Aaron Landing\nNorth Jennifer, SC 61654",
+    "Description": "Parent actually various sister various. Into which pull feel. Entire vote central event. Price such what.\nExample yet along player. House but pattern there country."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4509
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4474
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 18615
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 34963
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 71267
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 133828,
+    "TotalApproved": 56804
+  },
+  "AdjusterDetails": {
+    "Name": "Madison Austin",
+    "ContactInformation": {
+      "Phone": "(846)968-9084",
+      "Email": "tapiabrian@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/420fb936-e641-4c56-9c1f-0482defcc423"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-03-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-03-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-03-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bailey and Sons",
+    "Model": "network",
+    "Year": 2022,
+    "VIN": "e7442485-769c-442b-b9a8-d136fcd8de81"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Stephen Miles",
+      "ContactInformation": {
+        "Phone": "001-932-262-7195x99619",
+        "Email": "steventhompson@example.com"
+      },
+      "Statement": "Young truth exist culture leave lawyer pick. Write environment house positive term resource. Inside same prove."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b688c2dc-6ec1-4977-a6b3-dd8492b9e094",
+    "OfficerName": "Patricia Kerr",
+    "ReportDetails": "Team crime with Democrat fly enough site near. Place require course fear respond leave. Door safe whose here country determine billion."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 355,
+    "AnnualIncome": 21976,
+    "DebtToIncomeRatio": 0.75
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 7,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "12251504-f82f-4a0b-ad07-a908c614844d",
+  "PolicyID": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+  "EffectiveDates": {
+    "StartDate": "2025-02-24",
+    "EndDate": "2026-02-24"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "004c3517-a4a3-433e-b948-997eabdfd6bb",
+    "Name": "Stephen Garcia",
+    "PolicyNumber": "3291eb05-94cf-42f0-9c6e-f73878beb1cc",
+    "ContactInformation": {
+      "Phone": "259.263.8089x0132",
+      "Email": "danielcrawford@example.net",
+      "Address": "64072 Cassandra Inlet\nRichardsonburgh, VI 14390"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-10-11",
+    "Location": "353 Armstrong Neck\nPort Andrea, PR 13140",
+    "Description": "Someone case sister. Despite which keep back. Real improve million conference cultural enter audience."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 37252
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 36781
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 7224
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 3620
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7397
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 92274,
+    "TotalApproved": 37293
+  },
+  "AdjusterDetails": {
+    "Name": "Frank Black",
+    "ContactInformation": {
+      "Phone": "(587)428-2968x72618",
+      "Email": "ukaiser@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/398a35fb-abd1-4ccb-9a86-721fc1561af1"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-10-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-10-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-10-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown LLC",
+    "Model": "record",
+    "Year": 2007,
+    "VIN": "41a34442-673d-416f-9be2-ebd983545ce5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Alison Burton",
+      "ContactInformation": {
+        "Phone": "(624)200-8834x37598",
+        "Email": "mcdanieljennifer@example.net"
+      },
+      "Statement": "College much place purpose someone certainly vote. Condition pressure value across thing exist. Behavior her now whether discussion expect security."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d79917db-f1c9-435e-a9cb-5c6eadbff3fa",
+    "OfficerName": "Gary Watson MD",
+    "ReportDetails": "Model trouble specific before general. Article national particularly in job good sense candidate.\nResponse performance argue west. Cause size life follow. Later toward democratic."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 735,
+    "AnnualIncome": 161727,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 6,
+    "PolicyChanges": 10
+  },
+  "is_abnormal": false
+}

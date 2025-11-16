@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f4664a04-3c32-401c-bab0-e99ea9046788",
+  "PolicyID": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+  "EffectiveDates": {
+    "StartDate": "2025-03-25",
+    "EndDate": "2026-03-25"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b1cf33c5-6353-4ed7-93e0-db667d36f9a0",
+    "Name": "Michael Moore",
+    "PolicyNumber": "f08d20a6-3e20-4289-90d0-21b4cb1a4a7d",
+    "ContactInformation": {
+      "Phone": "440.907.1239x75015",
+      "Email": "omack@example.com",
+      "Address": "9845 Thomas Ford\nNorth Mitchellmouth, OR 09459"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-21",
+    "Location": "9504 Allen Rest\nWest Kristinland, OH 49651",
+    "Description": "Likely million fine conference. Six important there dream. Mission deal over hold now front call pressure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 106044
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5238
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 11051
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 34862
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 17625
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 174820,
+    "TotalApproved": 37640
+  },
+  "AdjusterDetails": {
+    "Name": "Brianna Curtis",
+    "ContactInformation": {
+      "Phone": "001-799-916-3638x0552",
+      "Email": "caitlinrichardson@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/b18b9eac-4a30-4215-a57c-b8b48d7d73be"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-21T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-26T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-31T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Gross-Weber",
+    "Model": "everyone",
+    "Year": 2008,
+    "VIN": "cbb472b0-c0eb-4253-a1f7-dcc03b995a04"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Jodi Patel",
+      "ContactInformation": {
+        "Phone": "(501)697-5349x6343",
+        "Email": "watsonmichelle@example.net"
+      },
+      "Statement": "Gas become hotel community. Compare once method loss expect class oil film."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b0d64edd-8dcf-4d04-bf0f-d72abb9d7cee",
+    "OfficerName": "Katelyn Cox",
+    "ReportDetails": "Career energy section. Or computer camera black section east else.\nKind hard need summer.\nOccur resource technology young yourself. Perhaps receive teach her opportunity."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 709,
+    "AnnualIncome": 178519,
+    "DebtToIncomeRatio": 0.12
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 7,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

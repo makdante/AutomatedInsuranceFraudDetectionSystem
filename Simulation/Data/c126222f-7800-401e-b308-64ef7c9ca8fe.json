@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c126222f-7800-401e-b308-64ef7c9ca8fe",
+  "PolicyID": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+  "EffectiveDates": {
+    "StartDate": "2025-03-06",
+    "EndDate": "2026-03-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "d2c088d2-4244-4890-a445-3fcf1d8bebe2",
+    "Name": "Christopher Patterson",
+    "PolicyNumber": "4964220b-9a1e-4ece-9efc-046e7a29ac57",
+    "ContactInformation": {
+      "Phone": "211-724-7969x6028",
+      "Email": "michaelaustin@example.com",
+      "Address": "7393 Crosby Glen Suite 510\nEast Codyville, MD 90105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-30",
+    "Location": "039 Hebert Dam\nChristopherbury, NY 33341",
+    "Description": "Drive new since business strong. Catch state speak simple increase between gun. Likely plan room maybe resource art just south.\nBlue light bag. There oil ground agreement let education space."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6694
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 8536
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 67586
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 3766
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 158872
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 245454,
+    "TotalApproved": 157428
+  },
+  "AdjusterDetails": {
+    "Name": "Christine Russell",
+    "ContactInformation": {
+      "Phone": "272.356.1579",
+      "Email": "xgriffin@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/6b303c61-7e8e-4a5a-8f0b-85f70fadc567"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-30T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-04T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-09T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Brown LLC",
+    "Model": "enjoy",
+    "Year": 2010,
+    "VIN": "d54290f9-4ac1-4f1c-bee6-33201c2673e7"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Andrew Browning",
+      "ContactInformation": {
+        "Phone": "727-741-1178x97966",
+        "Email": "lorigilbert@example.net"
+      },
+      "Statement": "Meet game general poor must. Situation strategy even plant great air PM.\nChallenge address choose. Week place rather cover leader board garden travel."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d705b7e9-20b5-436e-9deb-d2e5c629744e",
+    "OfficerName": "Mario Coleman",
+    "ReportDetails": "Employee itself wall knowledge. Sense always where.\nStation serve key a glass seat.\nStore like of of conference usually."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 723,
+    "AnnualIncome": 147128,
+    "DebtToIncomeRatio": 0.72
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 7,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

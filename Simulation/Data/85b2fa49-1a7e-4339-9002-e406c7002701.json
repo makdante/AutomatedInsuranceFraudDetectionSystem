@@ -1,0 +1,112 @@
+{
+  "ClaimID": "85b2fa49-1a7e-4339-9002-e406c7002701",
+  "PolicyID": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+  "EffectiveDates": {
+    "StartDate": "2025-09-28",
+    "EndDate": "2026-09-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "de2fd98f-92b5-4f00-b791-ce9f514afb15",
+    "Name": "Brandon Scott",
+    "PolicyNumber": "28dc26dd-cf74-48cd-893c-1b90ddf1a485",
+    "ContactInformation": {
+      "Phone": "001-319-262-8310x0650",
+      "Email": "nelsonemily@example.net",
+      "Address": "0592 Patrick Wall\nLeslieport, IA 75247"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-25",
+    "Location": "9803 Reyes Mountain Suite 611\nRonaldtown, FL 64380",
+    "Description": "Truth evening stop bed. Including out type audience. Hot teacher resource. Tree population even address question community certainly."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 19204
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 69017
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 2168
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 44953
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 153716
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 289058,
+    "TotalApproved": 171033
+  },
+  "AdjusterDetails": {
+    "Name": "Andre Gonzales Jr.",
+    "ContactInformation": {
+      "Phone": "+1-593-957-3517x73162",
+      "Email": "plyons@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/bdacfbad-aa94-44fd-a77d-2370d78e2e43"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-04-04T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Shaw PLC",
+    "Model": "both",
+    "Year": 2010,
+    "VIN": "86d66c11-c8a9-46c6-984b-5c2cc4fe93f9"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Justin Obrien",
+      "ContactInformation": {
+        "Phone": "968.360.4905x044",
+        "Email": "qhall@example.net"
+      },
+      "Statement": "Kitchen purpose officer. Point enjoy west pressure professor wife.\nSing house rich bar successful unit."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1f9b61e9-35af-4c0e-8060-e26cd10a63cb",
+    "OfficerName": "Mark Davis",
+    "ReportDetails": "Finish information position might add station. Black sport want sing.\nSpace pick not week state yard beyond. Adult attention close. Cold spring list reveal lawyer tax anything activity."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 311,
+    "AnnualIncome": 146779,
+    "DebtToIncomeRatio": 0.93
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 1,
+    "LatePayments": 0,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

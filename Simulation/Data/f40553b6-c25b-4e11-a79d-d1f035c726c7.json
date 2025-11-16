@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f40553b6-c25b-4e11-a79d-d1f035c726c7",
+  "PolicyID": "6dcd0733-329e-4bcb-a315-52347a88996f",
+  "EffectiveDates": {
+    "StartDate": "2025-09-28",
+    "EndDate": "2026-09-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba5ce4bb-5eb8-4cb4-8546-c816b6f1db80",
+    "Name": "Kristen Padilla",
+    "PolicyNumber": "6dcd0733-329e-4bcb-a315-52347a88996f",
+    "ContactInformation": {
+      "Phone": "001-283-247-3624x831",
+      "Email": "jacksonmaurice@example.net",
+      "Address": "7521 Monroe View\nEast Kaitlyn, OH 88105"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-03-05",
+    "Location": "087 Chapman Drive Suite 188\nPort Gregory, NJ 46900",
+    "Description": "Other build grow culture energy usually point. Then same recognize difficult business after carry. Detail anything table."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 18826
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4382
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 17817
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1582
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 52494
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 95101,
+    "TotalApproved": 50815
+  },
+  "AdjusterDetails": {
+    "Name": "Blake Taylor",
+    "ContactInformation": {
+      "Phone": "(337)407-1843x2847",
+      "Email": "jmcbride@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/2fddff56-bd56-4384-bc6e-8229f9dbe3d2"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-03-05T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-03-10T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-03-15T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Williams Ltd",
+    "Model": "draw",
+    "Year": 2005,
+    "VIN": "9abb7895-838b-461c-a491-80dcaeb5fc2b"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Angela Harmon",
+      "ContactInformation": {
+        "Phone": "(391)633-8942",
+        "Email": "rushanne@example.org"
+      },
+      "Statement": "Bar design we close dog should. A second piece for position personal.\nBest bring big fear. Apply across education already care."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "417d415d-fd68-4a2a-a876-a3d1529acf91",
+    "OfficerName": "Christopher Brady",
+    "ReportDetails": "Buy less society set exist exist word health.\nOutside skill attack produce effort yeah. Central item several happen science set travel across."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 797,
+    "AnnualIncome": 76541,
+    "DebtToIncomeRatio": 0.12
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 0
+  },
+  "is_abnormal": false
+}

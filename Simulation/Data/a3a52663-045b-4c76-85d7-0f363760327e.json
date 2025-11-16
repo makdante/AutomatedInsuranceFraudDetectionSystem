@@ -1,0 +1,112 @@
+{
+  "ClaimID": "a3a52663-045b-4c76-85d7-0f363760327e",
+  "PolicyID": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+  "EffectiveDates": {
+    "StartDate": "2025-03-10",
+    "EndDate": "2026-03-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ec59dedd-180b-4d59-bbcb-d3f969e25bda",
+    "Name": "Kenneth Jones",
+    "PolicyNumber": "bbf461ba-dc27-406a-aa35-0914f2504b22",
+    "ContactInformation": {
+      "Phone": "3873486535",
+      "Email": "xsmith@example.com",
+      "Address": "9504 Cook Drive\nLake Jessica, PA 25631"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-04-11",
+    "Location": "432 Lane Spur\nSouth Jessicaborough, LA 79089",
+    "Description": "Down project method college commercial clear attack. Second different happen sing effort sign note. Everyone more read interview. Man low region provide sure."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 12167
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 71242
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9868
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 24174
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16949
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 134400,
+    "TotalApproved": 4915
+  },
+  "AdjusterDetails": {
+    "Name": "Mr. Mark Fisher",
+    "ContactInformation": {
+      "Phone": "474.934.9287x1102",
+      "Email": "normanmills@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/275b85b8-061c-4f61-a279-82a87c23571c"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-04-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-04-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-04-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wright LLC",
+    "Model": "account",
+    "Year": 2015,
+    "VIN": "dbfd0596-3ce3-496b-83b3-15fccccfa6a2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Wanda Miller",
+      "ContactInformation": {
+        "Phone": "282.362.8406x215",
+        "Email": "terry59@example.com"
+      },
+      "Statement": "Exactly wrong successful. Sell response long particularly real behavior close. Table now type structure still approach yeah."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "b79fd92a-9416-403e-a94a-5eab673e4681",
+    "OfficerName": "Mary Montoya",
+    "ReportDetails": "Represent ability mean attorney piece hotel. Mrs themselves bill life police news shoulder. Image travel dog commercial.\nJust let large."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 729,
+    "AnnualIncome": 62141,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 5,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

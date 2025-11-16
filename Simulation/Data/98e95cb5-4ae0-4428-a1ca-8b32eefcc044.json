@@ -1,0 +1,112 @@
+{
+  "ClaimID": "98e95cb5-4ae0-4428-a1ca-8b32eefcc044",
+  "PolicyID": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+  "EffectiveDates": {
+    "StartDate": "2025-04-05",
+    "EndDate": "2026-04-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "b8bdaaad-a892-48c7-9ca6-20fdb6dd6bff",
+    "Name": "Jesse Schroeder",
+    "PolicyNumber": "d0a184ff-b426-403e-a6c6-8a37085656c0",
+    "ContactInformation": {
+      "Phone": "(440)813-6672",
+      "Email": "alvaradostephanie@example.net",
+      "Address": "752 Stone Glens\nKyleborough, CO 40239"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-05-12",
+    "Location": "276 Gregory Curve Apt. 736\nNew Abigailton, GU 91260",
+    "Description": "Tell since exist development play. Responsibility relate history upon nation.\nDrop wish upon foreign customer risk. Front husband step look your measure south. Gas marriage son police."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 39187
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 36064
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 107003
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 21121
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 63738
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 267113,
+    "TotalApproved": 160201
+  },
+  "AdjusterDetails": {
+    "Name": "Scott Mendoza",
+    "ContactInformation": {
+      "Phone": "001-462-355-2826x849",
+      "Email": "michael68@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/d44e9421-a0f3-48d5-9f26-43b0adb43e02"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-05-12T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-05-17T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-05-22T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Massey-Duncan",
+    "Model": "camera",
+    "Year": 2010,
+    "VIN": "e719ca80-3706-470a-92e3-bd4cfcaec0dc"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Eric Fernandez",
+      "ContactInformation": {
+        "Phone": "7608318494",
+        "Email": "karen99@example.com"
+      },
+      "Statement": "Floor buy nearly human black politics anyone computer. Nation career body reflect."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "fb0964fa-aed5-400f-a8f0-e7e942bf8eef",
+    "OfficerName": "Judith Adkins",
+    "ReportDetails": "Record then some dark just generation we. Skill agent shake life question area ground. Somebody wonder success sound fly."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 759,
+    "AnnualIncome": 92571,
+    "DebtToIncomeRatio": 0.77
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 7,
+    "PolicyChanges": 4
+  },
+  "is_abnormal": false
+}

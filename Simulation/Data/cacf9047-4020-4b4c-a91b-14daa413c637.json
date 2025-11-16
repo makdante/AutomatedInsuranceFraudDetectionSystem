@@ -1,0 +1,112 @@
+{
+  "ClaimID": "cacf9047-4020-4b4c-a91b-14daa413c637",
+  "PolicyID": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+  "EffectiveDates": {
+    "StartDate": "2025-06-30",
+    "EndDate": "2026-06-30"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "540679a4-28ef-4808-be74-d01304fb65d7",
+    "Name": "Martha Dorsey",
+    "PolicyNumber": "de62cbc7-e227-4281-84e3-c7a2c1b31bf6",
+    "ContactInformation": {
+      "Phone": "385.561.2218x18763",
+      "Email": "calderondon@example.net",
+      "Address": "22938 Wright Ports\nWest Michael, MA 77489"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-11",
+    "Location": "6020 Thomas Fall Apt. 879\nNew Amber, AR 06176",
+    "Description": "Door fund determine foreign current. Star middle say matter. High game kind make.\nMonth tax beautiful free also likely my. Mean myself step century deal use toward. Pick across such pull new."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4530773
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4527939
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4334941
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4769199
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4264538
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22427390,
+    "TotalApproved": 4000335
+  },
+  "AdjusterDetails": {
+    "Name": "Kelly Russell",
+    "ContactInformation": {
+      "Phone": "(785)735-7718x8907",
+      "Email": "priceaaron@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/04df0dc4-208a-40af-9ce9-c34a3854f2e4"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-11T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-16T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-21T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis Inc",
+    "Model": "movement",
+    "Year": 2010,
+    "VIN": "43c94551-3b19-4a4d-bb5c-35b459b20803"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Nicole Ross",
+      "ContactInformation": {
+        "Phone": "216.345.3238x591",
+        "Email": "pthompson@example.com"
+      },
+      "Statement": "Itself artist easy name picture bad president. Result manager and bad local pay true there. Sing particularly act manager."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1fec958b-5dd9-4ec5-b2d3-6b8c4c323790",
+    "OfficerName": "Brittany Lara",
+    "ReportDetails": "Continue expert model. Executive question meeting when lawyer less. Force nothing within.\nThird say technology thing ever agency."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 451,
+    "AnnualIncome": 115571,
+    "DebtToIncomeRatio": 0.96
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 6,
+    "LatePayments": 6,
+    "PolicyChanges": 7
+  },
+  "is_abnormal": true
+}

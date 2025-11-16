@@ -1,0 +1,112 @@
+{
+  "ClaimID": "225f3e3f-b8fb-487e-b9fa-1b776b3ef2c9",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2025-09-06",
+    "EndDate": "2026-09-06"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-01-25",
+    "Location": "225 Dawn Locks\nLoriland, AS 13287",
+    "Description": "Speak mention relationship home through interesting anyone. Rate guess them wife.\nAmong style ok husband weight. Trial fact of by story.\nInvolve this life carry."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 3339
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 47736
+    },
+    "PIP": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 29437
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 22294
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 45159
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 147965,
+    "TotalApproved": 109206
+  },
+  "AdjusterDetails": {
+    "Name": "Timothy Walker",
+    "ContactInformation": {
+      "Phone": "866.559.7240x7912",
+      "Email": "mosleykatelyn@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/1fa2e501-dfd2-43a1-a260-eccf0dfb0a56"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-01-25T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-01-30T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-02-04T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Contreras, Wagner and Cohen",
+    "Model": "out",
+    "Year": 2006,
+    "VIN": "920c4f73-ec55-4136-9a9c-b2d84b1d9e04"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Judith Davis",
+      "ContactInformation": {
+        "Phone": "888-628-8746x316",
+        "Email": "browe@example.com"
+      },
+      "Statement": "Customer since determine he range. Yeah police test discuss pattern boy. Later party end author whether record player.\nAge play doctor party. Money bag prove example smile member house social."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "98f844a7-dff6-4bd5-842f-4f7a7f2bd4e5",
+    "OfficerName": "Raymond Clark",
+    "ReportDetails": "Local cultural past property avoid our first. Collection share student treat. Summer energy street system save.\nProvide specific possible every. She community move maybe establish."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 831,
+    "AnnualIncome": 116389,
+    "DebtToIncomeRatio": 0.74
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 2,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

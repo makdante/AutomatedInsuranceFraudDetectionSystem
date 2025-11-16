@@ -1,0 +1,112 @@
+{
+  "ClaimID": "237ad679-888e-4306-a9fc-f0a7de5dc3db",
+  "PolicyID": "d714f6ff-0d84-4511-baec-63623db582fe",
+  "EffectiveDates": {
+    "StartDate": "2025-06-22",
+    "EndDate": "2026-06-22"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "3dfd8e3b-10c0-4a53-b0e9-0d5cbc213783",
+    "Name": "William Adams Jr.",
+    "PolicyNumber": "d714f6ff-0d84-4511-baec-63623db582fe",
+    "ContactInformation": {
+      "Phone": "334-578-4100x5692",
+      "Email": "vanessablack@example.net",
+      "Address": "22655 Andrew Stream\nLake Meganfort, UT 34181"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-20",
+    "Location": "3192 Victoria Glens\nAdamborough, ME 99617",
+    "Description": "Tax kitchen garden remain total moment sort. Left better whom involve Mrs yet."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 6620
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 9024
+    },
+    "PIP": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 33666
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 46542
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 41859
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 137711,
+    "TotalApproved": 63246
+  },
+  "AdjusterDetails": {
+    "Name": "Eric Mcdonald",
+    "ContactInformation": {
+      "Phone": "001-886-908-1125x5616",
+      "Email": "matthew94@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/2575fdc4-ea9a-4b92-8a66-2e086e3e2a82"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-20T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-25T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-30T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Farley, Thompson and Freeman",
+    "Model": "behind",
+    "Year": 2021,
+    "VIN": "c8b97014-545c-41c7-83f5-d96d96b76338"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mitchell Nelson",
+      "ContactInformation": {
+        "Phone": "2044254338",
+        "Email": "jcopeland@example.org"
+      },
+      "Statement": "Southern away challenge industry. Market time here class."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "15e9f864-9ffb-488e-9618-9acd1d84e77b",
+    "OfficerName": "Mary Burns",
+    "ReportDetails": "None call detail people respond. Return sing growth kitchen mouth. Public whole official explain eight able.\nQuality find office there pay. Necessary produce cell begin."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 766,
+    "AnnualIncome": 69323,
+    "DebtToIncomeRatio": 0.88
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 6,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

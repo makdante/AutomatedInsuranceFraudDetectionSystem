@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1d8bc9a7-2bbd-4a51-9ba7-75d6eacf0cd9",
+  "PolicyID": "be1a056e-41f2-4711-a855-46173d7d2368",
+  "EffectiveDates": {
+    "StartDate": "2025-03-10",
+    "EndDate": "2026-03-10"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "a46d411e-9ab9-4ed4-914f-2da09d0b8a29",
+    "Name": "Christopher Shaw",
+    "PolicyNumber": "be1a056e-41f2-4711-a855-46173d7d2368",
+    "ContactInformation": {
+      "Phone": "407.948.6080x1895",
+      "Email": "thomaswatson@example.com",
+      "Address": "27329 Dean Locks Suite 317\nLake Jasonhaven, WY 37967"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-11-02",
+    "Location": "76819 Fowler Crossing Suite 127\nWest Kelsey, CA 77829",
+    "Description": "Find near pretty grow produce former. Clear standard including girl knowledge write remember.\nCar style dog provide account upon."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4732844
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4784608
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4573270
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4083299
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4715916
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 22889937,
+    "TotalApproved": 8567240
+  },
+  "AdjusterDetails": {
+    "Name": "Helen Miller",
+    "ContactInformation": {
+      "Phone": "(405)523-7291x7864",
+      "Email": "lorraine89@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/c94aae99-c9c5-4c9b-b997-04bae5c86745"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-11-02T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-11-07T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-11-12T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Harvey and Sons",
+    "Model": "nature",
+    "Year": 2021,
+    "VIN": "777fb095-790d-4c7f-8938-bfcf486eecf2"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Frank Wilson",
+      "ContactInformation": {
+        "Phone": "848-901-2623",
+        "Email": "xmueller@example.com"
+      },
+      "Statement": "Movie among especially threat chance to. Like board address security recognize relate.\nAt specific learn."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "bc1efdbf-eeb2-404b-aabc-b366788befb7",
+    "OfficerName": "Kevin Hernandez",
+    "ReportDetails": "Think hit whole yeah economic over teach thing. Cover strong production him chair.\nBreak down audience sign lose. Focus small election unit position."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 438,
+    "AnnualIncome": 41960,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 7,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

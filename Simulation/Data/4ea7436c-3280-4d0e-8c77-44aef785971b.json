@@ -1,0 +1,112 @@
+{
+  "ClaimID": "4ea7436c-3280-4d0e-8c77-44aef785971b",
+  "PolicyID": "af19cfcb-a314-4344-aa35-968b02af6755",
+  "EffectiveDates": {
+    "StartDate": "2025-03-28",
+    "EndDate": "2026-03-28"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "48d0e558-12ee-4110-9155-089dfd9ac1e5",
+    "Name": "Cheryl Mckay",
+    "PolicyNumber": "af19cfcb-a314-4344-aa35-968b02af6755",
+    "ContactInformation": {
+      "Phone": "001-632-764-2673x73728",
+      "Email": "jbooker@example.org",
+      "Address": "316 Howard Flat\nSmithview, MD 71237"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-11",
+    "Location": "718 Gonzales Station Suite 662\nWest Jessicaburgh, WY 30245",
+    "Description": "Exist two clearly quality may easy. Less adult reach minute enough. Reveal laugh again light.\nActually hour worker go bit nation. Six picture receive institution particular step level."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 106002
+    },
+    "PDL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 2051
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 35247
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6353
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 124561
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 274214,
+    "TotalApproved": 172239
+  },
+  "AdjusterDetails": {
+    "Name": "Susan Patel",
+    "ContactInformation": {
+      "Phone": "+1-900-214-0421x1427",
+      "Email": "ethompson@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/a5f45dfb-e7ec-46c0-9aea-14010cbc52ac"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wilson, Graham and Olson",
+    "Model": "name",
+    "Year": 2015,
+    "VIN": "4b278916-4a91-425a-a8cd-302fb9efb9cd"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Robert Simon",
+      "ContactInformation": {
+        "Phone": "+1-943-337-6016",
+        "Email": "dbell@example.com"
+      },
+      "Statement": "Project option north office. American without ok spend check fly. Possible design best name industry here military."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "f7499f1d-c919-4893-91f1-12d49cf227e5",
+    "OfficerName": "James Taylor",
+    "ReportDetails": "Successful site born arm help. Model affect shoulder speech everybody. Official foreign table list condition type huge teach. Church finally free."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 350,
+    "AnnualIncome": 47110,
+    "DebtToIncomeRatio": 0.8
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 8,
+    "LatePayments": 4,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

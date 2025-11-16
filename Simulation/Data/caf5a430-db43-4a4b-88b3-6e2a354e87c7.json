@@ -1,0 +1,112 @@
+{
+  "ClaimID": "caf5a430-db43-4a4b-88b3-6e2a354e87c7",
+  "PolicyID": "06423eb6-1787-47f3-8d88-b401f57274e7",
+  "EffectiveDates": {
+    "StartDate": "2025-07-07",
+    "EndDate": "2026-07-07"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "eacb5b67-4bb0-4069-bbbf-73ff386a0f38",
+    "Name": "Elizabeth Velasquez",
+    "PolicyNumber": "06423eb6-1787-47f3-8d88-b401f57274e7",
+    "ContactInformation": {
+      "Phone": "(374)800-0843",
+      "Email": "terrilewis@example.com",
+      "Address": "5664 Scott Hills Apt. 959\nSouth Matthew, KY 14080"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-31",
+    "Location": "854 Sheri Forges\nSouth Josebury, OH 30266",
+    "Description": "Yes usually charge game account dark sea almost. American way not huge wear. Measure blue others perform authority run thing."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 22003
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 14754
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 16021
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 30551
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 6272
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 89601,
+    "TotalApproved": 25575
+  },
+  "AdjusterDetails": {
+    "Name": "Jessica Daniels",
+    "ContactInformation": {
+      "Phone": "801.204.0063x62675",
+      "Email": "stephensbriana@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/20cb2635-1d8f-4283-9780-ee2ae9efdfb0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-31T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-05T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-10T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Pena-Bridges",
+    "Model": "enough",
+    "Year": 2018,
+    "VIN": "86577f10-d468-4f6e-ad0c-85c0a8c45bc4"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Duane Garcia",
+      "ContactInformation": {
+        "Phone": "687-942-4651x48932",
+        "Email": "seancook@example.com"
+      },
+      "Statement": "Son lose blue rate bill forward front. Ground moment point movement marriage. Student few final term within full."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4d789330-806e-4779-a860-1f9a89086e19",
+    "OfficerName": "Benjamin Morton",
+    "ReportDetails": "Blue audience worker. Visit soon into last scientist.\nHeavy phone after always. Condition lead someone speak anything rule listen. Yet wrong court how cut."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 425,
+    "AnnualIncome": 104670,
+    "DebtToIncomeRatio": 0.84
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 3,
+    "LatePayments": 5,
+    "PolicyChanges": 1
+  },
+  "is_abnormal": false
+}

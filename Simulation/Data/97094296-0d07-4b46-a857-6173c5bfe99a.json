@@ -1,0 +1,112 @@
+{
+  "ClaimID": "97094296-0d07-4b46-a857-6173c5bfe99a",
+  "PolicyID": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+  "EffectiveDates": {
+    "StartDate": "2024-12-11",
+    "EndDate": "2025-12-11"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "47c5522b-b804-4bac-b21c-da33d60d70fd",
+    "Name": "Richard Conway",
+    "PolicyNumber": "479edd1f-88b2-45eb-be84-e735ceb76e31",
+    "ContactInformation": {
+      "Phone": "581-212-2861x494",
+      "Email": "usimpson@example.com",
+      "Address": "4097 Welch Harbors Apt. 346\nNorth Jacobside, IA 43728"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-07-14",
+    "Location": "86299 Dawn Viaduct\nLake Lisa, NC 21661",
+    "Description": "Record force almost wife push. Or think also friend participant attorney. Meeting commercial receive better police clearly we treat."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 108686
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 1493
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 36566
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 15133
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 6454
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 168332,
+    "TotalApproved": 157388
+  },
+  "AdjusterDetails": {
+    "Name": "Brooke Green",
+    "ContactInformation": {
+      "Phone": "(503)717-9101x7704",
+      "Email": "lcastro@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/abe66c1b-0c48-49f4-b2fa-f6ffd65c5fe8"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-07-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-07-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-07-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Davis LLC",
+    "Model": "understand",
+    "Year": 2015,
+    "VIN": "6c77fe14-3b05-457a-bb64-9313e556a1e3"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Paul Coffey",
+      "ContactInformation": {
+        "Phone": "926-703-8452",
+        "Email": "fchapman@example.net"
+      },
+      "Statement": "Interview listen class him response along least. Someone pretty address piece.\nPart site radio order wish old. Window themselves business level throughout effect table. I two age matter."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "d2d51487-83e0-4929-8aad-e1e274d1afee",
+    "OfficerName": "Christina Rosales",
+    "ReportDetails": "Step eye dinner always right. Save Mr million century office summer. Green court particular along deal."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 603,
+    "AnnualIncome": 111144,
+    "DebtToIncomeRatio": 0.81
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 9,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

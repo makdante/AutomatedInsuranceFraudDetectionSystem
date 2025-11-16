@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ec8c35fb-2d0d-44a8-a60d-0ac5eea78e87",
+  "PolicyID": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+  "EffectiveDates": {
+    "StartDate": "2025-03-05",
+    "EndDate": "2026-03-05"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "ba82c3bd-9d46-4b0e-b555-5005238e858f",
+    "Name": "Kimberly Perez",
+    "PolicyNumber": "65c31ea8-c5dc-46c8-8610-473a5b2ad579",
+    "ContactInformation": {
+      "Phone": "001-609-229-9683x29012",
+      "Email": "nicholsbenjamin@example.com",
+      "Address": "81438 Berry Squares Apt. 214\nSarahtown, CA 13161"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-28",
+    "Location": "0617 Randall Grove\nDavidshire, NE 58427",
+    "Description": "Whole today part. Others security population lot. In investment these scene chair left.\nComputer important treat later word beat member choose. Chance guy computer work six attention."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4332552
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4533351
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4419650
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 4347256
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 4445481
+    }
+  },
+  "ClaimStatus": "Approved",
+  "ClaimAmounts": {
+    "TotalClaimed": 22078290,
+    "TotalApproved": 21996126
+  },
+  "AdjusterDetails": {
+    "Name": "Austin Robertson",
+    "ContactInformation": {
+      "Phone": "487.234.8278x410",
+      "Email": "andrew20@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/5b39f422-dc3f-459f-b669-c3bdf295e7b6"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-28T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Bolton Inc",
+    "Model": "discover",
+    "Year": 2014,
+    "VIN": "82b11f11-adc5-4464-b9b7-3f37ba2c1b02"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Steven Miller",
+      "ContactInformation": {
+        "Phone": "283-974-6359",
+        "Email": "bsmith@example.com"
+      },
+      "Statement": "Trade success notice across newspaper really. Personal art education."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "5644cfcb-8970-4d1b-a204-bb3baeb7993a",
+    "OfficerName": "Jacqueline Richards",
+    "ReportDetails": "To plan team eight organization particularly. Trade at three. Capital between thing treatment development.\nSave few week question some. Dream defense out should bring. Instead war Congress."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 447,
+    "AnnualIncome": 115751,
+    "DebtToIncomeRatio": 0.92
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 6,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": true
+}

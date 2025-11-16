@@ -1,0 +1,112 @@
+{
+  "ClaimID": "f9a9e17f-92b6-4281-bb9e-85367ef23a01",
+  "PolicyID": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+  "EffectiveDates": {
+    "StartDate": "2024-11-09",
+    "EndDate": "2025-11-09"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "79dc6437-6e15-493f-9aa3-16c98fe58e00",
+    "Name": "Erin Rocha",
+    "PolicyNumber": "026fcb13-b935-4888-8d18-3ed0ed404b83",
+    "ContactInformation": {
+      "Phone": "+1-963-640-2629x594",
+      "Email": "cynthiaandrews@example.net",
+      "Address": "95226 Craig Pines\nWest Karaland, FL 70142"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-14",
+    "Location": "3557 Sarah Mill Suite 567\nLindseyberg, CA 45189",
+    "Description": "Too police reflect general organization financial person. Station face chair oil front. Goal than up any few.\nRed expect say note image manage toward follow."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 9064
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 84075
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 99752
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 71161
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 59964
+    }
+  },
+  "ClaimStatus": "Closed",
+  "ClaimAmounts": {
+    "TotalClaimed": 324016,
+    "TotalApproved": 297676
+  },
+  "AdjusterDetails": {
+    "Name": "Jeffrey Allen",
+    "ContactInformation": {
+      "Phone": "+1-965-499-8322x57968",
+      "Email": "sarah42@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/57dfc043-25bc-4838-a8de-2beb56c689a7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-14T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-19T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-24T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Watson and Sons",
+    "Model": "country",
+    "Year": 2019,
+    "VIN": "f6e08cb8-0e98-42f4-b26f-5077d32e9a54"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Susan Rivera",
+      "ContactInformation": {
+        "Phone": "753.549.1707",
+        "Email": "wilsonlisa@example.com"
+      },
+      "Statement": "Kitchen growth admit star. Guess away on until audience research.\nWhom none resource clearly develop point. Image like here owner forward industry. Late phone reflect."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "1b6d943c-f8a3-4b64-8747-70cccbb06fbf",
+    "OfficerName": "Jodi Becker",
+    "ReportDetails": "Himself ball buy rest whom very style.\nTerm task picture few spring simply board. Issue task onto line lead garden might participant."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 550,
+    "AnnualIncome": 53837,
+    "DebtToIncomeRatio": 0.47
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 9,
+    "LatePayments": 0,
+    "PolicyChanges": 5
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "ee00f53a-0505-485f-bbcf-1a74dd4a75e8",
+  "PolicyID": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+  "EffectiveDates": {
+    "StartDate": "2025-10-04",
+    "EndDate": "2026-10-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "7dc24732-e13c-4b64-918f-5faebfd54ae0",
+    "Name": "Jared Young DVM",
+    "PolicyNumber": "12b667d4-2248-4ae4-8eb6-b4b9a1721c64",
+    "ContactInformation": {
+      "Phone": "(924)995-3423",
+      "Email": "jenniferblack@example.net",
+      "Address": "4555 Dakota Forks Suite 165\nAmberhaven, OH 19431"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2026-06-27",
+    "Location": "65019 Andres Rest\nNew Megan, CA 23397",
+    "Description": "Amount time time hundred floor bill know way. Notice occur color so record great.\nLow discover security study."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 11080
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 1489
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 5218
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 28098
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 95976
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 141861,
+    "TotalApproved": 139896
+  },
+  "AdjusterDetails": {
+    "Name": "Rebecca Silva",
+    "ContactInformation": {
+      "Phone": "+1-373-777-2600x7368",
+      "Email": "karenbrown@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/25f32a00-a4c0-4e69-92c2-5e4b71e89953"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2026-06-27T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2026-07-02T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-07-07T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Martinez-Nelson",
+    "Model": "far",
+    "Year": 2020,
+    "VIN": "6d7857b7-ad52-49c8-a6f2-0613cbf2effe"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Dr. Charles Mullins Jr.",
+      "ContactInformation": {
+        "Phone": "001-895-577-1031x8310",
+        "Email": "vperez@example.com"
+      },
+      "Statement": "Way growth see benefit. Visit nor able whose whom leader list.\nLeft begin upon fire you buy deep. Responsibility wish reveal. Letter run resource respond also property."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "516dce75-1d84-45d7-ad11-2e38566c6f71",
+    "OfficerName": "David Choi",
+    "ReportDetails": "Task arm hold suggest onto scene. Left individual surface fire tonight course seek.\nVisit he hold carry girl. Close movement determine able part work war."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 651,
+    "AnnualIncome": 58575,
+    "DebtToIncomeRatio": 0.57
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 4,
+    "LatePayments": 0,
+    "PolicyChanges": 8
+  },
+  "is_abnormal": false
+}

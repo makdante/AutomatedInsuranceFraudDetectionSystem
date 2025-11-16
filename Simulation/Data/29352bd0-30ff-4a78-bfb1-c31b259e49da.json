@@ -1,0 +1,112 @@
+{
+  "ClaimID": "29352bd0-30ff-4a78-bfb1-c31b259e49da",
+  "PolicyID": "500b8392-3ef4-475f-a0d6-15c142970199",
+  "EffectiveDates": {
+    "StartDate": "2024-11-04",
+    "EndDate": "2025-11-04"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "0e2c98cc-0459-4a1f-b201-c0c324374a25",
+    "Name": "Brittany Watson",
+    "PolicyNumber": "500b8392-3ef4-475f-a0d6-15c142970199",
+    "ContactInformation": {
+      "Phone": "001-690-266-5439",
+      "Email": "jasonjames@example.org",
+      "Address": "66736 Antonio Valley\nWest Kristy, FL 30721"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-06-07",
+    "Location": "53865 Matthew Mission Apt. 685\nHouseport, WA 34472",
+    "Description": "Health collection check old.\nTerm performance Mr most. Agree story sit law item. Significant per itself church sound water."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 94760
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7629
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 44455
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5690
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6750
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 159284,
+    "TotalApproved": 52185
+  },
+  "AdjusterDetails": {
+    "Name": "John Keller",
+    "ContactInformation": {
+      "Phone": "573-962-1890x3956",
+      "Email": "wyattbethany@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/aae84665-5efa-447c-b720-759cbf949a29"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-06-07T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-06-12T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-06-17T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Conley LLC",
+    "Model": "star",
+    "Year": 2017,
+    "VIN": "cdb7d4ad-eded-4979-a2ed-1a746d1991fe"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "William Boyer",
+      "ContactInformation": {
+        "Phone": "(347)923-6973x484",
+        "Email": "jodibarr@example.net"
+      },
+      "Statement": "Generation save that president. Can save position all building.\nDeal pressure image provide. Expert determine night power spring. Maintain tough while sound."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "e992c29f-c6ee-4a37-955b-853313ebbdc2",
+    "OfficerName": "Jackie Adams",
+    "ReportDetails": "Window push speech subject language. Much kind personal treat PM force although.\nCourt none personal anyone. Step growth shoulder. Field eye something describe run."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 830,
+    "AnnualIncome": 39372,
+    "DebtToIncomeRatio": 0.64
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 0,
+    "LatePayments": 10,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

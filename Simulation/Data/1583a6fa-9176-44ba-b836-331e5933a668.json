@@ -1,0 +1,112 @@
+{
+  "ClaimID": "1583a6fa-9176-44ba-b836-331e5933a668",
+  "PolicyID": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+  "EffectiveDates": {
+    "StartDate": "2025-05-17",
+    "EndDate": "2026-05-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "341fc61b-4907-4627-80dc-70a86075fa49",
+    "Name": "Dawn Valenzuela",
+    "PolicyNumber": "adfa4490-c6c9-4757-b324-1dc978bfe57d",
+    "ContactInformation": {
+      "Phone": "+1-786-957-4649x82914",
+      "Email": "terri01@example.com",
+      "Address": "Unit 6144 Box 5874\nDPO AA 50140"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-09-01",
+    "Location": "81535 Williams Port\nAlexmouth, MO 58219",
+    "Description": "Hour especially indicate people street. Place dream somebody me quickly carry religious. Training team record sometimes write head yard.\nEvent leg put build goal perform establish."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 153051
+    },
+    "PDL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 5142
+    },
+    "PIP": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 47654
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 16262
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 6541
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 228650,
+    "TotalApproved": 103845
+  },
+  "AdjusterDetails": {
+    "Name": "Brian Wilkins",
+    "ContactInformation": {
+      "Phone": "7157891308",
+      "Email": "matthew93@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Witness Statement",
+      "DocumentURL": "http://example.com/documents/be1ef1ea-7b18-48e6-a189-1736e4f7aef7"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-09-01T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-09-06T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-09-11T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Young-Pena",
+    "Model": "trip",
+    "Year": 2004,
+    "VIN": "06afdcf3-f4e3-4399-b40a-91986e1311ad"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Ashley Banks",
+      "ContactInformation": {
+        "Phone": "413.891.0398",
+        "Email": "rushalexandra@example.com"
+      },
+      "Statement": "World this left author their window. Still third individual cell skin her remain.\nActivity rich sign toward feeling north. True raise town third."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "75929b52-3b81-4174-bff9-cede7bb01097",
+    "OfficerName": "Mark Welch",
+    "ReportDetails": "Red situation audience down design region spring. Expect remember public sort provide today election inside."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 631,
+    "AnnualIncome": 124529,
+    "DebtToIncomeRatio": 0.6
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 2,
+    "LatePayments": 2,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "c314ad8f-f6ee-4519-9e11-446ba07996c6",
+  "PolicyID": "e92930fa-d431-4007-a302-69d12d95d2d1",
+  "EffectiveDates": {
+    "StartDate": "2025-04-20",
+    "EndDate": "2026-04-20"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "1a935468-f8e6-4362-a84f-f1133b130c66",
+    "Name": "Kim Raymond",
+    "PolicyNumber": "e92930fa-d431-4007-a302-69d12d95d2d1",
+    "ContactInformation": {
+      "Phone": "001-795-420-5841x96717",
+      "Email": "rebeccaadams@example.org",
+      "Address": "862 Julia Groves Suite 587\nEast Leviborough, IL 20089"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-22",
+    "Location": "4647 Boyle Junctions\nMaryside, WA 80998",
+    "Description": "Congress set knowledge very single because interest will. Alone ask stand effect agreement."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 5174
+    },
+    "PDL": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 175262
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 36689
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 5600
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 3985
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 226710,
+    "TotalApproved": 25099
+  },
+  "AdjusterDetails": {
+    "Name": "Rachel Landry",
+    "ContactInformation": {
+      "Phone": "631-767-7787x434",
+      "Email": "leonardkatherine@example.net"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Repair Estimate",
+      "DocumentURL": "http://example.com/documents/5a8a9d28-2686-4971-a981-5cdd28817fa0"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-22T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-27T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2026-01-01T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Perez Inc",
+    "Model": "everybody",
+    "Year": 2007,
+    "VIN": "efc04e19-bd35-47e5-b61c-0ca5a2375ca5"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Theresa Bass",
+      "ContactInformation": {
+        "Phone": "340.917.4541x675",
+        "Email": "macdonaldjason@example.net"
+      },
+      "Statement": "Culture effect effort. As fill seven claim say then great. Hospital hard commercial us authority. Home certain night anything early."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "a6bc63ae-aed8-4110-bd7d-04fcae818ac0",
+    "OfficerName": "Terrance Bean",
+    "ReportDetails": "Item member either heart product both mouth long. Thing table contain rest get identify word."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 651,
+    "AnnualIncome": 144168,
+    "DebtToIncomeRatio": 0.46
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 10,
+    "LatePayments": 3,
+    "PolicyChanges": 3
+  },
+  "is_abnormal": false
+}

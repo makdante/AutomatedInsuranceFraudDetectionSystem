@@ -1,0 +1,112 @@
+{
+  "ClaimID": "0f874249-05f0-4966-878c-1cbc380144f3",
+  "PolicyID": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+  "EffectiveDates": {
+    "StartDate": "2024-12-08",
+    "EndDate": "2025-12-08"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "dc96d0ae-2c7a-435c-b811-0b0aed047507",
+    "Name": "Maria Lee",
+    "PolicyNumber": "7d7f24df-fe08-454a-aacf-1a42bef09261",
+    "ContactInformation": {
+      "Phone": "001-305-988-6094",
+      "Email": "jdavies@example.org",
+      "Address": "4068 Scott Valleys\nLake Kelly, PA 70611"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-08-01",
+    "Location": "35180 Madison Ports Suite 681\nMurphyburgh, MP 84325",
+    "Description": "Reach group debate person seem. Central dark something might where.\nProgram early fight old laugh. Food these probably play.\nSport campaign rule area. Crime there trouble believe author seven father."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 20000,
+      "ClaimedAmount": 4621828
+    },
+    "PDL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4037667
+    },
+    "PIP": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4110955
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 4400274
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 50000,
+      "ClaimedAmount": 4060266
+    }
+  },
+  "ClaimStatus": "In Review",
+  "ClaimAmounts": {
+    "TotalClaimed": 21230990,
+    "TotalApproved": 18376272
+  },
+  "AdjusterDetails": {
+    "Name": "Cassandra Morgan",
+    "ContactInformation": {
+      "Phone": "001-727-782-3594",
+      "Email": "brockkimberly@example.com"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Medical Report",
+      "DocumentURL": "http://example.com/documents/e5c20fe8-f229-45f3-b96a-6d3a700e21ca"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-08-01T16:20:55Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-08-06T16:20:55Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-08-11T16:20:55Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Dunn Inc",
+    "Model": "force",
+    "Year": 2010,
+    "VIN": "a887a860-fc74-4a34-a1b1-2255d6cdd27f"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Wayne Mcfarland",
+      "ContactInformation": {
+        "Phone": "(477)847-5671x98968",
+        "Email": "gregoryandrea@example.net"
+      },
+      "Statement": "Table memory morning modern friend finally. Executive not image speak way.\nStandard these administration right large. Among Mrs money lose worry. Despite already economy hold include."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "4f9aab56-1edf-4f37-ae07-999c371a13bf",
+    "OfficerName": "Charles Gardner",
+    "ReportDetails": "Stop chance light real live eight star. Share full left ever car involve. International write food visit itself one."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 416,
+    "AnnualIncome": 139240,
+    "DebtToIncomeRatio": 0.11
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 5,
+    "LatePayments": 9,
+    "PolicyChanges": 9
+  },
+  "is_abnormal": true
+}

@@ -1,0 +1,112 @@
+{
+  "ClaimID": "5dbfcc35-49a9-4221-93f8-17d9323927bf",
+  "PolicyID": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+  "EffectiveDates": {
+    "StartDate": "2025-06-17",
+    "EndDate": "2026-06-17"
+  },
+  "PolicyHolder": {
+    "PolicyHolderID": "39861407-409e-4253-9f6c-7c0f48258b61",
+    "Name": "Frank Summers",
+    "PolicyNumber": "122eb6c3-d438-441d-a1a4-7f5fe944422c",
+    "ContactInformation": {
+      "Phone": "(214)893-1385x492",
+      "Email": "johnsonsherry@example.org",
+      "Address": "630 Phillips Roads Suite 295\nSouth Suzanne, PR 08692"
+    }
+  },
+  "AccidentDetails": {
+    "Date": "2025-12-11",
+    "Location": "038 Dunn Square Suite 616\nAdamview, FL 23814",
+    "Description": "Common central close. Pattern letter recognize become information pay smile."
+  },
+  "Coverage": {
+    "BIL": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 7730
+    },
+    "PDL": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 15153
+    },
+    "PIP": {
+      "CoverageLimit": 100000,
+      "ClaimedAmount": 193515
+    },
+    "CollisionCoverage": {
+      "CoverageLimit": 200000,
+      "ClaimedAmount": 18129
+    },
+    "ComprehensiveCoverage": {
+      "CoverageLimit": 10000,
+      "ClaimedAmount": 91507
+    }
+  },
+  "ClaimStatus": "Filed",
+  "ClaimAmounts": {
+    "TotalClaimed": 326034,
+    "TotalApproved": 64053
+  },
+  "AdjusterDetails": {
+    "Name": "Miss Jennifer Conway",
+    "ContactInformation": {
+      "Phone": "001-885-860-7689x8015",
+      "Email": "corywilson@example.org"
+    }
+  },
+  "SupportingDocuments": [
+    {
+      "DocumentType": "Police Report",
+      "DocumentURL": "http://example.com/documents/ebc90b92-18b0-4306-b899-4afdfcd48d57"
+    }
+  ],
+  "ClaimHistory": [
+    {
+      "Status": "Filed",
+      "Date": "2025-12-11T16:20:56Z",
+      "Notes": "Initial claim filed"
+    },
+    {
+      "Status": "In Review",
+      "Date": "2025-12-16T16:20:56Z",
+      "Notes": "Claim is being reviewed"
+    },
+    {
+      "Status": "Approved",
+      "Date": "2025-12-21T16:20:56Z",
+      "Notes": "Claim approved"
+    }
+  ],
+  "VehicleInformation": {
+    "Make": "Wallace PLC",
+    "Model": "pressure",
+    "Year": 2007,
+    "VIN": "f8307c5c-9366-4679-9238-b07ce2ab8bde"
+  },
+  "WitnessInformation": [
+    {
+      "Name": "Mark Jackson",
+      "ContactInformation": {
+        "Phone": "001-809-743-7466x597",
+        "Email": "hkane@example.org"
+      },
+      "Statement": "Reduce sell tax yes serious several. Many wide school network teacher.\nHim home rather picture. Ok skill song possible.\nBut real range very next part go control."
+    }
+  ],
+  "PoliceReport": {
+    "ReportID": "dd3652c8-13c2-4b7f-a30e-bfba564ca7ba",
+    "OfficerName": "Joseph Walker",
+    "ReportDetails": "Take short billion marriage always fine. Low general training need anything example close. Edge fund take activity in."
+  },
+  "ClaimantFinancialInformation": {
+    "CreditScore": 694,
+    "AnnualIncome": 141732,
+    "DebtToIncomeRatio": 0.97
+  },
+  "ClaimantBehavior": {
+    "ClaimFrequency": 7,
+    "LatePayments": 4,
+    "PolicyChanges": 6
+  },
+  "is_abnormal": false
+}
